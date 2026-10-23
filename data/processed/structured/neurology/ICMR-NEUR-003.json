@@ -1,0 +1,568 @@
+{
+  "metadata": {
+    "document_id": "ICMR-NEUR-003",
+    "title": "Epilepsy",
+    "specialty": "Neurology",
+    "condition": "Epilepsy",
+    "icd_11_code": null,
+    "volume": "Volume 1",
+    "edition": "1.0",
+    "source_organization": "Indian Council of Medical Research (ICMR)",
+    "source_url": "https://www.icmr.gov.in/icmrobject/uploads/STWs/1725952345_neurology_epilepsy.pdf",
+    "local_path": "data\\raw\\neurology\\1725952345_neurology_epilepsy.pdf",
+    "total_pages": 1,
+    "document_hash": "bb32b2772608d10952204f7473bf14f0beeeb064d9c0a09681b0566368b03fdf"
+  },
+  "clinical_presentation": null,
+  "diagnostic_criteria": [],
+  "investigations": [
+    {
+      "investigation_id": "INV_P1_01",
+      "name": "Laboratory investigations: CBC, liver function tests, routine biochemistry,",
+      "tier": "BASIC",
+      "modality": "Laboratory / Diagnostic Imaging",
+      "indication": "Workup for Epilepsy",
+      "target_findings": null,
+      "source": {
+        "document_id": "ICMR-NEUR-003",
+        "document_name": "Epilepsy",
+        "page_number": 1,
+        "section": "REASONS FOR REFERRAL",
+        "source_text_reference": "• Laboratory investigations: CBC, liver function tests, routine biochemistry,",
+        "bounding_box": [
+          8.986299514770508,
+          462.73077392578125,
+          422.00335693359375,
+          477.4927673339844
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "investigation_id": "INV_P1_02",
+      "name": "hemogram, lipd proﬁle, vit D levels, TFT (whichever feasible)",
+      "tier": "BASIC",
+      "modality": "Laboratory / Diagnostic Imaging",
+      "indication": "Workup for Epilepsy",
+      "target_findings": null,
+      "source": {
+        "document_id": "ICMR-NEUR-003",
+        "document_name": "Epilepsy",
+        "page_number": 1,
+        "section": "REASONS FOR REFERRAL",
+        "source_text_reference": "hemogram, lipd proﬁle, vit D levels, TFT (whichever feasible)",
+        "bounding_box": [
+          15.9822998046875,
+          475.90875244140625,
+          340.3150634765625,
+          489.3287353515625
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "investigation_id": "INV_P1_03",
+      "name": "biochemistry,",
+      "tier": "BASIC",
+      "modality": "Laboratory / Diagnostic Imaging",
+      "indication": "Workup for Epilepsy",
+      "target_findings": null,
+      "source": {
+        "document_id": "ICMR-NEUR-003",
+        "document_name": "Epilepsy",
+        "page_number": 1,
+        "section": "REASONS FOR REFERRAL",
+        "source_text_reference": "biochemistry,",
+        "bounding_box": [
+          673.1773071289062,
+          612.5714721679688,
+          761.9364013671875,
+          625.991455078125
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "investigation_id": "INV_P1_04",
+      "name": "hemogram, lipid proﬁle,",
+      "tier": "BASIC",
+      "modality": "Laboratory / Diagnostic Imaging",
+      "indication": "Workup for Epilepsy",
+      "target_findings": null,
+      "source": {
+        "document_id": "ICMR-NEUR-003",
+        "document_name": "Epilepsy",
+        "page_number": 1,
+        "section": "REASONS FOR REFERRAL",
+        "source_text_reference": "hemogram, lipid proﬁle,",
+        "bounding_box": [
+          673.1773071289062,
+          625.771484375,
+          818.70849609375,
+          639.1914672851562
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "investigation_id": "INV_P1_05",
+      "name": "If alcoholic- thiamine & glucose, if diabetic GLUCOTEST/blood sugar & glucose IV. MUST INFORM CONSULTANT ON CALL",
+      "tier": "BASIC",
+      "modality": "Laboratory / Diagnostic Imaging",
+      "indication": "Workup for Epilepsy",
+      "target_findings": null,
+      "source": {
+        "document_id": "ICMR-NEUR-003",
+        "document_name": "Epilepsy",
+        "page_number": 1,
+        "section": "ICU",
+        "source_text_reference": "If alcoholic- thiamine & glucose, if diabetic GLUCOTEST/blood sugar & glucose IV. MUST INFORM CONSULTANT ON CALL",
+        "bounding_box": [
+          104.21050262451172,
+          1541.816650390625,
+          741.3627319335938,
+          1555.2366943359375
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    }
+  ],
+  "tier_management": [],
+  "medications": [],
+  "contraindications": [],
+  "referral_criteria": [],
+  "flowcharts": [],
+  "tables": [
+    {
+      "table_id": "TAB_P1_01",
+      "title": "Table 1 (Page 1)",
+      "headers": [
+        "PRIMARY HEALTH CENTRE (MEDICAL OFFICER) • Clinical diagnosis of epilepsy: detailed history from an eyewitness • Differentiate between provoked seizures and epilepsy (provoked due to fever, acute CNS insult, antibiotics, and metabolic causes) • Laboratory investigations: CBC, liver function tests, routine biochemistry, hemogram, lipd profile, vit D levels, TFT (whichever feasible) • Initiation of treatment: - Treat the patient if patient has epilepsy (2 or more episodes of unprovoked seizures) - Treat a single seizure if risk of recurrence is high as in patients with focal seizures,mentally retarded, neurological deficits having family history of seizures abnormalEEG, neuroimaging - Anti Epileptic Drug (AED broad spectrum, low dose, start low go slow, except status epilepticus) - Emergency medical care of status epilepticus • Treatment counselling: side effects/toxicities of drugs, red flags, importance of adherence, maintaining treatment diary • Advice on prevention of seizures: regular medication, sleep 7-8 hrs, avoid excess TV/mobile/ photic stimulation, regular diet, lifestyle choices(avoid alcohol) • Evaluate any possibility of superimposed non-epileptic seizure • Training of MLP/ANM/ASHA on epilepsy • For excessive alcohol use, refer to ANM/MLP where psychosocial interventions are carried out for substance use disorders • Follow up visits for treatment monitoring & difficult patients under neurologist at STC centre • Basic management of co-morbidities (behaviour, cognition, reproductive health, bone health) • Alert to signs of abuse and neglect • Maintain upward referrals with paediatrician/physician at DH",
+        "REASONS FOR REFERRAL (centres with specialists like paediatrician, neurologist) • Redflag Signs • Progressive problems, rapid appearance of new symptoms • Recent injury . • Symptoms appearing after alcohol binge g • Status epilepticus after stabilization • Non response to adequate dose and duration of medication • Serious side effects • Neuroimaging",
+        "DISTRICT HOSPITALS • Careful evaluation of all referral patients, provide n specialized management for patients and refer back to PHC for follow up of management • Maintain communication, i ongoing clinical support and supervision of MOs at PHC • Laboratory investigation - CBC, liver function tests, antiepileptic drug levels, routine biochemistry, hemogram, lipid profile, vit D levels, TFT, CT brain (when necesary) • Monitor side effects of AED • Clinical Psychologist: counselling health services for persons with epilepsy or upon referral from PHC/UPHC"
+      ],
+      "rows": [
+        {
+          "row_id": "T1_R1",
+          "cells": {
+            "PRIMARY HEALTH CENTRE (MEDICAL OFFICER) • Clinical diagnosis of epilepsy: detailed history from an eyewitness • Differentiate between provoked seizures and epilepsy (provoked due to fever, acute CNS insult, antibiotics, and metabolic causes) • Laboratory investigations: CBC, liver function tests, routine biochemistry, hemogram, lipd profile, vit D levels, TFT (whichever feasible) • Initiation of treatment: - Treat the patient if patient has epilepsy (2 or more episodes of unprovoked seizures) - Treat a single seizure if risk of recurrence is high as in patients with focal seizures,mentally retarded, neurological deficits having family history of seizures abnormalEEG, neuroimaging - Anti Epileptic Drug (AED broad spectrum, low dose, start low go slow, except status epilepticus) - Emergency medical care of status epilepticus • Treatment counselling: side effects/toxicities of drugs, red flags, importance of adherence, maintaining treatment diary • Advice on prevention of seizures: regular medication, sleep 7-8 hrs, avoid excess TV/mobile/ photic stimulation, regular diet, lifestyle choices(avoid alcohol) • Evaluate any possibility of superimposed non-epileptic seizure • Training of MLP/ANM/ASHA on epilepsy • For excessive alcohol use, refer to ANM/MLP where psychosocial interventions are carried out for substance use disorders • Follow up visits for treatment monitoring & difficult patients under neurologist at STC centre • Basic management of co-morbidities (behaviour, cognition, reproductive health, bone health) • Alert to signs of abuse and neglect • Maintain upward referrals with paediatrician/physician at DH": "",
+            "REASONS FOR REFERRAL (centres with specialists like paediatrician, neurologist) • Redflag Signs • Progressive problems, rapid appearance of new symptoms • Recent injury . • Symptoms appearing after alcohol binge g • Status epilepticus after stabilization • Non response to adequate dose and duration of medication • Serious side effects • Neuroimaging": "r o RED FLAG SIGNS o Fever . o Headache o Vomiting o Altered Sensorium o Severe Giddiness o Loss of function of body",
+            "DISTRICT HOSPITALS • Careful evaluation of all referral patients, provide n specialized management for patients and refer back to PHC for follow up of management • Maintain communication, i ongoing clinical support and supervision of MOs at PHC • Laboratory investigation - CBC, liver function tests, antiepileptic drug levels, routine biochemistry, hemogram, lipid profile, vit D levels, TFT, CT brain (when necesary) • Monitor side effects of AED • Clinical Psychologist: counselling health services for persons with epilepsy or upon referral from PHC/UPHC": ""
+          },
+          "source": {
+            "document_id": "ICMR-NEUR-003",
+            "document_name": "Epilepsy",
+            "page_number": 1,
+            "section": "TABLE_1",
+            "source_text_reference": "REASONS FOR REFERRAL (centres with specialists like paediatrician, neurologist) • Redflag Signs • Progressive problems, rapid appearance of new symptoms • Recent injury . • Symptoms appearing after alcohol binge g • Status epilepticus after stabilization • Non response to adequate dose and duration of medication • Serious side effects • Neuroimaging: r o RED FLAG SIGNS o Fever . o Headache o Vomiting o Altered Sensorium o Severe Giddiness o Loss of function of body",
+            "bounding_box": [
+              0.6118000268936157,
+              390.0010986328125,
+              841.8900024414063,
+              791.5307998657227
+            ],
+            "extraction_type": "table",
+            "review_status": "needs_review",
+            "requires_manual_review": true,
+            "review_notes": "Sparse row with potential merged columns",
+            "normalized_term": null
+          }
+        }
+      ],
+      "source": {
+        "document_id": "ICMR-NEUR-003",
+        "document_name": "Epilepsy",
+        "page_number": 1,
+        "section": "TABLE_1",
+        "source_text_reference": "REASONS FOR REFERRAL (centres with specialists like paediatrician, neurologist) • Redflag Signs • Progressive problems, rapid appearance of new symptoms • Recent injury . • Symptoms appearing after alcohol binge g • Status epilepticus after stabilization • Non response to adequate dose and duration of medication • Serious side effects • Neuroimaging: r o RED FLAG SIGNS o Fever . o Headache o Vomiting o Altered Sensorium o Severe Giddiness o Loss of function of body",
+        "bounding_box": [
+          0.6118000268936157,
+          390.0010986328125,
+          841.8900024414063,
+          791.5307998657227
+        ],
+        "extraction_type": "table",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "table_id": "TAB_P1_02",
+      "title": "Table 2 (Page 1)",
+      "headers": [
+        "AED– BROAD SPECTRUM (GENERALIZED SEIZURES)",
+        "DOSE (MAINTENANCE: MG/D)",
+        "ADVERSE EFFECTS"
+      ],
+      "rows": [
+        {
+          "row_id": "T2_R1",
+          "cells": {
+            "AED– BROAD SPECTRUM (GENERALIZED SEIZURES)": "Sodium Valproate (avoid in women of child bearing age unless non responsive to other drugs)",
+            "DOSE (MAINTENANCE: MG/D)": "m A Starting dose :200mg TDS h Maintenance Dose: 600-2400",
+            "ADVERSE EFFECTS": "norexia, wt gain, nausea, vomiting, tremors, air loss, PCOS, thrombocytopenia"
+          },
+          "source": {
+            "document_id": "ICMR-NEUR-003",
+            "document_name": "Epilepsy",
+            "page_number": 1,
+            "section": "TABLE_2",
+            "source_text_reference": "AED– BROAD SPECTRUM (GENERALIZED SEIZURES): Sodium Valproate (avoid in women of child bearing age unless non responsive to other drugs); DOSE (MAINTENANCE: MG/D): m A Starting dose :200mg TDS h Maintenance Dose: 600-2400; ADVERSE EFFECTS: norexia, wt gain, nausea, vomiting, tremors, air loss, PCOS, thrombocytopenia",
+            "bounding_box": [
+              15.460507869720459,
+              796.9809773763021,
+              830.9240214029948,
+              1174.0
+            ],
+            "extraction_type": "table",
+            "review_status": "extracted",
+            "requires_manual_review": false,
+            "review_notes": null,
+            "normalized_term": null
+          }
+        },
+        {
+          "row_id": "T2_R2",
+          "cells": {
+            "AED– BROAD SPECTRUM (GENERALIZED SEIZURES)": "Lamotrigine",
+            "DOSE (MAINTENANCE: MG/D)": "Starting dose: 25mg HS (Lower dose with VPA) S Maintenance Dose: 100-300 ri",
+            "ADVERSE EFFECTS": "edation, ataxia, dizziness, skin rash, SJS (lower sk with slow titration)"
+          },
+          "source": {
+            "document_id": "ICMR-NEUR-003",
+            "document_name": "Epilepsy",
+            "page_number": 1,
+            "section": "TABLE_2",
+            "source_text_reference": "AED– BROAD SPECTRUM (GENERALIZED SEIZURES): Lamotrigine; DOSE (MAINTENANCE: MG/D): Starting dose: 25mg HS (Lower dose with VPA) S Maintenance Dose: 100-300 ri; ADVERSE EFFECTS: edation, ataxia, dizziness, skin rash, SJS (lower sk with slow titration)",
+            "bounding_box": [
+              15.460507869720459,
+              796.9809773763021,
+              830.9240214029948,
+              1174.0
+            ],
+            "extraction_type": "table",
+            "review_status": "extracted",
+            "requires_manual_review": false,
+            "review_notes": null,
+            "normalized_term": null
+          }
+        },
+        {
+          "row_id": "T2_R3",
+          "cells": {
+            "AED– BROAD SPECTRUM (GENERALIZED SEIZURES)": "Levetiracetam",
+            "DOSE (MAINTENANCE: MG/D)": "c Starting dose: 250mg BD S Maintenance Dose: 1000-3000 p",
+            "ADVERSE EFFECTS": "omnolence, dizziness, cognitive slowing, sychosis"
+          },
+          "source": {
+            "document_id": "ICMR-NEUR-003",
+            "document_name": "Epilepsy",
+            "page_number": 1,
+            "section": "TABLE_2",
+            "source_text_reference": "AED– BROAD SPECTRUM (GENERALIZED SEIZURES): Levetiracetam; DOSE (MAINTENANCE: MG/D): c Starting dose: 250mg BD S Maintenance Dose: 1000-3000 p; ADVERSE EFFECTS: omnolence, dizziness, cognitive slowing, sychosis",
+            "bounding_box": [
+              15.460507869720459,
+              796.9809773763021,
+              830.9240214029948,
+              1174.0
+            ],
+            "extraction_type": "table",
+            "review_status": "extracted",
+            "requires_manual_review": false,
+            "review_notes": null,
+            "normalized_term": null
+          }
+        },
+        {
+          "row_id": "T2_R4",
+          "cells": {
+            "AED– BROAD SPECTRUM (GENERALIZED SEIZURES)": ". Topiramate",
+            "DOSE (MAINTENANCE: MG/D)": "i S Starting dose: 25mg OD w Maintenance Dose: 100-400 st",
+            "ADVERSE EFFECTS": "edation, somnolence, cognitive problems, eight loss, word finding difficulty, renal ones, seizure worsening"
+          },
+          "source": {
+            "document_id": "ICMR-NEUR-003",
+            "document_name": "Epilepsy",
+            "page_number": 1,
+            "section": "TABLE_2",
+            "source_text_reference": "AED– BROAD SPECTRUM (GENERALIZED SEIZURES): . Topiramate; DOSE (MAINTENANCE: MG/D): i S Starting dose: 25mg OD w Maintenance Dose: 100-400 st; ADVERSE EFFECTS: edation, somnolence, cognitive problems, eight loss, word finding difficulty, renal ones, seizure worsening",
+            "bounding_box": [
+              15.460507869720459,
+              796.9809773763021,
+              830.9240214029948,
+              1174.0
+            ],
+            "extraction_type": "table",
+            "review_status": "extracted",
+            "requires_manual_review": false,
+            "review_notes": null,
+            "normalized_term": null
+          }
+        },
+        {
+          "row_id": "T2_R5",
+          "cells": {
+            "AED– BROAD SPECTRUM (GENERALIZED SEIZURES)": "AED (focal seizures)",
+            "DOSE (MAINTENANCE: MG/D)": "",
+            "ADVERSE EFFECTS": ""
+          },
+          "source": {
+            "document_id": "ICMR-NEUR-003",
+            "document_name": "Epilepsy",
+            "page_number": 1,
+            "section": "TABLE_2",
+            "source_text_reference": "AED– BROAD SPECTRUM (GENERALIZED SEIZURES): AED (focal seizures)",
+            "bounding_box": [
+              15.460507869720459,
+              796.9809773763021,
+              830.9240214029948,
+              1174.0
+            ],
+            "extraction_type": "table",
+            "review_status": "needs_review",
+            "requires_manual_review": true,
+            "review_notes": "Sparse row with potential merged columns",
+            "normalized_term": null
+          }
+        },
+        {
+          "row_id": "T2_R6",
+          "cells": {
+            "AED– BROAD SPECTRUM (GENERALIZED SEIZURES)": "w Carbamazepine",
+            "DOSE (MAINTENANCE: MG/D)": "S Starting dose: 100mg BD h Maintenance dose: 400-1200 si",
+            "ADVERSE EFFECTS": "edation, dizziness, ataxia, skin rash, SJS, yponatremia, seizure worsening in some tuations"
+          },
+          "source": {
+            "document_id": "ICMR-NEUR-003",
+            "document_name": "Epilepsy",
+            "page_number": 1,
+            "section": "TABLE_2",
+            "source_text_reference": "AED– BROAD SPECTRUM (GENERALIZED SEIZURES): w Carbamazepine; DOSE (MAINTENANCE: MG/D): S Starting dose: 100mg BD h Maintenance dose: 400-1200 si; ADVERSE EFFECTS: edation, dizziness, ataxia, skin rash, SJS, yponatremia, seizure worsening in some tuations",
+            "bounding_box": [
+              15.460507869720459,
+              796.9809773763021,
+              830.9240214029948,
+              1174.0
+            ],
+            "extraction_type": "table",
+            "review_status": "extracted",
+            "requires_manual_review": false,
+            "review_notes": null,
+            "normalized_term": null
+          }
+        },
+        {
+          "row_id": "T2_R7",
+          "cells": {
+            "AED– BROAD SPECTRUM (GENERALIZED SEIZURES)": "Oxcarbazepine",
+            "DOSE (MAINTENANCE: MG/D)": "Starting dose: 150mg BD S Maintenance dose: 600 to 1800 h",
+            "ADVERSE EFFECTS": "edation, dizziness, ataxia, headache, yponateremia, skin rash"
+          },
+          "source": {
+            "document_id": "ICMR-NEUR-003",
+            "document_name": "Epilepsy",
+            "page_number": 1,
+            "section": "TABLE_2",
+            "source_text_reference": "AED– BROAD SPECTRUM (GENERALIZED SEIZURES): Oxcarbazepine; DOSE (MAINTENANCE: MG/D): Starting dose: 150mg BD S Maintenance dose: 600 to 1800 h; ADVERSE EFFECTS: edation, dizziness, ataxia, headache, yponateremia, skin rash",
+            "bounding_box": [
+              15.460507869720459,
+              796.9809773763021,
+              830.9240214029948,
+              1174.0
+            ],
+            "extraction_type": "table",
+            "review_status": "extracted",
+            "requires_manual_review": false,
+            "review_notes": null,
+            "normalized_term": null
+          }
+        },
+        {
+          "row_id": "T2_R8",
+          "cells": {
+            "AED– BROAD SPECTRUM (GENERALIZED SEIZURES)": "t Phenobarbitone Can be used for generalized also",
+            "DOSE (MAINTENANCE: MG/D)": "Starting dose: 30mg HS S Maintenance dose: 60-180 p",
+            "ADVERSE EFFECTS": "edation, ataxia, depression, memory roblems, hyperactivity in children, skin rash"
+          },
+          "source": {
+            "document_id": "ICMR-NEUR-003",
+            "document_name": "Epilepsy",
+            "page_number": 1,
+            "section": "TABLE_2",
+            "source_text_reference": "AED– BROAD SPECTRUM (GENERALIZED SEIZURES): t Phenobarbitone Can be used for generalized also; DOSE (MAINTENANCE: MG/D): Starting dose: 30mg HS S Maintenance dose: 60-180 p; ADVERSE EFFECTS: edation, ataxia, depression, memory roblems, hyperactivity in children, skin rash",
+            "bounding_box": [
+              15.460507869720459,
+              796.9809773763021,
+              830.9240214029948,
+              1174.0
+            ],
+            "extraction_type": "table",
+            "review_status": "extracted",
+            "requires_manual_review": false,
+            "review_notes": null,
+            "normalized_term": null
+          }
+        },
+        {
+          "row_id": "T2_R9",
+          "cells": {
+            "AED– BROAD SPECTRUM (GENERALIZED SEIZURES)": "s Phenytoin",
+            "DOSE (MAINTENANCE: MG/D)": "A Starting dose: 200mg HS o Maintenance dose:200-400 p",
+            "ADVERSE EFFECTS": "taxia, sedation, gum hyperplasia, coarsening f facial features, hirsutism, memory roblems, osteomalacia & bone loss, skin rash"
+          },
+          "source": {
+            "document_id": "ICMR-NEUR-003",
+            "document_name": "Epilepsy",
+            "page_number": 1,
+            "section": "TABLE_2",
+            "source_text_reference": "AED– BROAD SPECTRUM (GENERALIZED SEIZURES): s Phenytoin; DOSE (MAINTENANCE: MG/D): A Starting dose: 200mg HS o Maintenance dose:200-400 p; ADVERSE EFFECTS: taxia, sedation, gum hyperplasia, coarsening f facial features, hirsutism, memory roblems, osteomalacia & bone loss, skin rash",
+            "bounding_box": [
+              15.460507869720459,
+              796.9809773763021,
+              830.9240214029948,
+              1174.0
+            ],
+            "extraction_type": "table",
+            "review_status": "extracted",
+            "requires_manual_review": false,
+            "review_notes": null,
+            "normalized_term": null
+          }
+        },
+        {
+          "row_id": "T2_R10",
+          "cells": {
+            "AED– BROAD SPECTRUM (GENERALIZED SEIZURES)": "Folic Acid 5 mg/day to be added along with AEDs in all women of child bearing age. Polytherapy and valproate to be avoided in women with epilepsy",
+            "DOSE (MAINTENANCE: MG/D)": "",
+            "ADVERSE EFFECTS": ""
+          },
+          "source": {
+            "document_id": "ICMR-NEUR-003",
+            "document_name": "Epilepsy",
+            "page_number": 1,
+            "section": "TABLE_2",
+            "source_text_reference": "AED– BROAD SPECTRUM (GENERALIZED SEIZURES): Folic Acid 5 mg/day to be added along with AEDs in all women of child bearing age. Polytherapy and valproate to be avoided in women with epilepsy",
+            "bounding_box": [
+              15.460507869720459,
+              796.9809773763021,
+              830.9240214029948,
+              1174.0
+            ],
+            "extraction_type": "table",
+            "review_status": "needs_review",
+            "requires_manual_review": true,
+            "review_notes": "Sparse row with potential merged columns",
+            "normalized_term": null
+          }
+        }
+      ],
+      "source": {
+        "document_id": "ICMR-NEUR-003",
+        "document_name": "Epilepsy",
+        "page_number": 1,
+        "section": "TABLE_2",
+        "source_text_reference": "AED– BROAD SPECTRUM (GENERALIZED SEIZURES): Sodium Valproate (avoid in women of child bearing age unless non responsive to other drugs); DOSE (MAINTENANCE: MG/D): m A Starting dose :200mg TDS h Maintenance Dose: 600-2400; ADVERSE EFFECTS: norexia, wt gain, nausea, vomiting, tremors, air loss, PCOS, thrombocytopenia\nAED– BROAD SPECTRUM (GENERALIZED SEIZURES): Lamotrigine; DOSE (MAINTENANCE: MG/D): Starting dose: 25mg HS (Lower dose with VPA) S Maintenance Dose: 100-300 ri; ADVERSE EFFECTS: edatio",
+        "bounding_box": [
+          15.460507869720459,
+          796.9809773763021,
+          830.9240214029948,
+          1174.0
+        ],
+        "extraction_type": "table",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "table_id": "TAB_P1_03",
+      "title": "Table 3 (Page 1)",
+      "headers": [
+        "Column_1",
+        "Column_2",
+        "Column_3"
+      ],
+      "rows": [
+        {
+          "row_id": "T3_R1",
+          "cells": {
+            "Column_1": "",
+            "Column_2": "uper refractory 24hr no control",
+            "Column_3": ""
+          },
+          "source": {
+            "document_id": "ICMR-NEUR-003",
+            "document_name": "Epilepsy",
+            "page_number": 1,
+            "section": "TABLE_3",
+            "source_text_reference": "Column_2: uper refractory 24hr no control",
+            "bounding_box": [
+              411.9385070800781,
+              1467.9241943359375,
+              672.75,
+              1515.0150146484375
+            ],
+            "extraction_type": "table",
+            "review_status": "needs_review",
+            "requires_manual_review": true,
+            "review_notes": "Sparse row with potential merged columns",
+            "normalized_term": null
+          }
+        }
+      ],
+      "source": {
+        "document_id": "ICMR-NEUR-003",
+        "document_name": "Epilepsy",
+        "page_number": 1,
+        "section": "TABLE_3",
+        "source_text_reference": "Column_2: uper refractory 24hr no control",
+        "bounding_box": [
+          411.9385070800781,
+          1467.9241943359375,
+          672.75,
+          1515.0150146484375
+        ],
+        "extraction_type": "table",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    }
+  ],
+  "references": [],
+  "abbreviations": {
+    "STW": "Standard Treatment Workflow",
+    "ICMR": "Indian Council of Medical Research",
+    "DHR": "Department of Health Research",
+    "MoHFW": "Ministry of Health and Family Welfare",
+    "ECG": "Electrocardiogram",
+    "PCI": "Percutaneous Coronary Intervention",
+    "PHC": "Primary Health Centre",
+    "CHC": "Community Health Centre",
+    "ICU": "Intensive Care Unit"
+  }
+}

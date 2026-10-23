@@ -1,0 +1,85 @@
+{
+  "document_id": "ICMR-CARD-006",
+  "condition": "STEMI",
+  "total_pages": 1,
+  "text_blocks_count": 125,
+  "sections_count": 28,
+  "tables_detected": 2,
+  "tables_extracted": 2,
+  "flowcharts_count": 4,
+  "medications_count": 20,
+  "investigations_count": 6,
+  "contraindications_count": 32,
+  "referral_rules_count": 15,
+  "provenance_coverage_percent": 100.0,
+  "manual_review_items_count": 11,
+  "manual_review_details": [
+    {
+      "entity": "diagnostic_criterion",
+      "text": "ECG ideally within 10mins from\nthe First Medical Contract (F",
+      "reason": "Typographical error 'First Medical Contract' for First Medical Contact",
+      "page": 1
+    },
+    {
+      "entity": "medication",
+      "raw_text": ". Use unfractionated heparin",
+      "reason": "Medication 'Heparin' mentioned in workflow without explicit dosage or units in source text",
+      "page": 1
+    },
+    {
+      "entity": "medication",
+      "raw_text": ". Ticagralor: Loading dose 180 mg followed by 90 mg BD",
+      "reason": "Typographical variant 'Ticagralor' in ICMR source PDF",
+      "page": 1
+    },
+    {
+      "entity": "medication",
+      "raw_text": "Metoprolol:",
+      "reason": "Medication 'Metoprolol' mentioned in workflow without explicit dosage or units in source text",
+      "page": 1
+    },
+    {
+      "entity": "medication",
+      "raw_text": "Nitrates:",
+      "reason": "Medication 'Nitrates' mentioned in workflow without explicit dosage or units in source text",
+      "page": 1
+    },
+    {
+      "entity": "medication",
+      "raw_text": "Isosorbide mono-nitare 20 to 60 mg in 2 divided dose",
+      "reason": "Typographical variant 'mono-nitare' in source text",
+      "page": 1
+    },
+    {
+      "entity": "medication",
+      "raw_text": "Morphine:",
+      "reason": "Medication 'Morphine' mentioned in workflow without explicit dosage or units in source text",
+      "page": 1
+    },
+    {
+      "entity": "medication",
+      "raw_text": "Tenecteplase",
+      "reason": "Medication 'Tenecteplase' mentioned in workflow without explicit dosage or units in source text",
+      "page": 1
+    },
+    {
+      "entity": "medication",
+      "raw_text": "Reteplase",
+      "reason": "Medication 'Reteplase' mentioned in workflow without explicit dosage or units in source text",
+      "page": 1
+    },
+    {
+      "entity": "medication",
+      "raw_text": "Alteplase",
+      "reason": "Medication 'Alteplase' mentioned in workflow without explicit dosage or units in source text",
+      "page": 1
+    },
+    {
+      "entity": "medication",
+      "raw_text": "Streptokinase",
+      "reason": "Medication 'Streptokinase' mentioned in workflow without explicit dosage or units in source text",
+      "page": 1
+    }
+  ],
+  "extraction_errors": []
+}

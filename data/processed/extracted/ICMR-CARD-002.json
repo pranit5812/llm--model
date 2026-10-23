@@ -1,0 +1,4244 @@
+{
+  "document_id": "ICMR-CARD-002",
+  "file_path": "data\\raw\\cardiology\\1771492063_bradyarrthymia13_2_2.pdf",
+  "sha256_hash": "02aa8512bb92c158e055152b6218b88dc9b935c61fad1eae6b93d0ab3ed1c6b2",
+  "total_pages": 1,
+  "pages": [
+    {
+      "page_number": 1,
+      "width": 841.8900146484375,
+      "height": 1633.6800537109375,
+      "blocks": [
+        {
+          "block_id": "P1_B001",
+          "page_number": 1,
+          "bbox": [
+            61.5703010559082,
+            132.84811401367188,
+            774.2845458984375,
+            191.84371948242188
+          ],
+          "text": "Standard Treatment Workﬂow (STW)\nBRADYARRTHYMIAS IN SYMPTOMATIC PATIENTS",
+          "avg_font_size": 22.21,
+          "max_font_size": 27.09,
+          "is_heading_candidate": true,
+          "lines": [
+            {
+              "text": "Standard Treatment Workﬂow (STW)",
+              "bbox": [
+                240.01370239257812,
+                132.84811401367188,
+                595.8366088867188,
+                156.7038116455078
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "Standard Treatment Workﬂow (STW) ",
+                  "bbox": [
+                    240.01370239257812,
+                    132.84811401367188,
+                    595.8366088867188,
+                    156.7038116455078
+                  ],
+                  "font": "Montserrat-Black",
+                  "size": 17.336999893188477,
+                  "flags": 20
+                }
+              ]
+            },
+            {
+              "text": "BRADYARRTHYMIAS IN SYMPTOMATIC PATIENTS",
+              "bbox": [
+                61.5703010559082,
+                154.56912231445312,
+                774.2845458984375,
+                191.84371948242188
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "BRADYARRTHYMIAS IN SYMPTOMATIC PATIENTS",
+                  "bbox": [
+                    61.5703010559082,
+                    154.56912231445312,
+                    774.2845458984375,
+                    191.84371948242188
+                  ],
+                  "font": "Montserrat-Black",
+                  "size": 27.089099884033203,
+                  "flags": 20
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B002",
+          "page_number": 1,
+          "bbox": [
+            361.0625,
+            188.2246856689453,
+            474.78662109375,
+            210.58949279785156
+          ],
+          "text": "ICD-11-MC81.1",
+          "avg_font_size": 16.25,
+          "max_font_size": 16.25,
+          "is_heading_candidate": true,
+          "lines": [
+            {
+              "text": "ICD-11-MC81.1",
+              "bbox": [
+                361.0625,
+                188.2246856689453,
+                474.78662109375,
+                210.58949279785156
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "ICD-11-MC81.1",
+                  "bbox": [
+                    361.0625,
+                    188.2246856689453,
+                    474.78662109375,
+                    210.58949279785156
+                  ],
+                  "font": "Montserrat-Black",
+                  "size": 16.25349998474121,
+                  "flags": 20
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B003",
+          "page_number": 1,
+          "bbox": [
+            124.64649963378906,
+            216.57347106933594,
+            190.0764923095703,
+            235.2634735107422
+          ],
+          "text": "WHEN TO",
+          "avg_font_size": 15.0,
+          "max_font_size": 15.0,
+          "is_heading_candidate": true,
+          "lines": [
+            {
+              "text": "WHEN TO",
+              "bbox": [
+                124.64649963378906,
+                216.57347106933594,
+                190.0764923095703,
+                235.2634735107422
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "WHEN TO ",
+                  "bbox": [
+                    124.64649963378906,
+                    216.57347106933594,
+                    190.0764923095703,
+                    235.2634735107422
+                  ],
+                  "font": "Futura-CondensedExtraBol",
+                  "size": 15.0,
+                  "flags": 20
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B004",
+          "page_number": 1,
+          "bbox": [
+            127.64649963378906,
+            234.57347106933594,
+            182.56149291992188,
+            253.2634735107422
+          ],
+          "text": "SUSPECT",
+          "avg_font_size": 15.0,
+          "max_font_size": 15.0,
+          "is_heading_candidate": true,
+          "lines": [
+            {
+              "text": "SUSPECT",
+              "bbox": [
+                127.64649963378906,
+                234.57347106933594,
+                182.56149291992188,
+                253.2634735107422
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "SUSPECT",
+                  "bbox": [
+                    127.64649963378906,
+                    234.57347106933594,
+                    182.56149291992188,
+                    253.2634735107422
+                  ],
+                  "font": "Futura-CondensedExtraBol",
+                  "size": 15.0,
+                  "flags": 20
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B005",
+          "page_number": 1,
+          "bbox": [
+            109.94730377197266,
+            264.4853820800781,
+            203.12835693359375,
+            278.8403625488281
+          ],
+          "text": "Patient with any",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "Patient with any",
+              "bbox": [
+                109.94730377197266,
+                264.4853820800781,
+                203.12835693359375,
+                278.8403625488281
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "Patient with any ",
+                  "bbox": [
+                    109.94730377197266,
+                    264.4853820800781,
+                    203.12835693359375,
+                    278.8403625488281
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B006",
+          "page_number": 1,
+          "bbox": [
+            110.24430084228516,
+            277.6853332519531,
+            202.8203125,
+            305.2402648925781
+          ],
+          "text": "of the following\nsymptoms, AND",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "of the following",
+              "bbox": [
+                112.20230102539062,
+                277.6853332519531,
+                200.87225341796875,
+                292.0403137207031
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "of the following ",
+                  "bbox": [
+                    112.20230102539062,
+                    277.6853332519531,
+                    200.87225341796875,
+                    292.0403137207031
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "symptoms, AND",
+              "bbox": [
+                110.24430084228516,
+                290.8852844238281,
+                202.8203125,
+                305.2402648925781
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "symptoms, AND ",
+                  "bbox": [
+                    110.24430084228516,
+                    290.8852844238281,
+                    202.8203125,
+                    305.2402648925781
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B007",
+          "page_number": 1,
+          "bbox": [
+            112.44429779052734,
+            304.0852355957031,
+            197.75917053222656,
+            344.8401184082031
+          ],
+          "text": "a pulse rate <\n50bpm: (persis-\ntent)",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "a pulse rate <",
+              "bbox": [
+                118.59329986572266,
+                304.0852355957031,
+                194.48231506347656,
+                318.4402160644531
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "a pulse rate < ",
+                  "bbox": [
+                    118.59329986572266,
+                    304.0852355957031,
+                    194.48231506347656,
+                    318.4402160644531
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "50bpm: (persis-",
+              "bbox": [
+                112.44429779052734,
+                317.2851867675781,
+                197.75917053222656,
+                331.6401672363281
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "50bpm: (persis-",
+                  "bbox": [
+                    112.44429779052734,
+                    317.2851867675781,
+                    197.75917053222656,
+                    331.6401672363281
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "tent)",
+              "bbox": [
+                141.8802947998047,
+                330.4851379394531,
+                168.3133087158203,
+                344.8401184082031
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "tent)",
+                  "bbox": [
+                    141.8802947998047,
+                    330.4851379394531,
+                    168.3133087158203,
+                    344.8401184082031
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B008",
+          "page_number": 1,
+          "bbox": [
+            585.9063110351562,
+            235.87417602539062,
+            759.8712158203125,
+            250.2291717529297
+          ],
+          "text": "Syncope/ presyncope/ dizziness",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "Syncope/ presyncope/ dizziness",
+              "bbox": [
+                585.9063110351562,
+                235.87417602539062,
+                759.8712158203125,
+                250.2291717529297
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "Syncope/ presyncope/ dizziness",
+                  "bbox": [
+                    585.9063110351562,
+                    235.87417602539062,
+                    759.8712158203125,
+                    250.2291717529297
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B009",
+          "page_number": 1,
+          "bbox": [
+            620.1603393554688,
+            282.4701232910156,
+            714.748291015625,
+            296.8251037597656
+          ],
+          "text": "Lethargy/ fatigue",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "Lethargy/ fatigue",
+              "bbox": [
+                620.1603393554688,
+                282.4701232910156,
+                714.748291015625,
+                296.8251037597656
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "Lethargy/ fatigue",
+                  "bbox": [
+                    620.1603393554688,
+                    282.4701232910156,
+                    714.748291015625,
+                    296.8251037597656
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B010",
+          "page_number": 1,
+          "bbox": [
+            69.33404541015625,
+            522.5963745117188,
+            822.071533203125,
+            539.3143920898438
+          ],
+          "text": "EVALUATION AND MANAGEMENT OF STABLE PATIENTS\nEVALUATION AND TREATMENT OF UNSTABLE PATIENTS",
+          "avg_font_size": 13.0,
+          "max_font_size": 13.0,
+          "is_heading_candidate": true,
+          "lines": [
+            {
+              "text": "EVALUATION AND MANAGEMENT OF STABLE PATIENTS",
+              "bbox": [
+                520.330078125,
+                523.1163940429688,
+                822.071533203125,
+                539.3143920898438
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "EVALUATION AND MANAGEMENT OF STABLE PATIENTS",
+                  "bbox": [
+                    520.330078125,
+                    523.1163940429688,
+                    822.071533203125,
+                    539.3143920898438
+                  ],
+                  "font": "Futura-CondensedExtraBol",
+                  "size": 13.0,
+                  "flags": 20
+                }
+              ]
+            },
+            {
+              "text": "EVALUATION AND TREATMENT OF UNSTABLE PATIENTS",
+              "bbox": [
+                69.33404541015625,
+                522.5963745117188,
+                371.8921203613281,
+                538.7943725585938
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "EVALUATION AND TREATMENT OF UNSTABLE PATIENTS",
+                  "bbox": [
+                    69.33404541015625,
+                    522.5963745117188,
+                    371.8921203613281,
+                    538.7943725585938
+                  ],
+                  "font": "Futura-CondensedExtraBol",
+                  "size": 13.0,
+                  "flags": 20
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B011",
+          "page_number": 1,
+          "bbox": [
+            363.8700866699219,
+            380.964599609375,
+            487.12359619140625,
+            399.6545715332031
+          ],
+          "text": "BASIC EVALUATION",
+          "avg_font_size": 15.0,
+          "max_font_size": 15.0,
+          "is_heading_candidate": true,
+          "lines": [
+            {
+              "text": "BASIC EVALUATION",
+              "bbox": [
+                363.8700866699219,
+                380.964599609375,
+                487.12359619140625,
+                399.6545715332031
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "BASIC EVALUATION",
+                  "bbox": [
+                    363.8700866699219,
+                    380.964599609375,
+                    487.12359619140625,
+                    399.6545715332031
+                  ],
+                  "font": "Futura-CondensedExtraBol",
+                  "size": 15.0,
+                  "flags": 20
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B012",
+          "page_number": 1,
+          "bbox": [
+            20.11669921875,
+            424.7036437988281,
+            407.1506042480469,
+            508.0285949707031
+          ],
+          "text": "• Syncope/presyncope: frequency, associated fall/ injury/incontinence\n• Exertional angina or known coronary artery diseas\n• Look for reversible cause like drugs ( Beta-blockers, Calcium Channel\nBlockers or digoxin)\n• Known hypothyroidism or kidney disease\n..  Sleep aponea\n• Patient with an implanted pacemaker or other device",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "• Syncope/presyncope: frequency, associated fall/ injury/incontinence",
+              "bbox": [
+                20.11669921875,
+                424.7036437988281,
+                398.151611328125,
+                439.0586242675781
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Syncope/presyncope: frequency, associated fall/ injury/incontinence",
+                  "bbox": [
+                    20.11669921875,
+                    424.7036437988281,
+                    398.151611328125,
+                    439.0586242675781
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• Exertional angina or known coronary artery diseas",
+              "bbox": [
+                20.11669921875,
+                436.1986389160156,
+                301.6595458984375,
+                450.5536193847656
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Exertional angina or known coronary artery diseas",
+                  "bbox": [
+                    20.11669921875,
+                    436.1986389160156,
+                    301.6595458984375,
+                    450.5536193847656
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• Look for reversible cause like drugs ( Beta-blockers, Calcium Channel",
+              "bbox": [
+                20.11669921875,
+                447.6936340332031,
+                407.1506042480469,
+                462.0486145019531
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Look for reversible cause like drugs ( Beta-blockers, Calcium Channel ",
+                  "bbox": [
+                    20.11669921875,
+                    447.6936340332031,
+                    407.1506042480469,
+                    462.0486145019531
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "Blockers or digoxin)",
+              "bbox": [
+                27.112699508666992,
+                459.1886291503906,
+                135.7597198486328,
+                473.5436096191406
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "Blockers or digoxin)",
+                  "bbox": [
+                    27.112699508666992,
+                    459.1886291503906,
+                    135.7597198486328,
+                    473.5436096191406
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• Known hypothyroidism or kidney disease",
+              "bbox": [
+                20.11669921875,
+                470.6836242675781,
+                252.8085479736328,
+                485.0386047363281
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Known hypothyroidism or kidney disease",
+                  "bbox": [
+                    20.11669921875,
+                    470.6836242675781,
+                    252.8085479736328,
+                    485.0386047363281
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "..  Sleep aponea",
+              "bbox": [
+                20.11669921875,
+                482.1786193847656,
+                108.06170654296875,
+                496.5335998535156
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "..  Sleep aponea ",
+                  "bbox": [
+                    20.11669921875,
+                    482.1786193847656,
+                    108.06170654296875,
+                    496.5335998535156
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• Patient with an implanted pacemaker or other device",
+              "bbox": [
+                20.11669921875,
+                493.6736145019531,
+                321.560791015625,
+                508.0285949707031
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Patient with an implanted pacemaker or other device",
+                  "bbox": [
+                    20.11669921875,
+                    493.6736145019531,
+                    321.560791015625,
+                    508.0285949707031
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B013",
+          "page_number": 1,
+          "bbox": [
+            451.1956787109375,
+            430.6766662597656,
+            579.5426025390625,
+            471.4315490722656
+          ],
+          "text": "• Drowsiness/ impaired\nconsciousness\n• Pulse, BP",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "• Drowsiness/ impaired",
+              "bbox": [
+                451.1956787109375,
+                430.6766662597656,
+                579.5426025390625,
+                445.0316467285156
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Drowsiness/ impaired ",
+                  "bbox": [
+                    451.1956787109375,
+                    430.6766662597656,
+                    579.5426025390625,
+                    445.0316467285156
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "consciousness",
+              "bbox": [
+                458.1916809082031,
+                443.8766174316406,
+                537.7096557617188,
+                458.2315979003906
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "consciousness",
+                  "bbox": [
+                    458.1916809082031,
+                    443.8766174316406,
+                    537.7096557617188,
+                    458.2315979003906
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• Pulse, BP",
+              "bbox": [
+                451.1956787109375,
+                457.0765686035156,
+                509.01171875,
+                471.4315490722656
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Pulse, BP",
+                  "bbox": [
+                    451.1956787109375,
+                    457.0765686035156,
+                    509.01171875,
+                    471.4315490722656
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B014",
+          "page_number": 1,
+          "bbox": [
+            640.5166625976562,
+            429.31256103515625,
+            829.79345703125,
+            510.0303039550781
+          ],
+          "text": "Patient presenting to PHC/CHC:\n• 12-lead ECG\n• Blood urea, serum creatinine\n• Electrolytes\n• Blood sugar\n• TSH",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "Patient presenting to PHC/CHC:",
+              "bbox": [
+                640.5166625976562,
+                429.31256103515625,
+                829.79345703125,
+                444.0745544433594
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "  Patient presenting to PHC/CHC:",
+                  "bbox": [
+                    640.5166625976562,
+                    429.31256103515625,
+                    829.79345703125,
+                    444.0745544433594
+                  ],
+                  "font": "Montserrat-Bold",
+                  "size": 11.0,
+                  "flags": 20
+                }
+              ]
+            },
+            {
+              "text": "• 12-lead ECG",
+              "bbox": [
+                640.5166625976562,
+                442.8755187988281,
+                710.8275756835938,
+                457.2304992675781
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• 12-lead ECG",
+                  "bbox": [
+                    640.5166625976562,
+                    442.8755187988281,
+                    710.8275756835938,
+                    457.2304992675781
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• Blood urea, serum creatinine",
+              "bbox": [
+                640.5166625976562,
+                456.0754699707031,
+                805.6475830078125,
+                470.4304504394531
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Blood urea, serum creatinine",
+                  "bbox": [
+                    640.5166625976562,
+                    456.0754699707031,
+                    805.6475830078125,
+                    470.4304504394531
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• Electrolytes",
+              "bbox": [
+                640.5166625976562,
+                469.2754211425781,
+                710.859375,
+                483.6304016113281
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Electrolytes",
+                  "bbox": [
+                    640.5166625976562,
+                    469.2754211425781,
+                    710.859375,
+                    483.6304016113281
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• Blood sugar",
+              "bbox": [
+                640.5166625976562,
+                482.4753723144531,
+                713.2597045898438,
+                496.8303527832031
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Blood sugar",
+                  "bbox": [
+                    640.5166625976562,
+                    482.4753723144531,
+                    713.2597045898438,
+                    496.8303527832031
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• TSH",
+              "bbox": [
+                640.5166625976562,
+                495.6753234863281,
+                668.5446166992188,
+                510.0303039550781
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• TSH",
+                  "bbox": [
+                    640.5166625976562,
+                    495.6753234863281,
+                    668.5446166992188,
+                    510.0303039550781
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B015",
+          "page_number": 1,
+          "bbox": [
+            197.76319885253906,
+            401.87274169921875,
+            796.7772216796875,
+            420.07269287109375
+          ],
+          "text": "HISTORY\nEXAMINATION\nTESTS TO BE DONE",
+          "avg_font_size": 13.0,
+          "max_font_size": 13.0,
+          "is_heading_candidate": true,
+          "lines": [
+            {
+              "text": "HISTORY",
+              "bbox": [
+                197.76319885253906,
+                403.87469482421875,
+                245.85020446777344,
+                420.07269287109375
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "HISTORY",
+                  "bbox": [
+                    197.76319885253906,
+                    403.87469482421875,
+                    245.85020446777344,
+                    420.07269287109375
+                  ],
+                  "font": "Futura-CondensedExtraBol",
+                  "size": 13.0,
+                  "flags": 20
+                }
+              ]
+            },
+            {
+              "text": "EXAMINATION",
+              "bbox": [
+                492.18719482421875,
+                401.87274169921875,
+                572.4608154296875,
+                418.07073974609375
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "EXAMINATION",
+                  "bbox": [
+                    492.18719482421875,
+                    401.87274169921875,
+                    572.4608154296875,
+                    418.07073974609375
+                  ],
+                  "font": "Futura-CondensedExtraBol",
+                  "size": 13.0,
+                  "flags": 20
+                }
+              ]
+            },
+            {
+              "text": "TESTS TO BE DONE",
+              "bbox": [
+                693.2451782226562,
+                401.87274169921875,
+                796.7772216796875,
+                418.07073974609375
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "TESTS TO BE DONE",
+                  "bbox": [
+                    693.2451782226562,
+                    401.87274169921875,
+                    796.7772216796875,
+                    418.07073974609375
+                  ],
+                  "font": "Futura-CondensedExtraBol",
+                  "size": 13.0,
+                  "flags": 20
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B016",
+          "page_number": 1,
+          "bbox": [
+            8.056598663330078,
+            736.189453125,
+            420.6236877441406,
+            890.5744018554688
+          ],
+          "text": "• Hypotension (SBP <90 mmHg), impaired consciousness or ongoing chest\npain\n• Recurrent or ongoing syncope/presyncope\n• Associated headache with or without neurologic deﬁcit (suspect\nintracranial event)\n• Patient with a pre-existing device\n• If ECG available, evidence of any of the following\n- Complete heart block\n- Sinus node disease with pauses >3 s long\n- Bradycardia (HR < 50 bpm)",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "• Hypotension (SBP <90 mmHg), impaired consciousness or ongoing chest",
+              "bbox": [
+                8.056599617004395,
+                736.189453125,
+                420.6236877441406,
+                750.5444946289062
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Hypotension (SBP <90 mmHg), impaired consciousness or ongoing chest ",
+                  "bbox": [
+                    8.056599617004395,
+                    736.189453125,
+                    420.6236877441406,
+                    750.5444946289062
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "pain",
+              "bbox": [
+                15.05259895324707,
+                750.1924438476562,
+                39.37359619140625,
+                764.5474853515625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "pain",
+                  "bbox": [
+                    15.05259895324707,
+                    750.1924438476562,
+                    39.37359619140625,
+                    764.5474853515625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• Recurrent or ongoing syncope/presyncope",
+              "bbox": [
+                8.056598663330078,
+                764.1954345703125,
+                252.03445434570312,
+                778.5504760742188
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Recurrent or ongoing syncope/presyncope ",
+                  "bbox": [
+                    8.056598663330078,
+                    764.1954345703125,
+                    252.03445434570312,
+                    778.5504760742188
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• Associated headache with or without neurologic deﬁcit (suspect",
+              "bbox": [
+                8.056598663330078,
+                778.1984252929688,
+                371.6803894042969,
+                792.553466796875
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Associated headache with or without neurologic deﬁcit (suspect ",
+                  "bbox": [
+                    8.056598663330078,
+                    778.1984252929688,
+                    371.6803894042969,
+                    792.553466796875
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "intracranial event)",
+              "bbox": [
+                15.05259895324707,
+                792.201416015625,
+                114.98650360107422,
+                806.5564575195312
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "intracranial event)",
+                  "bbox": [
+                    15.05259895324707,
+                    792.201416015625,
+                    114.98650360107422,
+                    806.5564575195312
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• Patient with a pre-existing device",
+              "bbox": [
+                8.056598663330078,
+                806.2044067382812,
+                198.5216064453125,
+                820.5594482421875
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Patient with a pre-existing device",
+                  "bbox": [
+                    8.056598663330078,
+                    806.2044067382812,
+                    198.5216064453125,
+                    820.5594482421875
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• If ECG available, evidence of any of the following",
+              "bbox": [
+                8.056598663330078,
+                820.2073974609375,
+                278.511474609375,
+                834.5624389648438
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• If ECG available, evidence of any of the following",
+                  "bbox": [
+                    8.056598663330078,
+                    820.2073974609375,
+                    278.511474609375,
+                    834.5624389648438
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "- Complete heart block",
+              "bbox": [
+                51.05670166015625,
+                834.2103881835938,
+                177.599609375,
+                848.5654296875
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "- Complete heart block",
+                  "bbox": [
+                    51.05670166015625,
+                    834.2103881835938,
+                    177.599609375,
+                    848.5654296875
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "- Sinus node disease with pauses >3 s long",
+              "bbox": [
+                51.05670166015625,
+                848.21337890625,
+                283.5625915527344,
+                862.5684204101562
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "- Sinus node disease with pauses >3 s long",
+                  "bbox": [
+                    51.05670166015625,
+                    848.21337890625,
+                    283.5625915527344,
+                    862.5684204101562
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "- Bradycardia (HR < 50 bpm)",
+              "bbox": [
+                51.05670166015625,
+                862.2163696289062,
+                206.45263671875,
+                876.5714111328125
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "- Bradycardia (HR < 50 bpm)",
+                  "bbox": [
+                    51.05670166015625,
+                    862.2163696289062,
+                    206.45263671875,
+                    876.5714111328125
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B017",
+          "page_number": 1,
+          "bbox": [
+            1.863598346710205,
+            544.1954345703125,
+            254.88565063476562,
+            571.7064208984375
+          ],
+          "text": "1. TREATMENT OF ASSOCIATED CONDITIONS\n- Suspected drug (BB or CCB) overdose:",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "1. TREATMENT OF ASSOCIATED CONDITIONS",
+              "bbox": [
+                1.863598346710205,
+                544.1954345703125,
+                254.88565063476562,
+                558.6714477539062
+              ],
+              "is_bullet": false,
+              "is_numbered": true,
+              "spans": [
+                {
+                  "text": " 1. TREATMENT OF ASSOCIATED CONDITIONS",
+                  "bbox": [
+                    1.863598346710205,
+                    544.1954345703125,
+                    254.88565063476562,
+                    558.6714477539062
+                  ],
+                  "font": "Montserrat-Medium",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "- Suspected drug (BB or CCB) overdose:",
+              "bbox": [
+                1.863598346710205,
+                556.9443969726562,
+                247.52777099609375,
+                571.7064208984375
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "     ",
+                  "bbox": [
+                    1.863598346710205,
+                    557.1973876953125,
+                    16.658599853515625,
+                    571.6734008789062
+                  ],
+                  "font": "Montserrat-Medium",
+                  "size": 11.0,
+                  "flags": 4
+                },
+                {
+                  "text": "- Suspected drug (BB or CCB) overdose: ",
+                  "bbox": [
+                    16.658599853515625,
+                    556.9443969726562,
+                    247.52777099609375,
+                    571.7064208984375
+                  ],
+                  "font": "Montserrat-Bold",
+                  "size": 11.0,
+                  "flags": 20
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B018",
+          "page_number": 1,
+          "bbox": [
+            1.8635978698730469,
+            570.1993408203125,
+            434.8775939941406,
+            662.6873168945312
+          ],
+          "text": "• Withhold the drug\n- Hyperkalemia(serum K+>6meq/l orwith ECG chages of hyperkalemia)\n1.  Stop exogenous potassium, K sparing diuretics, NSAID, RAAS inhibitors\n2. 10 ml of 10% calcium gluconate over 10 mins\n3. IV insulin with glucose\n4. IV sodabicarb\n5. Salbutamol inhalation/ loop diuretics/ potassium binders",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "• Withhold the drug",
+              "bbox": [
+                37.86659622192383,
+                570.1993408203125,
+                149.0699920654297,
+                584.6753540039062
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Withhold the drug",
+                  "bbox": [
+                    37.86659622192383,
+                    570.1993408203125,
+                    149.0699920654297,
+                    584.6753540039062
+                  ],
+                  "font": "Montserrat-Medium",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "- Hyperkalemia(serum K+>6meq/l orwith ECG chages of hyperkalemia)",
+              "bbox": [
+                1.8635978698730469,
+                582.9483032226562,
+                423.2153625488281,
+                597.7103271484375
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "     ",
+                  "bbox": [
+                    1.8635978698730469,
+                    583.2012939453125,
+                    16.658599853515625,
+                    597.6773071289062
+                  ],
+                  "font": "Montserrat-Medium",
+                  "size": 11.0,
+                  "flags": 4
+                },
+                {
+                  "text": "- Hyperkalemia(serum K+>6meq/l orwith ECG chages of hyperkalemia)",
+                  "bbox": [
+                    16.658599853515625,
+                    582.9483032226562,
+                    423.2153625488281,
+                    597.7103271484375
+                  ],
+                  "font": "Montserrat-Bold",
+                  "size": 11.0,
+                  "flags": 20
+                }
+              ]
+            },
+            {
+              "text": "1.  Stop exogenous potassium, K sparing diuretics, NSAID, RAAS inhibitors",
+              "bbox": [
+                1.8635978698730469,
+                595.9502563476562,
+                434.8775939941406,
+                610.7122802734375
+              ],
+              "is_bullet": false,
+              "is_numbered": true,
+              "spans": [
+                {
+                  "text": "        ",
+                  "bbox": [
+                    1.8635978698730469,
+                    595.9502563476562,
+                    26.767601013183594,
+                    610.7122802734375
+                  ],
+                  "font": "Montserrat-Bold",
+                  "size": 11.0,
+                  "flags": 20
+                },
+                {
+                  "text": "1.  Stop exogenous potassium, K sparing diuretics, NSAID, RAAS inhibitors",
+                  "bbox": [
+                    26.767601013183594,
+                    596.2032470703125,
+                    434.8775939941406,
+                    610.6792602539062
+                  ],
+                  "font": "Montserrat-Medium",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "2. 10 ml of 10% calcium gluconate over 10 mins",
+              "bbox": [
+                1.8635978698730469,
+                609.2052612304688,
+                282.680419921875,
+                623.6812744140625
+              ],
+              "is_bullet": false,
+              "is_numbered": true,
+              "spans": [
+                {
+                  "text": "        2. 10 ml of 10% calcium gluconate over 10 mins",
+                  "bbox": [
+                    1.8635978698730469,
+                    609.2052612304688,
+                    282.680419921875,
+                    623.6812744140625
+                  ],
+                  "font": "Montserrat-Medium",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "3. IV insulin with glucose",
+              "bbox": [
+                1.8635978698730469,
+                622.207275390625,
+                163.0026092529297,
+                636.6832885742188
+              ],
+              "is_bullet": false,
+              "is_numbered": true,
+              "spans": [
+                {
+                  "text": "        3. IV insulin with glucose",
+                  "bbox": [
+                    1.8635978698730469,
+                    622.207275390625,
+                    163.0026092529297,
+                    636.6832885742188
+                  ],
+                  "font": "Montserrat-Medium",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "4. IV sodabicarb",
+              "bbox": [
+                1.8635978698730469,
+                635.2092895507812,
+                114.63671112060547,
+                649.685302734375
+              ],
+              "is_bullet": false,
+              "is_numbered": true,
+              "spans": [
+                {
+                  "text": "        4. IV sodabicarb",
+                  "bbox": [
+                    1.8635978698730469,
+                    635.2092895507812,
+                    114.63671112060547,
+                    649.685302734375
+                  ],
+                  "font": "Montserrat-Medium",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "5. Salbutamol inhalation/ loop diuretics/ potassium binders",
+              "bbox": [
+                1.8635978698730469,
+                648.2113037109375,
+                354.676513671875,
+                662.6873168945312
+              ],
+              "is_bullet": false,
+              "is_numbered": true,
+              "spans": [
+                {
+                  "text": "        5. Salbutamol inhalation/ loop diuretics/ potassium binders",
+                  "bbox": [
+                    1.8635978698730469,
+                    648.2113037109375,
+                    354.676513671875,
+                    662.6873168945312
+                  ],
+                  "font": "Montserrat-Medium",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B019",
+          "page_number": 1,
+          "bbox": [
+            0.8593999743461609,
+            661.2133178710938,
+            437.91033935546875,
+            688.6404418945312
+          ],
+          "text": "2. TEMPORARY PACEMAKER INSERTION\n(iv dopamine or isopranaline may be given till the  time TPI can be placed)",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "2. TEMPORARY PACEMAKER INSERTION",
+              "bbox": [
+                7.858598232269287,
+                661.2133178710938,
+                236.1966094970703,
+                675.6893310546875
+              ],
+              "is_bullet": false,
+              "is_numbered": true,
+              "spans": [
+                {
+                  "text": "2. TEMPORARY PACEMAKER INSERTION ",
+                  "bbox": [
+                    7.858598232269287,
+                    661.2133178710938,
+                    236.1966094970703,
+                    675.6893310546875
+                  ],
+                  "font": "Montserrat-Medium",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "(iv dopamine or isopranaline may be given till the  time TPI can be placed)",
+              "bbox": [
+                0.8593999743461609,
+                674.1644287109375,
+                437.91033935546875,
+                688.6404418945312
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "        (iv dopamine or isopranaline may be given till the  time TPI can be placed)",
+                  "bbox": [
+                    0.8593999743461609,
+                    674.1644287109375,
+                    437.91033935546875,
+                    688.6404418945312
+                  ],
+                  "font": "Montserrat-Medium",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B020",
+          "page_number": 1,
+          "bbox": [
+            564.68359375,
+            547.9124145507812,
+            708.3753051757812,
+            562.6744384765625
+          ],
+          "text": "Findings on 12-lead ECG",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "Findings on 12-lead ECG",
+              "bbox": [
+                564.68359375,
+                547.9124145507812,
+                708.3753051757812,
+                562.6744384765625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "  Findings on 12-lead ECG",
+                  "bbox": [
+                    564.68359375,
+                    547.9124145507812,
+                    708.3753051757812,
+                    562.6744384765625
+                  ],
+                  "font": "Montserrat-Bold",
+                  "size": 11.0,
+                  "flags": 20
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B021",
+          "page_number": 1,
+          "bbox": [
+            564.68359375,
+            574.6754150390625,
+            802.6906127929688,
+            628.6304321289062
+          ],
+          "text": "• Atrioventricular block\n• Sinus node dysfunction\n• Bundle branch blocks, tri-fascicular blocks\n• AF with CHB",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "• Atrioventricular block",
+              "bbox": [
+                564.68359375,
+                574.6754150390625,
+                689.1265869140625,
+                589.0304565429688
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Atrioventricular block",
+                  "bbox": [
+                    564.68359375,
+                    574.6754150390625,
+                    689.1265869140625,
+                    589.0304565429688
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• Sinus node dysfunction",
+              "bbox": [
+                564.68359375,
+                587.8753662109375,
+                700.357666015625,
+                602.2304077148438
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Sinus node dysfunction",
+                  "bbox": [
+                    564.68359375,
+                    587.8753662109375,
+                    700.357666015625,
+                    602.2304077148438
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• Bundle branch blocks, tri-fascicular blocks",
+              "bbox": [
+                564.68359375,
+                601.0753784179688,
+                802.6906127929688,
+                615.430419921875
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Bundle branch blocks, tri-fascicular blocks",
+                  "bbox": [
+                    564.68359375,
+                    601.0753784179688,
+                    802.6906127929688,
+                    615.430419921875
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• AF with CHB",
+              "bbox": [
+                564.68359375,
+                614.275390625,
+                641.1116943359375,
+                628.6304321289062
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• AF with CHB",
+                  "bbox": [
+                    564.68359375,
+                    614.275390625,
+                    641.1116943359375,
+                    628.6304321289062
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B022",
+          "page_number": 1,
+          "bbox": [
+            64.3281021118164,
+            711.3443603515625,
+            828.1558227539062,
+            727.88037109375
+          ],
+          "text": "INDICATIONS FOR URGENT TREATMENT/REFERRAL\nGENERAL APPROACH TO PATIENTS WITH SYMPTOMATIC BRADYCARDIA",
+          "avg_font_size": 13.0,
+          "max_font_size": 13.0,
+          "is_heading_candidate": true,
+          "lines": [
+            {
+              "text": "INDICATIONS FOR URGENT TREATMENT/REFERRAL",
+              "bbox": [
+                64.3281021118164,
+                711.682373046875,
+                347.3510437011719,
+                727.88037109375
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "INDICATIONS FOR URGENT TREATMENT/REFERRAL",
+                  "bbox": [
+                    64.3281021118164,
+                    711.682373046875,
+                    347.3510437011719,
+                    727.88037109375
+                  ],
+                  "font": "Futura-CondensedExtraBol",
+                  "size": 13.0,
+                  "flags": 20
+                }
+              ]
+            },
+            {
+              "text": "GENERAL APPROACH TO PATIENTS WITH SYMPTOMATIC BRADYCARDIA",
+              "bbox": [
+                430.88909912109375,
+                711.3443603515625,
+                828.1558227539062,
+                727.5423583984375
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "GENERAL APPROACH TO PATIENTS WITH SYMPTOMATIC BRADYCARDIA",
+                  "bbox": [
+                    430.88909912109375,
+                    711.3443603515625,
+                    828.1558227539062,
+                    727.5423583984375
+                  ],
+                  "font": "Futura-CondensedExtraBol",
+                  "size": 13.0,
+                  "flags": 20
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B023",
+          "page_number": 1,
+          "bbox": [
+            307.1737976074219,
+            912.649169921875,
+            531.0078125,
+            928.84716796875
+          ],
+          "text": "INDICATIONS FOR PERMANENT PACING",
+          "avg_font_size": 13.0,
+          "max_font_size": 13.0,
+          "is_heading_candidate": true,
+          "lines": [
+            {
+              "text": "INDICATIONS FOR PERMANENT PACING",
+              "bbox": [
+                307.1737976074219,
+                912.649169921875,
+                531.0078125,
+                928.84716796875
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "INDICATIONS FOR PERMANENT PACING ",
+                  "bbox": [
+                    307.1737976074219,
+                    912.649169921875,
+                    531.0078125,
+                    928.84716796875
+                  ],
+                  "font": "Futura-CondensedExtraBol",
+                  "size": 13.0,
+                  "flags": 20
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B024",
+          "page_number": 1,
+          "bbox": [
+            458.3114929199219,
+            735.8264770507812,
+            702.5114135742188,
+            790.14453125
+          ],
+          "text": "1. Rule out associated conditions\nDrug toxicity (BB, CCB, clonidine, Lithium)\nRenal dysfunction, hyperkalemia\nSleep apnea",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "1. Rule out associated conditions",
+              "bbox": [
+                458.3114929199219,
+                735.8264770507812,
+                642.7152709960938,
+                750.5885009765625
+              ],
+              "is_bullet": false,
+              "is_numbered": true,
+              "spans": [
+                {
+                  "text": "1. Rule out",
+                  "bbox": [
+                    458.3114929199219,
+                    736.189453125,
+                    514.103515625,
+                    750.5444946289062
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                },
+                {
+                  "text": " associated conditions",
+                  "bbox": [
+                    514.103515625,
+                    735.8264770507812,
+                    642.7152709960938,
+                    750.5885009765625
+                  ],
+                  "font": "Montserrat-Bold",
+                  "size": 11.0,
+                  "flags": 20
+                }
+              ]
+            },
+            {
+              "text": "Drug toxicity (BB, CCB, clonidine, Lithium)",
+              "bbox": [
+                471.3135070800781,
+                749.3894653320312,
+                702.5114135742188,
+                763.7445068359375
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "Drug toxicity (BB, CCB, clonidine, Lithium)",
+                  "bbox": [
+                    471.3135070800781,
+                    749.3894653320312,
+                    702.5114135742188,
+                    763.7445068359375
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "Renal dysfunction, hyperkalemia",
+              "bbox": [
+                471.3135070800781,
+                762.5894775390625,
+                651.7013549804688,
+                776.9445190429688
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "Renal dysfunction, hyperkalemia",
+                  "bbox": [
+                    471.3135070800781,
+                    762.5894775390625,
+                    651.7013549804688,
+                    776.9445190429688
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "Sleep apnea",
+              "bbox": [
+                471.3135070800781,
+                775.7894897460938,
+                541.9335327148438,
+                790.14453125
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "Sleep apnea ",
+                  "bbox": [
+                    471.3135070800781,
+                    775.7894897460938,
+                    541.9335327148438,
+                    790.14453125
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B025",
+          "page_number": 1,
+          "bbox": [
+            458.3114929199219,
+            802.1895141601562,
+            648.0382080078125,
+            816.5445556640625
+          ],
+          "text": "2. Transthoracic echocardiography",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "2. Transthoracic echocardiography",
+              "bbox": [
+                458.3114929199219,
+                802.1895141601562,
+                648.0382080078125,
+                816.5445556640625
+              ],
+              "is_bullet": false,
+              "is_numbered": true,
+              "spans": [
+                {
+                  "text": "2. Transthoracic echocardiography",
+                  "bbox": [
+                    458.3114929199219,
+                    802.1895141601562,
+                    648.0382080078125,
+                    816.5445556640625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B026",
+          "page_number": 1,
+          "bbox": [
+            11.300800323486328,
+            935.3746337890625,
+            217.0547332763672,
+            996.251708984375
+          ],
+          "text": "AV CONDUCTION DISEASE\n• Complete heart block, advanced AV\nblock, or Mobitz Type II block\n• Associated neuromuscular disease",
+          "avg_font_size": 11.5,
+          "max_font_size": 13.0,
+          "is_heading_candidate": true,
+          "lines": [
+            {
+              "text": "AV CONDUCTION DISEASE",
+              "bbox": [
+                51.17380142211914,
+                935.3746337890625,
+                193.7187957763672,
+                951.5726318359375
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "AV CONDUCTION DISEASE",
+                  "bbox": [
+                    51.17380142211914,
+                    935.3746337890625,
+                    193.7187957763672,
+                    951.5726318359375
+                  ],
+                  "font": "Futura-CondensedExtraBol",
+                  "size": 13.0,
+                  "flags": 20
+                }
+              ]
+            },
+            {
+              "text": "• Complete heart block, advanced AV",
+              "bbox": [
+                11.300800323486328,
+                951.8886108398438,
+                217.0547332763672,
+                966.24365234375
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Complete heart block, advanced AV ",
+                  "bbox": [
+                    11.300800323486328,
+                    951.8886108398438,
+                    217.0547332763672,
+                    966.24365234375
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "block, or Mobitz Type II block",
+              "bbox": [
+                18.29680061340332,
+                966.8926391601562,
+                177.07083129882812,
+                981.2476806640625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "block, or Mobitz Type II block",
+                  "bbox": [
+                    18.29680061340332,
+                    966.8926391601562,
+                    177.07083129882812,
+                    981.2476806640625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• Associated neuromuscular disease",
+              "bbox": [
+                11.300800323486328,
+                981.8966674804688,
+                208.0578155517578,
+                996.251708984375
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Associated neuromuscular disease",
+                  "bbox": [
+                    11.300800323486328,
+                    981.8966674804688,
+                    208.0578155517578,
+                    996.251708984375
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B027",
+          "page_number": 1,
+          "bbox": [
+            243.1186981201172,
+            935.3746337890625,
+            499.1107177734375,
+            996.251708984375
+          ],
+          "text": "SINUS NODE DYSFUNCTION\n• Symptomatic patients with sinus pauses > 3s\nlong with symptom correlation or heart rate\n<40/min during awake hours",
+          "avg_font_size": 11.5,
+          "max_font_size": 13.0,
+          "is_heading_candidate": true,
+          "lines": [
+            {
+              "text": "SINUS NODE DYSFUNCTION",
+              "bbox": [
+                303.4443054199219,
+                935.3746337890625,
+                454.6733093261719,
+                951.5726318359375
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "SINUS NODE DYSFUNCTION",
+                  "bbox": [
+                    303.4443054199219,
+                    935.3746337890625,
+                    454.6733093261719,
+                    951.5726318359375
+                  ],
+                  "font": "Futura-CondensedExtraBol",
+                  "size": 13.0,
+                  "flags": 20
+                }
+              ]
+            },
+            {
+              "text": "• Symptomatic patients with sinus pauses > 3s",
+              "bbox": [
+                243.1186981201172,
+                951.8886108398438,
+                499.1107177734375,
+                966.24365234375
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Symptomatic patients with sinus pauses > 3s ",
+                  "bbox": [
+                    243.1186981201172,
+                    951.8886108398438,
+                    499.1107177734375,
+                    966.24365234375
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "long with symptom correlation or heart rate",
+              "bbox": [
+                250.1147003173828,
+                966.8926391601562,
+                494.819580078125,
+                981.2476806640625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "long with symptom correlation or heart rate ",
+                  "bbox": [
+                    250.1147003173828,
+                    966.8926391601562,
+                    494.819580078125,
+                    981.2476806640625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "<40/min during awake hours",
+              "bbox": [
+                250.1147003173828,
+                981.8966674804688,
+                408.49163818359375,
+                996.251708984375
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "<40/min during awake hours",
+                  "bbox": [
+                    250.1147003173828,
+                    981.8966674804688,
+                    408.49163818359375,
+                    996.251708984375
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B028",
+          "page_number": 1,
+          "bbox": [
+            549.07861328125,
+            935.3746337890625,
+            811.6123657226562,
+            951.5726318359375
+          ],
+          "text": "OTHER CONDUCTION DISORDERS WITH 1:1 AV",
+          "avg_font_size": 13.0,
+          "max_font_size": 13.0,
+          "is_heading_candidate": true,
+          "lines": [
+            {
+              "text": "OTHER CONDUCTION DISORDERS WITH 1:1 AV",
+              "bbox": [
+                549.07861328125,
+                935.3746337890625,
+                811.6123657226562,
+                951.5726318359375
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "OTHER CONDUCTION DISORDERS WITH 1:1 AV ",
+                  "bbox": [
+                    549.07861328125,
+                    935.3746337890625,
+                    811.6123657226562,
+                    951.5726318359375
+                  ],
+                  "font": "Futura-CondensedExtraBol",
+                  "size": 13.0,
+                  "flags": 20
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B029",
+          "page_number": 1,
+          "bbox": [
+            524.2598266601562,
+            948.3746337890625,
+            818.6946411132812,
+            1029.2515869140625
+          ],
+          "text": "CONDUCTION\n• Unexplained syncope in a patient with BBB or\ndocumented transient high grade AV block with no\nreversible cause identiﬁed\n• Others (alternating BBB, inﬁltrative/ neuromuscular\ndisease)",
+          "avg_font_size": 11.33,
+          "max_font_size": 13.0,
+          "is_heading_candidate": true,
+          "lines": [
+            {
+              "text": "CONDUCTION",
+              "bbox": [
+                641.2225952148438,
+                948.3746337890625,
+                715.5436401367188,
+                964.5726318359375
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "CONDUCTION",
+                  "bbox": [
+                    641.2225952148438,
+                    948.3746337890625,
+                    715.5436401367188,
+                    964.5726318359375
+                  ],
+                  "font": "Futura-CondensedExtraBol",
+                  "size": 13.0,
+                  "flags": 20
+                }
+              ]
+            },
+            {
+              "text": "• Unexplained syncope in a patient with BBB or",
+              "bbox": [
+                524.2598266601562,
+                962.8886108398438,
+                786.7308959960938,
+                977.24365234375
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Unexplained syncope in a patient with BBB or ",
+                  "bbox": [
+                    524.2598266601562,
+                    962.8886108398438,
+                    786.7308959960938,
+                    977.24365234375
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "documented transient high grade AV block with no",
+              "bbox": [
+                531.2557983398438,
+                975.890625,
+                817.9907836914062,
+                990.2456665039062
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "documented transient high grade AV block with no ",
+                  "bbox": [
+                    531.2557983398438,
+                    975.890625,
+                    817.9907836914062,
+                    990.2456665039062
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "reversible cause identiﬁed",
+              "bbox": [
+                531.2557983398438,
+                988.8926391601562,
+                675.7407836914062,
+                1003.2476806640625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "reversible cause identiﬁed",
+                  "bbox": [
+                    531.2557983398438,
+                    988.8926391601562,
+                    675.7407836914062,
+                    1003.2476806640625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• Others (alternating BBB, inﬁltrative/ neuromuscular",
+              "bbox": [
+                524.2598266601562,
+                1001.8946533203125,
+                818.6946411132812,
+                1016.2496948242188
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Others (alternating BBB, inﬁltrative/ neuromuscular ",
+                  "bbox": [
+                    524.2598266601562,
+                    1001.8946533203125,
+                    818.6946411132812,
+                    1016.2496948242188
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "disease)",
+              "bbox": [
+                531.2557983398438,
+                1014.8966064453125,
+                575.662841796875,
+                1029.2515869140625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "disease)",
+                  "bbox": [
+                    531.2557983398438,
+                    1014.8966064453125,
+                    575.662841796875,
+                    1029.2515869140625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B030",
+          "page_number": 1,
+          "bbox": [
+            425.6448059082031,
+            1062.5487060546875,
+            789.9978637695312,
+            1221.3116455078125
+          ],
+          "text": "1. Advanced imaging (cMRI) may be needed if inﬁltrative disease\nis suspected\n2. Ambulatory ECG may be needed\n- In patients with ﬁrst or second degree AV block for\nsymptom correlation\n- In patients with suspected sinus node disease for\ndetection of pauses and symptom correlation\n- In symptomatic patients with LBBB or bifascicular block\n3. Implantable Loop Recorder and EPS (consult published\nsociety guidelines)",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "1. Advanced imaging (cMRI) may be needed if inﬁltrative disease",
+              "bbox": [
+                425.6448059082031,
+                1062.5487060546875,
+                786.0841064453125,
+                1077.310791015625
+              ],
+              "is_bullet": false,
+              "is_numbered": true,
+              "spans": [
+                {
+                  "text": "1. ",
+                  "bbox": [
+                    425.6448059082031,
+                    1062.9117431640625,
+                    434.8298034667969,
+                    1077.2667236328125
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                },
+                {
+                  "text": "Advanced imaging",
+                  "bbox": [
+                    434.8298034667969,
+                    1062.5487060546875,
+                    543.8189086914062,
+                    1077.310791015625
+                  ],
+                  "font": "Montserrat-Bold",
+                  "size": 11.0,
+                  "flags": 20
+                },
+                {
+                  "text": " (cMRI) may be needed if inﬁltrative disease ",
+                  "bbox": [
+                    543.8189086914062,
+                    1062.9117431640625,
+                    786.0841064453125,
+                    1077.2667236328125
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "is suspected",
+              "bbox": [
+                425.6448059082031,
+                1078.9166259765625,
+                505.272705078125,
+                1093.2716064453125
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "    is suspected",
+                  "bbox": [
+                    425.6448059082031,
+                    1078.9166259765625,
+                    505.272705078125,
+                    1093.2716064453125
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "2. Ambulatory ECG may be needed",
+              "bbox": [
+                425.6448059082031,
+                1094.5587158203125,
+                621.642822265625,
+                1109.32080078125
+              ],
+              "is_bullet": false,
+              "is_numbered": true,
+              "spans": [
+                {
+                  "text": "2. ",
+                  "bbox": [
+                    425.6448059082031,
+                    1094.9217529296875,
+                    437.2167663574219,
+                    1109.2767333984375
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                },
+                {
+                  "text": "Ambulatory ECG",
+                  "bbox": [
+                    437.2167663574219,
+                    1094.5587158203125,
+                    532.5648193359375,
+                    1109.32080078125
+                  ],
+                  "font": "Montserrat-Bold",
+                  "size": 11.0,
+                  "flags": 20
+                },
+                {
+                  "text": " may be needed",
+                  "bbox": [
+                    532.5648193359375,
+                    1094.9217529296875,
+                    621.642822265625,
+                    1109.2767333984375
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "- In patients with ﬁrst or second degree AV block for",
+              "bbox": [
+                473.64990234375,
+                1110.9266357421875,
+                762.5078125,
+                1125.2816162109375
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "- In patients with ﬁrst or second degree AV block for ",
+                  "bbox": [
+                    473.64990234375,
+                    1110.9266357421875,
+                    762.5078125,
+                    1125.2816162109375
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "symptom correlation",
+              "bbox": [
+                430.6498107910156,
+                1126.9317626953125,
+                589.3894653320312,
+                1141.2867431640625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "               symptom correlation",
+                  "bbox": [
+                    430.6498107910156,
+                    1126.9317626953125,
+                    589.3894653320312,
+                    1141.2867431640625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "- In patients with suspected sinus node disease for",
+              "bbox": [
+                473.64990234375,
+                1142.9366455078125,
+                754.0181274414062,
+                1157.2916259765625
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "- In patients with suspected sinus node disease for ",
+                  "bbox": [
+                    473.64990234375,
+                    1142.9366455078125,
+                    754.0181274414062,
+                    1157.2916259765625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "detection of pauses and symptom correlation",
+              "bbox": [
+                430.6498107910156,
+                1158.9417724609375,
+                724.7116088867188,
+                1173.2967529296875
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "               detection of pauses and symptom correlation",
+                  "bbox": [
+                    430.6498107910156,
+                    1158.9417724609375,
+                    724.7116088867188,
+                    1173.2967529296875
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "- In symptomatic patients with LBBB or bifascicular block",
+              "bbox": [
+                473.64990234375,
+                1174.9466552734375,
+                789.9978637695312,
+                1189.3016357421875
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "- In symptomatic patients with LBBB or bifascicular block",
+                  "bbox": [
+                    473.64990234375,
+                    1174.9466552734375,
+                    789.9978637695312,
+                    1189.3016357421875
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "3. Implantable Loop Recorder and EPS (consult published",
+              "bbox": [
+                425.6448059082031,
+                1190.5887451171875,
+                753.1918334960938,
+                1205.350830078125
+              ],
+              "is_bullet": false,
+              "is_numbered": true,
+              "spans": [
+                {
+                  "text": "3. ",
+                  "bbox": [
+                    425.6448059082031,
+                    1190.9517822265625,
+                    437.06280517578125,
+                    1205.3067626953125
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                },
+                {
+                  "text": "Implantable Loop Recorder and EPS",
+                  "bbox": [
+                    437.06280517578125,
+                    1190.5887451171875,
+                    645.07275390625,
+                    1205.350830078125
+                  ],
+                  "font": "Montserrat-Bold",
+                  "size": 11.0,
+                  "flags": 20
+                },
+                {
+                  "text": " (consult published ",
+                  "bbox": [
+                    645.07275390625,
+                    1190.9517822265625,
+                    753.1918334960938,
+                    1205.3067626953125
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "society guidelines)",
+              "bbox": [
+                437.64581298828125,
+                1206.9566650390625,
+                539.9569091796875,
+                1221.3116455078125
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "society guidelines)",
+                  "bbox": [
+                    437.64581298828125,
+                    1206.9566650390625,
+                    539.9569091796875,
+                    1221.3116455078125
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B031",
+          "page_number": 1,
+          "bbox": [
+            550.9766235351562,
+            1044.6939697265625,
+            681.7825927734375,
+            1060.89208984375
+          ],
+          "text": "ADDITIONAL TESTING",
+          "avg_font_size": 13.0,
+          "max_font_size": 13.0,
+          "is_heading_candidate": true,
+          "lines": [
+            {
+              "text": "ADDITIONAL TESTING",
+              "bbox": [
+                550.9766235351562,
+                1044.6939697265625,
+                681.7825927734375,
+                1060.89208984375
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "  ADDITIONAL TESTING ",
+                  "bbox": [
+                    550.9766235351562,
+                    1044.6939697265625,
+                    681.7825927734375,
+                    1060.89208984375
+                  ],
+                  "font": "Futura-CondensedExtraBol",
+                  "size": 13.0,
+                  "flags": 20
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B032",
+          "page_number": 1,
+          "bbox": [
+            41.63869857788086,
+            1062.543212890625,
+            345.1540222167969,
+            1205.30126953125
+          ],
+          "text": "1. SND with intact AV conduction\n- Atrial-based single or dual chamber pacing\n- VVI pacing is reasonable if symptoms are\ninfrequent\n2. AV Conduction disease\n- VVI/Dual chamber pacing in patients with\nLVEF >50%\n- CRT/LBBA pacing system pacing in patients\nwith LVEF <40%",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "1. SND with intact AV conduction",
+              "bbox": [
+                41.63869857788086,
+                1062.543212890625,
+                233.2466278076172,
+                1077.3052978515625
+              ],
+              "is_bullet": false,
+              "is_numbered": true,
+              "spans": [
+                {
+                  "text": "1. ",
+                  "bbox": [
+                    41.63869857788086,
+                    1062.90625,
+                    50.823699951171875,
+                    1077.26123046875
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                },
+                {
+                  "text": "SND with intact AV conduction",
+                  "bbox": [
+                    50.823699951171875,
+                    1062.543212890625,
+                    230.3646240234375,
+                    1077.3052978515625
+                  ],
+                  "font": "Montserrat-Bold",
+                  "size": 11.0,
+                  "flags": 20
+                },
+                {
+                  "text": " ",
+                  "bbox": [
+                    230.3646240234375,
+                    1062.90625,
+                    233.2466278076172,
+                    1077.26123046875
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "- Atrial-based single or dual chamber pacing",
+              "bbox": [
+                84.63880157470703,
+                1078.9112548828125,
+                329.6616516113281,
+                1093.2662353515625
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "- Atrial-based single or dual chamber pacing",
+                  "bbox": [
+                    84.63880157470703,
+                    1078.9112548828125,
+                    329.6616516113281,
+                    1093.2662353515625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "- VVI pacing is reasonable if symptoms are",
+              "bbox": [
+                84.63880157470703,
+                1094.916259765625,
+                320.0157165527344,
+                1109.271240234375
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "- VVI pacing is reasonable if symptoms are ",
+                  "bbox": [
+                    84.63880157470703,
+                    1094.916259765625,
+                    320.0157165527344,
+                    1109.271240234375
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "infrequent",
+              "bbox": [
+                41.63869857788086,
+                1110.9212646484375,
+                149.9777374267578,
+                1125.2762451171875
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "                infrequent ",
+                  "bbox": [
+                    41.63869857788086,
+                    1110.9212646484375,
+                    149.9777374267578,
+                    1125.2762451171875
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "2. AV Conduction disease",
+              "bbox": [
+                41.63869857788086,
+                1126.563232421875,
+                186.14682006835938,
+                1141.3253173828125
+              ],
+              "is_bullet": false,
+              "is_numbered": true,
+              "spans": [
+                {
+                  "text": "2. ",
+                  "bbox": [
+                    41.63869857788086,
+                    1126.92626953125,
+                    53.21070098876953,
+                    1141.28125
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                },
+                {
+                  "text": "AV Conduction disease",
+                  "bbox": [
+                    53.21070098876953,
+                    1126.563232421875,
+                    186.14682006835938,
+                    1141.3253173828125
+                  ],
+                  "font": "Montserrat-Bold",
+                  "size": 11.0,
+                  "flags": 20
+                }
+              ]
+            },
+            {
+              "text": "- VVI/Dual chamber pacing in patients with",
+              "bbox": [
+                84.63880157470703,
+                1142.9312744140625,
+                325.7027587890625,
+                1157.2862548828125
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "- VVI/Dual chamber pacing in patients with ",
+                  "bbox": [
+                    84.63880157470703,
+                    1142.9312744140625,
+                    325.7027587890625,
+                    1157.2862548828125
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "LVEF >50%",
+              "bbox": [
+                41.63869857788086,
+                1158.936279296875,
+                147.31463623046875,
+                1173.291259765625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "                LVEF >50%",
+                  "bbox": [
+                    41.63869857788086,
+                    1158.936279296875,
+                    147.31463623046875,
+                    1173.291259765625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "- CRT/LBBA pacing system pacing in patients",
+              "bbox": [
+                84.63880157470703,
+                1174.9412841796875,
+                345.1540222167969,
+                1189.2962646484375
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "- CRT/LBBA pacing system pacing in patients    ",
+                  "bbox": [
+                    84.63880157470703,
+                    1174.9412841796875,
+                    345.1540222167969,
+                    1189.2962646484375
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "with LVEF <40%",
+              "bbox": [
+                84.63880157470703,
+                1190.9462890625,
+                184.19981384277344,
+                1205.30126953125
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "   with LVEF <40% ",
+                  "bbox": [
+                    84.63880157470703,
+                    1190.9462890625,
+                    184.19981384277344,
+                    1205.30126953125
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B033",
+          "page_number": 1,
+          "bbox": [
+            111.595703125,
+            1044.695068359375,
+            290.8916931152344,
+            1060.8931884765625
+          ],
+          "text": "RECOMMENDED PACING MODES",
+          "avg_font_size": 13.0,
+          "max_font_size": 13.0,
+          "is_heading_candidate": true,
+          "lines": [
+            {
+              "text": "RECOMMENDED PACING MODES",
+              "bbox": [
+                111.595703125,
+                1044.695068359375,
+                290.8916931152344,
+                1060.8931884765625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "RECOMMENDED PACING MODES",
+                  "bbox": [
+                    111.595703125,
+                    1044.695068359375,
+                    290.8916931152344,
+                    1060.8931884765625
+                  ],
+                  "font": "Futura-CondensedExtraBol",
+                  "size": 13.0,
+                  "flags": 20
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B034",
+          "page_number": 1,
+          "bbox": [
+            571.59521484375,
+            335.2993469238281,
+            783.34423828125,
+            349.6543273925781
+          ],
+          "text": "Breathlessness/ chest pain on exertion",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "Breathlessness/ chest pain on exertion",
+              "bbox": [
+                571.59521484375,
+                335.2993469238281,
+                783.34423828125,
+                349.6543273925781
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "Breathlessness/ chest pain on exertion",
+                  "bbox": [
+                    571.59521484375,
+                    335.2993469238281,
+                    783.34423828125,
+                    349.6543273925781
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B035",
+          "page_number": 1,
+          "bbox": [
+            12.599100112915039,
+            1584.0147705078125,
+            830.7781372070312,
+            1629.1016845703125
+          ],
+          "text": "This STW has been prepared by national experts of India with feasibility considerations for various levels of healthcare system in the country. These broad guidelines are advisory, and\nare based on expert opinions and available scientiﬁc evidence. There may be variations in the management of an individual patient based on his/her speciﬁc condition, as decided by\nthe treating physician. There will be no indemnity for direct or indirect consequences. Kindly visit our web portal (stw.icmr.org.in) for more information.\n© Indian Council of Medical Research and Department of Health Research, Ministry of Health & Family Welfare, Government of India.",
+          "avg_font_size": 9.14,
+          "max_font_size": 10.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "This STW has been prepared by national experts of India with feasibility considerations for various levels of healthcare system in the country. These broad guidelines are advisory, and",
+              "bbox": [
+                12.599100112915039,
+                1584.0147705078125,
+                827.9131469726562,
+                1595.759765625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "This STW has been prepared by national experts of India with feasibility considerations for various levels of healthcare system in the country. These broad guidelines are advisory, and ",
+                  "bbox": [
+                    12.599100112915039,
+                    1584.0147705078125,
+                    827.9131469726562,
+                    1595.759765625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 9.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "are based on expert opinions and available scientiﬁc evidence. There may be variations in the management of an individual patient based on his/her speciﬁc condition, as decided by",
+              "bbox": [
+                12.599100112915039,
+                1595.0128173828125,
+                830.7781372070312,
+                1606.7578125
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "are based on expert opinions and available scientiﬁc evidence. There may be variations in the management of an individual patient based on his/her speciﬁc condition, as decided by ",
+                  "bbox": [
+                    12.599100112915039,
+                    1595.0128173828125,
+                    830.7781372070312,
+                    1606.7578125
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 9.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "the treating physician. There will be no indemnity for direct or indirect consequences. Kindly visit our web portal (stw.icmr.org.in) for more information.",
+              "bbox": [
+                12.599100112915039,
+                1605.4437255859375,
+                696.6748046875,
+                1617.8277587890625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "the treating physician. There will be no indemnity for direct or indirect consequences. Kindly visit our web portal (",
+                  "bbox": [
+                    12.599100112915039,
+                    1606.0107421875,
+                    521.5202026367188,
+                    1617.7557373046875
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 9.0,
+                  "flags": 4
+                },
+                {
+                  "text": "stw.icmr.org.in",
+                  "bbox": [
+                    521.5202026367188,
+                    1605.4437255859375,
+                    595.0404052734375,
+                    1617.8277587890625
+                  ],
+                  "font": "Montserrat-Black",
+                  "size": 9.0,
+                  "flags": 20
+                },
+                {
+                  "text": ") for more information.",
+                  "bbox": [
+                    595.0404052734375,
+                    1606.0107421875,
+                    696.6748046875,
+                    1617.7557373046875
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 9.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "© Indian Council of Medical Research and Department of Health Research, Ministry of Health & Family Welfare, Government of India.",
+              "bbox": [
+                12.599100112915039,
+                1615.3416748046875,
+                607.4143676757812,
+                1629.1016845703125
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "©",
+                  "bbox": [
+                    12.599100112915039,
+                    1615.3416748046875,
+                    20.23910140991211,
+                    1629.1016845703125
+                  ],
+                  "font": "Montserrat-Black",
+                  "size": 10.0,
+                  "flags": 20
+                },
+                {
+                  "text": " Indian Council of Medical Research and Department of Health Research, Ministry of Health & Family Welfare, Government of India.",
+                  "bbox": [
+                    20.239299774169922,
+                    1617.0147705078125,
+                    607.4143676757812,
+                    1628.759765625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 9.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B036",
+          "page_number": 1,
+          "bbox": [
+            289.2926330566406,
+            93.83039855957031,
+            483.6078796386719,
+            114.73503112792969
+          ],
+          "text": "Department of Health Research\nMinistry of Health and Family Welfare, Government of India",
+          "avg_font_size": 7.41,
+          "max_font_size": 7.41,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "Department of Health Research",
+              "bbox": [
+                334.3340148925781,
+                93.83039855957031,
+                438.5684509277344,
+                103.94914245605469
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "Department of Health Research",
+                  "bbox": [
+                    334.3340148925781,
+                    93.83039855957031,
+                    438.5684509277344,
+                    103.94914245605469
+                  ],
+                  "font": "ArialMT",
+                  "size": 7.413000106811523,
+                  "flags": 0
+                }
+              ]
+            },
+            {
+              "text": "Ministry of Health and Family Welfare, Government of India",
+              "bbox": [
+                289.2926330566406,
+                104.61628723144531,
+                483.6078796386719,
+                114.73503112792969
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "Ministry of Health and Family Welfare, Government of India",
+                  "bbox": [
+                    289.2926330566406,
+                    104.61628723144531,
+                    483.6078796386719,
+                    114.73503112792969
+                  ],
+                  "font": "ArialMT",
+                  "size": 7.413000106811523,
+                  "flags": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B037",
+          "page_number": 1,
+          "bbox": [
+            25.068347930908203,
+            21.5657958984375,
+            35.201072692871094,
+            76.52835083007812
+          ],
+          "text": "January/ 2025",
+          "avg_font_size": 7.36,
+          "max_font_size": 7.36,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "January/ 2025",
+              "bbox": [
+                25.068347930908203,
+                21.5657958984375,
+                35.201072692871094,
+                76.52835083007812
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "January/ 2025",
+                  "bbox": [
+                    25.068347930908203,
+                    21.5657958984375,
+                    35.201072692871094,
+                    76.52835083007812
+                  ],
+                  "font": "Montserrat-Black",
+                  "size": 7.363900184631348,
+                  "flags": 20
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B038",
+          "page_number": 1,
+          "bbox": [
+            115.85790252685547,
+            1231.4859619140625,
+            729.4319458007812,
+            1249.608154296875
+          ],
+          "text": "ECG: SINUS BRADYCARDIA\nECG: THIRD DEGREE HEART BLOCK",
+          "avg_font_size": 13.0,
+          "max_font_size": 13.0,
+          "is_heading_candidate": true,
+          "lines": [
+            {
+              "text": "ECG: SINUS BRADYCARDIA",
+              "bbox": [
+                115.85790252685547,
+                1231.4859619140625,
+                264.3829040527344,
+                1247.68408203125
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "ECG: SINUS BRADYCARDIA",
+                  "bbox": [
+                    115.85790252685547,
+                    1231.4859619140625,
+                    264.3829040527344,
+                    1247.68408203125
+                  ],
+                  "font": "Futura-CondensedExtraBol",
+                  "size": 13.0,
+                  "flags": 20
+                }
+              ]
+            },
+            {
+              "text": "ECG: THIRD DEGREE HEART BLOCK",
+              "bbox": [
+                532.5208740234375,
+                1233.4100341796875,
+                729.4319458007812,
+                1249.608154296875
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "ECG: THIRD DEGREE HEART BLOCK",
+                  "bbox": [
+                    532.5208740234375,
+                    1233.4100341796875,
+                    725.5059204101562,
+                    1249.608154296875
+                  ],
+                  "font": "Futura-CondensedExtraBol",
+                  "size": 13.0,
+                  "flags": 20
+                },
+                {
+                  "text": " ",
+                  "bbox": [
+                    725.5059204101562,
+                    1233.4100341796875,
+                    729.4319458007812,
+                    1249.608154296875
+                  ],
+                  "font": "Futura-CondensedExtraBol",
+                  "size": 13.0,
+                  "flags": 20
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B039",
+          "page_number": 1,
+          "bbox": [
+            220.29986572265625,
+            1559.528076171875,
+            635.9877319335938,
+            1575.7261962890625
+          ],
+          "text": "BRADYARRHYTHMIA MANAGEMENT: RESTORING LIFE'S NATURAL RHYTHM",
+          "avg_font_size": 13.0,
+          "max_font_size": 13.0,
+          "is_heading_candidate": true,
+          "lines": [
+            {
+              "text": "BRADYARRHYTHMIA MANAGEMENT: RESTORING LIFE'S NATURAL RHYTHM",
+              "bbox": [
+                220.29986572265625,
+                1559.528076171875,
+                635.9877319335938,
+                1575.7261962890625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "BRADYARRHYTHMIA MANAGEMENT: RESTORING LIFE'S NATURAL RHYTHM",
+                  "bbox": [
+                    220.29986572265625,
+                    1559.528076171875,
+                    635.9877319335938,
+                    1575.7261962890625
+                  ],
+                  "font": "Futura-CondensedExtraBol",
+                  "size": 13.0,
+                  "flags": 20
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B040",
+          "page_number": 1,
+          "bbox": [
+            374.7842102050781,
+            1472.732177734375,
+            467.1092224121094,
+            1490.732177734375
+          ],
+          "text": "REFERENCES",
+          "avg_font_size": 15.0,
+          "max_font_size": 15.0,
+          "is_heading_candidate": true,
+          "lines": [
+            {
+              "text": "REFERENCES",
+              "bbox": [
+                374.7842102050781,
+                1472.732177734375,
+                467.1092224121094,
+                1490.732177734375
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "REFERENCES",
+                  "bbox": [
+                    374.7842102050781,
+                    1472.732177734375,
+                    467.1092224121094,
+                    1490.732177734375
+                  ],
+                  "font": "FuturaBT-Bold",
+                  "size": 15.0,
+                  "flags": 16
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B041",
+          "page_number": 1,
+          "bbox": [
+            359.150390625,
+            1381.640380859375,
+            482.7369079589844,
+            1399.640380859375
+          ],
+          "text": "ABBREVIATIONS",
+          "avg_font_size": 15.0,
+          "max_font_size": 15.0,
+          "is_heading_candidate": true,
+          "lines": [
+            {
+              "text": "ABBREVIATIONS",
+              "bbox": [
+                359.150390625,
+                1381.640380859375,
+                482.7369079589844,
+                1399.640380859375
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "ABBREVIATIONS",
+                  "bbox": [
+                    359.150390625,
+                    1381.640380859375,
+                    482.7369079589844,
+                    1399.640380859375
+                  ],
+                  "font": "FuturaBT-Bold",
+                  "size": 15.0,
+                  "flags": 16
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B042",
+          "page_number": 1,
+          "bbox": [
+            21.431198120117188,
+            1498.388671875,
+            843.527099609375,
+            1542.84814453125
+          ],
+          "text": "1. Kusumoto FM et al. 2018 ACC/AHA/HRS guidelines on evaluation and management of patients with bradycardia & cardiac conduction\ndelay. J Am Coll Cardiol(2019)74,e51-156\n2. Glikson M et al. 2021 ESC guidelines on cardiac pacing and cardiac resynchronization therapy. European Heart J (2021)00,1-94",
+          "avg_font_size": 12.0,
+          "max_font_size": 12.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "1. Kusumoto FM et al. 2018 ACC/AHA/HRS guidelines on evaluation and management of patients with bradycardia & cardiac conduction",
+              "bbox": [
+                21.43120002746582,
+                1498.388671875,
+                843.527099609375,
+                1514.0487060546875
+              ],
+              "is_bullet": false,
+              "is_numbered": true,
+              "spans": [
+                {
+                  "text": "1. Kusumoto FM et al. 2018 ACC/AHA/HRS guidelines on evaluation and management of patients with bradycardia & cardiac conduction ",
+                  "bbox": [
+                    21.43120002746582,
+                    1498.388671875,
+                    843.527099609375,
+                    1514.0487060546875
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 12.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "delay. J Am Coll Cardiol(2019)74,e51-156",
+              "bbox": [
+                39.43119812011719,
+                1512.7880859375,
+                270.51519775390625,
+                1528.4481201171875
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "delay. J Am Coll Cardiol(2019)74,e51-156",
+                  "bbox": [
+                    39.43119812011719,
+                    1512.7880859375,
+                    270.51519775390625,
+                    1528.4481201171875
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 12.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "2. Glikson M et al. 2021 ESC guidelines on cardiac pacing and cardiac resynchronization therapy. European Heart J (2021)00,1-94",
+              "bbox": [
+                21.431198120117188,
+                1527.1881103515625,
+                784.7523193359375,
+                1542.84814453125
+              ],
+              "is_bullet": false,
+              "is_numbered": true,
+              "spans": [
+                {
+                  "text": "2. Glikson M et al. 2021 ESC guidelines on cardiac pacing and cardiac resynchronization therapy. European Heart J (2021)00,1-94",
+                  "bbox": [
+                    21.431198120117188,
+                    1527.1881103515625,
+                    784.7523193359375,
+                    1542.84814453125
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 12.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B043",
+          "page_number": 1,
+          "bbox": [
+            29.11910057067871,
+            1407.47607421875,
+            279.3328552246094,
+            1466.94482421875
+          ],
+          "text": "BB: Beta Blocker\nCCB: Calcium Channel Blockers\nCMRI: Cardiac Magnetic Resonance Imaging\nCRT: Cardiac Resynchronization Therapy",
+          "avg_font_size": 11.5,
+          "max_font_size": 12.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "BB: Beta Blocker",
+              "bbox": [
+                29.123197555541992,
+                1407.47607421875,
+                124.31659698486328,
+                1423.748046875
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "BB:",
+                  "bbox": [
+                    29.123197555541992,
+                    1407.47607421875,
+                    50.975196838378906,
+                    1423.748046875
+                  ],
+                  "font": "Montserrat-ExtraBold",
+                  "size": 12.0,
+                  "flags": 20
+                },
+                {
+                  "text": " Beta Blocker",
+                  "bbox": [
+                    50.96969985961914,
+                    1409.0556640625,
+                    124.31659698486328,
+                    1423.41064453125
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "CCB: Calcium Channel Blockers",
+              "bbox": [
+                29.11910057067871,
+                1421.873046875,
+                206.80540466308594,
+                1438.14501953125
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "CCB:",
+                  "bbox": [
+                    29.11910057067871,
+                    1421.873046875,
+                    59.27510070800781,
+                    1438.14501953125
+                  ],
+                  "font": "Montserrat-ExtraBold",
+                  "size": 12.0,
+                  "flags": 20
+                },
+                {
+                  "text": " Calcium Channel Blockers",
+                  "bbox": [
+                    59.273399353027344,
+                    1423.4560546875,
+                    206.80540466308594,
+                    1437.81103515625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "CMRI: Cardiac Magnetic Resonance Imaging",
+              "bbox": [
+                29.11910057067871,
+                1436.27294921875,
+                279.3328552246094,
+                1452.544921875
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "CMRI:",
+                  "bbox": [
+                    29.11910057067871,
+                    1436.27294921875,
+                    65.76710510253906,
+                    1452.544921875
+                  ],
+                  "font": "Montserrat-ExtraBold",
+                  "size": 12.0,
+                  "flags": 20
+                },
+                {
+                  "text": " Cardiac Magnetic Resonance Imaging",
+                  "bbox": [
+                    65.7656021118164,
+                    1437.85595703125,
+                    279.3328552246094,
+                    1452.2109375
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "CRT: Cardiac Resynchronization Therapy",
+              "bbox": [
+                29.11910057067871,
+                1450.6728515625,
+                254.76206970214844,
+                1466.94482421875
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "CRT:",
+                  "bbox": [
+                    29.11910057067871,
+                    1450.6728515625,
+                    57.62990188598633,
+                    1466.94482421875
+                  ],
+                  "font": "Montserrat-ExtraBold",
+                  "size": 12.0,
+                  "flags": 20
+                },
+                {
+                  "text": " Cardiac Resynchronization Therapy",
+                  "bbox": [
+                    57.62990188598633,
+                    1452.255859375,
+                    254.76206970214844,
+                    1466.61083984375
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B044",
+          "page_number": 1,
+          "bbox": [
+            389.3467102050781,
+            1406.1767578125,
+            608.1564331054688,
+            1465.64794921875
+          ],
+          "text": "ECG: Electrocardiogram\nLVEF: Left Ventricular Ejection Fraction\nVVI: Velocity Vector Imaging\nLBBA: Left Bundle Branch Area",
+          "avg_font_size": 11.5,
+          "max_font_size": 12.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "ECG: Electrocardiogram",
+              "bbox": [
+                389.3467102050781,
+                1406.1767578125,
+                524.7284545898438,
+                1422.44873046875
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "ECG:",
+                  "bbox": [
+                    389.3467102050781,
+                    1406.1767578125,
+                    418.710693359375,
+                    1422.44873046875
+                  ],
+                  "font": "Montserrat-ExtraBold",
+                  "size": 12.0,
+                  "flags": 20
+                },
+                {
+                  "text": " Electrocardiogram",
+                  "bbox": [
+                    418.71038818359375,
+                    1407.759765625,
+                    524.7284545898438,
+                    1422.11474609375
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "LVEF: Left Ventricular Ejection Fraction",
+              "bbox": [
+                389.3467102050781,
+                1420.576171875,
+                608.1564331054688,
+                1436.84814453125
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "LVEF:",
+                  "bbox": [
+                    389.3467102050781,
+                    1420.576171875,
+                    424.2787170410156,
+                    1436.84814453125
+                  ],
+                  "font": "Montserrat-ExtraBold",
+                  "size": 12.0,
+                  "flags": 20
+                },
+                {
+                  "text": " Left Ventricular Ejection Fraction",
+                  "bbox": [
+                    424.2782897949219,
+                    1422.1591796875,
+                    608.1564331054688,
+                    1436.51416015625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "VVI: Velocity Vector Imaging",
+              "bbox": [
+                389.3467102050781,
+                1434.9765625,
+                549.2691650390625,
+                1451.24853515625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "VVI:",
+                  "bbox": [
+                    389.3467102050781,
+                    1434.9765625,
+                    415.0146789550781,
+                    1451.24853515625
+                  ],
+                  "font": "Montserrat-ExtraBold",
+                  "size": 12.0,
+                  "flags": 20
+                },
+                {
+                  "text": " Velocity Vector Imaging",
+                  "bbox": [
+                    415.0141906738281,
+                    1436.5595703125,
+                    549.2691650390625,
+                    1450.91455078125
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "LBBA: Left Bundle Branch Area",
+              "bbox": [
+                389.3467102050781,
+                1449.3759765625,
+                566.2952880859375,
+                1465.64794921875
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "LBBA:",
+                  "bbox": [
+                    389.3467102050781,
+                    1449.3759765625,
+                    428.0707092285156,
+                    1465.64794921875
+                  ],
+                  "font": "Montserrat-ExtraBold",
+                  "size": 12.0,
+                  "flags": 20
+                },
+                {
+                  "text": " Left Bundle Branch Area",
+                  "bbox": [
+                    428.0703125,
+                    1450.958984375,
+                    566.2952880859375,
+                    1465.31396484375
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

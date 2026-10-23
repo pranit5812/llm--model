@@ -1,0 +1,4352 @@
+{
+  "document_id": "ICMR-NEUR-001",
+  "file_path": "data\\raw\\neurology\\1725952346_neurology_acute_paralysis.pdf",
+  "sha256_hash": "85c8759ab6297174d0f54007884e2fbeecf8e1c285d5fbcdb0918ff9c41f74fc",
+  "total_pages": 1,
+  "pages": [
+    {
+      "page_number": 1,
+      "width": 841.8900146484375,
+      "height": 1633.6800537109375,
+      "blocks": [
+        {
+          "block_id": "P1_B001",
+          "page_number": 1,
+          "bbox": [
+            191.68359375,
+            132.96543884277344,
+            649.3717651367188,
+            158.66650390625
+          ],
+          "text": "Standard Treatment Workﬂow (STW) for the",
+          "avg_font_size": 18.68,
+          "max_font_size": 18.68,
+          "is_heading_candidate": true,
+          "lines": [
+            {
+              "text": "Standard Treatment Workﬂow (STW) for the",
+              "bbox": [
+                191.68359375,
+                132.96543884277344,
+                649.3717651367188,
+                158.66650390625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "Standard Treatment Workﬂow (STW) for the ",
+                  "bbox": [
+                    191.68359375,
+                    132.96543884277344,
+                    649.3717651367188,
+                    158.66650390625
+                  ],
+                  "font": "Montserrat-Black",
+                  "size": 18.6781005859375,
+                  "flags": 20
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B002",
+          "page_number": 1,
+          "bbox": [
+            198.3144989013672,
+            155.68795776367188,
+            642.7398681640625,
+            189.3198699951172
+          ],
+          "text": "APPROACH TO ACUTE PARALYSIS",
+          "avg_font_size": 24.44,
+          "max_font_size": 24.44,
+          "is_heading_candidate": true,
+          "lines": [
+            {
+              "text": "APPROACH TO ACUTE PARALYSIS",
+              "bbox": [
+                198.3144989013672,
+                155.68795776367188,
+                642.7398681640625,
+                189.3198699951172
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "APPROACH TO ACUTE PARALYSIS",
+                  "bbox": [
+                    198.3144989013672,
+                    155.68795776367188,
+                    642.7398681640625,
+                    189.3198699951172
+                  ],
+                  "font": "Montserrat-Black",
+                  "size": 24.44179916381836,
+                  "flags": 20
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B003",
+          "page_number": 1,
+          "bbox": [
+            348.9570007324219,
+            187.13140869140625,
+            492.09613037109375,
+            210.69114685058594
+          ],
+          "text": "ICD 10 G82, G83",
+          "avg_font_size": 17.12,
+          "max_font_size": 17.12,
+          "is_heading_candidate": true,
+          "lines": [
+            {
+              "text": "ICD 10 G82, G83",
+              "bbox": [
+                348.9570007324219,
+                187.13140869140625,
+                492.09613037109375,
+                210.69114685058594
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "ICD 10 G82, G83",
+                  "bbox": [
+                    348.9570007324219,
+                    187.13140869140625,
+                    492.09613037109375,
+                    210.69114685058594
+                  ],
+                  "font": "Montserrat-Black",
+                  "size": 17.12190055847168,
+                  "flags": 20
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B004",
+          "page_number": 1,
+          "bbox": [
+            91.49510192871094,
+            246.40737915039062,
+            839.2504272460938,
+            269.7823791503906
+          ],
+          "text": "PRESENTATION WITH ACUTE ONSET (WITHIN HOURS TO DAYS) PARAPLEGIA OR QUADRIPLEGIA",
+          "avg_font_size": 17.0,
+          "max_font_size": 17.0,
+          "is_heading_candidate": true,
+          "lines": [
+            {
+              "text": "PRESENTATION WITH ACUTE ONSET (WITHIN HOURS TO DAYS) PARAPLEGIA OR QUADRIPLEGIA",
+              "bbox": [
+                91.49510192871094,
+                246.40737915039062,
+                839.2504272460938,
+                269.7823791503906
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "PRESENTATION WITH ACUTE ONSET (WITHIN HOURS TO DAYS) PARAPLEGIA OR QUADRIPLEGIA              ",
+                  "bbox": [
+                    91.49510192871094,
+                    246.40737915039062,
+                    839.2504272460938,
+                    269.7823791503906
+                  ],
+                  "font": "Futura-CondensedExtraBol",
+                  "size": 17.0,
+                  "flags": 16
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B005",
+          "page_number": 1,
+          "bbox": [
+            216.33200073242188,
+            312.40350341796875,
+            627.8883666992188,
+            332.7434997558594
+          ],
+          "text": "Are There Any Signs Of Upper Motor Neuron (UMN)",
+          "avg_font_size": 15.0,
+          "max_font_size": 15.0,
+          "is_heading_candidate": true,
+          "lines": [
+            {
+              "text": "Are There Any Signs Of Upper Motor Neuron (UMN)",
+              "bbox": [
+                216.33200073242188,
+                312.40350341796875,
+                627.8883666992188,
+                332.7434997558594
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "Are There Any Signs Of Upper Motor Neuron (UMN) ",
+                  "bbox": [
+                    216.33200073242188,
+                    312.40350341796875,
+                    627.8883666992188,
+                    332.7434997558594
+                  ],
+                  "font": "Montserrat-ExtraBold",
+                  "size": 15.0,
+                  "flags": 20
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B006",
+          "page_number": 1,
+          "bbox": [
+            365.3269958496094,
+            330.40350341796875,
+            474.51043701171875,
+            350.7434997558594
+          ],
+          "text": "Involvement?",
+          "avg_font_size": 15.0,
+          "max_font_size": 15.0,
+          "is_heading_candidate": true,
+          "lines": [
+            {
+              "text": "Involvement?",
+              "bbox": [
+                365.3269958496094,
+                330.40350341796875,
+                474.51043701171875,
+                350.7434997558594
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "Involvement?",
+                  "bbox": [
+                    365.3269958496094,
+                    330.40350341796875,
+                    474.51043701171875,
+                    350.7434997558594
+                  ],
+                  "font": "Montserrat-ExtraBold",
+                  "size": 15.0,
+                  "flags": 20
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B007",
+          "page_number": 1,
+          "bbox": [
+            323.845703125,
+            362.1576232910156,
+            516.0035400390625,
+            430.0934143066406
+          ],
+          "text": "• Brisk reﬂexes\n• Extensor plantar\n• Increased tone\n• Sensory level\n• Bladder or bowel incontinence",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "• Brisk reﬂexes",
+              "bbox": [
+                374.90771484375,
+                362.1576232910156,
+                464.94268798828125,
+                377.2936096191406
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Brisk reﬂexes",
+                  "bbox": [
+                    374.90771484375,
+                    362.1576232910156,
+                    464.94268798828125,
+                    377.2936096191406
+                  ],
+                  "font": "Montserrat-Black",
+                  "size": 11.0,
+                  "flags": 20
+                }
+              ]
+            },
+            {
+              "text": "• Extensor plantar",
+              "bbox": [
+                366.30572509765625,
+                375.3575744628906,
+                476.8447265625,
+                390.4935607910156
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Extensor plantar ",
+                  "bbox": [
+                    366.30572509765625,
+                    375.3575744628906,
+                    476.8447265625,
+                    390.4935607910156
+                  ],
+                  "font": "Montserrat-Black",
+                  "size": 11.0,
+                  "flags": 20
+                }
+              ]
+            },
+            {
+              "text": "• Increased tone",
+              "bbox": [
+                371.3877258300781,
+                388.5575256347656,
+                471.7737121582031,
+                403.6935119628906
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Increased tone ",
+                  "bbox": [
+                    371.3877258300781,
+                    388.5575256347656,
+                    471.7737121582031,
+                    403.6935119628906
+                  ],
+                  "font": "Montserrat-Black",
+                  "size": 11.0,
+                  "flags": 20
+                }
+              ]
+            },
+            {
+              "text": "• Sensory level",
+              "bbox": [
+                376.1617126464844,
+                401.7574768066406,
+                466.9887390136719,
+                416.8934631347656
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Sensory level ",
+                  "bbox": [
+                    376.1617126464844,
+                    401.7574768066406,
+                    466.9887390136719,
+                    416.8934631347656
+                  ],
+                  "font": "Montserrat-Black",
+                  "size": 11.0,
+                  "flags": 20
+                }
+              ]
+            },
+            {
+              "text": "• Bladder or bowel incontinence",
+              "bbox": [
+                323.845703125,
+                414.9574279785156,
+                516.0035400390625,
+                430.0934143066406
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Bladder or bowel incontinence",
+                  "bbox": [
+                    323.845703125,
+                    414.9574279785156,
+                    516.0035400390625,
+                    430.0934143066406
+                  ],
+                  "font": "Montserrat-Black",
+                  "size": 11.0,
+                  "flags": 20
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B008",
+          "page_number": 1,
+          "bbox": [
+            281.2383117675781,
+            492.9586486816406,
+            708.6241455078125,
+            519.3346557617188
+          ],
+          "text": "NO\nYES",
+          "avg_font_size": 17.0,
+          "max_font_size": 17.0,
+          "is_heading_candidate": true,
+          "lines": [
+            {
+              "text": "NO",
+              "bbox": [
+                281.2383117675781,
+                492.9586486816406,
+                303.08331298828125,
+                516.3336791992188
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "NO",
+                  "bbox": [
+                    281.2383117675781,
+                    492.9586486816406,
+                    303.08331298828125,
+                    516.3336791992188
+                  ],
+                  "font": "Futura-CondensedExtraBol",
+                  "size": 17.0,
+                  "flags": 16
+                }
+              ]
+            },
+            {
+              "text": "YES",
+              "bbox": [
+                683.328125,
+                495.9596252441406,
+                708.6241455078125,
+                519.3346557617188
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "YES",
+                  "bbox": [
+                    683.328125,
+                    495.9596252441406,
+                    708.6241455078125,
+                    519.3346557617188
+                  ],
+                  "font": "Futura-CondensedExtraBol",
+                  "size": 17.0,
+                  "flags": 16
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B009",
+          "page_number": 1,
+          "bbox": [
+            209.1815948486328,
+            552.9346313476562,
+            381.88165283203125,
+            566.3546142578125
+          ],
+          "text": "Is the weakness predominantly",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "Is the weakness predominantly",
+              "bbox": [
+                209.1815948486328,
+                552.9346313476562,
+                381.88165283203125,
+                566.3546142578125
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": " Is the weakness predominantly ",
+                  "bbox": [
+                    209.1815948486328,
+                    552.9346313476562,
+                    381.88165283203125,
+                    566.3546142578125
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B010",
+          "page_number": 1,
+          "bbox": [
+            247.92359924316406,
+            566.1345825195312,
+            346.40667724609375,
+            579.5545654296875
+          ],
+          "text": "proximal or distal?",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "proximal or distal?",
+              "bbox": [
+                247.92359924316406,
+                566.1345825195312,
+                346.40667724609375,
+                579.5545654296875
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "proximal or distal?",
+                  "bbox": [
+                    247.92359924316406,
+                    566.1345825195312,
+                    346.40667724609375,
+                    579.5545654296875
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B011",
+          "page_number": 1,
+          "bbox": [
+            618.015625,
+            576.7793579101562,
+            746.0677490234375,
+            682.599365234375
+          ],
+          "text": "Likely to be :\n∙ Acute myelopathy like\ntuberculosis\n∙ Trauma\n∙ Tumor\n∙ Transverse myelitis\n∙ Epidural abscess\n∙ Spinal cord stroke",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "Likely to be :",
+              "bbox": [
+                618.015625,
+                576.7793579101562,
+                691.6716918945312,
+                590.1993408203125
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "  Likely to be : ",
+                  "bbox": [
+                    618.015625,
+                    576.7793579101562,
+                    691.6716918945312,
+                    590.1993408203125
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "∙ Acute myelopathy like",
+              "bbox": [
+                618.015625,
+                589.9793090820312,
+                746.0677490234375,
+                603.3992919921875
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "∙ Acute myelopathy like ",
+                  "bbox": [
+                    618.015625,
+                    589.9793090820312,
+                    746.0677490234375,
+                    603.3992919921875
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "tuberculosis",
+              "bbox": [
+                624.0106201171875,
+                603.1793212890625,
+                689.7135620117188,
+                616.5993041992188
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "tuberculosis",
+                  "bbox": [
+                    624.0106201171875,
+                    603.1793212890625,
+                    689.7135620117188,
+                    616.5993041992188
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "∙ Trauma",
+              "bbox": [
+                618.015625,
+                616.3793334960938,
+                664.7765502929688,
+                629.79931640625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "∙ Trauma",
+                  "bbox": [
+                    618.015625,
+                    616.3793334960938,
+                    664.7765502929688,
+                    629.79931640625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "∙ Tumor",
+              "bbox": [
+                618.015625,
+                629.579345703125,
+                661.8297729492188,
+                642.9993286132812
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "∙ Tumor ",
+                  "bbox": [
+                    618.015625,
+                    629.579345703125,
+                    661.8297729492188,
+                    642.9993286132812
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "∙ Transverse myelitis",
+              "bbox": [
+                618.015625,
+                642.7793579101562,
+                726.7394409179688,
+                656.1993408203125
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "∙ Transverse myelitis ",
+                  "bbox": [
+                    618.015625,
+                    642.7793579101562,
+                    726.7394409179688,
+                    656.1993408203125
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "∙ Epidural abscess",
+              "bbox": [
+                618.015625,
+                655.9793701171875,
+                713.0885620117188,
+                669.3993530273438
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "∙ Epidural abscess",
+                  "bbox": [
+                    618.015625,
+                    655.9793701171875,
+                    713.0885620117188,
+                    669.3993530273438
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "∙ Spinal cord stroke",
+              "bbox": [
+                618.015625,
+                669.1793823242188,
+                720.2386474609375,
+                682.599365234375
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "∙ Spinal cord stroke",
+                  "bbox": [
+                    618.015625,
+                    669.1793823242188,
+                    720.2386474609375,
+                    682.599365234375
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B012",
+          "page_number": 1,
+          "bbox": [
+            239.23289489746094,
+            1558.2540283203125,
+            557.175048828125,
+            1576.1290283203125
+          ],
+          "text": "KEEP A HIGH THRESHOLD FOR INVASIVE PROCEDURES",
+          "avg_font_size": 13.0,
+          "max_font_size": 13.0,
+          "is_heading_candidate": true,
+          "lines": [
+            {
+              "text": "KEEP A HIGH THRESHOLD FOR INVASIVE PROCEDURES",
+              "bbox": [
+                239.23289489746094,
+                1558.2540283203125,
+                557.175048828125,
+                1576.1290283203125
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "      KEEP A HIGH THRESHOLD FOR INVASIVE PROCEDURES",
+                  "bbox": [
+                    239.23289489746094,
+                    1558.2540283203125,
+                    557.175048828125,
+                    1576.1290283203125
+                  ],
+                  "font": "Futura-CondensedExtraBol",
+                  "size": 13.0,
+                  "flags": 16
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B013",
+          "page_number": 1,
+          "bbox": [
+            11.0,
+            818.9458618164062,
+            202.56280517578125,
+            871.9658813476562
+          ],
+          "text": "Likely to be :\n• Guillain Barre Syndrome (GBS) or\n• Hypokalemic periodic paralysis.",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "Likely to be :",
+              "bbox": [
+                11.0,
+                818.9458618164062,
+                90.11199951171875,
+                832.3658447265625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "    Likely to be : ",
+                  "bbox": [
+                    11.0,
+                    818.9458618164062,
+                    90.11199951171875,
+                    832.3658447265625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• Guillain Barre Syndrome (GBS) or",
+              "bbox": [
+                11.0,
+                832.1458740234375,
+                202.56280517578125,
+                845.5658569335938
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "  • Guillain Barre Syndrome (GBS) or ",
+                  "bbox": [
+                    11.0,
+                    832.1458740234375,
+                    202.56280517578125,
+                    845.5658569335938
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• Hypokalemic periodic paralysis.",
+              "bbox": [
+                11.0,
+                845.3458862304688,
+                191.1348876953125,
+                858.765869140625
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "  • Hypokalemic periodic paralysis.",
+                  "bbox": [
+                    11.0,
+                    845.3458862304688,
+                    191.1348876953125,
+                    858.765869140625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B014",
+          "page_number": 1,
+          "bbox": [
+            368.1700134277344,
+            698.4959106445312,
+            551.1572875976562,
+            711.9158935546875
+          ],
+          "text": "Presence of Lower Motor Neuron",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "Presence of Lower Motor Neuron",
+              "bbox": [
+                368.1700134277344,
+                698.4959106445312,
+                551.1572875976562,
+                711.9158935546875
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "  Presence of Lower Motor Neuron ",
+                  "bbox": [
+                    368.1700134277344,
+                    698.4959106445312,
+                    551.1572875976562,
+                    711.9158935546875
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B015",
+          "page_number": 1,
+          "bbox": [
+            374.1650085449219,
+            711.6959228515625,
+            554.8180541992188,
+            738.31591796875
+          ],
+          "text": "(LMN) signs like wasting, absent\nreﬂexes and sensory impairment",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "(LMN) signs like wasting, absent",
+              "bbox": [
+                374.1650085449219,
+                711.6959228515625,
+                546.7011108398438,
+                725.1159057617188
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "(LMN) signs like wasting, absent ",
+                  "bbox": [
+                    374.1650085449219,
+                    711.6959228515625,
+                    546.7011108398438,
+                    725.1159057617188
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "reﬂexes and sensory impairment",
+              "bbox": [
+                374.1650085449219,
+                724.8959350585938,
+                554.8180541992188,
+                738.31591796875
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "reﬂexes and sensory impairment  ",
+                  "bbox": [
+                    374.1650085449219,
+                    724.8959350585938,
+                    554.8180541992188,
+                    738.31591796875
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B016",
+          "page_number": 1,
+          "bbox": [
+            122.6039047241211,
+            630.8351440429688,
+            185.74488830566406,
+            664.3101196289062
+          ],
+          "text": "WEAKNESS\nPROXIMAL",
+          "avg_font_size": 13.0,
+          "max_font_size": 13.0,
+          "is_heading_candidate": true,
+          "lines": [
+            {
+              "text": "WEAKNESS",
+              "bbox": [
+                122.73390197753906,
+                630.8351440429688,
+                185.74488830566406,
+                648.7101440429688
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "WEAKNESS ",
+                  "bbox": [
+                    122.73390197753906,
+                    630.8351440429688,
+                    185.74488830566406,
+                    648.7101440429688
+                  ],
+                  "font": "Futura-CondensedExtraBol",
+                  "size": 13.0,
+                  "flags": 16
+                }
+              ]
+            },
+            {
+              "text": "PROXIMAL",
+              "bbox": [
+                122.6039047241211,
+                646.4351196289062,
+                181.9632110595703,
+                664.3101196289062
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "PROXIMAL",
+                  "bbox": [
+                    122.6039047241211,
+                    646.4351196289062,
+                    181.9632110595703,
+                    664.3101196289062
+                  ],
+                  "font": "Futura-CondensedExtraBol",
+                  "size": 13.0,
+                  "flags": 16
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B017",
+          "page_number": 1,
+          "bbox": [
+            435.3511047363281,
+            632.3043212890625,
+            498.36212158203125,
+            650.1793212890625
+          ],
+          "text": "WEAKNESS",
+          "avg_font_size": 13.0,
+          "max_font_size": 13.0,
+          "is_heading_candidate": true,
+          "lines": [
+            {
+              "text": "WEAKNESS",
+              "bbox": [
+                435.3511047363281,
+                632.3043212890625,
+                498.36212158203125,
+                650.1793212890625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "WEAKNESS ",
+                  "bbox": [
+                    435.3511047363281,
+                    632.3043212890625,
+                    498.36212158203125,
+                    650.1793212890625
+                  ],
+                  "font": "Futura-CondensedExtraBol",
+                  "size": 13.0,
+                  "flags": 16
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B018",
+          "page_number": 1,
+          "bbox": [
+            446.5960998535156,
+            647.904296875,
+            483.2209777832031,
+            665.779296875
+          ],
+          "text": "DISTAL",
+          "avg_font_size": 13.0,
+          "max_font_size": 13.0,
+          "is_heading_candidate": true,
+          "lines": [
+            {
+              "text": "DISTAL",
+              "bbox": [
+                446.5960998535156,
+                647.904296875,
+                483.2209777832031,
+                665.779296875
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "DISTAL",
+                  "bbox": [
+                    446.5960998535156,
+                    647.904296875,
+                    483.2209777832031,
+                    665.779296875
+                  ],
+                  "font": "Futura-CondensedExtraBol",
+                  "size": 13.0,
+                  "flags": 16
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B019",
+          "page_number": 1,
+          "bbox": [
+            367.1675109863281,
+            837.5034790039062,
+            552.6287231445312,
+            943.3235473632812
+          ],
+          "text": "• Transfer/ refer to nearest district\nhospital/ medical college with\nNCS and EMG facilities.\n• CSF for cells and biochemistry\n• Treatment as per diagnosis\n• After treatment follow up at CHC\nfor medications and\nrehabilitation",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "• Transfer/ refer to nearest district",
+              "bbox": [
+                367.1675109863281,
+                837.5034790039062,
+                545.8526611328125,
+                850.9234619140625
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Transfer/ refer to nearest district ",
+                  "bbox": [
+                    367.1675109863281,
+                    837.5034790039062,
+                    545.8526611328125,
+                    850.9234619140625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "hospital/ medical college with",
+              "bbox": [
+                374.16351318359375,
+                850.7034912109375,
+                538.349609375,
+                864.1234741210938
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "hospital/ medical college with ",
+                  "bbox": [
+                    374.16351318359375,
+                    850.7034912109375,
+                    538.349609375,
+                    864.1234741210938
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "NCS and EMG facilities.",
+              "bbox": [
+                374.16351318359375,
+                863.9035034179688,
+                497.5615234375,
+                877.323486328125
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "NCS and EMG facilities.",
+                  "bbox": [
+                    374.16351318359375,
+                    863.9035034179688,
+                    497.5615234375,
+                    877.323486328125
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• CSF for cells and biochemistry",
+              "bbox": [
+                367.1675109863281,
+                877.103515625,
+                534.3004760742188,
+                890.5234985351562
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• CSF for cells and biochemistry",
+                  "bbox": [
+                    367.1675109863281,
+                    877.103515625,
+                    534.3004760742188,
+                    890.5234985351562
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• Treatment as per diagnosis",
+              "bbox": [
+                367.1675109863281,
+                890.3035278320312,
+                517.6705932617188,
+                903.7235107421875
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Treatment as per diagnosis",
+                  "bbox": [
+                    367.1675109863281,
+                    890.3035278320312,
+                    517.6705932617188,
+                    903.7235107421875
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• After treatment follow up at CHC",
+              "bbox": [
+                367.1675109863281,
+                903.5035400390625,
+                552.6287231445312,
+                916.9235229492188
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• After treatment follow up at CHC ",
+                  "bbox": [
+                    367.1675109863281,
+                    903.5035400390625,
+                    552.6287231445312,
+                    916.9235229492188
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "for medications and",
+              "bbox": [
+                374.16351318359375,
+                916.7035522460938,
+                484.6145935058594,
+                930.12353515625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "for medications and ",
+                  "bbox": [
+                    374.16351318359375,
+                    916.7035522460938,
+                    484.6145935058594,
+                    930.12353515625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "rehabilitation",
+              "bbox": [
+                374.16351318359375,
+                929.903564453125,
+                447.00555419921875,
+                943.3235473632812
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "rehabilitation",
+                  "bbox": [
+                    374.16351318359375,
+                    929.903564453125,
+                    447.00555419921875,
+                    943.3235473632812
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B020",
+          "page_number": 1,
+          "bbox": [
+            418.36151123046875,
+            820.8385620117188,
+            505.94464111328125,
+            835.6005859375
+          ],
+          "text": "MANAGEMENT",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "MANAGEMENT",
+              "bbox": [
+                418.36151123046875,
+                820.8385620117188,
+                505.94464111328125,
+                835.6005859375
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": " MANAGEMENT",
+                  "bbox": [
+                    418.36151123046875,
+                    820.8385620117188,
+                    505.94464111328125,
+                    835.6005859375
+                  ],
+                  "font": "Montserrat-Bold",
+                  "size": 11.0,
+                  "flags": 20
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B021",
+          "page_number": 1,
+          "bbox": [
+            89.74800109863281,
+            742.5226440429688,
+            144.30897521972656,
+            760.3976440429688
+          ],
+          "text": "REFLEXES",
+          "avg_font_size": 13.0,
+          "max_font_size": 13.0,
+          "is_heading_candidate": true,
+          "lines": [
+            {
+              "text": "REFLEXES",
+              "bbox": [
+                89.74800109863281,
+                742.5226440429688,
+                144.30897521972656,
+                760.3976440429688
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "REFLEXES ",
+                  "bbox": [
+                    89.74800109863281,
+                    742.5226440429688,
+                    144.30897521972656,
+                    760.3976440429688
+                  ],
+                  "font": "Futura-CondensedExtraBol",
+                  "size": 13.0,
+                  "flags": 16
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B022",
+          "page_number": 1,
+          "bbox": [
+            94.32400512695312,
+            758.1226196289062,
+            135.8330078125,
+            775.9976196289062
+          ],
+          "text": "ABSENT",
+          "avg_font_size": 13.0,
+          "max_font_size": 13.0,
+          "is_heading_candidate": true,
+          "lines": [
+            {
+              "text": "ABSENT",
+              "bbox": [
+                94.32400512695312,
+                758.1226196289062,
+                135.8330078125,
+                775.9976196289062
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "ABSENT",
+                  "bbox": [
+                    94.32400512695312,
+                    758.1226196289062,
+                    135.8330078125,
+                    775.9976196289062
+                  ],
+                  "font": "Futura-CondensedExtraBol",
+                  "size": 13.0,
+                  "flags": 16
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B023",
+          "page_number": 1,
+          "bbox": [
+            260.2431945800781,
+            743.0714111328125,
+            314.8042297363281,
+            760.9464111328125
+          ],
+          "text": "REFLEXES",
+          "avg_font_size": 13.0,
+          "max_font_size": 13.0,
+          "is_heading_candidate": true,
+          "lines": [
+            {
+              "text": "REFLEXES",
+              "bbox": [
+                260.2431945800781,
+                743.0714111328125,
+                314.8042297363281,
+                760.9464111328125
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "REFLEXES ",
+                  "bbox": [
+                    260.2431945800781,
+                    743.0714111328125,
+                    314.8042297363281,
+                    760.9464111328125
+                  ],
+                  "font": "Futura-CondensedExtraBol",
+                  "size": 13.0,
+                  "flags": 16
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B024",
+          "page_number": 1,
+          "bbox": [
+            261.9721984863281,
+            758.67138671875,
+            309.17523193359375,
+            776.54638671875
+          ],
+          "text": "PRESENT",
+          "avg_font_size": 13.0,
+          "max_font_size": 13.0,
+          "is_heading_candidate": true,
+          "lines": [
+            {
+              "text": "PRESENT",
+              "bbox": [
+                261.9721984863281,
+                758.67138671875,
+                309.17523193359375,
+                776.54638671875
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "PRESENT",
+                  "bbox": [
+                    261.9721984863281,
+                    758.67138671875,
+                    309.17523193359375,
+                    776.54638671875
+                  ],
+                  "font": "Futura-CondensedExtraBol",
+                  "size": 13.0,
+                  "flags": 16
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B025",
+          "page_number": 1,
+          "bbox": [
+            19.762699127197266,
+            917.5034790039062,
+            214.7102813720703,
+            1089.32373046875
+          ],
+          "text": "• Check pulse BP and respiration\n• Check serum K+ levels\n• Intubate if unable to complete\nsentences, single breath count low\nand breath holding time low and\nchest expansion poor\n• Transfer/ refer to nearest District\nHospital/ medical college with\nfacility for doing plasma exchange\nor giving IVIg and presence of\nventilator.\n• After treatment follow up at CHC\nfor medications and rehabilitation",
+          "avg_font_size": 10.69,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "• Check pulse BP and respiration",
+              "bbox": [
+                19.762699127197266,
+                917.5034790039062,
+                192.72669982910156,
+                930.9234619140625
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Check pulse BP and respiration",
+                  "bbox": [
+                    19.762699127197266,
+                    917.5034790039062,
+                    192.72669982910156,
+                    930.9234619140625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• Check serum K+ levels",
+              "bbox": [
+                19.762699127197266,
+                930.7034912109375,
+                141.72418212890625,
+                944.1236572265625
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Check serum K",
+                  "bbox": [
+                    19.762699127197266,
+                    930.7034912109375,
+                    106.5967025756836,
+                    944.1234741210938
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                },
+                {
+                  "text": "+",
+                  "bbox": [
+                    106.48580169677734,
+                    931.4853515625,
+                    109.67947387695312,
+                    939.3092041015625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 6.413000106811523,
+                  "flags": 5
+                },
+                {
+                  "text": " levels",
+                  "bbox": [
+                    109.61519622802734,
+                    930.7036743164062,
+                    141.72418212890625,
+                    944.1236572265625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• Intubate if unable to complete",
+              "bbox": [
+                19.767196655273438,
+                943.9036865234375,
+                192.13609313964844,
+                957.3236694335938
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Intubate if unable to complete ",
+                  "bbox": [
+                    19.767196655273438,
+                    943.9036865234375,
+                    192.13609313964844,
+                    957.3236694335938
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "sentences, single breath count low",
+              "bbox": [
+                26.76319694519043,
+                957.1036987304688,
+                214.7102813720703,
+                970.523681640625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "sentences, single breath count low ",
+                  "bbox": [
+                    26.76319694519043,
+                    957.1036987304688,
+                    214.7102813720703,
+                    970.523681640625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "and breath holding time low and",
+              "bbox": [
+                26.76319694519043,
+                970.3037109375,
+                207.13018798828125,
+                983.7236938476562
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "and breath holding time low and ",
+                  "bbox": [
+                    26.76319694519043,
+                    970.3037109375,
+                    207.13018798828125,
+                    983.7236938476562
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "chest expansion poor",
+              "bbox": [
+                26.76319694519043,
+                983.5037231445312,
+                141.5041961669922,
+                996.9237060546875
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "chest expansion poor",
+                  "bbox": [
+                    26.76319694519043,
+                    983.5037231445312,
+                    141.5041961669922,
+                    996.9237060546875
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• Transfer/ refer to nearest District",
+              "bbox": [
+                19.767196655273438,
+                996.7037353515625,
+                199.4752960205078,
+                1010.1237182617188
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Transfer/ refer to nearest District ",
+                  "bbox": [
+                    19.767196655273438,
+                    996.7037353515625,
+                    199.4752960205078,
+                    1010.1237182617188
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "Hospital/ medical college with",
+              "bbox": [
+                26.76319694519043,
+                1009.9037475585938,
+                192.2911834716797,
+                1023.32373046875
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "Hospital/ medical college with ",
+                  "bbox": [
+                    26.76319694519043,
+                    1009.9037475585938,
+                    192.2911834716797,
+                    1023.32373046875
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "facility for doing plasma exchange",
+              "bbox": [
+                26.76319694519043,
+                1023.1036987304688,
+                212.8391876220703,
+                1036.523681640625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "facility for doing plasma exchange ",
+                  "bbox": [
+                    26.76319694519043,
+                    1023.1036987304688,
+                    212.8391876220703,
+                    1036.523681640625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "or giving IVIg and presence of",
+              "bbox": [
+                26.76319694519043,
+                1036.3037109375,
+                187.85816955566406,
+                1049.7237548828125
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "or giving IVIg and presence of ",
+                  "bbox": [
+                    26.76319694519043,
+                    1036.3037109375,
+                    187.85816955566406,
+                    1049.7237548828125
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "ventilator.",
+              "bbox": [
+                26.76319694519043,
+                1049.5037841796875,
+                80.28919219970703,
+                1062.923828125
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "ventilator.",
+                  "bbox": [
+                    26.76319694519043,
+                    1049.5037841796875,
+                    80.28919219970703,
+                    1062.923828125
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• After treatment follow up at CHC",
+              "bbox": [
+                19.767196655273438,
+                1062.7037353515625,
+                205.22938537597656,
+                1076.123779296875
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• After treatment follow up at CHC ",
+                  "bbox": [
+                    19.767196655273438,
+                    1062.7037353515625,
+                    205.22938537597656,
+                    1076.123779296875
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "for medications and rehabilitation",
+              "bbox": [
+                26.76319694519043,
+                1075.9036865234375,
+                209.94509887695312,
+                1089.32373046875
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "for medications and rehabilitation",
+                  "bbox": [
+                    26.76319694519043,
+                    1075.9036865234375,
+                    209.94509887695312,
+                    1089.32373046875
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B026",
+          "page_number": 1,
+          "bbox": [
+            73.09230041503906,
+            903.3264770507812,
+            157.6713104248047,
+            918.0885009765625
+          ],
+          "text": "MANAGEMENT",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "MANAGEMENT",
+              "bbox": [
+                73.09230041503906,
+                903.3264770507812,
+                157.6713104248047,
+                918.0885009765625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "MANAGEMENT",
+                  "bbox": [
+                    73.09230041503906,
+                    903.3264770507812,
+                    157.6713104248047,
+                    918.0885009765625
+                  ],
+                  "font": "Montserrat-Bold",
+                  "size": 11.0,
+                  "flags": 20
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B027",
+          "page_number": 1,
+          "bbox": [
+            604.0,
+            768.2183837890625,
+            782.6796264648438,
+            913.6384887695312
+          ],
+          "text": "• Check pulse, BP and respiration\n• If retention of urine present\nthen catheterize\n• Transfer/ refer to nearest district\nhospital/ medical college with\nMRI facility\n• Treatment will depend on MRI\nand other investigation\n• After treatment follow up at\nCHC for medications and\nrehabilitation",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "• Check pulse, BP and respiration",
+              "bbox": [
+                604.0,
+                768.2183837890625,
+                779.20703125,
+                781.6383666992188
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Check pulse, BP and respiration",
+                  "bbox": [
+                    604.0,
+                    768.2183837890625,
+                    779.20703125,
+                    781.6383666992188
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• If retention of urine present",
+              "bbox": [
+                604.0,
+                781.4183959960938,
+                759.2308959960938,
+                794.83837890625
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• If retention of urine present ",
+                  "bbox": [
+                    604.0,
+                    781.4183959960938,
+                    759.2308959960938,
+                    794.83837890625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "then catheterize",
+              "bbox": [
+                610.9959716796875,
+                794.618408203125,
+                699.1378784179688,
+                808.0383911132812
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "then catheterize",
+                  "bbox": [
+                    610.9959716796875,
+                    794.618408203125,
+                    699.1378784179688,
+                    808.0383911132812
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• Transfer/ refer to nearest district",
+              "bbox": [
+                604.0,
+                807.8184204101562,
+                782.6796264648438,
+                821.2384033203125
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Transfer/ refer to nearest district ",
+                  "bbox": [
+                    604.0,
+                    807.8184204101562,
+                    782.6796264648438,
+                    821.2384033203125
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "hospital/ medical college with",
+              "bbox": [
+                610.9959716796875,
+                821.0184326171875,
+                775.18310546875,
+                834.4384155273438
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "hospital/ medical college with ",
+                  "bbox": [
+                    610.9959716796875,
+                    821.0184326171875,
+                    775.18310546875,
+                    834.4384155273438
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "MRI facility",
+              "bbox": [
+                610.9959716796875,
+                834.2184448242188,
+                669.9669799804688,
+                847.638427734375
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "MRI facility",
+                  "bbox": [
+                    610.9959716796875,
+                    834.2184448242188,
+                    669.9669799804688,
+                    847.638427734375
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• Treatment will depend on MRI",
+              "bbox": [
+                604.0,
+                847.41845703125,
+                775.9739990234375,
+                860.8384399414062
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Treatment will depend on MRI ",
+                  "bbox": [
+                    604.0,
+                    847.41845703125,
+                    775.9739990234375,
+                    860.8384399414062
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "and other investigation",
+              "bbox": [
+                610.9959716796875,
+                860.6184692382812,
+                735.2970581054688,
+                874.0384521484375
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "and other investigation",
+                  "bbox": [
+                    610.9959716796875,
+                    860.6184692382812,
+                    735.2970581054688,
+                    874.0384521484375
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• After treatment follow up at",
+              "bbox": [
+                604.0,
+                873.8184814453125,
+                763.0250244140625,
+                887.2384643554688
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• After treatment follow up at ",
+                  "bbox": [
+                    604.0,
+                    873.8184814453125,
+                    763.0250244140625,
+                    887.2384643554688
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "CHC for medications and",
+              "bbox": [
+                610.9959716796875,
+                887.0184936523438,
+                747.8811645507812,
+                900.4384765625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "CHC for medications and ",
+                  "bbox": [
+                    610.9959716796875,
+                    887.0184936523438,
+                    747.8811645507812,
+                    900.4384765625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "rehabilitation",
+              "bbox": [
+                610.9959716796875,
+                900.218505859375,
+                683.8379516601562,
+                913.6384887695312
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "rehabilitation",
+                  "bbox": [
+                    610.9959716796875,
+                    900.218505859375,
+                    683.8379516601562,
+                    913.6384887695312
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B028",
+          "page_number": 1,
+          "bbox": [
+            644.9969482421875,
+            746.0755004882812,
+            729.5748291015625,
+            760.8375244140625
+          ],
+          "text": "MANAGEMENT",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "MANAGEMENT",
+              "bbox": [
+                644.9969482421875,
+                746.0755004882812,
+                729.5748291015625,
+                760.8375244140625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "MANAGEMENT",
+                  "bbox": [
+                    644.9969482421875,
+                    746.0755004882812,
+                    729.5748291015625,
+                    760.8375244140625
+                  ],
+                  "font": "Montserrat-Bold",
+                  "size": 11.0,
+                  "flags": 20
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B029",
+          "page_number": 1,
+          "bbox": [
+            349.4804992675781,
+            1120.12939453125,
+            495.6045227050781,
+            1133.5494384765625
+          ],
+          "text": "If the weakness is fatigable",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "If the weakness is fatigable",
+              "bbox": [
+                349.4804992675781,
+                1120.12939453125,
+                495.6045227050781,
+                1133.5494384765625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "If the weakness is fatigable ",
+                  "bbox": [
+                    349.4804992675781,
+                    1120.12939453125,
+                    495.6045227050781,
+                    1133.5494384765625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B030",
+          "page_number": 1,
+          "bbox": [
+            349.4804992675781,
+            1133.3294677734375,
+            511.4017028808594,
+            1173.1494140625
+          ],
+          "text": "or\nIf extra ocular movements are\naffected",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "or",
+              "bbox": [
+                433.927490234375,
+                1133.3294677734375,
+                447.7545166015625,
+                1146.74951171875
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "or ",
+                  "bbox": [
+                    433.927490234375,
+                    1133.3294677734375,
+                    447.7545166015625,
+                    1146.74951171875
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "If extra ocular movements are",
+              "bbox": [
+                349.4804992675781,
+                1146.5294189453125,
+                511.4017028808594,
+                1159.949462890625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "If extra ocular movements are ",
+                  "bbox": [
+                    349.4804992675781,
+                    1146.5294189453125,
+                    511.4017028808594,
+                    1159.949462890625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "affected",
+              "bbox": [
+                349.4804992675781,
+                1159.7293701171875,
+                393.7115173339844,
+                1173.1494140625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "affected",
+                  "bbox": [
+                    349.4804992675781,
+                    1159.7293701171875,
+                    393.7115173339844,
+                    1173.1494140625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B031",
+          "page_number": 1,
+          "bbox": [
+            342.4804992675781,
+            1347.99462890625,
+            545.2117309570312,
+            1506.6146240234375
+          ],
+          "text": "• Check pulse, BP and respiration\n• Intubate if unable to complete\nsentences, single breath count low\nand breath holding time low and\nchest expansion poor\n• Transfer/ refer to nearest district\nhospital/ medical college with\nfacility for doing NCS, plasma\nexchange or giving IVIg and\npresence of ventilator.\n• After treatment follow up at CHC for\nmedications and rehabilitation",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "• Check pulse, BP and respiration",
+              "bbox": [
+                342.4804992675781,
+                1347.99462890625,
+                517.6885375976562,
+                1361.4146728515625
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Check pulse, BP and respiration",
+                  "bbox": [
+                    342.4804992675781,
+                    1347.99462890625,
+                    517.6885375976562,
+                    1361.4146728515625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• Intubate if unable to complete",
+              "bbox": [
+                342.4804992675781,
+                1361.194580078125,
+                514.8505249023438,
+                1374.6146240234375
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Intubate if unable to complete ",
+                  "bbox": [
+                    342.4804992675781,
+                    1361.194580078125,
+                    514.8505249023438,
+                    1374.6146240234375
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "sentences, single breath count low",
+              "bbox": [
+                349.47650146484375,
+                1374.3946533203125,
+                537.4226684570312,
+                1387.814697265625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "sentences, single breath count low ",
+                  "bbox": [
+                    349.47650146484375,
+                    1374.3946533203125,
+                    537.4226684570312,
+                    1387.814697265625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "and breath holding time low and",
+              "bbox": [
+                349.47650146484375,
+                1387.5946044921875,
+                529.8436279296875,
+                1401.0146484375
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "and breath holding time low and ",
+                  "bbox": [
+                    349.47650146484375,
+                    1387.5946044921875,
+                    529.8436279296875,
+                    1401.0146484375
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "chest expansion poor",
+              "bbox": [
+                349.47650146484375,
+                1400.7945556640625,
+                464.21759033203125,
+                1414.214599609375
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "chest expansion poor",
+                  "bbox": [
+                    349.47650146484375,
+                    1400.7945556640625,
+                    464.21759033203125,
+                    1414.214599609375
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• Transfer/ refer to nearest district",
+              "bbox": [
+                342.4804992675781,
+                1413.99462890625,
+                521.1657104492188,
+                1427.4146728515625
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Transfer/ refer to nearest district ",
+                  "bbox": [
+                    342.4804992675781,
+                    1413.99462890625,
+                    521.1657104492188,
+                    1427.4146728515625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "hospital/ medical college with",
+              "bbox": [
+                349.47650146484375,
+                1427.194580078125,
+                513.66259765625,
+                1440.6146240234375
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "hospital/ medical college with ",
+                  "bbox": [
+                    349.47650146484375,
+                    1427.194580078125,
+                    513.66259765625,
+                    1440.6146240234375
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "facility for doing NCS, plasma",
+              "bbox": [
+                349.47650146484375,
+                1440.3946533203125,
+                508.8016357421875,
+                1453.814697265625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "facility for doing NCS, plasma ",
+                  "bbox": [
+                    349.47650146484375,
+                    1440.3946533203125,
+                    508.8016357421875,
+                    1453.814697265625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "exchange or giving IVIg and",
+              "bbox": [
+                349.47650146484375,
+                1453.5946044921875,
+                500.5824890136719,
+                1467.0146484375
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "exchange or giving IVIg and ",
+                  "bbox": [
+                    349.47650146484375,
+                    1453.5946044921875,
+                    500.5824890136719,
+                    1467.0146484375
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "presence of ventilator.",
+              "bbox": [
+                349.47650146484375,
+                1466.7945556640625,
+                467.6044921875,
+                1480.214599609375
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "presence of ventilator.",
+                  "bbox": [
+                    349.47650146484375,
+                    1466.7945556640625,
+                    467.6044921875,
+                    1480.214599609375
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• After treatment follow up at CHC for",
+              "bbox": [
+                342.4804992675781,
+                1479.99462890625,
+                545.2117309570312,
+                1493.4146728515625
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• After treatment follow up at CHC for ",
+                  "bbox": [
+                    342.4804992675781,
+                    1479.99462890625,
+                    545.2117309570312,
+                    1493.4146728515625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "medications and rehabilitation",
+              "bbox": [
+                349.47650146484375,
+                1493.194580078125,
+                518.1176147460938,
+                1506.6146240234375
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "medications and rehabilitation ",
+                  "bbox": [
+                    349.47650146484375,
+                    1493.194580078125,
+                    518.1176147460938,
+                    1506.6146240234375
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B032",
+          "page_number": 1,
+          "bbox": [
+            395.9735107421875,
+            1327.3255615234375,
+            480.55255126953125,
+            1342.087646484375
+          ],
+          "text": "MANAGEMENT",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "MANAGEMENT",
+              "bbox": [
+                395.9735107421875,
+                1327.3255615234375,
+                480.55255126953125,
+                1342.087646484375
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "MANAGEMENT",
+                  "bbox": [
+                    395.9735107421875,
+                    1327.3255615234375,
+                    480.55255126953125,
+                    1342.087646484375
+                  ],
+                  "font": "Montserrat-Bold",
+                  "size": 11.0,
+                  "flags": 20
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B033",
+          "page_number": 1,
+          "bbox": [
+            595.4805297851562,
+            1126.14013671875,
+            769.8843994140625,
+            1152.7601318359375
+          ],
+          "text": "If no sensory impairment and\nnormal extra ocular movements",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "If no sensory impairment and",
+              "bbox": [
+                595.4805297851562,
+                1126.14013671875,
+                756.222412109375,
+                1139.5601806640625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "If no sensory impairment and ",
+                  "bbox": [
+                    595.4805297851562,
+                    1126.14013671875,
+                    756.222412109375,
+                    1139.5601806640625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "normal extra ocular movements",
+              "bbox": [
+                595.4805297851562,
+                1139.340087890625,
+                769.8843994140625,
+                1152.7601318359375
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "normal extra ocular movements ",
+                  "bbox": [
+                    595.4805297851562,
+                    1139.340087890625,
+                    769.8843994140625,
+                    1152.7601318359375
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B034",
+          "page_number": 1,
+          "bbox": [
+            603.083984375,
+            1235.41162109375,
+            754.9940795898438,
+            1262.0316162109375
+          ],
+          "text": "Likely to be :\n• Myopathy (eg polymyositis)",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "Likely to be :",
+              "bbox": [
+                603.083984375,
+                1235.41162109375,
+                674.0131225585938,
+                1248.8316650390625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "  Likely to be :",
+                  "bbox": [
+                    603.083984375,
+                    1235.41162109375,
+                    674.0131225585938,
+                    1248.8316650390625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• Myopathy (eg polymyositis)",
+              "bbox": [
+                603.083984375,
+                1248.611572265625,
+                754.9940795898438,
+                1262.0316162109375
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Myopathy (eg polymyositis)",
+                  "bbox": [
+                    603.083984375,
+                    1248.611572265625,
+                    754.9940795898438,
+                    1262.0316162109375
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B035",
+          "page_number": 1,
+          "bbox": [
+            644.0809936523438,
+            1327.32763671875,
+            728.6599731445312,
+            1342.0897216796875
+          ],
+          "text": "MANAGEMENT",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "MANAGEMENT",
+              "bbox": [
+                644.0809936523438,
+                1327.32763671875,
+                728.6599731445312,
+                1342.0897216796875
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "MANAGEMENT",
+                  "bbox": [
+                    644.0809936523438,
+                    1327.32763671875,
+                    728.6599731445312,
+                    1342.0897216796875
+                  ],
+                  "font": "Montserrat-Bold",
+                  "size": 11.0,
+                  "flags": 20
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B036",
+          "page_number": 1,
+          "bbox": [
+            588.4805297851562,
+            1347.99462890625,
+            781.3875122070312,
+            1453.814697265625
+          ],
+          "text": "• Check pulse, BP and respiration\n• Check serum electrolytes, creatine\nkinase\n• Transfer/ refer to nearest district\nhospital/ medical college with\nfacility for NCS & EMG\n• After treatment follow up at CHC\nfor medications and rehabilitation",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "• Check pulse, BP and respiration",
+              "bbox": [
+                588.4805297851562,
+                1347.99462890625,
+                763.6875610351562,
+                1361.4146728515625
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Check pulse, BP and respiration",
+                  "bbox": [
+                    588.4805297851562,
+                    1347.99462890625,
+                    763.6875610351562,
+                    1361.4146728515625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• Check serum electrolytes, creatine",
+              "bbox": [
+                588.4805297851562,
+                1361.194580078125,
+                781.04541015625,
+                1374.6146240234375
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Check serum electrolytes, creatine ",
+                  "bbox": [
+                    588.4805297851562,
+                    1361.194580078125,
+                    781.04541015625,
+                    1374.6146240234375
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "kinase",
+              "bbox": [
+                595.4765014648438,
+                1374.3946533203125,
+                629.9724731445312,
+                1387.814697265625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "kinase",
+                  "bbox": [
+                    595.4765014648438,
+                    1374.3946533203125,
+                    629.9724731445312,
+                    1387.814697265625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• Transfer/ refer to nearest district",
+              "bbox": [
+                588.4805297851562,
+                1387.5946044921875,
+                767.16015625,
+                1401.0146484375
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Transfer/ refer to nearest district ",
+                  "bbox": [
+                    588.4805297851562,
+                    1387.5946044921875,
+                    767.16015625,
+                    1401.0146484375
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "hospital/ medical college with",
+              "bbox": [
+                595.4765014648438,
+                1400.7945556640625,
+                759.6636352539062,
+                1414.214599609375
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "hospital/ medical college with ",
+                  "bbox": [
+                    595.4765014648438,
+                    1400.7945556640625,
+                    759.6636352539062,
+                    1414.214599609375
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "facility for NCS & EMG",
+              "bbox": [
+                595.4765014648438,
+                1413.99462890625,
+                711.4265747070312,
+                1427.4146728515625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "facility for NCS & EMG",
+                  "bbox": [
+                    595.4765014648438,
+                    1413.99462890625,
+                    711.4265747070312,
+                    1427.4146728515625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• After treatment follow up at CHC",
+              "bbox": [
+                588.4805297851562,
+                1427.194580078125,
+                773.9385986328125,
+                1440.6146240234375
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• After treatment follow up at CHC ",
+                  "bbox": [
+                    588.4805297851562,
+                    1427.194580078125,
+                    773.9385986328125,
+                    1440.6146240234375
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "for medications and rehabilitation",
+              "bbox": [
+                595.4765014648438,
+                1440.3946533203125,
+                781.3875122070312,
+                1453.814697265625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "for medications and rehabilitation ",
+                  "bbox": [
+                    595.4765014648438,
+                    1440.3946533203125,
+                    781.3875122070312,
+                    1453.814697265625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B037",
+          "page_number": 1,
+          "bbox": [
+            344.2157897949219,
+            1230.68701171875,
+            461.5638122558594,
+            1270.507080078125
+          ],
+          "text": "Likely to be :\n• Myasthenia gravis or\n• Snake bite",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "Likely to be :",
+              "bbox": [
+                344.2157897949219,
+                1230.68701171875,
+                417.871826171875,
+                1244.1070556640625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "  Likely to be : ",
+                  "bbox": [
+                    344.2157897949219,
+                    1230.68701171875,
+                    417.871826171875,
+                    1244.1070556640625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• Myasthenia gravis or",
+              "bbox": [
+                344.2157897949219,
+                1243.886962890625,
+                461.5638122558594,
+                1257.3070068359375
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Myasthenia gravis or ",
+                  "bbox": [
+                    344.2157897949219,
+                    1243.886962890625,
+                    461.5638122558594,
+                    1257.3070068359375
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• Snake bite",
+              "bbox": [
+                344.2157897949219,
+                1257.0870361328125,
+                406.57586669921875,
+                1270.507080078125
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Snake bite",
+                  "bbox": [
+                    344.2157897949219,
+                    1257.0870361328125,
+                    406.57586669921875,
+                    1270.507080078125
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B038",
+          "page_number": 1,
+          "bbox": [
+            366.1654968261719,
+            754.4951782226562,
+            561.8093872070312,
+            781.1151733398438
+          ],
+          "text": "Likely to be :\nAcute onset peripheral neuropathy",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "Likely to be :",
+              "bbox": [
+                366.1654968261719,
+                754.4951782226562,
+                437.093505859375,
+                767.9151611328125
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "  Likely to be :",
+                  "bbox": [
+                    366.1654968261719,
+                    754.4951782226562,
+                    437.093505859375,
+                    767.9151611328125
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "Acute onset peripheral neuropathy",
+              "bbox": [
+                366.1654968261719,
+                767.6951904296875,
+                561.8093872070312,
+                781.1151733398438
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "  Acute onset peripheral neuropathy ",
+                  "bbox": [
+                    366.1654968261719,
+                    767.6951904296875,
+                    561.8093872070312,
+                    781.1151733398438
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B039",
+          "page_number": 1,
+          "bbox": [
+            372.1604919433594,
+            780.8952026367188,
+            472.76544189453125,
+            794.315185546875
+          ],
+          "text": "(due to toxin/drug)",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "(due to toxin/drug)",
+              "bbox": [
+                372.1604919433594,
+                780.8952026367188,
+                472.76544189453125,
+                794.315185546875
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "(due to toxin/drug)",
+                  "bbox": [
+                    372.1604919433594,
+                    780.8952026367188,
+                    472.76544189453125,
+                    794.315185546875
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B040",
+          "page_number": 1,
+          "bbox": [
+            79.54879760742188,
+            1110.597900390625,
+            205.28981018066406,
+            1125.3599853515625
+          ],
+          "text": "ADMISSION CRITERIA",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "ADMISSION CRITERIA",
+              "bbox": [
+                79.54879760742188,
+                1110.597900390625,
+                205.28981018066406,
+                1125.3599853515625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "ADMISSION CRITERIA ",
+                  "bbox": [
+                    79.54879760742188,
+                    1110.597900390625,
+                    205.28981018066406,
+                    1125.3599853515625
+                  ],
+                  "font": "Montserrat-Bold",
+                  "size": 11.0,
+                  "flags": 20
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B041",
+          "page_number": 1,
+          "bbox": [
+            17.838794708251953,
+            1138.1749267578125,
+            265.4147033691406,
+            1283.5950927734375
+          ],
+          "text": "• Any progressive weakness\n• Unable to walk\n• Unable to swallow or choking while drinking\nwater\n• Evidence of respiratory distress like unable\nto complete sentences, falling serial single\nbreath count, respiratory rate >20 or SaO2\nlevels < 95%\n• Persistent tachycardia >100\n• Fever\n• Bowel and bladder involvement",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "• Any progressive weakness",
+              "bbox": [
+                17.838794708251953,
+                1138.1749267578125,
+                162.95188903808594,
+                1151.594970703125
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Any progressive weakness",
+                  "bbox": [
+                    17.838794708251953,
+                    1138.1749267578125,
+                    162.95188903808594,
+                    1151.594970703125
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• Unable to walk",
+              "bbox": [
+                17.838794708251953,
+                1151.3748779296875,
+                104.31088256835938,
+                1164.794921875
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Unable to walk",
+                  "bbox": [
+                    17.838794708251953,
+                    1151.3748779296875,
+                    104.31088256835938,
+                    1164.794921875
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• Unable to swallow or choking while drinking",
+              "bbox": [
+                17.838794708251953,
+                1164.574951171875,
+                265.4147033691406,
+                1177.9949951171875
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Unable to swallow or choking while drinking ",
+                  "bbox": [
+                    17.838794708251953,
+                    1164.574951171875,
+                    265.4147033691406,
+                    1177.9949951171875
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "water",
+              "bbox": [
+                24.834794998168945,
+                1177.77490234375,
+                55.710697174072266,
+                1191.1949462890625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "water",
+                  "bbox": [
+                    24.834794998168945,
+                    1177.77490234375,
+                    55.710697174072266,
+                    1191.1949462890625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• Evidence of respiratory distress like unable",
+              "bbox": [
+                17.838794708251953,
+                1190.9749755859375,
+                253.6556854248047,
+                1204.39501953125
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Evidence of respiratory distress like unable ",
+                  "bbox": [
+                    17.838794708251953,
+                    1190.9749755859375,
+                    253.6556854248047,
+                    1204.39501953125
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "to complete sentences, falling serial single",
+              "bbox": [
+                24.834794998168945,
+                1204.1749267578125,
+                252.72177124023438,
+                1217.594970703125
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "to complete sentences, falling serial single ",
+                  "bbox": [
+                    24.834794998168945,
+                    1204.1749267578125,
+                    252.72177124023438,
+                    1217.594970703125
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "breath count, respiratory rate >20 or SaO2",
+              "bbox": [
+                24.834794998168945,
+                1217.375,
+                250.5096893310547,
+                1230.7950439453125
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "breath count, respiratory rate >20 or SaO2 ",
+                  "bbox": [
+                    24.834794998168945,
+                    1217.375,
+                    250.5096893310547,
+                    1230.7950439453125
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "levels < 95%",
+              "bbox": [
+                24.834794998168945,
+                1230.574951171875,
+                88.5259017944336,
+                1243.9949951171875
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "levels < 95%",
+                  "bbox": [
+                    24.834794998168945,
+                    1230.574951171875,
+                    88.5259017944336,
+                    1243.9949951171875
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• Persistent tachycardia >100",
+              "bbox": [
+                17.838794708251953,
+                1243.7750244140625,
+                169.36268615722656,
+                1257.195068359375
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Persistent tachycardia >100",
+                  "bbox": [
+                    17.838794708251953,
+                    1243.7750244140625,
+                    169.36268615722656,
+                    1257.195068359375
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• Fever",
+              "bbox": [
+                17.838794708251953,
+                1256.9749755859375,
+                52.03779983520508,
+                1270.39501953125
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Fever",
+                  "bbox": [
+                    17.838794708251953,
+                    1256.9749755859375,
+                    52.03779983520508,
+                    1270.39501953125
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• Bowel and bladder involvement",
+              "bbox": [
+                17.838794708251953,
+                1270.175048828125,
+                194.58680725097656,
+                1283.5950927734375
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Bowel and bladder involvement",
+                  "bbox": [
+                    17.838794708251953,
+                    1270.175048828125,
+                    194.58680725097656,
+                    1283.5950927734375
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B042",
+          "page_number": 1,
+          "bbox": [
+            81.08499908447266,
+            1325.122314453125,
+            208.4210205078125,
+            1339.8843994140625
+          ],
+          "text": "DISCHARGE CRITERIA",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "DISCHARGE CRITERIA",
+              "bbox": [
+                81.08499908447266,
+                1325.122314453125,
+                208.4210205078125,
+                1339.8843994140625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "DISCHARGE CRITERIA ",
+                  "bbox": [
+                    81.08499908447266,
+                    1325.122314453125,
+                    208.4210205078125,
+                    1339.8843994140625
+                  ],
+                  "font": "Montserrat-Bold",
+                  "size": 11.0,
+                  "flags": 20
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B043",
+          "page_number": 1,
+          "bbox": [
+            22.49899673461914,
+            1352.6993408203125,
+            253.2800750732422,
+            1498.1192626953125
+          ],
+          "text": "• Cause of acute paralysis established\n• Progression of weakness has stopped\n• Able to breathe on his own\n• If present care of tracheostomy taught to\ncare giver\n• If not swallowing- Ryles tube in place and\ncare giver has been taught feeding\n• Care of urinary catheter and constant\nturning taught to the patient\n• Caregiver trained for physiotherapy at\nhome",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "• Cause of acute paralysis established",
+              "bbox": [
+                22.49899673461914,
+                1352.6993408203125,
+                219.82579040527344,
+                1366.119384765625
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Cause of acute paralysis established",
+                  "bbox": [
+                    22.49899673461914,
+                    1352.6993408203125,
+                    219.82579040527344,
+                    1366.119384765625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• Progression of weakness has stopped",
+              "bbox": [
+                22.49899673461914,
+                1365.8992919921875,
+                228.02186584472656,
+                1379.3193359375
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Progression of weakness has stopped",
+                  "bbox": [
+                    22.49899673461914,
+                    1365.8992919921875,
+                    228.02186584472656,
+                    1379.3193359375
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• Able to breathe on his own",
+              "bbox": [
+                22.49899673461914,
+                1379.0992431640625,
+                172.9349822998047,
+                1392.519287109375
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Able to breathe on his own",
+                  "bbox": [
+                    22.49899673461914,
+                    1379.0992431640625,
+                    172.9349822998047,
+                    1392.519287109375
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• If present care of tracheostomy taught to",
+              "bbox": [
+                22.49899673461914,
+                1392.29931640625,
+                249.94712829589844,
+                1405.7193603515625
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• If present care of tracheostomy taught to ",
+                  "bbox": [
+                    22.49899673461914,
+                    1392.29931640625,
+                    249.94712829589844,
+                    1405.7193603515625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "care giver",
+              "bbox": [
+                29.494997024536133,
+                1405.499267578125,
+                81.07290649414062,
+                1418.9193115234375
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "care giver",
+                  "bbox": [
+                    29.494997024536133,
+                    1405.499267578125,
+                    81.07290649414062,
+                    1418.9193115234375
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• If not swallowing- Ryles tube in place and",
+              "bbox": [
+                22.49899673461914,
+                1418.6993408203125,
+                253.2800750732422,
+                1432.119384765625
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• If not swallowing- Ryles tube in place and ",
+                  "bbox": [
+                    22.49899673461914,
+                    1418.6993408203125,
+                    253.2800750732422,
+                    1432.119384765625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "care giver has been taught feeding",
+              "bbox": [
+                29.494997024536133,
+                1431.8992919921875,
+                215.00889587402344,
+                1445.3193359375
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "care giver has been taught feeding",
+                  "bbox": [
+                    29.494997024536133,
+                    1431.8992919921875,
+                    215.00889587402344,
+                    1445.3193359375
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• Care of urinary catheter and constant",
+              "bbox": [
+                22.49899673461914,
+                1445.0992431640625,
+                230.6849822998047,
+                1458.519287109375
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Care of urinary catheter and constant ",
+                  "bbox": [
+                    22.49899673461914,
+                    1445.0992431640625,
+                    230.6849822998047,
+                    1458.519287109375
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "turning taught to the patient",
+              "bbox": [
+                29.494997024536133,
+                1458.29931640625,
+                184.84799194335938,
+                1471.7193603515625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "turning taught to the patient",
+                  "bbox": [
+                    29.494997024536133,
+                    1458.29931640625,
+                    184.84799194335938,
+                    1471.7193603515625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• Caregiver trained for physiotherapy at",
+              "bbox": [
+                22.49899673461914,
+                1471.499267578125,
+                232.43507385253906,
+                1484.9193115234375
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Caregiver trained for physiotherapy at ",
+                  "bbox": [
+                    22.49899673461914,
+                    1471.499267578125,
+                    232.43507385253906,
+                    1484.9193115234375
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "home",
+              "bbox": [
+                29.494997024536133,
+                1484.69921875,
+                61.33999252319336,
+                1498.1192626953125
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "home",
+                  "bbox": [
+                    29.494997024536133,
+                    1484.69921875,
+                    61.33999252319336,
+                    1498.1192626953125
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B044",
+          "page_number": 1,
+          "bbox": [
+            196.3062744140625,
+            98.16387939453125,
+            427.46917724609375,
+            123.03257751464844
+          ],
+          "text": "Department of Health Research\nMinistry of Health and Family Welfare, Government of India",
+          "avg_font_size": 8.82,
+          "max_font_size": 8.82,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "Department of Health Research",
+              "bbox": [
+                249.88870239257812,
+                98.16387939453125,
+                373.8884582519531,
+                110.20140075683594
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "Department of Health Research",
+                  "bbox": [
+                    249.88870239257812,
+                    98.16387939453125,
+                    373.8884582519531,
+                    110.20140075683594
+                  ],
+                  "font": "ArialMT",
+                  "size": 8.818699836730957,
+                  "flags": 0
+                }
+              ]
+            },
+            {
+              "text": "Ministry of Health and Family Welfare, Government of India",
+              "bbox": [
+                196.3062744140625,
+                110.99505615234375,
+                427.46917724609375,
+                123.03257751464844
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "Ministry of Health and Family Welfare, Government of India",
+                  "bbox": [
+                    196.3062744140625,
+                    110.99505615234375,
+                    427.46917724609375,
+                    123.03257751464844
+                  ],
+                  "font": "ArialMT",
+                  "size": 8.818699836730957,
+                  "flags": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B045",
+          "page_number": 1,
+          "bbox": [
+            25.068347930908203,
+            21.5657958984375,
+            35.201072692871094,
+            75.71836853027344
+          ],
+          "text": "October/ 2019",
+          "avg_font_size": 7.36,
+          "max_font_size": 7.36,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "October/ 2019",
+              "bbox": [
+                25.068347930908203,
+                21.5657958984375,
+                35.201072692871094,
+                75.71836853027344
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "October/ 2019",
+                  "bbox": [
+                    25.068347930908203,
+                    21.5657958984375,
+                    35.201072692871094,
+                    75.71836853027344
+                  ],
+                  "font": "Montserrat-Black",
+                  "size": 7.363900184631348,
+                  "flags": 20
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B046",
+          "page_number": 1,
+          "bbox": [
+            10.564499855041504,
+            1583.4737548828125,
+            834.8575439453125,
+            1627.8946533203125
+          ],
+          "text": "This STW has been prepared by national experts of India with feasibility considerations for various levels of healthcare system in the country. These broad guidelines are advisory, and are\nbased on expert opinions and available scientiﬁc evidence. There may be variations in the management of an individual patient based on his/her speciﬁc condition, as decided by the\ntreating physician. There will be no indemnity for direct or indirect consequences. Kindly visit our web portal (stw.icmr.org.in) for more information.\n© Indian Council of Medical Research and Department of Health Research, Ministry of Health & Family Welfare, Government of India.",
+          "avg_font_size": 9.14,
+          "max_font_size": 10.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "This STW has been prepared by national experts of India with feasibility considerations for various levels of healthcare system in the country. These broad guidelines are advisory, and are",
+              "bbox": [
+                10.564499855041504,
+                1583.4737548828125,
+                834.8575439453125,
+                1594.4537353515625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "This STW has been prepared by national experts of India with feasibility considerations for various levels of healthcare system in the country. These broad guidelines are advisory, and are ",
+                  "bbox": [
+                    10.564499855041504,
+                    1583.4737548828125,
+                    834.8575439453125,
+                    1594.4537353515625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 9.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "based on expert opinions and available scientiﬁc evidence. There may be variations in the management of an individual patient based on his/her speciﬁc condition, as decided by the",
+              "bbox": [
+                10.564499855041504,
+                1594.4716796875,
+                820.9606323242188,
+                1605.45166015625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "based on expert opinions and available scientiﬁc evidence. There may be variations in the management of an individual patient based on his/her speciﬁc condition, as decided by the ",
+                  "bbox": [
+                    10.564499855041504,
+                    1594.4716796875,
+                    820.9606323242188,
+                    1605.45166015625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 9.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "treating physician. There will be no indemnity for direct or indirect consequences. Kindly visit our web portal (stw.icmr.org.in) for more information.",
+              "bbox": [
+                10.564499855041504,
+                1604.2366943359375,
+                673.3505859375,
+                1616.6207275390625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "treating physician. There will be no indemnity for direct or indirect consequences. Kindly visit our web portal (",
+                  "bbox": [
+                    10.564499855041504,
+                    1605.4697265625,
+                    498.6155090332031,
+                    1616.44970703125
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 9.0,
+                  "flags": 4
+                },
+                {
+                  "text": "stw.icmr.org.in",
+                  "bbox": [
+                    498.6155090332031,
+                    1604.2366943359375,
+                    572.1365356445312,
+                    1616.6207275390625
+                  ],
+                  "font": "Montserrat-Black",
+                  "size": 9.0,
+                  "flags": 4
+                },
+                {
+                  "text": ") for more information.",
+                  "bbox": [
+                    572.1365356445312,
+                    1605.4697265625,
+                    673.3505859375,
+                    1616.44970703125
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 9.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "© Indian Council of Medical Research and Department of Health Research, Ministry of Health & Family Welfare, Government of India.",
+              "bbox": [
+                10.564499855041504,
+                1614.1346435546875,
+                599.3685913085938,
+                1627.8946533203125
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "©",
+                  "bbox": [
+                    10.564499855041504,
+                    1614.1346435546875,
+                    18.204500198364258,
+                    1627.8946533203125
+                  ],
+                  "font": "Montserrat-Black",
+                  "size": 10.0,
+                  "flags": 20
+                },
+                {
+                  "text": " Indian Council of Medical Research and Department of Health Research, Ministry of Health & Family Welfare, Government of India.",
+                  "bbox": [
+                    18.204599380493164,
+                    1616.4737548828125,
+                    599.3685913085938,
+                    1627.4537353515625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 9.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B047",
+          "page_number": 1,
+          "bbox": [
+            27.097145080566406,
+            423.0245056152344,
+            811.1555786132812,
+            1207.0828857421875
+          ],
+          "text": "stw.icmr.org.in",
+          "avg_font_size": 141.98,
+          "max_font_size": 141.98,
+          "is_heading_candidate": true,
+          "lines": [
+            {
+              "text": "stw.icmr.org.in",
+              "bbox": [
+                27.097145080566406,
+                423.0245056152344,
+                811.1555786132812,
+                1207.0828857421875
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "stw.icmr.org.in",
+                  "bbox": [
+                    27.097145080566406,
+                    423.0245056152344,
+                    811.1555786132812,
+                    1207.0828857421875
+                  ],
+                  "font": "Arial",
+                  "size": 141.97515869140625,
+                  "flags": 0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

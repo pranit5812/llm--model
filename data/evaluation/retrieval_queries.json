@@ -1,0 +1,368 @@
+{
+  "description": "ICMR STW Phase 4 retrieval evaluation dataset. 30 queries covering all entity types, retrieval modes, and abstention cases. Ground truth is based on the actual ICMR cardiology corpus (ICMR-CARD-001 through ICMR-CARD-007). No medical information is invented.",
+  "version": "1.0",
+  "created": "2026-09-12",
+  "total_queries": 36,
+  "queries": [
+    {
+      "query_id": "Q001",
+      "query": "STEMI aspirin loading dose",
+      "category": "medication_exact",
+      "expected_document_ids": ["ICMR-CARD-006", "ICMR-CARD-007"],
+      "expected_entity_types": ["medication"],
+      "filters": {},
+      "should_return_evidence": true,
+      "notes": "STEMI STW explicitly lists aspirin 325mg loading dose"
+    },
+    {
+      "query_id": "Q002",
+      "query": "thrombolysis absolute contraindications",
+      "category": "contraindication_exact",
+      "expected_document_ids": ["ICMR-CARD-006", "ICMR-CARD-007"],
+      "expected_entity_types": ["contraindication"],
+      "filters": {},
+      "should_return_evidence": true,
+      "notes": "STEMI STW lists absolute contraindications to thrombolysis"
+    },
+    {
+      "query_id": "Q003",
+      "query": "12 lead ECG ST elevation diagnosis",
+      "category": "investigation_exact",
+      "expected_document_ids": ["ICMR-CARD-006", "ICMR-CARD-007"],
+      "expected_entity_types": ["investigation", "diagnostic_criterion"],
+      "filters": {},
+      "should_return_evidence": true,
+      "notes": "ECG with ST elevation is the primary diagnostic tool for STEMI"
+    },
+    {
+      "query_id": "Q004",
+      "query": "atrial fibrillation anticoagulation warfarin",
+      "category": "medication_exact",
+      "expected_document_ids": ["ICMR-CARD-001", "ICMR-CARD-007"],
+      "expected_entity_types": ["medication"],
+      "filters": {},
+      "should_return_evidence": true,
+      "notes": "AF STW covers oral anticoagulation including warfarin"
+    },
+    {
+      "query_id": "Q005",
+      "query": "when to transfer STEMI patient to PCI centre",
+      "category": "referral_criterion",
+      "expected_document_ids": ["ICMR-CARD-006", "ICMR-CARD-007"],
+      "expected_entity_types": ["referral_criterion", "tier_action"],
+      "filters": {},
+      "should_return_evidence": true,
+      "notes": "STEMI STW specifies transfer within 120 minutes to PCI centre"
+    },
+    {
+      "query_id": "Q006",
+      "query": "heart failure management at primary health centre",
+      "category": "tier_action",
+      "expected_document_ids": ["ICMR-CARD-003", "ICMR-CARD-007"],
+      "expected_entity_types": ["tier_action"],
+      "filters": {},
+      "should_return_evidence": true,
+      "notes": "Heart Failure STW specifies PHC management actions"
+    },
+    {
+      "query_id": "Q007",
+      "query": "stable angina nitrate sublingual dose",
+      "category": "medication_exact",
+      "expected_document_ids": ["ICMR-CARD-005", "ICMR-CARD-007"],
+      "expected_entity_types": ["medication"],
+      "filters": {},
+      "should_return_evidence": true,
+      "notes": "Stable Angina STW lists sublingual nitrates for symptomatic relief"
+    },
+    {
+      "query_id": "Q008",
+      "query": "bradyarrhythmia pacemaker indication",
+      "category": "referral_criterion",
+      "expected_document_ids": ["ICMR-CARD-002", "ICMR-CARD-007"],
+      "expected_entity_types": ["referral_criterion", "tier_action"],
+      "filters": {},
+      "should_return_evidence": true,
+      "notes": "Bradyarrhythmia STW covers pacemaker referral criteria"
+    },
+    {
+      "query_id": "Q009",
+      "query": "NSTEMI heparin anticoagulation treatment",
+      "category": "medication_exact",
+      "expected_document_ids": ["ICMR-CARD-004", "ICMR-CARD-007"],
+      "expected_entity_types": ["medication"],
+      "filters": {},
+      "should_return_evidence": true,
+      "notes": "NSTEMI STW specifies anticoagulation with heparin"
+    },
+    {
+      "query_id": "Q010",
+      "query": "myocardial infarction chest pain presentation",
+      "category": "synonym_query",
+      "expected_document_ids": ["ICMR-CARD-006", "ICMR-CARD-004", "ICMR-CARD-007"],
+      "expected_entity_types": ["clinical_presentation", "diagnostic_criterion"],
+      "filters": {},
+      "should_return_evidence": true,
+      "notes": "MI is a synonym for STEMI/NSTEMI; clinical presentation coverage"
+    },
+    {
+      "query_id": "Q011",
+      "query": "patient with irregular pulse and palpitations electrocardiogram",
+      "category": "clinical_description",
+      "expected_document_ids": ["ICMR-CARD-001", "ICMR-CARD-002", "ICMR-CARD-007"],
+      "expected_entity_types": ["clinical_presentation", "investigation"],
+      "filters": {},
+      "should_return_evidence": true,
+      "notes": "Description matches AF and bradyarrhythmia presentations"
+    },
+    {
+      "query_id": "Q012",
+      "query": "what blood tests are needed for heart failure diagnosis",
+      "category": "investigation_question",
+      "expected_document_ids": ["ICMR-CARD-003", "ICMR-CARD-007"],
+      "expected_entity_types": ["investigation"],
+      "filters": {},
+      "should_return_evidence": true,
+      "notes": "Heart Failure STW lists investigations including BNP, renal function"
+    },
+    {
+      "query_id": "Q013",
+      "query": "ticagrelor dose STEMI antiplatelet",
+      "category": "medication_exact",
+      "expected_document_ids": ["ICMR-CARD-006", "ICMR-CARD-007"],
+      "expected_entity_types": ["medication"],
+      "filters": {"condition": "STEMI"},
+      "should_return_evidence": true,
+      "notes": "STEMI STW includes ticagrelor antiplatelet dosing"
+    },
+    {
+      "query_id": "Q014",
+      "query": "contraindications to beta blockers in heart failure",
+      "category": "contraindication_question",
+      "expected_document_ids": ["ICMR-CARD-003", "ICMR-CARD-007"],
+      "expected_entity_types": ["contraindication", "medication"],
+      "filters": {},
+      "should_return_evidence": true,
+      "notes": "Heart Failure STW includes beta-blocker cautions"
+    },
+    {
+      "query_id": "Q015",
+      "query": "STEMI door to needle time thrombolytic therapy",
+      "category": "flowchart_decision",
+      "expected_document_ids": ["ICMR-CARD-006", "ICMR-CARD-007"],
+      "expected_entity_types": ["flowchart_node", "referral_criterion"],
+      "filters": {},
+      "should_return_evidence": true,
+      "notes": "STEMI algorithm covers door-to-needle time for thrombolysis"
+    },
+    {
+      "query_id": "Q016",
+      "query": "echocardiography ejection fraction heart failure investigation",
+      "category": "investigation_exact",
+      "expected_document_ids": ["ICMR-CARD-003", "ICMR-CARD-007"],
+      "expected_entity_types": ["investigation"],
+      "filters": {},
+      "should_return_evidence": true,
+      "notes": "Heart Failure STW includes echocardiogram for EF measurement"
+    },
+    {
+      "query_id": "Q017",
+      "query": "CHC district hospital STEMI management steps",
+      "category": "tier_action",
+      "expected_document_ids": ["ICMR-CARD-006", "ICMR-CARD-007"],
+      "expected_entity_types": ["tier_action"],
+      "filters": {"condition": "STEMI"},
+      "should_return_evidence": true,
+      "notes": "STEMI STW has tiered management for CHC and district hospital"
+    },
+    {
+      "query_id": "Q018",
+      "query": "digoxin dose atrial fibrillation rate control",
+      "category": "medication_exact",
+      "expected_document_ids": ["ICMR-CARD-001", "ICMR-CARD-007"],
+      "expected_entity_types": ["medication"],
+      "filters": {},
+      "should_return_evidence": true,
+      "notes": "AF STW includes digoxin for rate control"
+    },
+    {
+      "query_id": "Q019",
+      "query": "streptokinase thrombolysis dose STEMI weight based",
+      "category": "medication_exact",
+      "expected_document_ids": ["ICMR-CARD-006", "ICMR-CARD-007"],
+      "expected_entity_types": ["medication"],
+      "filters": {},
+      "should_return_evidence": true,
+      "notes": "STEMI STW lists streptokinase dosing regimen"
+    },
+    {
+      "query_id": "Q020",
+      "query": "NSTEMI versus STEMI differentiation ECG criteria",
+      "category": "diagnostic_criterion",
+      "expected_document_ids": ["ICMR-CARD-006", "ICMR-CARD-004", "ICMR-CARD-007"],
+      "expected_entity_types": ["diagnostic_criterion"],
+      "filters": {},
+      "should_return_evidence": true,
+      "notes": "Both STEMI and NSTEMI STWs cover ECG differentiation"
+    },
+    {
+      "query_id": "Q021",
+      "query": "referral criteria for complete heart block",
+      "category": "referral_criterion",
+      "expected_document_ids": ["ICMR-CARD-002", "ICMR-CARD-007"],
+      "expected_entity_types": ["referral_criterion"],
+      "filters": {},
+      "should_return_evidence": true,
+      "notes": "Bradyarrhythmia STW specifies complete heart block referral"
+    },
+    {
+      "query_id": "Q022",
+      "query": "oxygen therapy indication cardiac emergency",
+      "category": "tier_action",
+      "expected_document_ids": ["ICMR-CARD-006", "ICMR-CARD-004", "ICMR-CARD-003", "ICMR-CARD-007"],
+      "expected_entity_types": ["tier_action", "medication"],
+      "filters": {},
+      "should_return_evidence": true,
+      "notes": "Multiple STWs mention oxygen therapy as first-line measure"
+    },
+    {
+      "query_id": "Q023",
+      "query": "stable angina exercise stress test investigation",
+      "category": "investigation_question",
+      "expected_document_ids": ["ICMR-CARD-005", "ICMR-CARD-007"],
+      "expected_entity_types": ["investigation"],
+      "filters": {"condition": "Stable Angina"},
+      "should_return_evidence": true,
+      "notes": "Stable Angina STW includes exercise stress testing"
+    },
+    {
+      "query_id": "Q024",
+      "query": "DOAC versus warfarin non-valvular atrial fibrillation",
+      "category": "medication_comparison",
+      "expected_document_ids": ["ICMR-CARD-001", "ICMR-CARD-007"],
+      "expected_entity_types": ["medication", "contraindication"],
+      "filters": {},
+      "should_return_evidence": true,
+      "notes": "AF STW covers anticoagulation choice"
+    },
+    {
+      "query_id": "Q025",
+      "query": "loop diuretic furosemide heart failure dose",
+      "category": "medication_exact",
+      "expected_document_ids": ["ICMR-CARD-003", "ICMR-CARD-007"],
+      "expected_entity_types": ["medication"],
+      "filters": {},
+      "should_return_evidence": true,
+      "notes": "Heart Failure STW includes furosemide dosing"
+    },
+    {
+      "query_id": "Q026",
+      "query": "dengue fever treatment protocol",
+      "category": "negative_out_of_scope",
+      "expected_document_ids": [],
+      "expected_entity_types": [],
+      "filters": {},
+      "should_return_evidence": false,
+      "notes": "Dengue is not in the ICMR cardiology corpus. Should return NO_RELIABLE_ICMR_EVIDENCE."
+    },
+    {
+      "query_id": "Q027",
+      "query": "antibiotic for pneumonia chest infection",
+      "category": "negative_out_of_scope",
+      "expected_document_ids": [],
+      "expected_entity_types": [],
+      "filters": {},
+      "should_return_evidence": false,
+      "notes": "Pneumonia is not in the cardiology corpus. Should return NO_RELIABLE_ICMR_EVIDENCE."
+    },
+    {
+      "query_id": "Q028",
+      "query": "diabetes mellitus insulin dose titration",
+      "category": "negative_out_of_scope",
+      "expected_document_ids": [],
+      "expected_entity_types": [],
+      "filters": {},
+      "should_return_evidence": false,
+      "notes": "Diabetes is not in cardiology corpus. Should abstain."
+    },
+    {
+      "query_id": "Q029",
+      "query": "hip fracture orthopaedic surgical management",
+      "category": "negative_out_of_scope",
+      "expected_document_ids": [],
+      "expected_entity_types": [],
+      "filters": {},
+      "should_return_evidence": false,
+      "notes": "Orthopaedics is not in cardiology corpus. Should abstain."
+    },
+    {
+      "query_id": "Q030",
+      "query": "xyzzyqrst clinical syndrome",
+      "category": "negative_nonsense",
+      "expected_document_ids": [],
+      "expected_entity_types": [],
+      "filters": {},
+      "should_return_evidence": false,
+      "notes": "Nonsense query. Should return NO_RELIABLE_ICMR_EVIDENCE."
+    },
+    {
+      "query_id": "Q031",
+      "query": "AF cardioversion electrical shock haemodynamic instability",
+      "category": "clinical_description",
+      "expected_document_ids": ["ICMR-CARD-001", "ICMR-CARD-007"],
+      "expected_entity_types": ["clinical_presentation", "tier_action"],
+      "filters": {},
+      "should_return_evidence": true,
+      "notes": "AF STW covers haemodynamically unstable AF requiring cardioversion"
+    },
+    {
+      "query_id": "Q032",
+      "query": "STEMI primary PCI angioplasty indication",
+      "category": "flowchart_decision",
+      "expected_document_ids": ["ICMR-CARD-006", "ICMR-CARD-007"],
+      "expected_entity_types": ["flowchart_node", "referral_criterion"],
+      "filters": {"condition": "STEMI"},
+      "should_return_evidence": true,
+      "notes": "STEMI STW flowchart covers primary PCI decision"
+    },
+    {
+      "query_id": "Q033",
+      "query": "troponin cardiac biomarker investigation NSTEMI",
+      "category": "investigation_exact",
+      "expected_document_ids": ["ICMR-CARD-004", "ICMR-CARD-007"],
+      "expected_entity_types": ["investigation"],
+      "filters": {"condition": "NSTEMI"},
+      "should_return_evidence": true,
+      "notes": "NSTEMI STW includes troponin as key investigation"
+    },
+    {
+      "query_id": "Q034",
+      "query": "recent stroke contraindication to thrombolysis STEMI",
+      "category": "contraindication_exact",
+      "expected_document_ids": ["ICMR-CARD-006", "ICMR-CARD-007"],
+      "expected_entity_types": ["contraindication"],
+      "filters": {"condition": "STEMI"},
+      "should_return_evidence": true,
+      "notes": "STEMI STW: prior stroke is a contraindication to thrombolysis"
+    },
+    {
+      "query_id": "Q035",
+      "query": "CHA2DS2-VASc score stroke risk atrial fibrillation",
+      "category": "diagnostic_criterion",
+      "expected_document_ids": ["ICMR-CARD-001", "ICMR-CARD-007"],
+      "expected_entity_types": ["diagnostic_criterion"],
+      "filters": {},
+      "should_return_evidence": true,
+      "notes": "AF STW references CHA2DS2-VASc for anticoagulation decisions"
+    },
+    {
+      "query_id": "Q036",
+      "query": "clopidogrel prasugrel antiplatelet comparison dose",
+      "category": "medication_comparison",
+      "expected_document_ids": ["ICMR-CARD-006", "ICMR-CARD-004", "ICMR-CARD-007"],
+      "expected_entity_types": ["medication"],
+      "filters": {},
+      "should_return_evidence": true,
+      "notes": "STEMI and NSTEMI STWs cover P2Y12 antiplatelet choices"
+    }
+  ]
+}

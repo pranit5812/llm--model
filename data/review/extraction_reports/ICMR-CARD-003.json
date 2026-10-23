@@ -1,0 +1,73 @@
+{
+  "document_id": "ICMR-CARD-003",
+  "condition": "Heart Failure",
+  "total_pages": 1,
+  "text_blocks_count": 63,
+  "sections_count": 32,
+  "tables_detected": 1,
+  "tables_extracted": 1,
+  "flowcharts_count": 0,
+  "medications_count": 17,
+  "investigations_count": 6,
+  "contraindications_count": 0,
+  "referral_rules_count": 0,
+  "provenance_coverage_percent": 100.0,
+  "manual_review_items_count": 9,
+  "manual_review_details": [
+    {
+      "entity": "medication",
+      "raw_text": "Increase diuretics and reduce carvedilol to manage",
+      "reason": "Medication 'Carvedilol' mentioned in workflow without explicit dosage or units in source text",
+      "page": 1
+    },
+    {
+      "entity": "medication",
+      "raw_text": "Likely CHF: Decongest with furosemide",
+      "reason": "Medication 'Furosemide' mentioned in workflow without explicit dosage or units in source text",
+      "page": 1
+    },
+    {
+      "entity": "medication",
+      "raw_text": "Optimise therapy with furosemide/ARNI/",
+      "reason": "Medication 'Furosemide' mentioned in workflow without explicit dosage or units in source text",
+      "page": 1
+    },
+    {
+      "entity": "medication",
+      "raw_text": "spironolactone/ O2 and stabilize",
+      "reason": "Medication 'Spironolactone' mentioned in workflow without explicit dosage or units in source text",
+      "page": 1
+    },
+    {
+      "entity": "medication",
+      "raw_text": ". Optimize therapy with furosemide, ARNI, β  blockers (HFrEF,",
+      "reason": "Medication 'Furosemide' mentioned in workflow without explicit dosage or units in source text",
+      "page": 1
+    },
+    {
+      "entity": "medication",
+      "raw_text": "HFMrEF, HFpEF) spironolactone and O2",
+      "reason": "Medication 'Spironolactone' mentioned in workflow without explicit dosage or units in source text",
+      "page": 1
+    },
+    {
+      "entity": "medication",
+      "raw_text": "Decongest with intravenous furosemide",
+      "reason": "Medication 'Furosemide' mentioned in workflow without explicit dosage or units in source text",
+      "page": 1
+    },
+    {
+      "entity": "medication",
+      "raw_text": "Start ARNI and spironolactone orally",
+      "reason": "Medication 'Arni' mentioned in workflow without explicit dosage or units in source text",
+      "page": 1
+    },
+    {
+      "entity": "medication",
+      "raw_text": "prevention with aspirin",
+      "reason": "Medication 'Aspirin' mentioned in workflow without explicit dosage or units in source text",
+      "page": 1
+    }
+  ],
+  "extraction_errors": []
+}

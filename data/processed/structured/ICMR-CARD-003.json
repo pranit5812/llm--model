@@ -1,0 +1,1013 @@
+{
+  "metadata": {
+    "document_id": "ICMR-CARD-003",
+    "title": "Heart Failure",
+    "specialty": "Cardiology",
+    "condition": "Heart Failure",
+    "icd_11_code": null,
+    "volume": "Volume 1",
+    "edition": "1.0",
+    "source_organization": "Indian Council of Medical Research (ICMR)",
+    "source_url": "https://www.icmr.gov.in/icmrobject/uploads/STWs/1768823345_cardiology_1-3.pdf",
+    "local_path": "data/raw/cardiology/1768823345_cardiology_1-3.pdf",
+    "total_pages": 1,
+    "document_hash": "bc975cec3871945972a0c2518f9735ed6b28e5027f0f2736506f27fc9c569a8a"
+  },
+  "clinical_presentation": null,
+  "diagnostic_criteria": [],
+  "investigations": [
+    {
+      "investigation_id": "INV_P1_01",
+      "name": "Hemogram, ESR",
+      "tier": "BASIC",
+      "modality": "Laboratory / Diagnostic Imaging",
+      "indication": "Workup for Heart Failure",
+      "target_findings": null,
+      "source": {
+        "document_id": "ICMR-CARD-003",
+        "document_name": "Heart Failure",
+        "page_number": 1,
+        "section": "BASIC INVESTIGATIONS",
+        "source_text_reference": "• Hemogram, ESR",
+        "bounding_box": [
+          14.691399574279785,
+          1091.03271484375,
+          112.30431365966797,
+          1105.3876953125
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "investigation_id": "INV_P1_02",
+      "name": "Blood sugar",
+      "tier": "BASIC",
+      "modality": "Laboratory / Diagnostic Imaging",
+      "indication": "Workup for Heart Failure",
+      "target_findings": null,
+      "source": {
+        "document_id": "ICMR-CARD-003",
+        "document_name": "Heart Failure",
+        "page_number": 1,
+        "section": "BASIC INVESTIGATIONS",
+        "source_text_reference": "• Blood sugar",
+        "bounding_box": [
+          14.691399574279785,
+          1104.2327880859375,
+          87.43440246582031,
+          1118.5877685546875
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "investigation_id": "INV_P1_03",
+      "name": "Urine examination",
+      "tier": "BASIC",
+      "modality": "Laboratory / Diagnostic Imaging",
+      "indication": "Workup for Heart Failure",
+      "target_findings": null,
+      "source": {
+        "document_id": "ICMR-CARD-003",
+        "document_name": "Heart Failure",
+        "page_number": 1,
+        "section": "BASIC INVESTIGATIONS",
+        "source_text_reference": "• Urine examination",
+        "bounding_box": [
+          14.691399574279785,
+          1117.4327392578125,
+          122.87749481201172,
+          1131.7877197265625
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "investigation_id": "INV_P1_04",
+      "name": "Urea/ Creatinine",
+      "tier": "BASIC",
+      "modality": "Laboratory / Diagnostic Imaging",
+      "indication": "Workup for Heart Failure",
+      "target_findings": null,
+      "source": {
+        "document_id": "ICMR-CARD-003",
+        "document_name": "Heart Failure",
+        "page_number": 1,
+        "section": "BASIC INVESTIGATIONS",
+        "source_text_reference": "• Urea/ Creatinine",
+        "bounding_box": [
+          14.691400527954102,
+          1130.6326904296875,
+          110.42440032958984,
+          1144.9876708984375
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "investigation_id": "INV_P1_05",
+      "name": "Sodium/ Potassium",
+      "tier": "BASIC",
+      "modality": "Laboratory / Diagnostic Imaging",
+      "indication": "Workup for Heart Failure",
+      "target_findings": null,
+      "source": {
+        "document_id": "ICMR-CARD-003",
+        "document_name": "Heart Failure",
+        "page_number": 1,
+        "section": "BASIC INVESTIGATIONS",
+        "source_text_reference": "• Sodium/ Potassium",
+        "bounding_box": [
+          14.691400527954102,
+          1143.832763671875,
+          128.93740844726562,
+          1158.187744140625
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "investigation_id": "INV_P1_06",
+      "name": "Chest X-ray PA view",
+      "tier": "BASIC",
+      "modality": "Laboratory / Diagnostic Imaging",
+      "indication": "Workup for Heart Failure",
+      "target_findings": null,
+      "source": {
+        "document_id": "ICMR-CARD-003",
+        "document_name": "Heart Failure",
+        "page_number": 1,
+        "section": "BASIC INVESTIGATIONS",
+        "source_text_reference": "• Chest X-ray PA view",
+        "bounding_box": [
+          14.691400527954102,
+          1170.2327880859375,
+          129.6304168701172,
+          1184.5877685546875
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    }
+  ],
+  "tier_management": [
+    {
+      "tier_id": "TIER_P1_01",
+      "tier": "DISTRICT_HOSPITAL",
+      "general_measures": [
+        "MANAGEMENT AT DISTRICT HOSPITAL",
+        "• Admit and re-assess",
+        "• Optimise therapy with furosemide/ARNI/",
+        "spironolactone/ O2 and stabilize",
+        "• Consider non-invasive ventilation if marked respiratory",
+        "distress and O2 saturation < 90%"
+      ],
+      "investigations_performed": [],
+      "medications_initiated": [],
+      "referral_actions": [],
+      "source": {
+        "document_id": "ICMR-CARD-003",
+        "document_name": "Heart Failure",
+        "page_number": 1,
+        "section": "MANAGEMENT AT DISTRICT HOSPITAL",
+        "source_text_reference": "MANAGEMENT AT DISTRICT HOSPITAL\n• Admit and re-assess\n• Optimise therapy with furosemide/ARNI/\nspironolactone/ O2 and stabilize\n• Consider non-invasive ventilation if marked respiratory\ndistress and O2 saturation < 90%\n• Echocardiography:  conﬁrm diagnosis of HFrEF: LV\nejection fraction < 35%\n• Search for etiological diagnosis\n• Consider β  blockers after decongestion\n• Refer back to CHC/ PHC after stabilization",
+        "bounding_box": null,
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    }
+  ],
+  "medications": [
+    {
+      "medication_id": "MED_P1_01",
+      "generic_name": "Spironolactone",
+      "drug_class": null,
+      "dosage": "Dose 25-50 mg once daily PO",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-003",
+        "document_name": "Heart Failure",
+        "page_number": 1,
+        "section": "SPIRONOLACTONE",
+        "source_text_reference": "• Dose 25-50 mg once daily PO",
+        "bounding_box": [
+          12.288299560546875,
+          1338.5352783203125,
+          180.31333923339844,
+          1352.8902587890625
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "medication_id": "MED_P1_02",
+      "generic_name": "Arni",
+      "drug_class": null,
+      "dosage": "Dose 50 to 200 mg twice daily PO",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-003",
+        "document_name": "Heart Failure",
+        "page_number": 1,
+        "section": "ARNI",
+        "source_text_reference": "• Dose 50 to 200 mg twice daily PO",
+        "bounding_box": [
+          594.8812866210938,
+          1232.2642822265625,
+          786.5343017578125,
+          1246.6192626953125
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "medication_id": "MED_P1_03",
+      "generic_name": "Arni",
+      "drug_class": null,
+      "dosage": "creatinine less than 2.5 mg/dl",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-003",
+        "document_name": "Heart Failure",
+        "page_number": 1,
+        "section": "ARNI",
+        "source_text_reference": "creatinine less than 2.5 mg/dl",
+        "bounding_box": [
+          601.8772583007812,
+          1280.2791748046875,
+          762.4993286132812,
+          1294.6341552734375
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "medication_id": "MED_P1_04",
+      "generic_name": "Furosemide",
+      "drug_class": null,
+      "dosage": "Dose 20-80 mg daily PO",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-003",
+        "document_name": "Heart Failure",
+        "page_number": 1,
+        "section": "FUROSEMIDE",
+        "source_text_reference": "• Dose 20-80 mg daily PO",
+        "bounding_box": [
+          12.44227409362793,
+          1233.8153076171875,
+          152.373291015625,
+          1248.1702880859375
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "medication_id": "MED_P1_05",
+      "generic_name": "Furosemide",
+      "drug_class": null,
+      "dosage": "Intravenous 10-80 mg SOS in acute stage",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-003",
+        "document_name": "Heart Failure",
+        "page_number": 1,
+        "section": "FUROSEMIDE",
+        "source_text_reference": "• Intravenous 10-80 mg SOS in acute stage",
+        "bounding_box": [
+          12.44227409362793,
+          1248.8192138671875,
+          245.17922973632812,
+          1263.1741943359375
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "medication_id": "MED_P1_06",
+      "generic_name": "Carvedilol",
+      "drug_class": null,
+      "dosage": "CARVEDILOL Dose 3.125 to 25 mg twice daily PO",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-003",
+        "document_name": "Heart Failure",
+        "page_number": 1,
+        "section": "FUROSEMIDE",
+        "source_text_reference": "• CARVEDILOL Dose 3.125 to 25 mg twice daily PO",
+        "bounding_box": [
+          269.9412841796875,
+          1215.8082275390625,
+          526.0862426757812,
+          1230.1632080078125
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "medication_id": "MED_P1_07",
+      "generic_name": "Metoprolol",
+      "drug_class": null,
+      "dosage": "METOPROLOL 12.5-50mg twice daily PO",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-003",
+        "document_name": "Heart Failure",
+        "page_number": 1,
+        "section": "FUROSEMIDE",
+        "source_text_reference": "METOPROLOL 12.5-50mg twice daily PO",
+        "bounding_box": [
+          275.7052917480469,
+          1230.812255859375,
+          479.7994079589844,
+          1245.167236328125
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "medication_id": "MED_P1_08",
+      "generic_name": "Furosemide",
+      "drug_class": null,
+      "dosage": "BISOPROLOL 1.25-10mg once a day PO",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-003",
+        "document_name": "Heart Failure",
+        "page_number": 1,
+        "section": "FUROSEMIDE",
+        "source_text_reference": "BISOPROLOL 1.25-10mg once a day PO",
+        "bounding_box": [
+          275.7052917480469,
+          1245.8162841796875,
+          473.7272644042969,
+          1260.1712646484375
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "medication_id": "MED_P1_09",
+      "generic_name": "Carvedilol",
+      "drug_class": null,
+      "dosage": "Increase diuretics and reduce carvedilol to manage (Dose not specified in text)",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-003",
+        "document_name": "Heart Failure",
+        "page_number": 1,
+        "section": "PRECAUTIONS",
+        "source_text_reference": "• Increase diuretics and reduce carvedilol to manage",
+        "bounding_box": [
+          269.9412841796875,
+          1350.84423828125,
+          557.6551513671875,
+          1365.19921875
+        ],
+        "extraction_type": "text",
+        "review_status": "needs_review",
+        "requires_manual_review": true,
+        "review_notes": "Medication 'Carvedilol' mentioned in workflow without explicit dosage or units in source text",
+        "normalized_term": null
+      }
+    },
+    {
+      "medication_id": "MED_P1_10",
+      "generic_name": "Furosemide",
+      "drug_class": null,
+      "dosage": "Likely CHF: Decongest with furosemide (Dose not specified in text)",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-003",
+        "document_name": "Heart Failure",
+        "page_number": 1,
+        "section": "COMMON DRUGS AND DOSAGE FOR CHF",
+        "source_text_reference": "• Likely CHF: Decongest with furosemide",
+        "bounding_box": [
+          52.01559829711914,
+          557.984619140625,
+          275.0186462402344,
+          572.3396606445312
+        ],
+        "extraction_type": "text",
+        "review_status": "needs_review",
+        "requires_manual_review": true,
+        "review_notes": "Medication 'Furosemide' mentioned in workflow without explicit dosage or units in source text",
+        "normalized_term": null
+      }
+    },
+    {
+      "medication_id": "MED_P1_11",
+      "generic_name": "Furosemide",
+      "drug_class": null,
+      "dosage": "Optimise therapy with furosemide/ARNI/ (Dose not specified in text)",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-003",
+        "document_name": "Heart Failure",
+        "page_number": 1,
+        "section": "MANAGEMENT AT DISTRICT HOSPITAL",
+        "source_text_reference": "• Optimise therapy with furosemide/ARNI/",
+        "bounding_box": [
+          50.97949981689453,
+          724.359130859375,
+          281.7826232910156,
+          738.7141723632812
+        ],
+        "extraction_type": "text",
+        "review_status": "needs_review",
+        "requires_manual_review": true,
+        "review_notes": "Medication 'Furosemide' mentioned in workflow without explicit dosage or units in source text",
+        "normalized_term": null
+      }
+    },
+    {
+      "medication_id": "MED_P1_12",
+      "generic_name": "Spironolactone",
+      "drug_class": null,
+      "dosage": "spironolactone/ O2 and stabilize (Dose not specified in text)",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-003",
+        "document_name": "Heart Failure",
+        "page_number": 1,
+        "section": "MANAGEMENT AT DISTRICT HOSPITAL",
+        "source_text_reference": "spironolactone/ O2 and stabilize",
+        "bounding_box": [
+          56.743499755859375,
+          737.5591430664062,
+          233.01638793945312,
+          751.9141845703125
+        ],
+        "extraction_type": "text",
+        "review_status": "needs_review",
+        "requires_manual_review": true,
+        "review_notes": "Medication 'Spironolactone' mentioned in workflow without explicit dosage or units in source text",
+        "normalized_term": null
+      }
+    },
+    {
+      "medication_id": "MED_P1_13",
+      "generic_name": "Furosemide",
+      "drug_class": null,
+      "dosage": ". Optimize therapy with furosemide, ARNI, β  blockers (HFrEF, (Dose not specified in text)",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-003",
+        "document_name": "Heart Failure",
+        "page_number": 1,
+        "section": "MANAGEMENT AT TERTIARY HOSPITAL",
+        "source_text_reference": "3. Optimize therapy with furosemide, ARNI, β  blockers (HFrEF,",
+        "bounding_box": [
+          427.8837890625,
+          806.6085815429688,
+          767.716796875,
+          820.963623046875
+        ],
+        "extraction_type": "text",
+        "review_status": "needs_review",
+        "requires_manual_review": true,
+        "review_notes": "Medication 'Furosemide' mentioned in workflow without explicit dosage or units in source text",
+        "normalized_term": null
+      }
+    },
+    {
+      "medication_id": "MED_P1_14",
+      "generic_name": "Spironolactone",
+      "drug_class": null,
+      "dosage": "HFMrEF, HFpEF) spironolactone and O2 (Dose not specified in text)",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-003",
+        "document_name": "Heart Failure",
+        "page_number": 1,
+        "section": "MANAGEMENT AT TERTIARY HOSPITAL",
+        "source_text_reference": "HFMrEF, HFpEF) spironolactone and O2",
+        "bounding_box": [
+          440.88580322265625,
+          819.610595703125,
+          659.8264770507812,
+          833.9656372070312
+        ],
+        "extraction_type": "text",
+        "review_status": "needs_review",
+        "requires_manual_review": true,
+        "review_notes": "Medication 'Spironolactone' mentioned in workflow without explicit dosage or units in source text",
+        "normalized_term": null
+      }
+    },
+    {
+      "medication_id": "MED_P1_15",
+      "generic_name": "Furosemide",
+      "drug_class": null,
+      "dosage": "Decongest with intravenous furosemide (Dose not specified in text)",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-003",
+        "document_name": "Heart Failure",
+        "page_number": 1,
+        "section": "MANAGEMENT AT CHC",
+        "source_text_reference": "• Decongest with intravenous furosemide",
+        "bounding_box": [
+          503.0185546875,
+          577.941162109375,
+          730.7637329101562,
+          592.2962036132812
+        ],
+        "extraction_type": "text",
+        "review_status": "needs_review",
+        "requires_manual_review": true,
+        "review_notes": "Medication 'Furosemide' mentioned in workflow without explicit dosage or units in source text",
+        "normalized_term": null
+      }
+    },
+    {
+      "medication_id": "MED_P1_16",
+      "generic_name": "Arni",
+      "drug_class": null,
+      "dosage": "Start ARNI and spironolactone orally (Dose not specified in text)",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-003",
+        "document_name": "Heart Failure",
+        "page_number": 1,
+        "section": "MANAGEMENT AT CHC",
+        "source_text_reference": "• Start ARNI and spironolactone orally",
+        "bounding_box": [
+          503.0185546875,
+          604.3411254882812,
+          708.8602905273438,
+          618.6961669921875
+        ],
+        "extraction_type": "text",
+        "review_status": "needs_review",
+        "requires_manual_review": true,
+        "review_notes": "Medication 'Arni' mentioned in workflow without explicit dosage or units in source text",
+        "normalized_term": null
+      }
+    },
+    {
+      "medication_id": "MED_P1_17",
+      "generic_name": "Aspirin",
+      "drug_class": null,
+      "dosage": "prevention with aspirin (Dose not specified in text)",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-003",
+        "document_name": "Heart Failure",
+        "page_number": 1,
+        "section": "CONSIDER AT ALL LEVELS",
+        "source_text_reference": "prevention with aspirin",
+        "bounding_box": [
+          638.9055786132812,
+          1023.5994873046875,
+          762.6985473632812,
+          1037.9544677734375
+        ],
+        "extraction_type": "text",
+        "review_status": "needs_review",
+        "requires_manual_review": true,
+        "review_notes": "Medication 'Aspirin' mentioned in workflow without explicit dosage or units in source text",
+        "normalized_term": null
+      }
+    }
+  ],
+  "contraindications": [],
+  "referral_criteria": [],
+  "flowcharts": [],
+  "tables": [
+    {
+      "table_id": "TAB_P1_01",
+      "title": "Table 1 (Page 1)",
+      "headers": [
+        "Smoking Salt Physical Weight Moderation Co Cessation restriction activity Reduction of alcohol",
+        "Column_2",
+        "Column_3",
+        "Column_4",
+        "ntrol of DM HTN/ Lipids",
+        "/",
+        "Secondary CVD prevention with aspirin and statins",
+        "Column_8",
+        "Column_9"
+      ],
+      "rows": [
+        {
+          "row_id": "T1_R1",
+          "cells": {
+            "Smoking Salt Physical Weight Moderation Co Cessation restriction activity Reduction of alcohol": "INVESTIGATIONS:",
+            "Column_2": "",
+            "Column_3": "",
+            "Column_4": "",
+            "ntrol of DM HTN/ Lipids": "",
+            "/": "",
+            "Secondary CVD prevention with aspirin and statins": "",
+            "Column_8": "",
+            "Column_9": ""
+          },
+          "source": {
+            "document_id": "ICMR-CARD-003",
+            "document_name": "Heart Failure",
+            "page_number": 1,
+            "section": "TABLE_1",
+            "source_text_reference": "Smoking Salt Physical Weight Moderation Co Cessation restriction activity Reduction of alcohol: INVESTIGATIONS:",
+            "bounding_box": [
+              0.0,
+              1011.0940673828125,
+              841.8900146484375,
+              1405.7840576171875
+            ],
+            "extraction_type": "table",
+            "review_status": "needs_review",
+            "requires_manual_review": true,
+            "review_notes": "Sparse row with potential merged columns",
+            "normalized_term": null
+          }
+        },
+        {
+          "row_id": "T1_R2",
+          "cells": {
+            "Smoking Salt Physical Weight Moderation Co Cessation restriction activity Reduction of alcohol": "BASIC INVESTIGATIONS • Hemogram, ESR • Blood sugar • Urine examination • Urea/ Creatinine • Sodium/ Potassium • ECG • Chest X-ray PA view",
+            "Column_2": "WHAT TO LOOK FOR IN X RAY • Cardiomegaly • Pulmonary venous congestion • Pneumonia or other lung pathology",
+            "Column_3": "",
+            "Column_4": "WHAT TO LOOK FOR IN AN ECG? • Pathological Q wave • Conduction abnormalities, especially LBBB • Chamber enlargement • Atrial fibrillation Note: If ST elevation present, manage as STEMI",
+            "ntrol of DM HTN/ Lipids": "DESIRABLE INVESTIGATIONS • 2D Echocardiography • BNP/NT pro-BNP • Troponin • Lipid profile • Thyroid function test • Iron profile",
+            "/": "",
+            "Secondary CVD prevention with aspirin and statins": "",
+            "Column_8": "OPTIONAL INVESTIGATION • Prolonged ECG monitoring • Coronary angiography • Radionuclide imaging • CT scan • MRI • PET • Myocardial biopsy • Electrophysiological study",
+            "Column_9": ""
+          },
+          "source": {
+            "document_id": "ICMR-CARD-003",
+            "document_name": "Heart Failure",
+            "page_number": 1,
+            "section": "TABLE_1",
+            "source_text_reference": "Smoking Salt Physical Weight Moderation Co Cessation restriction activity Reduction of alcohol: BASIC INVESTIGATIONS • Hemogram, ESR • Blood sugar • Urine examination • Urea/ Creatinine • Sodium/ Potassium • ECG • Chest X-ray PA view; Column_2: WHAT TO LOOK FOR IN X RAY • Cardiomegaly • Pulmonary venous congestion • Pneumonia or other lung pathology; Column_4: WHAT TO LOOK FOR IN AN ECG? • Pathological Q wave • Conduction abnormalities, especially LBBB • Chamber enlargement • Atrial fibrillation Note: If ST elevation present, manage as STEMI; ntrol of DM HTN/ Lipids: DESIRABLE INVESTIGATIONS • 2D Echocardiography • BNP/NT pro-BNP • Troponin • Lipid profile • Thyroid function test • Iron profile; Column_8: OPTIONAL INVESTIGATION • Prolonged ECG monitoring • Coronary angiography • Radionuclide imaging • CT scan • MRI • PET • Myocardial biopsy • Electrophysiological study",
+            "bounding_box": [
+              0.0,
+              1011.0940673828125,
+              841.8900146484375,
+              1405.7840576171875
+            ],
+            "extraction_type": "table",
+            "review_status": "extracted",
+            "requires_manual_review": false,
+            "review_notes": null,
+            "normalized_term": null
+          }
+        },
+        {
+          "row_id": "T1_R3",
+          "cells": {
+            "Smoking Salt Physical Weight Moderation Co Cessation restriction activity Reduction of alcohol": "COMMON DRUGS AND DOSAGE FOR CHF",
+            "Column_2": "",
+            "Column_3": "",
+            "Column_4": "",
+            "ntrol of DM HTN/ Lipids": "",
+            "/": "",
+            "Secondary CVD prevention with aspirin and statins": "",
+            "Column_8": "",
+            "Column_9": ""
+          },
+          "source": {
+            "document_id": "ICMR-CARD-003",
+            "document_name": "Heart Failure",
+            "page_number": 1,
+            "section": "TABLE_1",
+            "source_text_reference": "Smoking Salt Physical Weight Moderation Co Cessation restriction activity Reduction of alcohol: COMMON DRUGS AND DOSAGE FOR CHF",
+            "bounding_box": [
+              0.0,
+              1011.0940673828125,
+              841.8900146484375,
+              1405.7840576171875
+            ],
+            "extraction_type": "table",
+            "review_status": "needs_review",
+            "requires_manual_review": true,
+            "review_notes": "Sparse row with potential merged columns",
+            "normalized_term": null
+          }
+        },
+        {
+          "row_id": "T1_R4",
+          "cells": {
+            "Smoking Salt Physical Weight Moderation Co Cessation restriction activity Reduction of alcohol": "FUROSEMIDE • Dose 20-80 mg daily PO • Intravenous 10-80 mg SOS in acute stage • Change to oral when symptoms subside • Monitor serum electrolytes, creatinine and uric acid on therapy",
+            "Column_2": "",
+            "Column_3": "• CARVEDILOL Dose 3.125 to 25 mg twice daily PO METOPROLOL 12.5-50mg twice daily PO BISOPROLOL 1.25-10mg once a day PO PRECAUTIONS • Start after decongestion with low dose with BP > 100 mmHg and HR >60/min • Uptitrate dose 1-2 weekly till maximum tolerable dose • Keep watch on BP, heart rate and recipitation of CHF symptoms • Increase diuretics and reduce carvedilol to manage reappearance of CHF",
+            "Column_4": "",
+            "ntrol of DM HTN/ Lipids": "",
+            "/": "ARNI • Dose 50 to 200 mg twice daily PO • Start with low dose with BP >100 mmHg, normal electrolyte and creatinine less than 2.5 mg/dl • Uptitrate dose 1-2 weekly till maximum tolerable dose • Keep watch on BP and electrolytes before every increment and on follow-up",
+            "Secondary CVD prevention with aspirin and statins": "",
+            "Column_8": "",
+            "Column_9": ""
+          },
+          "source": {
+            "document_id": "ICMR-CARD-003",
+            "document_name": "Heart Failure",
+            "page_number": 1,
+            "section": "TABLE_1",
+            "source_text_reference": "Smoking Salt Physical Weight Moderation Co Cessation restriction activity Reduction of alcohol: FUROSEMIDE • Dose 20-80 mg daily PO • Intravenous 10-80 mg SOS in acute stage • Change to oral when symptoms subside • Monitor serum electrolytes, creatinine and uric acid on therapy; Column_3: • CARVEDILOL Dose 3.125 to 25 mg twice daily PO METOPROLOL 12.5-50mg twice daily PO BISOPROLOL 1.25-10mg once a day PO PRECAUTIONS • Start after decongestion with low dose with BP > 100 mmHg and HR >60/min • Uptitrate dose 1-2 weekly till maximum tolerable dose • Keep watch on BP, heart rate and recipitation of CHF symptoms • Increase diuretics and reduce carvedilol to manage reappearance of CHF; /: ARNI • Dose 50 to 200 mg twice daily PO • Start with low dose with BP >100 mmHg, normal electrolyte and creatinine less than 2.5 mg/dl • Uptitrate dose 1-2 weekly till maximum tolerable dose • Keep watch on BP and electrolytes before every increment and on follow-up",
+            "bounding_box": [
+              0.0,
+              1011.0940673828125,
+              841.8900146484375,
+              1405.7840576171875
+            ],
+            "extraction_type": "table",
+            "review_status": "needs_review",
+            "requires_manual_review": true,
+            "review_notes": "Sparse row with potential merged columns",
+            "normalized_term": null
+          }
+        },
+        {
+          "row_id": "T1_R5",
+          "cells": {
+            "Smoking Salt Physical Weight Moderation Co Cessation restriction activity Reduction of alcohol": "SPIRONOLACTONE • Dose 25-50 mg once daily PO • Keep watch on serum potassium and creatinine every 2-4 weekly",
+            "Column_2": "",
+            "Column_3": "",
+            "Column_4": "",
+            "ntrol of DM HTN/ Lipids": "",
+            "/": "",
+            "Secondary CVD prevention with aspirin and statins": "",
+            "Column_8": "",
+            "Column_9": ""
+          },
+          "source": {
+            "document_id": "ICMR-CARD-003",
+            "document_name": "Heart Failure",
+            "page_number": 1,
+            "section": "TABLE_1",
+            "source_text_reference": "Smoking Salt Physical Weight Moderation Co Cessation restriction activity Reduction of alcohol: SPIRONOLACTONE • Dose 25-50 mg once daily PO • Keep watch on serum potassium and creatinine every 2-4 weekly",
+            "bounding_box": [
+              0.0,
+              1011.0940673828125,
+              841.8900146484375,
+              1405.7840576171875
+            ],
+            "extraction_type": "table",
+            "review_status": "needs_review",
+            "requires_manual_review": true,
+            "review_notes": "Sparse row with potential merged columns",
+            "normalized_term": null
+          }
+        },
+        {
+          "row_id": "T1_R6",
+          "cells": {
+            "Smoking Salt Physical Weight Moderation Co Cessation restriction activity Reduction of alcohol": "ABBREVIATIONS",
+            "Column_2": "",
+            "Column_3": "",
+            "Column_4": "",
+            "ntrol of DM HTN/ Lipids": "",
+            "/": "",
+            "Secondary CVD prevention with aspirin and statins": "",
+            "Column_8": "",
+            "Column_9": ""
+          },
+          "source": {
+            "document_id": "ICMR-CARD-003",
+            "document_name": "Heart Failure",
+            "page_number": 1,
+            "section": "TABLE_1",
+            "source_text_reference": "Smoking Salt Physical Weight Moderation Co Cessation restriction activity Reduction of alcohol: ABBREVIATIONS",
+            "bounding_box": [
+              0.0,
+              1011.0940673828125,
+              841.8900146484375,
+              1405.7840576171875
+            ],
+            "extraction_type": "table",
+            "review_status": "needs_review",
+            "requires_manual_review": true,
+            "review_notes": "Sparse row with potential merged columns",
+            "normalized_term": null
+          }
+        }
+      ],
+      "source": {
+        "document_id": "ICMR-CARD-003",
+        "document_name": "Heart Failure",
+        "page_number": 1,
+        "section": "TABLE_1",
+        "source_text_reference": "Smoking Salt Physical Weight Moderation Co Cessation restriction activity Reduction of alcohol: INVESTIGATIONS:\nSmoking Salt Physical Weight Moderation Co Cessation restriction activity Reduction of alcohol: BASIC INVESTIGATIONS • Hemogram, ESR • Blood sugar • Urine examination • Urea/ Creatinine • Sodium/ Potassium • ECG • Chest X-ray PA view; Column_2: WHAT TO LOOK FOR IN X RAY • Cardiomegaly • Pulmonary venous congestion • Pneumonia or other lung pathology; Column_4: WHAT TO LOOK FOR IN AN EC",
+        "bounding_box": [
+          0.0,
+          1011.0940673828125,
+          841.8900146484375,
+          1405.7840576171875
+        ],
+        "extraction_type": "table",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    }
+  ],
+  "references": [],
+  "abbreviations": {
+    "STW": "Standard Treatment Workflow",
+    "ICMR": "Indian Council of Medical Research",
+    "DHR": "Department of Health Research",
+    "MoHFW": "Ministry of Health and Family Welfare",
+    "ECG": "Electrocardiogram",
+    "PCI": "Percutaneous Coronary Intervention",
+    "PHC": "Primary Health Centre",
+    "CHC": "Community Health Centre",
+    "ICU": "Intensive Care Unit"
+  }
+}

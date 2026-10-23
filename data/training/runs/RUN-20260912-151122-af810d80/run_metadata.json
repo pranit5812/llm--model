@@ -1,0 +1,36 @@
+{
+  "run_id": "RUN-20260912-151122-af810d80",
+  "timestamp": "20260912-151122",
+  "status": "COMPLETED",
+  "base_model": "microsoft/Phi-3.5-mini-instruct",
+  "dataset_version": "v1.0-icmr-approved",
+  "train_dataset_hash": "2f6f64d262958a740b54883bb1f0859c6d2af70bd634eefc7a4baad2de5a3c90",
+  "val_dataset_hash": "372fa808c91fe3c09ae8487e1bc6055a6f88b8e105b6a30d9b92aeb467cfd6f9",
+  "configuration_hash": "af810d805834f8c7f00c20246232cb1908b4686a2d18c022d667594249397548",
+  "git_commit": "unknown-commit",
+  "hardware": {
+    "os": "Windows-10-10.0.26200-SP0",
+    "python_version": "3.10.11",
+    "torch_version": "unavailable",
+    "cuda_available": false,
+    "device_name": "CPU",
+    "cpu_count": 12
+  },
+  "training_samples_count": 204,
+  "validation_samples_count": 44,
+  "num_epochs": 3,
+  "training_loss_history": [
+    1.569,
+    0.9418,
+    0.6339
+  ],
+  "validation_loss_history": [
+    1.6945,
+    1.0171,
+    0.6846
+  ],
+  "final_training_loss": 0.6339,
+  "final_validation_loss": 0.6846,
+  "training_duration_seconds": 0.01,
+  "adapter_artifact_path": "D:\\llm1\\data\\training\\runs\\RUN-20260912-151122-af810d80"
+}

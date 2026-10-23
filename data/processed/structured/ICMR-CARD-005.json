@@ -1,0 +1,1319 @@
+{
+  "metadata": {
+    "document_id": "ICMR-CARD-005",
+    "title": "Stable Angina",
+    "specialty": "Cardiology",
+    "condition": "Stable Angina",
+    "icd_11_code": null,
+    "volume": "Volume 1",
+    "edition": "1.0",
+    "source_organization": "Indian Council of Medical Research (ICMR)",
+    "source_url": "https://www.icmr.gov.in/icmrobject/uploads/STWs/1768823342_cardiology_1-6.pdf",
+    "local_path": "data/raw/cardiology/1768823342_cardiology_1-6.pdf",
+    "total_pages": 1,
+    "document_hash": "c3b903e62bdc445cad8e95f6be229925a8404d85f0b2d04a1f8833dbd4ca875f"
+  },
+  "clinical_presentation": {
+    "definition": "Clinical presentation and diagnostic characteristics of Stable Angina per ICMR STW.",
+    "typical_symptoms": [
+      "Diffuse retrosternal pain,",
+      "heaviness or constriction,",
+      "radiating to arms or neck",
+      "or back",
+      "Associated with sweating",
+      "Easily reproduced with",
+      "post-meal exertion",
+      "presentation: Exertional",
+      "fatigue or breathlessness",
+      "or profuse sweating or"
+    ],
+    "atypical_presentations": [
+      "Consider atypical"
+    ],
+    "signs_and_physical_exam": [],
+    "unlikely_features": [
+      "Variable location or",
+      "characteristic",
+      "Long lasting (hours to days)",
+      "or short lasting (less than a",
+      "minute)",
+      "Restricted to areas above jaw",
+      "or below epigastrium",
+      "Localized to a point"
+    ],
+    "red_flags": [
+      "Angina at rest or lasting more than 20 minutes",
+      "Recent worsening of stable angina (crescendo) to",
+      "CCS class III",
+      "New onset effort angina of less than 1 month in",
+      "CCS class II/ III",
+      "Post infarction angina"
+    ],
+    "source": {
+      "document_id": "ICMR-CARD-005",
+      "document_name": "Stable Angina",
+      "page_number": 1,
+      "section": "CLINICAL PRESENTATION",
+      "source_text_reference": "CONSIDER ANGINA IF\n• Diffuse retrosternal pain,\nheaviness or constriction,\nradiating to arms or neck\nor back\n• Associated with sweating\n• Easily reproduced with\npost-meal exertion\n• Consider atypical\npresentation: Exertional\nfatigue or breathlessness\nor profuse sweating or\nepigastric discomfort\nLikelihood more if known\npatient of CAD\nANGINA UNLIKELY IF\n• Variable location or\ncharacteristic\n• Long lasting (hours to days)\nor short lasting (less than a\nminute)\n• Restricted to areas above jaw\nor below epigastrium\n• Localized to a point\n• Pricking or piercing or\nstabbing type of pain\n• Precipitated by movement\nof neck or arms or\nrespiration\nACUTE CORONARY SYNDROME\n• Angina at rest or lasting more than 20 minutes\n• Recent worsening of stable angina (crescendo) to\nCCS class III\n• New onset effort angina of less than 1 month in\nCCS class II/ III\n• Post infarction angina\nFor management: refer to STEMI/ NSTEMI STW\nCATEGORIZE ANGINA",
+      "bounding_box": null,
+      "extraction_type": "text",
+      "review_status": "extracted",
+      "requires_manual_review": false,
+      "review_notes": null,
+      "normalized_term": null
+    }
+  },
+  "diagnostic_criteria": [],
+  "investigations": [
+    {
+      "investigation_id": "INV_P1_01",
+      "name": ". Hemogram",
+      "tier": "BASIC",
+      "modality": "Laboratory / Diagnostic Imaging",
+      "indication": "Workup for Stable Angina",
+      "target_findings": null,
+      "source": {
+        "document_id": "ICMR-CARD-005",
+        "document_name": "Stable Angina",
+        "page_number": 1,
+        "section": "ESSENTIAL INVESTIGATIONS",
+        "source_text_reference": "1. Hemogram",
+        "bounding_box": [
+          45.83340072631836,
+          716.7952270507812,
+          118.11442565917969,
+          731.1502685546875
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "investigation_id": "INV_P1_02",
+      "name": ". Urea, Creatinine, Electrolytes",
+      "tier": "BASIC",
+      "modality": "Laboratory / Diagnostic Imaging",
+      "indication": "Workup for Stable Angina",
+      "target_findings": null,
+      "source": {
+        "document_id": "ICMR-CARD-005",
+        "document_name": "Stable Angina",
+        "page_number": 1,
+        "section": "ESSENTIAL INVESTIGATIONS",
+        "source_text_reference": "2. Urea, Creatinine, Electrolytes",
+        "bounding_box": [
+          45.83340072631836,
+          729.9952392578125,
+          211.56712341308594,
+          744.3502807617188
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "investigation_id": "INV_P1_03",
+      "name": ". Sugar",
+      "tier": "BASIC",
+      "modality": "Laboratory / Diagnostic Imaging",
+      "indication": "Workup for Stable Angina",
+      "target_findings": null,
+      "source": {
+        "document_id": "ICMR-CARD-005",
+        "document_name": "Stable Angina",
+        "page_number": 1,
+        "section": "ESSENTIAL INVESTIGATIONS",
+        "source_text_reference": "3. Sugar",
+        "bounding_box": [
+          45.83340072631836,
+          743.1952514648438,
+          89.09640502929688,
+          757.55029296875
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "investigation_id": "INV_P1_04",
+      "name": ". Lipids",
+      "tier": "BASIC",
+      "modality": "Laboratory / Diagnostic Imaging",
+      "indication": "Workup for Stable Angina",
+      "target_findings": null,
+      "source": {
+        "document_id": "ICMR-CARD-005",
+        "document_name": "Stable Angina",
+        "page_number": 1,
+        "section": "ESSENTIAL INVESTIGATIONS",
+        "source_text_reference": "4. Lipids",
+        "bounding_box": [
+          45.83340072631836,
+          756.395263671875,
+          90.35039520263672,
+          770.7503051757812
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "investigation_id": "INV_P1_05",
+      "name": ". Echocardiography",
+      "tier": "DESIRABLE",
+      "modality": "Laboratory / Diagnostic Imaging",
+      "indication": "Workup for Stable Angina",
+      "target_findings": null,
+      "source": {
+        "document_id": "ICMR-CARD-005",
+        "document_name": "Stable Angina",
+        "page_number": 1,
+        "section": "OTHER INVESTIGATIONS",
+        "source_text_reference": "1. Echocardiography",
+        "bounding_box": [
+          304.7073974609375,
+          718.7973022460938,
+          413.0243835449219,
+          733.15234375
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "investigation_id": "INV_P1_06",
+      "name": ". Exercise Treadmill Test",
+      "tier": "DESIRABLE",
+      "modality": "Laboratory / Diagnostic Imaging",
+      "indication": "Workup for Stable Angina",
+      "target_findings": null,
+      "source": {
+        "document_id": "ICMR-CARD-005",
+        "document_name": "Stable Angina",
+        "page_number": 1,
+        "section": "OTHER INVESTIGATIONS",
+        "source_text_reference": "2. Exercise Treadmill Test",
+        "bounding_box": [
+          304.7073974609375,
+          731.997314453125,
+          437.8612976074219,
+          746.3523559570312
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "investigation_id": "INV_P1_07",
+      "name": ". Thyroid Function Test",
+      "tier": "DESIRABLE",
+      "modality": "Laboratory / Diagnostic Imaging",
+      "indication": "Workup for Stable Angina",
+      "target_findings": null,
+      "source": {
+        "document_id": "ICMR-CARD-005",
+        "document_name": "Stable Angina",
+        "page_number": 1,
+        "section": "OTHER INVESTIGATIONS",
+        "source_text_reference": "3. Thyroid Function Test",
+        "bounding_box": [
+          304.7073974609375,
+          745.1973266601562,
+          432.4173889160156,
+          759.5523681640625
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "investigation_id": "INV_P1_08",
+      "name": ". Iron proﬁle",
+      "tier": "DESIRABLE",
+      "modality": "Laboratory / Diagnostic Imaging",
+      "indication": "Workup for Stable Angina",
+      "target_findings": null,
+      "source": {
+        "document_id": "ICMR-CARD-005",
+        "document_name": "Stable Angina",
+        "page_number": 1,
+        "section": "OTHER INVESTIGATIONS",
+        "source_text_reference": "4. Iron proﬁle",
+        "bounding_box": [
+          304.7073974609375,
+          758.3973388671875,
+          376.5924072265625,
+          772.7523803710938
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "investigation_id": "INV_P1_09",
+      "name": ". Uric acid",
+      "tier": "DESIRABLE",
+      "modality": "Laboratory / Diagnostic Imaging",
+      "indication": "Workup for Stable Angina",
+      "target_findings": null,
+      "source": {
+        "document_id": "ICMR-CARD-005",
+        "document_name": "Stable Angina",
+        "page_number": 1,
+        "section": "OTHER INVESTIGATIONS",
+        "source_text_reference": "5. Uric acid",
+        "bounding_box": [
+          304.7073974609375,
+          771.5973510742188,
+          363.1273193359375,
+          785.952392578125
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "investigation_id": "INV_P1_10",
+      "name": ". HbA1C",
+      "tier": "DESIRABLE",
+      "modality": "Laboratory / Diagnostic Imaging",
+      "indication": "Workup for Stable Angina",
+      "target_findings": null,
+      "source": {
+        "document_id": "ICMR-CARD-005",
+        "document_name": "Stable Angina",
+        "page_number": 1,
+        "section": "OTHER INVESTIGATIONS",
+        "source_text_reference": "6. HbA1C",
+        "bounding_box": [
+          304.7073974609375,
+          784.79736328125,
+          351.6003723144531,
+          799.1524047851562
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "investigation_id": "INV_P1_11",
+      "name": ". Stress radionuclide/ echocardiographic imaging",
+      "tier": "OPTIONAL",
+      "modality": "Laboratory / Diagnostic Imaging",
+      "indication": "Workup for Stable Angina",
+      "target_findings": null,
+      "source": {
+        "document_id": "ICMR-CARD-005",
+        "document_name": "Stable Angina",
+        "page_number": 1,
+        "section": "OPTIONAL INVESTIGATIONS",
+        "source_text_reference": "1. Stress radionuclide/ echocardiographic imaging",
+        "bounding_box": [
+          529.9983520507812,
+          719.17138671875,
+          798.69189453125,
+          733.5264282226562
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "investigation_id": "INV_P1_12",
+      "name": ". CT scan including multi-slice coronary angiography",
+      "tier": "OPTIONAL",
+      "modality": "Laboratory / Diagnostic Imaging",
+      "indication": "Workup for Stable Angina",
+      "target_findings": null,
+      "source": {
+        "document_id": "ICMR-CARD-005",
+        "document_name": "Stable Angina",
+        "page_number": 1,
+        "section": "OPTIONAL INVESTIGATIONS",
+        "source_text_reference": "2. CT scan including multi-slice coronary angiography",
+        "bounding_box": [
+          529.9983520507812,
+          732.3713989257812,
+          819.0305786132812,
+          746.7264404296875
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "investigation_id": "INV_P1_13",
+      "name": ". Coronary Angiography",
+      "tier": "OPTIONAL",
+      "modality": "Laboratory / Diagnostic Imaging",
+      "indication": "Workup for Stable Angina",
+      "target_findings": null,
+      "source": {
+        "document_id": "ICMR-CARD-005",
+        "document_name": "Stable Angina",
+        "page_number": 1,
+        "section": "OPTIONAL INVESTIGATIONS",
+        "source_text_reference": "3. Coronary Angiography",
+        "bounding_box": [
+          529.9983520507812,
+          745.5714111328125,
+          663.9308471679688,
+          759.9264526367188
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "investigation_id": "INV_P1_14",
+      "name": ". Coronary Fractional Flow Reserve",
+      "tier": "OPTIONAL",
+      "modality": "Laboratory / Diagnostic Imaging",
+      "indication": "Workup for Stable Angina",
+      "target_findings": null,
+      "source": {
+        "document_id": "ICMR-CARD-005",
+        "document_name": "Stable Angina",
+        "page_number": 1,
+        "section": "OPTIONAL INVESTIGATIONS",
+        "source_text_reference": "4. Coronary Fractional Flow Reserve",
+        "bounding_box": [
+          529.9983520507812,
+          758.7714233398438,
+          722.9140625,
+          773.12646484375
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "investigation_id": "INV_P1_15",
+      "name": ". Intra-vascular Ultrasound/ OCT",
+      "tier": "OPTIONAL",
+      "modality": "Laboratory / Diagnostic Imaging",
+      "indication": "Workup for Stable Angina",
+      "target_findings": null,
+      "source": {
+        "document_id": "ICMR-CARD-005",
+        "document_name": "Stable Angina",
+        "page_number": 1,
+        "section": "OPTIONAL INVESTIGATIONS",
+        "source_text_reference": "5. Intra-vascular Ultrasound/ OCT",
+        "bounding_box": [
+          529.9983520507812,
+          771.971435546875,
+          707.5031127929688,
+          786.3264770507812
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    }
+  ],
+  "tier_management": [
+    {
+      "tier_id": "TIER_P1_01",
+      "tier": "PHC_CHC",
+      "general_measures": [
+        "1. Control angina: Metoprolol",
+        "with/without DHP Ca channel",
+        "blockers",
+        "Add nitrates if symptoms not",
+        "controlled",
+        "2. ECG for Q waves, ST - T changes,"
+      ],
+      "investigations_performed": [],
+      "medications_initiated": [],
+      "referral_actions": [],
+      "source": {
+        "document_id": "ICMR-CARD-005",
+        "document_name": "Stable Angina",
+        "page_number": 1,
+        "section": "MANAGEMENT AT PHC/CHC LEVEL",
+        "source_text_reference": "1. Control angina: Metoprolol\nwith/without DHP Ca channel\nblockers\nAdd nitrates if symptoms not\ncontrolled\n2. ECG for Q waves, ST - T changes,\nBBB or chamber enlargement\n3. Aspirin & high intensity statins\n4. Refer to higher centre electively",
+        "bounding_box": null,
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "tier_id": "TIER_P1_02",
+      "tier": "DISTRICT_HOSPITAL",
+      "general_measures": [
+        "MANAGEMENT AT DISTRICT HOSPITAL LEVEL",
+        "1. Optimise anti-anginal treatment",
+        "2. Echocardiography for LV function or structural heart disease",
+        "3. Risk stratify by exercise treadmill test in low, intermediate or  high risk",
+        "(DUKE risk score) for cardio-vascular events , if patient is ambulatory and",
+        "ECG is interpretable"
+      ],
+      "investigations_performed": [],
+      "medications_initiated": [],
+      "referral_actions": [],
+      "source": {
+        "document_id": "ICMR-CARD-005",
+        "document_name": "Stable Angina",
+        "page_number": 1,
+        "section": "MANAGEMENT AT DISTRICT HOSPITAL LEVEL",
+        "source_text_reference": "MANAGEMENT AT DISTRICT HOSPITAL LEVEL\n1. Optimise anti-anginal treatment\n2. Echocardiography for LV function or structural heart disease\n3. Risk stratify by exercise treadmill test in low, intermediate or  high risk\n(DUKE risk score) for cardio-vascular events , if patient is ambulatory and\nECG is interpretable\n4. Refer to tertiary centres if:\n• Angina uncontrolled on optimal medical therapy\n• Echo reveals abnormality\n• Non-ambulatory patient or un-interpretable ECG\n• High risk on exercise stres",
+        "bounding_box": null,
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    }
+  ],
+  "medications": [
+    {
+      "medication_id": "MED_P1_01",
+      "generic_name": "Aspirin",
+      "drug_class": null,
+      "dosage": "Aspirin 75 mg OD",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-005",
+        "document_name": "Stable Angina",
+        "page_number": 1,
+        "section": "Anti-platelets",
+        "source_text_reference": "• Aspirin 75 mg OD",
+        "bounding_box": [
+          24.436500549316406,
+          1202.209716796875,
+          128.8353271484375,
+          1216.564697265625
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "medication_id": "MED_P1_02",
+      "generic_name": "Clopidogrel",
+      "drug_class": null,
+      "dosage": "Clopidogrel 75 mg OD (if",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-005",
+        "document_name": "Stable Angina",
+        "page_number": 1,
+        "section": "Anti-platelets",
+        "source_text_reference": "• Clopidogrel 75 mg OD (if",
+        "bounding_box": [
+          24.436500549316406,
+          1215.4097900390625,
+          166.742431640625,
+          1229.7647705078125
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "medication_id": "MED_P1_03",
+      "generic_name": "Aspirin",
+      "drug_class": null,
+      "dosage": "intolerant to aspirin) (Dose not specified in text)",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-005",
+        "document_name": "Stable Angina",
+        "page_number": 1,
+        "section": "Anti-platelets",
+        "source_text_reference": "intolerant to aspirin)",
+        "bounding_box": [
+          44.43450164794922,
+          1228.6097412109375,
+          153.5534210205078,
+          1242.9647216796875
+        ],
+        "extraction_type": "text",
+        "review_status": "needs_review",
+        "requires_manual_review": true,
+        "review_notes": "Medication 'Aspirin' mentioned in workflow without explicit dosage or units in source text",
+        "normalized_term": null
+      }
+    },
+    {
+      "medication_id": "MED_P1_04",
+      "generic_name": "Ticagralor",
+      "drug_class": null,
+      "dosage": "Ticagralor 90 mg BD",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-005",
+        "document_name": "Stable Angina",
+        "page_number": 1,
+        "section": "Anti-platelets",
+        "source_text_reference": "• Ticagralor 90 mg BD",
+        "bounding_box": [
+          24.43650245666504,
+          1241.809814453125,
+          145.138427734375,
+          1256.164794921875
+        ],
+        "extraction_type": "text",
+        "review_status": "needs_review",
+        "requires_manual_review": true,
+        "review_notes": "Typographical variant 'Ticagralor' in ICMR source PDF",
+        "normalized_term": "Ticagrelor"
+      }
+    },
+    {
+      "medication_id": "MED_P1_05",
+      "generic_name": "Atorvastatin",
+      "drug_class": null,
+      "dosage": "Atorvastatin: 40-80 mg OD",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-005",
+        "document_name": "Stable Angina",
+        "page_number": 1,
+        "section": "Anti-platelets",
+        "source_text_reference": "• Atorvastatin: 40-80 mg OD",
+        "bounding_box": [
+          24.436500549316406,
+          1281.4097900390625,
+          179.513427734375,
+          1295.7647705078125
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "medication_id": "MED_P1_06",
+      "generic_name": "Rosuvastatin",
+      "drug_class": null,
+      "dosage": "Rosuvastatin: 20-40 mg OD",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-005",
+        "document_name": "Stable Angina",
+        "page_number": 1,
+        "section": "Anti-platelets",
+        "source_text_reference": "• Rosuvastatin: 20-40 mg OD",
+        "bounding_box": [
+          24.436500549316406,
+          1294.6097412109375,
+          182.8563232421875,
+          1308.9647216796875
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "medication_id": "MED_P1_07",
+      "generic_name": "Ramipril",
+      "drug_class": null,
+      "dosage": "Ramipril: 2.5-10 mg OD",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-005",
+        "document_name": "Stable Angina",
+        "page_number": 1,
+        "section": "Anti-platelets",
+        "source_text_reference": "• Ramipril: 2.5-10 mg OD",
+        "bounding_box": [
+          24.436500549316406,
+          1347.4097900390625,
+          156.55642700195312,
+          1361.7647705078125
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "medication_id": "MED_P1_08",
+      "generic_name": "Enalapril",
+      "drug_class": null,
+      "dosage": "Enalapril: 2.5-10 mg BD",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-005",
+        "document_name": "Stable Angina",
+        "page_number": 1,
+        "section": "Anti-platelets",
+        "source_text_reference": "• Enalapril: 2.5-10 mg BD",
+        "bounding_box": [
+          24.436500549316406,
+          1360.60986328125,
+          157.2395477294922,
+          1374.96484375
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "medication_id": "MED_P1_09",
+      "generic_name": "Metoprolol",
+      "drug_class": null,
+      "dosage": ". Metoprolol: (Dose not specified in text)",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-005",
+        "document_name": "Stable Angina",
+        "page_number": 1,
+        "section": "Anti-ischemic:",
+        "source_text_reference": "1. Metoprolol:",
+        "bounding_box": [
+          247.47250366210938,
+          1203.0128173828125,
+          317.3004150390625,
+          1217.3677978515625
+        ],
+        "extraction_type": "text",
+        "review_status": "needs_review",
+        "requires_manual_review": true,
+        "review_notes": "Medication 'Metoprolol' mentioned in workflow without explicit dosage or units in source text",
+        "normalized_term": null
+      }
+    },
+    {
+      "medication_id": "MED_P1_10",
+      "generic_name": "Nitrates",
+      "drug_class": null,
+      "dosage": ". Nitrates: (Dose not specified in text)",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-005",
+        "document_name": "Stable Angina",
+        "page_number": 1,
+        "section": "Anti-ischemic:",
+        "source_text_reference": "2. Nitrates:",
+        "bounding_box": [
+          247.47250366210938,
+          1245.0218505859375,
+          303.6153869628906,
+          1259.3768310546875
+        ],
+        "extraction_type": "text",
+        "review_status": "needs_review",
+        "requires_manual_review": true,
+        "review_notes": "Medication 'Nitrates' mentioned in workflow without explicit dosage or units in source text",
+        "normalized_term": null
+      }
+    },
+    {
+      "medication_id": "MED_P1_11",
+      "generic_name": "Isosorbide",
+      "drug_class": null,
+      "dosage": "Isosorbide mono-nitare: 20 to 60 mg in 2 devided dose",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-005",
+        "document_name": "Stable Angina",
+        "page_number": 1,
+        "section": "Anti-ischemic:",
+        "source_text_reference": "• Isosorbide mono-nitare: 20 to 60 mg in 2 devided dose",
+        "bounding_box": [
+          276.468505859375,
+          1259.0247802734375,
+          581.6403198242188,
+          1273.3797607421875
+        ],
+        "extraction_type": "text",
+        "review_status": "needs_review",
+        "requires_manual_review": true,
+        "review_notes": "Typographical variant 'mono-nitare' in source text",
+        "normalized_term": "Isosorbide mononitrate"
+      }
+    },
+    {
+      "medication_id": "MED_P1_12",
+      "generic_name": "Amlodipine",
+      "drug_class": null,
+      "dosage": "Amlodipine 5-10mg OD",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-005",
+        "document_name": "Stable Angina",
+        "page_number": 1,
+        "section": "Anti-ischemic:",
+        "source_text_reference": "• Amlodipine 5-10mg OD",
+        "bounding_box": [
+          276.468505859375,
+          1301.0338134765625,
+          414.5503845214844,
+          1315.3887939453125
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "medication_id": "MED_P1_13",
+      "generic_name": "Verapamil",
+      "drug_class": null,
+      "dosage": "Verapamil 40-80 mg TDS",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-005",
+        "document_name": "Stable Angina",
+        "page_number": 1,
+        "section": "Anti-ischemic:",
+        "source_text_reference": "• Verapamil 40-80 mg TDS",
+        "bounding_box": [
+          276.468505859375,
+          1315.0367431640625,
+          424.37347412109375,
+          1329.3917236328125
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "medication_id": "MED_P1_14",
+      "generic_name": "Diltiazem",
+      "drug_class": null,
+      "dosage": "Diltiazem 30 to 90 mg TDS",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-005",
+        "document_name": "Stable Angina",
+        "page_number": 1,
+        "section": "Anti-ischemic:",
+        "source_text_reference": "• Diltiazem 30 to 90 mg TDS",
+        "bounding_box": [
+          276.468505859375,
+          1329.0396728515625,
+          432.039306640625,
+          1343.3946533203125
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "medication_id": "MED_P1_15",
+      "generic_name": "Nicorandil",
+      "drug_class": null,
+      "dosage": ". Nicorandil: 5-10 mg BD",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-005",
+        "document_name": "Stable Angina",
+        "page_number": 1,
+        "section": "Anti-ischemic:",
+        "source_text_reference": "4. Nicorandil: 5-10 mg BD",
+        "bounding_box": [
+          247.47250366210938,
+          1343.042724609375,
+          383.16741943359375,
+          1357.397705078125
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "medication_id": "MED_P1_16",
+      "generic_name": "Ranolazine",
+      "drug_class": null,
+      "dosage": ". Ranolazine: 500 -1000 mg BD",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-005",
+        "document_name": "Stable Angina",
+        "page_number": 1,
+        "section": "Anti-ischemic:",
+        "source_text_reference": "5. Ranolazine: 500 -1000 mg BD",
+        "bounding_box": [
+          247.47250366210938,
+          1357.0457763671875,
+          417.7172546386719,
+          1371.4007568359375
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "medication_id": "MED_P1_17",
+      "generic_name": "Trimetazidine",
+      "drug_class": null,
+      "dosage": ". Trimetazidine: 20 mg mg TDS",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-005",
+        "document_name": "Stable Angina",
+        "page_number": 1,
+        "section": "Anti-ischemic:",
+        "source_text_reference": "6. Trimetazidine: 20 mg mg TDS",
+        "bounding_box": [
+          247.47250366210938,
+          1371.0487060546875,
+          420.1395568847656,
+          1385.4036865234375
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "medication_id": "MED_P1_18",
+      "generic_name": "Metoprolol",
+      "drug_class": null,
+      "dosage": ". Control angina: Metoprolol (Dose not specified in text)",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-005",
+        "document_name": "Stable Angina",
+        "page_number": 1,
+        "section": "MANAGEMENT AT PHC/CHC LEVEL",
+        "source_text_reference": "1. Control angina: Metoprolol",
+        "bounding_box": [
+          18.238800048828125,
+          847.6216430664062,
+          171.1696014404297,
+          861.9766845703125
+        ],
+        "extraction_type": "text",
+        "review_status": "needs_review",
+        "requires_manual_review": true,
+        "review_notes": "Medication 'Metoprolol' mentioned in workflow without explicit dosage or units in source text",
+        "normalized_term": null
+      }
+    },
+    {
+      "medication_id": "MED_P1_19",
+      "generic_name": "Nitrates",
+      "drug_class": null,
+      "dosage": "Add nitrates if symptoms not (Dose not specified in text)",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-005",
+        "document_name": "Stable Angina",
+        "page_number": 1,
+        "section": "MANAGEMENT AT PHC/CHC LEVEL",
+        "source_text_reference": "Add nitrates if symptoms not",
+        "bounding_box": [
+          29.326799392700195,
+          889.630615234375,
+          186.67083740234375,
+          903.9856567382812
+        ],
+        "extraction_type": "text",
+        "review_status": "needs_review",
+        "requires_manual_review": true,
+        "review_notes": "Medication 'Nitrates' mentioned in workflow without explicit dosage or units in source text",
+        "normalized_term": null
+      }
+    },
+    {
+      "medication_id": "MED_P1_20",
+      "generic_name": "Aspirin",
+      "drug_class": null,
+      "dosage": ". Aspirin & high intensity statins (Dose not specified in text)",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-005",
+        "document_name": "Stable Angina",
+        "page_number": 1,
+        "section": "MANAGEMENT AT PHC/CHC LEVEL",
+        "source_text_reference": "3. Aspirin & high intensity statins",
+        "bounding_box": [
+          18.238800048828125,
+          945.642578125,
+          192.55361938476562,
+          959.9976196289062
+        ],
+        "extraction_type": "text",
+        "review_status": "needs_review",
+        "requires_manual_review": true,
+        "review_notes": "Medication 'Aspirin' mentioned in workflow without explicit dosage or units in source text",
+        "normalized_term": null
+      }
+    },
+    {
+      "medication_id": "MED_P1_21",
+      "generic_name": "Trimetazidine",
+      "drug_class": null,
+      "dosage": "choose from trimetazidine, (Dose not specified in text)",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-005",
+        "document_name": "Stable Angina",
+        "page_number": 1,
+        "section": "MANAGEMENT AT TERTIARY LEVEL",
+        "source_text_reference": "choose from trimetazidine,",
+        "bounding_box": [
+          658.98876953125,
+          887.6286010742188,
+          808.0693969726562,
+          901.983642578125
+        ],
+        "extraction_type": "text",
+        "review_status": "needs_review",
+        "requires_manual_review": true,
+        "review_notes": "Medication 'Trimetazidine' mentioned in workflow without explicit dosage or units in source text",
+        "normalized_term": null
+      }
+    },
+    {
+      "medication_id": "MED_P1_22",
+      "generic_name": "Nicorandil",
+      "drug_class": null,
+      "dosage": "nicorandil and ranolazine (Dose not specified in text)",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-005",
+        "document_name": "Stable Angina",
+        "page_number": 1,
+        "section": "MANAGEMENT AT TERTIARY LEVEL",
+        "source_text_reference": "nicorandil and ranolazine",
+        "bounding_box": [
+          658.98876953125,
+          905.6245727539062,
+          798.5214233398438,
+          919.9796142578125
+        ],
+        "extraction_type": "text",
+        "review_status": "needs_review",
+        "requires_manual_review": true,
+        "review_notes": "Medication 'Nicorandil' mentioned in workflow without explicit dosage or units in source text",
+        "normalized_term": null
+      }
+    }
+  ],
+  "contraindications": [],
+  "referral_criteria": [],
+  "flowcharts": [],
+  "tables": [
+    {
+      "table_id": "TAB_P1_01",
+      "title": "Table 1 (Page 1)",
+      "headers": [
+        "ESSENTIAL INVESTIGATIONS 1. Hemogram 2. Urea, Creatinine, Electrolytes 3. Sugar 4. Lipids 5. ECG",
+        "Column_2",
+        "Column_3",
+        "OTHER INVESTIGATIONS 1. Echocardiography 2. Exercise Treadmill Test 3. Thyroid Function Test 4. Iron profile 5. Uric acid 6. HbA1C"
+      ],
+      "rows": [
+        {
+          "row_id": "T1_R2",
+          "cells": {
+            "ESSENTIAL INVESTIGATIONS 1. Hemogram 2. Urea, Creatinine, Electrolytes 3. Sugar 4. Lipids 5. ECG": "",
+            "Column_2": "MANAGEMENT AT PHC/CHC LEVEL 1. Control angina: Metoprolol with/without DHP Ca channel blockers Add nitrates if symptoms not controlled 2. ECG for Q waves, ST - T changes, BBB or chamber enlargement 3. Aspirin & high intensity statins 4. Refer to higher centre electively",
+            "Column_3": "MANAGEMENT AT DISTRICT HOSPITAL LEVEL 1. Optimise anti-anginal treatment 2. Echocardiography for LV function or structural heart disease 3. Risk stratify by exercise treadmill test in low, intermediate or high risk (DUKE risk score) for cardio-vascular events , if patient is ambulatory and ECG is interpretable 4. Refer to tertiary centres if: • Angina uncontrolled on optimal medical therapy • Echo reveals abnormality • Non-ambulatory patient or un-interpretable ECG • High risk on exercise stress test for possible re-vascularization",
+            "OTHER INVESTIGATIONS 1. Echocardiography 2. Exercise Treadmill Test 3. Thyroid Function Test 4. Iron profile 5. Uric acid 6. HbA1C": ""
+          },
+          "source": {
+            "document_id": "ICMR-CARD-005",
+            "document_name": "Stable Angina",
+            "page_number": 1,
+            "section": "TABLE_1",
+            "source_text_reference": "Column_2: MANAGEMENT AT PHC/CHC LEVEL 1. Control angina: Metoprolol with/without DHP Ca channel blockers Add nitrates if symptoms not controlled 2. ECG for Q waves, ST - T changes, BBB or chamber enlargement 3. Aspirin & high intensity statins 4. Refer to higher centre electively; Column_3: MANAGEMENT AT DISTRICT HOSPITAL LEVEL 1. Optimise anti-anginal treatment 2. Echocardiography for LV function or structural heart disease 3. Risk stratify by exercise treadmill test in low, intermediate or high risk (DUKE risk score) for cardio-vascular events , if patient is ambulatory and ECG is interpretable 4. Refer to tertiary centres if: • Angina uncontrolled on optimal medical therapy • Echo reveals abnormality • Non-ambulatory patient or un-interpretable ECG • High risk on exercise stress test for possible re-vascularization",
+            "bounding_box": [
+              0.014100392659505209,
+              699.4238128662109,
+              616.9205302362857,
+              986.5550537109375
+            ],
+            "extraction_type": "table",
+            "review_status": "extracted",
+            "requires_manual_review": false,
+            "review_notes": null,
+            "normalized_term": null
+          }
+        }
+      ],
+      "source": {
+        "document_id": "ICMR-CARD-005",
+        "document_name": "Stable Angina",
+        "page_number": 1,
+        "section": "TABLE_1",
+        "source_text_reference": "Column_2: MANAGEMENT AT PHC/CHC LEVEL 1. Control angina: Metoprolol with/without DHP Ca channel blockers Add nitrates if symptoms not controlled 2. ECG for Q waves, ST - T changes, BBB or chamber enlargement 3. Aspirin & high intensity statins 4. Refer to higher centre electively; Column_3: MANAGEMENT AT DISTRICT HOSPITAL LEVEL 1. Optimise anti-anginal treatment 2. Echocardiography for LV function or structural heart disease 3. Risk stratify by exercise treadmill test in low, intermediate or hig",
+        "bounding_box": [
+          0.014100392659505209,
+          699.4238128662109,
+          616.9205302362857,
+          986.5550537109375
+        ],
+        "extraction_type": "table",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    }
+  ],
+  "references": [],
+  "abbreviations": {
+    "STW": "Standard Treatment Workflow",
+    "ICMR": "Indian Council of Medical Research",
+    "DHR": "Department of Health Research",
+    "MoHFW": "Ministry of Health and Family Welfare",
+    "ECG": "Electrocardiogram",
+    "PCI": "Percutaneous Coronary Intervention",
+    "PHC": "Primary Health Centre",
+    "CHC": "Community Health Centre",
+    "ICU": "Intensive Care Unit"
+  }
+}

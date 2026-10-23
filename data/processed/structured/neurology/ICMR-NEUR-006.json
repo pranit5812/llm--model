@@ -1,0 +1,230 @@
+{
+  "metadata": {
+    "document_id": "ICMR-NEUR-006",
+    "title": "Stroke",
+    "specialty": "Neurology",
+    "condition": "Stroke",
+    "icd_11_code": null,
+    "volume": "Volume 1",
+    "edition": "1.0",
+    "source_organization": "Indian Council of Medical Research (ICMR)",
+    "source_url": "https://www.icmr.gov.in/icmrobject/uploads/STWs/1725952342_neurology_stroke.pdf",
+    "local_path": "data\\raw\\neurology\\1725952342_neurology_stroke.pdf",
+    "total_pages": 1,
+    "document_hash": "fad89b1fce79275f0836e6057782b9de6120d8c4874ffcbcf18edd379c9e7eca"
+  },
+  "clinical_presentation": null,
+  "diagnostic_criteria": [],
+  "investigations": [],
+  "tier_management": [],
+  "medications": [
+    {
+      "medication_id": "MED_P1_01",
+      "generic_name": "Aspirin",
+      "drug_class": null,
+      "dosage": "Aspirin (in ischemic stroke) (Dose not specified in text)",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-NEUR-006",
+        "document_name": "Stroke",
+        "page_number": 1,
+        "section": "SECONDARY PREVENTION",
+        "source_text_reference": "Aspirin (in ischemic stroke)",
+        "bounding_box": [
+          61.652801513671875,
+          1321.22998046875,
+          209.0087890625,
+          1334.6500244140625
+        ],
+        "extraction_type": "text",
+        "review_status": "needs_review",
+        "requires_manual_review": true,
+        "review_notes": "Medication 'Aspirin' mentioned in workflow without explicit dosage or units in source text",
+        "normalized_term": null
+      }
+    }
+  ],
+  "contraindications": [],
+  "referral_criteria": [],
+  "flowcharts": [],
+  "tables": [
+    {
+      "table_id": "TAB_P1_01",
+      "title": "Table 1 (Page 1)",
+      "headers": [
+        "i TYPES OF STROKE",
+        "Column_2",
+        "Column_3",
+        "Column_4",
+        "Column_5",
+        "Column_6",
+        "Column_7",
+        "Column_8"
+      ],
+      "rows": [
+        {
+          "row_id": "T1_R1",
+          "cells": {
+            "i TYPES OF STROKE": "Ischemic stroke Focal cerebral, spinal, or retinal infarction",
+            "Column_2": "Intracerebral haemorrhage Focal collection of blood within the brain parenchyma or ventricular system that is not caused by trauma",
+            "Column_3": "Subarachnoid haemorrhage Bleeding into the subarachnoid space",
+            "Column_4": "",
+            "Column_5": "g Cerebral venous r thrombosis Thrombosis of a cerebral venous structure",
+            "Column_6": "",
+            "Column_7": ". Transient Ischemic Attack (TIA) Transient episode of neurologic dysfunction caused by focal cerebral, spinal cord, or retinal ischemia, without acute infarction",
+            "Column_8": ""
+          },
+          "source": {
+            "document_id": "ICMR-NEUR-006",
+            "document_name": "Stroke",
+            "page_number": 1,
+            "section": "TABLE_1",
+            "source_text_reference": "i TYPES OF STROKE: Ischemic stroke Focal cerebral, spinal, or retinal infarction; Column_2: Intracerebral haemorrhage Focal collection of blood within the brain parenchyma or ventricular system that is not caused by trauma; Column_3: Subarachnoid haemorrhage Bleeding into the subarachnoid space; Column_5: g Cerebral venous r thrombosis Thrombosis of a cerebral venous structure; Column_7: . Transient Ischemic Attack (TIA) Transient episode of neurologic dysfunction caused by focal cerebral, spinal cord, or retinal ischemia, without acute infarction",
+            "bounding_box": [
+              0.0,
+              549.0,
+              841.8900146484375,
+              892.3070678710938
+            ],
+            "extraction_type": "table",
+            "review_status": "extracted",
+            "requires_manual_review": false,
+            "review_notes": null,
+            "normalized_term": null
+          }
+        },
+        {
+          "row_id": "T1_R2",
+          "cells": {
+            "i TYPES OF STROKE": "PRELIMINARY MANAGEMENT",
+            "Column_2": "",
+            "Column_3": "",
+            "Column_4": "INVESTIGATIONS",
+            "Column_5": "",
+            "Column_6": "",
+            "Column_7": "",
+            "Column_8": ""
+          },
+          "source": {
+            "document_id": "ICMR-NEUR-006",
+            "document_name": "Stroke",
+            "page_number": 1,
+            "section": "TABLE_1",
+            "source_text_reference": "i TYPES OF STROKE: PRELIMINARY MANAGEMENT; Column_4: INVESTIGATIONS",
+            "bounding_box": [
+              0.0,
+              549.0,
+              841.8900146484375,
+              892.3070678710938
+            ],
+            "extraction_type": "table",
+            "review_status": "needs_review",
+            "requires_manual_review": true,
+            "review_notes": "Sparse row with potential merged columns",
+            "normalized_term": null
+          }
+        },
+        {
+          "row_id": "T1_R3",
+          "cells": {
+            "i TYPES OF STROKE": "• Assess and manage ABCs r • Initiate cardiac monitoring • Maintain O2 saturation >94% • Establish IV access m • Determine blood glucose and treat accordingly • Determine time of symptom onset or last known normal, and obtain family contact information, preferably a cell phone • Triage and RAPID TRANSFER of patient to nearest district hospital with CT Scan facility or Stroke center with facility for thrombolysis • Referal hospital to be notified to handle the referred patient with stroke",
+            "Column_2": "",
+            "Column_3": "",
+            "Column_4": "o . ESSENTIAL • CT Scan head • ECG • Blood Sugar • Lipids • Renal parameter",
+            "Column_5": "",
+            "Column_6": "DESIRABLE • CTA • Echocardiogram",
+            "Column_7": "",
+            "Column_8": "OPTIONAL • MRI/MRA • Holter monitoring"
+          },
+          "source": {
+            "document_id": "ICMR-NEUR-006",
+            "document_name": "Stroke",
+            "page_number": 1,
+            "section": "TABLE_1",
+            "source_text_reference": "i TYPES OF STROKE: • Assess and manage ABCs r • Initiate cardiac monitoring • Maintain O2 saturation >94% • Establish IV access m • Determine blood glucose and treat accordingly • Determine time of symptom onset or last known normal, and obtain family contact information, preferably a cell phone • Triage and RAPID TRANSFER of patient to nearest district hospital with CT Scan facility or Stroke center with facility for thrombolysis • Referal hospital to be notified to handle the referred patient with stroke; Column_4: o . ESSENTIAL • CT Scan head • ECG • Blood Sugar • Lipids • Renal parameter; Column_6: DESIRABLE • CTA • Echocardiogram; Column_8: OPTIONAL • MRI/MRA • Holter monitoring",
+            "bounding_box": [
+              0.0,
+              549.0,
+              841.8900146484375,
+              892.3070678710938
+            ],
+            "extraction_type": "table",
+            "review_status": "extracted",
+            "requires_manual_review": false,
+            "review_notes": null,
+            "normalized_term": null
+          }
+        },
+        {
+          "row_id": "T1_R4",
+          "cells": {
+            "i TYPES OF STROKE": "MANAGEMENT",
+            "Column_2": "",
+            "Column_3": "",
+            "Column_4": "",
+            "Column_5": "",
+            "Column_6": "",
+            "Column_7": "",
+            "Column_8": ""
+          },
+          "source": {
+            "document_id": "ICMR-NEUR-006",
+            "document_name": "Stroke",
+            "page_number": 1,
+            "section": "TABLE_1",
+            "source_text_reference": "i TYPES OF STROKE: MANAGEMENT",
+            "bounding_box": [
+              0.0,
+              549.0,
+              841.8900146484375,
+              892.3070678710938
+            ],
+            "extraction_type": "table",
+            "review_status": "needs_review",
+            "requires_manual_review": true,
+            "review_notes": "Sparse row with potential merged columns",
+            "normalized_term": null
+          }
+        }
+      ],
+      "source": {
+        "document_id": "ICMR-NEUR-006",
+        "document_name": "Stroke",
+        "page_number": 1,
+        "section": "TABLE_1",
+        "source_text_reference": "i TYPES OF STROKE: Ischemic stroke Focal cerebral, spinal, or retinal infarction; Column_2: Intracerebral haemorrhage Focal collection of blood within the brain parenchyma or ventricular system that is not caused by trauma; Column_3: Subarachnoid haemorrhage Bleeding into the subarachnoid space; Column_5: g Cerebral venous r thrombosis Thrombosis of a cerebral venous structure; Column_7: . Transient Ischemic Attack (TIA) Transient episode of neurologic dysfunction caused by focal cerebral, spina",
+        "bounding_box": [
+          0.0,
+          549.0,
+          841.8900146484375,
+          892.3070678710938
+        ],
+        "extraction_type": "table",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    }
+  ],
+  "references": [],
+  "abbreviations": {
+    "STW": "Standard Treatment Workflow",
+    "ICMR": "Indian Council of Medical Research",
+    "DHR": "Department of Health Research",
+    "MoHFW": "Ministry of Health and Family Welfare",
+    "ECG": "Electrocardiogram",
+    "PCI": "Percutaneous Coronary Intervention",
+    "PHC": "Primary Health Centre",
+    "CHC": "Community Health Centre",
+    "ICU": "Intensive Care Unit"
+  }
+}

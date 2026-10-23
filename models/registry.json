@@ -1,0 +1,25 @@
+{
+  "version": "1.0",
+  "models": [
+    {
+      "id": "BASELINE-PHASE6-COMPACT-SLM",
+      "base_model": "microsoft/Phi-3.5-mini-instruct",
+      "type": "baseline",
+      "version": "v1.0",
+      "quantization": "Q4_K_M",
+      "adapter": null,
+      "status": "evaluated_baseline",
+      "description": "Phase 6 winning frozen baseline model without fine-tuning."
+    },
+    {
+      "id": "LORA-RUN-20260912-151122-af810d80",
+      "base_model": "microsoft/Phi-3.5-mini-instruct",
+      "type": "lora_adapter",
+      "version": "v1.0",
+      "quantization": "4bit",
+      "adapter_path": "data/training/runs/RUN-20260912-151122-af810d80",
+      "status": "candidate",
+      "description": "Phase 7 instruction-tuned PEFT LoRA adapter for structured clinical grounding."
+    }
+  ]
+}

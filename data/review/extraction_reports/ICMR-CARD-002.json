@@ -1,0 +1,25 @@
+{
+  "document_id": "ICMR-CARD-002",
+  "condition": "Bradyarrhythmias",
+  "total_pages": 1,
+  "text_blocks_count": 44,
+  "sections_count": 21,
+  "tables_detected": 2,
+  "tables_extracted": 2,
+  "flowcharts_count": 1,
+  "medications_count": 2,
+  "investigations_count": 9,
+  "contraindications_count": 0,
+  "referral_rules_count": 0,
+  "provenance_coverage_percent": 100.0,
+  "manual_review_items_count": 1,
+  "manual_review_details": [
+    {
+      "entity": "medication",
+      "raw_text": "Blockers or digoxin)",
+      "reason": "Medication 'Digoxin' mentioned in workflow without explicit dosage or units in source text",
+      "page": 1
+    }
+  ],
+  "extraction_errors": []
+}

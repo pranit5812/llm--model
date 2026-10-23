@@ -1,0 +1,314 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ICMR STW Clinical Knowledge Review Portal</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/static/review.css">
+</head>
+<body>
+  <div class="review-layout">
+    <!-- Top Header -->
+    <header class="review-header">
+      <div class="header-inner">
+        <div class="header-brand">
+          <div class="brand-badge">ICMR REVIEW</div>
+          <div>
+            <h1>Clinical Knowledge Verification Portal</h1>
+            <p class="subtitle">Controlled Clinical Promotion &amp; Two-Stage Verification for ICMR Multi-Specialty Knowledge Units</p>
+          </div>
+        </div>
+        <div class="header-actions">
+          <button id="view-audit-btn" class="btn btn-secondary">Audit Trail</button>
+          <a href="/chat" class="btn btn-secondary">Clinical Chat</a>
+          <a href="/api/docs" target="_blank" class="btn btn-secondary">API Docs</a>
+        </div>
+      </div>
+    </header>
+
+    <!-- KPI Summary Cards (Phase 9: 6 Cards) -->
+    <section class="kpi-strip">
+      <div class="kpi-card" id="kpi-total">
+        <span class="kpi-label">Total Backlog</span>
+        <span class="kpi-value" id="val-total-backlog">--</span>
+        <span class="kpi-sub">Flagged Units</span>
+      </div>
+      <div class="kpi-card kpi-high" id="kpi-high-risk">
+        <span class="kpi-label">High Risk Units</span>
+        <span class="kpi-value" id="val-high-pending">--</span>
+        <span class="kpi-sub">Requires 2 Clinicians</span>
+      </div>
+      <div class="kpi-card" id="kpi-pending">
+        <span class="kpi-label">Needs Review</span>
+        <span class="kpi-value" id="val-pending">--</span>
+        <span class="kpi-sub">Unassigned / Pending</span>
+      </div>
+      <div class="kpi-card kpi-review" id="kpi-in-review">
+        <span class="kpi-label">In Review</span>
+        <span class="kpi-value" id="val-in-review">--</span>
+        <span class="kpi-sub">Under Active Evaluation</span>
+      </div>
+      <div class="kpi-card kpi-approved" id="kpi-approved">
+        <span class="kpi-label">Approved</span>
+        <span class="kpi-value" id="val-approved">--</span>
+        <span class="kpi-sub" id="val-approved-sub">Eligible for Promotion</span>
+      </div>
+      <div class="kpi-card kpi-approved" id="kpi-promoted">
+        <span class="kpi-label">Production Index</span>
+        <span class="kpi-value" id="val-promoted">--</span>
+        <span class="kpi-sub">Active in Retrieval</span>
+      </div>
+    </section>
+
+    <!-- Filter Toolbar -->
+    <section class="filter-toolbar">
+      <div class="filter-group">
+        <label for="filter-specialty">Specialty</label>
+        <select id="filter-specialty">
+          <option value="">All Specialties</option>
+          <option value="Cardiology">Cardiology</option>
+          <option value="Neurology">Neurology</option>
+        </select>
+      </div>
+      <div class="filter-group">
+        <label for="filter-status">Status</label>
+        <select id="filter-status">
+          <option value="">All Statuses</option>
+          <option value="NEEDS_REVIEW">Needs Review / Pending</option>
+          <option value="IN_REVIEW">In Review</option>
+          <option value="APPROVED">Approved (Eligible)</option>
+          <option value="PROMOTED">Promoted (Indexed)</option>
+          <option value="NEEDS_CORRECTION">Needs Correction</option>
+          <option value="REJECTED">Rejected</option>
+        </select>
+      </div>
+      <div class="filter-group">
+        <label for="filter-risk">Risk Category</label>
+        <select id="filter-risk">
+          <option value="">All Risk Levels</option>
+          <option value="HIGH">High (2 Clinicians)</option>
+          <option value="MEDIUM">Medium Risk</option>
+          <option value="LOW">Low Risk</option>
+        </select>
+      </div>
+      <div class="filter-group">
+        <label for="filter-priority">Priority</label>
+        <select id="filter-priority">
+          <option value="">All Priorities</option>
+          <option value="HIGH">High Priority</option>
+          <option value="MEDIUM">Medium Priority</option>
+          <option value="LOW">Low Priority</option>
+        </select>
+      </div>
+      <div class="filter-group">
+        <label for="filter-reason">Flag Reason</label>
+        <select id="filter-reason">
+          <option value="">All Reasons</option>
+          <option value="FLOWCHART_AMBIGUITY">Flowchart Ambiguity</option>
+          <option value="TABLE_EXTRACTION">Table Extraction</option>
+          <option value="INCOMPLETE_DOSAGE">Incomplete Dosage</option>
+          <option value="VERSION_CONFLICT">Version Conflict</option>
+          <option value="OCR_OR_EXTRACTION_ERROR">OCR / Extraction Error</option>
+          <option value="SOURCE_AMBIGUITY">Source Ambiguity</option>
+        </select>
+      </div>
+      <div class="filter-group">
+        <label for="filter-doc">Document</label>
+        <select id="filter-doc">
+          <option value="">All STW Documents</option>
+          <optgroup label="Cardiology">
+            <option value="ICMR-CARD-001">ICMR-CARD-001 (STEMI)</option>
+            <option value="ICMR-CARD-002">ICMR-CARD-002 (NSTE-ACS)</option>
+            <option value="ICMR-CARD-003">ICMR-CARD-003 (Heart Failure)</option>
+            <option value="ICMR-CARD-004">ICMR-CARD-004 (Stable CAD)</option>
+            <option value="ICMR-CARD-005">ICMR-CARD-005 (Hypertension)</option>
+            <option value="ICMR-CARD-006">ICMR-CARD-006 (Dyslipidemia)</option>
+            <option value="ICMR-CARD-007">ICMR-CARD-007 (Consolidated STW)</option>
+          </optgroup>
+          <optgroup label="Neurology (Quarantined)">
+            <option value="ICMR-NEUR-001">ICMR-NEUR-001 (Ischemic Stroke)</option>
+            <option value="ICMR-NEUR-002">ICMR-NEUR-002 (Epilepsy)</option>
+            <option value="ICMR-NEUR-003">ICMR-NEUR-003 (Parkinsons)</option>
+            <option value="ICMR-NEUR-004">ICMR-NEUR-004 (Migraine)</option>
+            <option value="ICMR-NEUR-005">ICMR-NEUR-005 (Meningitis)</option>
+            <option value="ICMR-NEUR-006">ICMR-NEUR-006 (Peripheral Neuropathy)</option>
+            <option value="ICMR-NEUR-007">ICMR-NEUR-007 (Consolidated Neurology)</option>
+          </optgroup>
+        </select>
+      </div>
+      <div class="filter-group" style="flex: 1; min-width: 140px;">
+        <label for="filter-search">Search</label>
+        <input type="text" id="filter-search" placeholder="Search condition, text..." style="background: var(--bg-card); color: var(--text-primary); border: 1px solid var(--border-color); border-radius: 4px; padding: 5px 8px; font-size: 12px; outline: none;">
+      </div>
+      <div class="filter-group">
+        <label for="filter-sort-by">Sort By</label>
+        <select id="filter-sort-by">
+          <option value="priority">Priority</option>
+          <option value="risk">Risk Category</option>
+          <option value="date">Date Updated</option>
+          <option value="document">Document</option>
+          <option value="specialty">Specialty</option>
+        </select>
+      </div>
+      <div class="filter-actions">
+        <button id="refresh-btn" class="btn btn-secondary">Refresh</button>
+      </div>
+    </section>
+
+    <!-- Main Workspace: Split View -->
+    <main class="workbench-grid">
+      <!-- Item List Pane -->
+      <aside class="queue-pane">
+        <div class="queue-pane-header">
+          <span class="pane-title">Review Queue</span>
+          <span id="queue-count-badge" class="count-badge">0 items</span>
+        </div>
+        <div id="queue-list" class="queue-list">
+          <div class="empty-state">Loading review queue...</div>
+        </div>
+      </aside>
+
+      <!-- Reviewer Detail & Action Pane -->
+      <section class="detail-pane" id="detail-pane">
+        <div class="empty-detail-state" id="empty-detail-state">
+          <div class="placeholder-icon">📋</div>
+          <h3>Select a flagged unit from the queue</h3>
+          <p>Review the immutable ICMR source text, inspect flowchart/table context, verify clinical accuracy, and record your review decision.</p>
+        </div>
+
+        <div class="detail-content hidden" id="detail-content">
+          <!-- Item Header -->
+          <div class="detail-header">
+            <div>
+              <div class="detail-tag-row">
+                <span id="detail-id-badge" class="badge-code">REV-001</span>
+                <span id="detail-risk-badge" class="badge-risk high">HIGH RISK</span>
+                <span id="detail-stage-badge" class="badge-stage hidden">2-STAGE REQUIRED</span>
+                <span id="detail-priority-badge" class="badge-priority">HIGH</span>
+                <span id="detail-reason-badge" class="badge-reason">FLOWCHART_AMBIGUITY</span>
+                <span id="detail-status-badge" class="badge-status">NEEDS_REVIEW</span>
+              </div>
+              <h2 id="detail-title">Clinical Unit Detail</h2>
+              <div class="detail-meta">
+                <span id="detail-doc-badge">ICMR-CARD-001</span> •
+                <span id="detail-specialty-badge">Cardiology</span> •
+                <span id="detail-condition">STEMI</span> •
+                <span id="detail-section">Management</span> •
+                <span>Page <strong id="detail-page">1</strong></span> •
+                <span id="detail-version">v1.0</span>
+              </div>
+            </div>
+          </div>
+
+          <!-- Flowchart / Table Context Box (if available) -->
+          <div class="context-box hidden" id="detail-context-box" style="margin-bottom: 12px; background: rgba(37, 99, 235, 0.1); border: 1px solid rgba(37, 99, 235, 0.3); border-radius: 6px; padding: 10px 14px;">
+            <div style="font-size: 11px; font-weight: 700; color: #60a5fa; text-transform: uppercase; margin-bottom: 4px;" id="detail-context-title">Structural Context</div>
+            <div style="font-size: 12px; color: var(--text-primary); font-family: var(--font-mono); white-space: pre-wrap;" id="detail-context-body"></div>
+          </div>
+
+          <!-- Immutable Source Reference Panel -->
+          <div class="source-container">
+            <div class="source-header">
+              <span class="source-title">Immutable ICMR PDF Source Text</span>
+              <span class="provenance-tag">Authoritative ICMR Reference</span>
+            </div>
+            <div class="source-body" id="detail-source-text">
+              <!-- Source text injected here -->
+            </div>
+            <div class="source-footer">
+              <span class="provenance-note">Official ICMR STW source text cannot be overwritten. Only structured corrections may be applied.</span>
+            </div>
+          </div>
+
+          <!-- Extracted / Current Content -->
+          <div class="extracted-container">
+            <div class="box-label">Extracted Knowledge Content</div>
+            <div class="extracted-body" id="detail-extracted-content"></div>
+          </div>
+
+          <!-- Correction Display if exists -->
+          <div class="correction-container hidden" id="correction-display-box">
+            <div class="box-label">Recorded Structured Correction</div>
+            <div class="correction-body" id="detail-corrected-value"></div>
+          </div>
+
+          <!-- Decision Action Form -->
+          <div class="action-card">
+            <h3>Clinical Review Decision</h3>
+            <div class="form-row" style="display: flex; gap: 12px;">
+              <div class="form-group flex-1" style="flex: 1;">
+                <label for="reviewer-id-input">Clinician / Reviewer ID <span class="req">*</span></label>
+                <input type="text" id="reviewer-id-input" placeholder="e.g. DR-SHARMA-CARDIO" required>
+              </div>
+              <div class="form-group flex-1" style="flex: 1;">
+                <label for="reviewer-name-input">Clinician Full Name</label>
+                <input type="text" id="reviewer-name-input" placeholder="e.g. Dr. Rajesh Sharma, MD">
+              </div>
+            </div>
+
+            <div class="form-group">
+              <label for="review-notes-input">Clinical Justification / Review Notes <span id="notes-req-indicator" class="req hidden">*</span></label>
+              <textarea id="review-notes-input" rows="2" placeholder="Clinical observations, dosage clarification, or verification notes..."></textarea>
+            </div>
+
+            <div class="form-group">
+              <label for="correction-input">Structured Value Correction (Optional for correction workflow)</label>
+              <textarea id="correction-input" rows="2" placeholder="Enter corrected structured value (leaves original source text untouched)..."></textarea>
+            </div>
+
+            <div class="action-button-row" style="display: flex; gap: 8px; flex-wrap: wrap;">
+              <button id="btn-start-review" class="btn btn-start">
+                Start Review
+              </button>
+              <button id="btn-approve" class="btn btn-success">
+                Approve
+              </button>
+              <button id="btn-correction" class="btn btn-warning">
+                Save Correction
+              </button>
+              <button id="btn-reject" class="btn btn-danger">
+                Reject Unit
+              </button>
+              <button id="btn-promote" class="btn btn-promote">
+                Promote to Production
+              </button>
+            </div>
+            <div id="action-status-msg" class="action-status hidden"></div>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <!-- Promotion Validation Modal -->
+    <div id="promotion-modal" class="modal-backdrop hidden">
+      <div class="modal-box" style="max-width: 600px;">
+        <div class="modal-header">
+          <h3>Production Promotion Validation</h3>
+          <button id="close-promotion-btn" class="btn-close">&times;</button>
+        </div>
+        <div class="modal-body" id="promotion-modal-body" style="padding: 16px;">
+          <!-- Injected validation checks -->
+        </div>
+      </div>
+    </div>
+
+    <!-- Audit Modal -->
+    <div id="audit-modal" class="modal-backdrop hidden">
+      <div class="modal-box" style="max-width: 900px;">
+        <div class="modal-header">
+          <h3>Clinical Review Audit Log</h3>
+          <button id="close-audit-btn" class="btn-close">&times;</button>
+        </div>
+        <div class="modal-body" id="audit-log-body">
+          <div class="empty-state">Loading audit history...</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="/static/review.js"></script>
+</body>
+</html>

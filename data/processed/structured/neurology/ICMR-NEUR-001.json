@@ -1,0 +1,64 @@
+{
+  "metadata": {
+    "document_id": "ICMR-NEUR-001",
+    "title": "Acute paralysis",
+    "specialty": "Neurology",
+    "condition": "Acute paralysis",
+    "icd_11_code": null,
+    "volume": "Volume 1",
+    "edition": "1.0",
+    "source_organization": "Indian Council of Medical Research (ICMR)",
+    "source_url": "https://www.icmr.gov.in/icmrobject/uploads/STWs/1725952346_neurology_acute_paralysis.pdf",
+    "local_path": "data\\raw\\neurology\\1725952346_neurology_acute_paralysis.pdf",
+    "total_pages": 1,
+    "document_hash": "85c8759ab6297174d0f54007884e2fbeecf8e1c285d5fbcdb0918ff9c41f74fc"
+  },
+  "clinical_presentation": null,
+  "diagnostic_criteria": [],
+  "investigations": [
+    {
+      "investigation_id": "INV_P1_01",
+      "name": "CSF for cells and biochemistry",
+      "tier": "BASIC",
+      "modality": "Laboratory / Diagnostic Imaging",
+      "indication": "Workup for Acute paralysis",
+      "target_findings": null,
+      "source": {
+        "document_id": "ICMR-NEUR-001",
+        "document_name": "Acute paralysis",
+        "page_number": 1,
+        "section": "DISTAL",
+        "source_text_reference": "• CSF for cells and biochemistry",
+        "bounding_box": [
+          367.1675109863281,
+          877.103515625,
+          534.3004760742188,
+          890.5234985351562
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    }
+  ],
+  "tier_management": [],
+  "medications": [],
+  "contraindications": [],
+  "referral_criteria": [],
+  "flowcharts": [],
+  "tables": [],
+  "references": [],
+  "abbreviations": {
+    "STW": "Standard Treatment Workflow",
+    "ICMR": "Indian Council of Medical Research",
+    "DHR": "Department of Health Research",
+    "MoHFW": "Ministry of Health and Family Welfare",
+    "ECG": "Electrocardiogram",
+    "PCI": "Percutaneous Coronary Intervention",
+    "PHC": "Primary Health Centre",
+    "CHC": "Community Health Centre",
+    "ICU": "Intensive Care Unit"
+  }
+}

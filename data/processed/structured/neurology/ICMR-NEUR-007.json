@@ -1,0 +1,1908 @@
+{
+  "metadata": {
+    "document_id": "ICMR-NEUR-007",
+    "title": "Neurology",
+    "specialty": "Neurology",
+    "condition": "Neurology",
+    "icd_11_code": null,
+    "volume": "Volume 1",
+    "edition": "1.0",
+    "source_organization": "Indian Council of Medical Research (ICMR)",
+    "source_url": "https://www.icmr.gov.in/icmrobject/uploads/STWs/1725952342_neurology_all.pdf",
+    "local_path": "data\\raw\\neurology\\1725952342_neurology_all.pdf",
+    "total_pages": 16,
+    "document_hash": "9532ad9e8692cf19fefc210f2ddd6ff02e6b0ab838a518d6cc9d9111f5dc9e3a"
+  },
+  "clinical_presentation": null,
+  "diagnostic_criteria": [],
+  "investigations": [],
+  "tier_management": [],
+  "medications": [
+    {
+      "medication_id": "MED_P11_01",
+      "generic_name": "Heparin",
+      "drug_class": null,
+      "dosage": "heparin/LMWH (Dose not specified in text)",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-NEUR-007",
+        "document_name": "Neurology",
+        "page_number": 11,
+        "section": "THROMBOSIS",
+        "source_text_reference": "heparin/LMWH",
+        "bounding_box": [
+          325.4818420410156,
+          1196.8194580078125,
+          410.53485107421875,
+          1210.239501953125
+        ],
+        "extraction_type": "text",
+        "review_status": "needs_review",
+        "requires_manual_review": true,
+        "review_notes": "Medication 'Heparin' mentioned in workflow without explicit dosage or units in source text",
+        "normalized_term": null
+      }
+    },
+    {
+      "medication_id": "MED_P13_02",
+      "generic_name": "Aspirin",
+      "drug_class": null,
+      "dosage": "Aspirin (in ischemic stroke) (Dose not specified in text)",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-NEUR-007",
+        "document_name": "Neurology",
+        "page_number": 13,
+        "section": "SECONDARY PREVENTION",
+        "source_text_reference": "Aspirin (in ischemic stroke)",
+        "bounding_box": [
+          61.652801513671875,
+          1321.22998046875,
+          209.0087890625,
+          1334.6500244140625
+        ],
+        "extraction_type": "text",
+        "review_status": "needs_review",
+        "requires_manual_review": true,
+        "review_notes": "Medication 'Aspirin' mentioned in workflow without explicit dosage or units in source text",
+        "normalized_term": null
+      }
+    }
+  ],
+  "contraindications": [
+    {
+      "contraindication_id": "CI_P12_01",
+      "type": "RELATIVE",
+      "condition_description": "Rule out circulatory shock, ongoing convulsions and hyperthermia/hyperpyrexia(core temperature > 40.5°C",
+      "intervention_affected": "Thrombolytic Therapy / Pharmacotherapy",
+      "timeframe": null,
+      "source": {
+        "document_id": "ICMR-NEUR-007",
+        "document_name": "Neurology",
+        "page_number": 12,
+        "section": "Rule out circulatory shock, ongoing convulsions and hyperthermia/hyperpyrexia(core temperature > 40.5°C",
+        "source_text_reference": "Rule out circulatory shock, ongoing convulsions and hyperthermia/hyperpyrexia(core temperature > 40.5°C",
+        "bounding_box": [
+          21.11520004272461,
+          618.0513305664062,
+          633.209228515625,
+          631.4713134765625
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "contraindication_id": "CI_P12_02",
+      "type": "RELATIVE",
+      "condition_description": "or hypothermia(< 36.5°C)",
+      "intervention_affected": "Thrombolytic Therapy / Pharmacotherapy",
+      "timeframe": null,
+      "source": {
+        "document_id": "ICMR-NEUR-007",
+        "document_name": "Neurology",
+        "page_number": 12,
+        "section": "Rule out circulatory shock, ongoing convulsions and hyperthermia/hyperpyrexia(core temperature > 40.5°C",
+        "source_text_reference": "or hypothermia(< 36.5°C)",
+        "bounding_box": [
+          21.11520004272461,
+          633.0553588867188,
+          161.0791778564453,
+          646.475341796875
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "contraindication_id": "CI_P12_03",
+      "type": "RELATIVE",
+      "condition_description": "Check Airway/Breathing/Circulation",
+      "intervention_affected": "Thrombolytic Therapy / Pharmacotherapy",
+      "timeframe": null,
+      "source": {
+        "document_id": "ICMR-NEUR-007",
+        "document_name": "Neurology",
+        "page_number": 12,
+        "section": "Rule out circulatory shock, ongoing convulsions and hyperthermia/hyperpyrexia(core temperature > 40.5°C",
+        "source_text_reference": "Check Airway/Breathing/Circulation",
+        "bounding_box": [
+          15.940400123596191,
+          585.4585571289062,
+          224.1912841796875,
+          598.8785400390625
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "contraindication_id": "CI_P12_04",
+      "type": "RELATIVE",
+      "condition_description": "Empirical antibiotic (within 30 minutes of arrival)",
+      "intervention_affected": "Thrombolytic Therapy / Pharmacotherapy",
+      "timeframe": null,
+      "source": {
+        "document_id": "ICMR-NEUR-007",
+        "document_name": "Neurology",
+        "page_number": 12,
+        "section": "Rule out circulatory shock, ongoing convulsions and hyperthermia/hyperpyrexia(core temperature > 40.5°C",
+        "source_text_reference": "Empirical antibiotic (within 30 minutes of arrival)",
+        "bounding_box": [
+          24.10300064086914,
+          1277.889892578125,
+          322.8421630859375,
+          1292.6519775390625
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "contraindication_id": "CI_P12_05",
+      "type": "RELATIVE",
+      "condition_description": "If suspecting pyogenic meningitis-Inj Ceftriaxone 2 g+ Inj",
+      "intervention_affected": "Thrombolytic Therapy / Pharmacotherapy",
+      "timeframe": null,
+      "source": {
+        "document_id": "ICMR-NEUR-007",
+        "document_name": "Neurology",
+        "page_number": 12,
+        "section": "Rule out circulatory shock, ongoing convulsions and hyperthermia/hyperpyrexia(core temperature > 40.5°C",
+        "source_text_reference": "• If suspecting pyogenic meningitis-Inj Ceftriaxone 2 g+ Inj",
+        "bounding_box": [
+          17.10700035095215,
+          1294.0709228515625,
+          350.6160888671875,
+          1307.490966796875
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "contraindication_id": "CI_P12_06",
+      "type": "RELATIVE",
+      "condition_description": "Vancomycin 500 mg+ Inj Ampicillin 2 g if older than 50 years or",
+      "intervention_affected": "Thrombolytic Therapy / Pharmacotherapy",
+      "timeframe": null,
+      "source": {
+        "document_id": "ICMR-NEUR-007",
+        "document_name": "Neurology",
+        "page_number": 12,
+        "section": "Rule out circulatory shock, ongoing convulsions and hyperthermia/hyperpyrexia(core temperature > 40.5°C",
+        "source_text_reference": "Vancomycin 500 mg+ Inj Ampicillin 2 g if older than 50 years or",
+        "bounding_box": [
+          24.10300064086914,
+          1309.0748291015625,
+          388.8631896972656,
+          1322.494873046875
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "contraindication_id": "CI_P12_07",
+      "type": "RELATIVE",
+      "condition_description": "immunocompromised+ Inj Dexamethasone 8 mg IV",
+      "intervention_affected": "Thrombolytic Therapy / Pharmacotherapy",
+      "timeframe": null,
+      "source": {
+        "document_id": "ICMR-NEUR-007",
+        "document_name": "Neurology",
+        "page_number": 12,
+        "section": "Rule out circulatory shock, ongoing convulsions and hyperthermia/hyperpyrexia(core temperature > 40.5°C",
+        "source_text_reference": "immunocompromised+ Inj Dexamethasone 8 mg IV",
+        "bounding_box": [
+          24.10300064086914,
+          1324.078857421875,
+          318.7930603027344,
+          1337.4989013671875
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "contraindication_id": "CI_P12_08",
+      "type": "RELATIVE",
+      "condition_description": "Continue empirical treatment till culture yields causative",
+      "intervention_affected": "Thrombolytic Therapy / Pharmacotherapy",
+      "timeframe": null,
+      "source": {
+        "document_id": "ICMR-NEUR-007",
+        "document_name": "Neurology",
+        "page_number": 12,
+        "section": "Rule out circulatory shock, ongoing convulsions and hyperthermia/hyperpyrexia(core temperature > 40.5°C",
+        "source_text_reference": "• Continue empirical treatment till culture yields causative",
+        "bounding_box": [
+          17.10700035095215,
+          1339.0828857421875,
+          352.55316162109375,
+          1352.5029296875
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "contraindication_id": "CI_P12_09",
+      "type": "RELATIVE",
+      "condition_description": "organism,then tailor treatment as per sensitivity reports for 10-14",
+      "intervention_affected": "Thrombolytic Therapy / Pharmacotherapy",
+      "timeframe": null,
+      "source": {
+        "document_id": "ICMR-NEUR-007",
+        "document_name": "Neurology",
+        "page_number": 12,
+        "section": "Rule out circulatory shock, ongoing convulsions and hyperthermia/hyperpyrexia(core temperature > 40.5°C",
+        "source_text_reference": "organism,then tailor treatment as per sensitivity reports for 10-14",
+        "bounding_box": [
+          24.10300064086914,
+          1354.0869140625,
+          396.8930969238281,
+          1367.5069580078125
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "contraindication_id": "CI_P12_10",
+      "type": "RELATIVE",
+      "condition_description": "days.",
+      "intervention_affected": "Thrombolytic Therapy / Pharmacotherapy",
+      "timeframe": null,
+      "source": {
+        "document_id": "ICMR-NEUR-007",
+        "document_name": "Neurology",
+        "page_number": 12,
+        "section": "Rule out circulatory shock, ongoing convulsions and hyperthermia/hyperpyrexia(core temperature > 40.5°C",
+        "source_text_reference": "days.",
+        "bounding_box": [
+          24.10300064086914,
+          1369.0909423828125,
+          52.329002380371094,
+          1382.510986328125
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "contraindication_id": "CI_P12_11",
+      "type": "RELATIVE",
+      "condition_description": "Steroids to be stopped after 48 hours,unless any other compelling",
+      "intervention_affected": "Thrombolytic Therapy / Pharmacotherapy",
+      "timeframe": null,
+      "source": {
+        "document_id": "ICMR-NEUR-007",
+        "document_name": "Neurology",
+        "page_number": 12,
+        "section": "Rule out circulatory shock, ongoing convulsions and hyperthermia/hyperpyrexia(core temperature > 40.5°C",
+        "source_text_reference": "• Steroids to be stopped after 48 hours,unless any other compelling",
+        "bounding_box": [
+          17.10700035095215,
+          1384.0948486328125,
+          403.1300354003906,
+          1397.514892578125
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "contraindication_id": "CI_P12_12",
+      "type": "RELATIVE",
+      "condition_description": "indications-adrenal insufﬁciency/TBM",
+      "intervention_affected": "Thrombolytic Therapy / Pharmacotherapy",
+      "timeframe": null,
+      "source": {
+        "document_id": "ICMR-NEUR-007",
+        "document_name": "Neurology",
+        "page_number": 12,
+        "section": "Rule out circulatory shock, ongoing convulsions and hyperthermia/hyperpyrexia(core temperature > 40.5°C",
+        "source_text_reference": "indications-adrenal insufﬁciency/TBM",
+        "bounding_box": [
+          24.10300064086914,
+          1399.098876953125,
+          242.44308471679688,
+          1412.5189208984375
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "contraindication_id": "CI_P12_13",
+      "type": "RELATIVE",
+      "condition_description": "Viral-Herpes",
+      "intervention_affected": "Thrombolytic Therapy / Pharmacotherapy",
+      "timeframe": null,
+      "source": {
+        "document_id": "ICMR-NEUR-007",
+        "document_name": "Neurology",
+        "page_number": 12,
+        "section": "Rule out circulatory shock, ongoing convulsions and hyperthermia/hyperpyrexia(core temperature > 40.5°C",
+        "source_text_reference": "Viral-Herpes",
+        "bounding_box": [
+          424.5898132324219,
+          1277.926025390625,
+          502.0979919433594,
+          1292.6881103515625
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "contraindication_id": "CI_P12_14",
+      "type": "RELATIVE",
+      "condition_description": "simplex/Zoster",
+      "intervention_affected": "Thrombolytic Therapy / Pharmacotherapy",
+      "timeframe": null,
+      "source": {
+        "document_id": "ICMR-NEUR-007",
+        "document_name": "Neurology",
+        "page_number": 12,
+        "section": "Rule out circulatory shock, ongoing convulsions and hyperthermia/hyperpyrexia(core temperature > 40.5°C",
+        "source_text_reference": "simplex/Zoster",
+        "bounding_box": [
+          424.5898132324219,
+          1292.9300537109375,
+          514.1298217773438,
+          1307.692138671875
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "contraindication_id": "CI_P12_15",
+      "type": "RELATIVE",
+      "condition_description": "Inj Acyclovir",
+      "intervention_affected": "Thrombolytic Therapy / Pharmacotherapy",
+      "timeframe": null,
+      "source": {
+        "document_id": "ICMR-NEUR-007",
+        "document_name": "Neurology",
+        "page_number": 12,
+        "section": "Rule out circulatory shock, ongoing convulsions and hyperthermia/hyperpyrexia(core temperature > 40.5°C",
+        "source_text_reference": "• Inj Acyclovir",
+        "bounding_box": [
+          417.59381103515625,
+          1324.10400390625,
+          496.08978271484375,
+          1337.5240478515625
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "contraindication_id": "CI_P12_16",
+      "type": "RELATIVE",
+      "condition_description": "00 mg IV",
+      "intervention_affected": "Thrombolytic Therapy / Pharmacotherapy",
+      "timeframe": null,
+      "source": {
+        "document_id": "ICMR-NEUR-007",
+        "document_name": "Neurology",
+        "page_number": 12,
+        "section": "Rule out circulatory shock, ongoing convulsions and hyperthermia/hyperpyrexia(core temperature > 40.5°C",
+        "source_text_reference": "500 mg IV",
+        "bounding_box": [
+          424.5898132324219,
+          1339.1080322265625,
+          483.4398498535156,
+          1352.528076171875
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "contraindication_id": "CI_P12_17",
+      "type": "RELATIVE",
+      "condition_description": "hourly for",
+      "intervention_affected": "Thrombolytic Therapy / Pharmacotherapy",
+      "timeframe": null,
+      "source": {
+        "document_id": "ICMR-NEUR-007",
+        "document_name": "Neurology",
+        "page_number": 12,
+        "section": "Rule out circulatory shock, ongoing convulsions and hyperthermia/hyperpyrexia(core temperature > 40.5°C",
+        "source_text_reference": "8 hourly for",
+        "bounding_box": [
+          417.59381103515625,
+          1354.1119384765625,
+          492.2288818359375,
+          1367.531982421875
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "contraindication_id": "CI_P12_18",
+      "type": "RELATIVE",
+      "condition_description": "0 days",
+      "intervention_affected": "Thrombolytic Therapy / Pharmacotherapy",
+      "timeframe": null,
+      "source": {
+        "document_id": "ICMR-NEUR-007",
+        "document_name": "Neurology",
+        "page_number": 12,
+        "section": "Rule out circulatory shock, ongoing convulsions and hyperthermia/hyperpyrexia(core temperature > 40.5°C",
+        "source_text_reference": "10 days",
+        "bounding_box": [
+          417.59381103515625,
+          1369.115966796875,
+          483.5719299316406,
+          1382.5360107421875
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "contraindication_id": "CI_P12_19",
+      "type": "RELATIVE",
+      "condition_description": "Cerebral malaria",
+      "intervention_affected": "Thrombolytic Therapy / Pharmacotherapy",
+      "timeframe": null,
+      "source": {
+        "document_id": "ICMR-NEUR-007",
+        "document_name": "Neurology",
+        "page_number": 12,
+        "section": "Rule out circulatory shock, ongoing convulsions and hyperthermia/hyperpyrexia(core temperature > 40.5°C",
+        "source_text_reference": "Cerebral malaria",
+        "bounding_box": [
+          518.5,
+          1276.890869140625,
+          624.464111328125,
+          1291.6529541015625
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "contraindication_id": "CI_P12_20",
+      "type": "RELATIVE",
+      "condition_description": "Inj Artesunate 2.4 mg/kg IM or IV 3 doses",
+      "intervention_affected": "Thrombolytic Therapy / Pharmacotherapy",
+      "timeframe": null,
+      "source": {
+        "document_id": "ICMR-NEUR-007",
+        "document_name": "Neurology",
+        "page_number": 12,
+        "section": "Rule out circulatory shock, ongoing convulsions and hyperthermia/hyperpyrexia(core temperature > 40.5°C",
+        "source_text_reference": "Inj Artesunate 2.4 mg/kg IM or IV 3 doses",
+        "bounding_box": [
+          518.5,
+          1293.0718994140625,
+          759.2677612304688,
+          1306.491943359375
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "contraindication_id": "CI_P12_21",
+      "type": "RELATIVE",
+      "condition_description": "2 hours apart and then OD /",
+      "intervention_affected": "Thrombolytic Therapy / Pharmacotherapy",
+      "timeframe": null,
+      "source": {
+        "document_id": "ICMR-NEUR-007",
+        "document_name": "Neurology",
+        "page_number": 12,
+        "section": "Rule out circulatory shock, ongoing convulsions and hyperthermia/hyperpyrexia(core temperature > 40.5°C",
+        "source_text_reference": "12 hours apart and then OD /",
+        "bounding_box": [
+          518.5,
+          1308.075927734375,
+          687.9217529296875,
+          1321.4959716796875
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "contraindication_id": "CI_P12_22",
+      "type": "RELATIVE",
+      "condition_description": "Inj Quinine 20 mg/kg IV stat followed by 10mg/kg",
+      "intervention_affected": "Thrombolytic Therapy / Pharmacotherapy",
+      "timeframe": null,
+      "source": {
+        "document_id": "ICMR-NEUR-007",
+        "document_name": "Neurology",
+        "page_number": 12,
+        "section": "Rule out circulatory shock, ongoing convulsions and hyperthermia/hyperpyrexia(core temperature > 40.5°C",
+        "source_text_reference": "Inj Quinine 20 mg/kg IV stat followed by 10mg/kg",
+        "bounding_box": [
+          518.5,
+          1323.0799560546875,
+          809.49267578125,
+          1336.5
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "contraindication_id": "CI_P12_23",
+      "type": "RELATIVE",
+      "condition_description": "TDS till patient can take orally,then",
+      "intervention_affected": "Thrombolytic Therapy / Pharmacotherapy",
+      "timeframe": null,
+      "source": {
+        "document_id": "ICMR-NEUR-007",
+        "document_name": "Neurology",
+        "page_number": 12,
+        "section": "Rule out circulatory shock, ongoing convulsions and hyperthermia/hyperpyrexia(core temperature > 40.5°C",
+        "source_text_reference": "TDS till patient can take orally,then",
+        "bounding_box": [
+          525.4959716796875,
+          1338.0838623046875,
+          729.3600463867188,
+          1351.50390625
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "contraindication_id": "CI_P12_24",
+      "type": "RELATIVE",
+      "condition_description": "oral Artesunate+Pyrimethamine /Sulphadoxine for",
+      "intervention_affected": "Thrombolytic Therapy / Pharmacotherapy",
+      "timeframe": null,
+      "source": {
+        "document_id": "ICMR-NEUR-007",
+        "document_name": "Neurology",
+        "page_number": 12,
+        "section": "Rule out circulatory shock, ongoing convulsions and hyperthermia/hyperpyrexia(core temperature > 40.5°C",
+        "source_text_reference": "oral Artesunate+Pyrimethamine /Sulphadoxine for",
+        "bounding_box": [
+          518.5,
+          1353.087890625,
+          814.8948974609375,
+          1366.5079345703125
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "contraindication_id": "CI_P12_25",
+      "type": "RELATIVE",
+      "condition_description": "days OR oral Quinine 10 mg/kg TDS  for total 7",
+      "intervention_affected": "Thrombolytic Therapy / Pharmacotherapy",
+      "timeframe": null,
+      "source": {
+        "document_id": "ICMR-NEUR-007",
+        "document_name": "Neurology",
+        "page_number": 12,
+        "section": "Rule out circulatory shock, ongoing convulsions and hyperthermia/hyperpyrexia(core temperature > 40.5°C",
+        "source_text_reference": "3 days OR oral Quinine 10 mg/kg TDS  for total 7",
+        "bounding_box": [
+          525.4959716796875,
+          1368.0919189453125,
+          800.1547241210938,
+          1381.511962890625
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "contraindication_id": "CI_P12_26",
+      "type": "RELATIVE",
+      "condition_description": "days + Doxycycline 3 mg/kg OD for 7 days.",
+      "intervention_affected": "Thrombolytic Therapy / Pharmacotherapy",
+      "timeframe": null,
+      "source": {
+        "document_id": "ICMR-NEUR-007",
+        "document_name": "Neurology",
+        "page_number": 12,
+        "section": "Rule out circulatory shock, ongoing convulsions and hyperthermia/hyperpyrexia(core temperature > 40.5°C",
+        "source_text_reference": "days + Doxycycline 3 mg/kg OD for 7 days.",
+        "bounding_box": [
+          525.4959716796875,
+          1383.0958251953125,
+          761.3798828125,
+          1396.515869140625
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "contraindication_id": "CI_P12_27",
+      "type": "RELATIVE",
+      "condition_description": "If uncomplicated-back referral to Secondary care centre for completing treatment regimen/monitoring.",
+      "intervention_affected": "Thrombolytic Therapy / Pharmacotherapy",
+      "timeframe": null,
+      "source": {
+        "document_id": "ICMR-NEUR-007",
+        "document_name": "Neurology",
+        "page_number": 12,
+        "section": "Rule out circulatory shock, ongoing convulsions and hyperthermia/hyperpyrexia(core temperature > 40.5°C",
+        "source_text_reference": "*If uncomplicated-back referral to Secondary care centre for completing treatment regimen/monitoring.",
+        "bounding_box": [
+          16.448974609375,
+          1474.9239501953125,
+          618.3252563476562,
+          1488.343994140625
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "contraindication_id": "CI_P12_28",
+      "type": "RELATIVE",
+      "condition_description": "Seizures/postictal state",
+      "intervention_affected": "Thrombolytic Therapy / Pharmacotherapy",
+      "timeframe": null,
+      "source": {
+        "document_id": "ICMR-NEUR-007",
+        "document_name": "Neurology",
+        "page_number": 12,
+        "section": "Rule out circulatory shock, ongoing convulsions and hyperthermia/hyperpyrexia(core temperature > 40.5°C",
+        "source_text_reference": "Seizures/postictal state",
+        "bounding_box": [
+          610.90869140625,
+          445.77886962890625,
+          743.679931640625,
+          459.1988525390625
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    }
+  ],
+  "referral_criteria": [],
+  "flowcharts": [],
+  "tables": [
+    {
+      "table_id": "TAB_P10_01",
+      "title": "Table 1 (Page 10)",
+      "headers": [
+        "PRIMARY HEALTH CENTRE (MEDICAL OFFICER) • Clinical diagnosis of epilepsy: detailed history from an eyewitness • Differentiate between provoked seizures and epilepsy (provoked due to fever, acute CNS insult, antibiotics, and metabolic causes) • Laboratory investigations: CBC, liver function tests, routine biochemistry, hemogram, lipid profile, vit D levels, TFT (whichever feasible) • Initiation of treatment: - Treat the patient if patient has epilepsy (2 or more episodes of unprovoked seizures) - Treat a single seizure if risk of recurrence is high as in patients with focal seizures,mentally retarded, neurological deficits having family history of seizures abnormalEEG, neuroimaging - Anti Epileptic Drug (AED broad spectrum, low dose, start low go slow, except status epilepticus) - Emergency medical care of status epilepticus • Treatment counselling: side effects/toxicities of drugs, red flags, importance of adherence, maintaining treatment diary • Advice on prevention of seizures: regular medication, sleep 7-8 hrs, avoid excess TV/mobile/ photic stimulation, regular diet, lifestyle choices(avoid alcohol) • Evaluate any possibility of superimposed non-epileptic seizure • Training of MLP/ANM/ASHA on epilepsy • For excessive alcohol use, refer to ANM/MLP where psychosocial interventions are carried out for substance use disorders • Follow up visits for treatment monitoring & difficult patients under neurologist at STC centre • Basic management of co-morbidities (behaviour, cognition, reproductive health, bone health) • Alert to signs of abuse and neglect • Maintain upward referrals with paediatrician/physician at DH",
+        "REASONS FOR REFERRAL (centres with specialists like paediatrician, neurologist) • Redflag Signs • Progressive problems, rapid appearance of new symptoms • Recent injury • Symptoms appearing after alcohol binge • Status epilepticus after stabilization • Non response to adequate dose and duration of medication • Serious side effects • Neuroimaging",
+        "DISTRICT HOSPITALS • Careful evaluation of all referral patients, provide specialized management for patients and refer back to PHC for follow up of management • Maintain communication, ongoing clinical support and supervision of MOs at PHC • Laboratory investigation - CBC, liver function tests, antiepileptic drug levels, routine biochemistry, hemogram, lipid profile, vit D levels, TFT, CT brain (when necesary) • Monitor side effects of AED • Clinical Psychologist: counselling health services for persons with epilepsy or upon referral from PHC/UPHC"
+      ],
+      "rows": [
+        {
+          "row_id": "T1_R1",
+          "cells": {
+            "PRIMARY HEALTH CENTRE (MEDICAL OFFICER) • Clinical diagnosis of epilepsy: detailed history from an eyewitness • Differentiate between provoked seizures and epilepsy (provoked due to fever, acute CNS insult, antibiotics, and metabolic causes) • Laboratory investigations: CBC, liver function tests, routine biochemistry, hemogram, lipid profile, vit D levels, TFT (whichever feasible) • Initiation of treatment: - Treat the patient if patient has epilepsy (2 or more episodes of unprovoked seizures) - Treat a single seizure if risk of recurrence is high as in patients with focal seizures,mentally retarded, neurological deficits having family history of seizures abnormalEEG, neuroimaging - Anti Epileptic Drug (AED broad spectrum, low dose, start low go slow, except status epilepticus) - Emergency medical care of status epilepticus • Treatment counselling: side effects/toxicities of drugs, red flags, importance of adherence, maintaining treatment diary • Advice on prevention of seizures: regular medication, sleep 7-8 hrs, avoid excess TV/mobile/ photic stimulation, regular diet, lifestyle choices(avoid alcohol) • Evaluate any possibility of superimposed non-epileptic seizure • Training of MLP/ANM/ASHA on epilepsy • For excessive alcohol use, refer to ANM/MLP where psychosocial interventions are carried out for substance use disorders • Follow up visits for treatment monitoring & difficult patients under neurologist at STC centre • Basic management of co-morbidities (behaviour, cognition, reproductive health, bone health) • Alert to signs of abuse and neglect • Maintain upward referrals with paediatrician/physician at DH": "",
+            "REASONS FOR REFERRAL (centres with specialists like paediatrician, neurologist) • Redflag Signs • Progressive problems, rapid appearance of new symptoms • Recent injury • Symptoms appearing after alcohol binge • Status epilepticus after stabilization • Non response to adequate dose and duration of medication • Serious side effects • Neuroimaging": "RED FLAG SIGNS • Fever • Headache • Vomiting • Altered Sensorium • Severe Giddiness • Loss of function of body",
+            "DISTRICT HOSPITALS • Careful evaluation of all referral patients, provide specialized management for patients and refer back to PHC for follow up of management • Maintain communication, ongoing clinical support and supervision of MOs at PHC • Laboratory investigation - CBC, liver function tests, antiepileptic drug levels, routine biochemistry, hemogram, lipid profile, vit D levels, TFT, CT brain (when necesary) • Monitor side effects of AED • Clinical Psychologist: counselling health services for persons with epilepsy or upon referral from PHC/UPHC": ""
+          },
+          "source": {
+            "document_id": "ICMR-NEUR-007",
+            "document_name": "Neurology",
+            "page_number": 10,
+            "section": "TABLE_1",
+            "source_text_reference": "REASONS FOR REFERRAL (centres with specialists like paediatrician, neurologist) • Redflag Signs • Progressive problems, rapid appearance of new symptoms • Recent injury • Symptoms appearing after alcohol binge • Status epilepticus after stabilization • Non response to adequate dose and duration of medication • Serious side effects • Neuroimaging: RED FLAG SIGNS • Fever • Headache • Vomiting • Altered Sensorium • Severe Giddiness • Loss of function of body",
+            "bounding_box": [
+              0.054999998211860655,
+              389.9932861328125,
+              841.2013142903646,
+              791.523796081543
+            ],
+            "extraction_type": "table",
+            "review_status": "needs_review",
+            "requires_manual_review": true,
+            "review_notes": "Sparse row with potential merged columns",
+            "normalized_term": null
+          }
+        }
+      ],
+      "source": {
+        "document_id": "ICMR-NEUR-007",
+        "document_name": "Neurology",
+        "page_number": 10,
+        "section": "TABLE_1",
+        "source_text_reference": "REASONS FOR REFERRAL (centres with specialists like paediatrician, neurologist) • Redflag Signs • Progressive problems, rapid appearance of new symptoms • Recent injury • Symptoms appearing after alcohol binge • Status epilepticus after stabilization • Non response to adequate dose and duration of medication • Serious side effects • Neuroimaging: RED FLAG SIGNS • Fever • Headache • Vomiting • Altered Sensorium • Severe Giddiness • Loss of function of body",
+        "bounding_box": [
+          0.054999998211860655,
+          389.9932861328125,
+          841.2013142903646,
+          791.523796081543
+        ],
+        "extraction_type": "table",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "table_id": "TAB_P10_02",
+      "title": "Table 2 (Page 10)",
+      "headers": [
+        "Carbamazepine Oxcarbazepine Phenobarbitone Can be used for generalized also Phenytoin",
+        "S Starting dose: 100mg BD h Maintenance dose: 400-1200 si Starting dose: 150mg BD S Maintenance dose: 600 to 1800 h Starting dose: 30mg HS S Maintenance dose: 60-180 p A Starting dose: 200mg HS o Maintenance dose:200-400 p",
+        "edation, dizziness, ataxia, skin rash, SJS, yponatremia, seizure worsening in some tuations edation, dizziness, ataxia, headache, yponateremia, skin rash edation, ataxia, depression, memory roblems, hyperactivity in children, skin rash taxia, sedation, gum hyperplasia, coarsening f facial features, hirsutism, memory roblems, osteomalacia & bone loss, skin rash"
+      ],
+      "rows": [
+        {
+          "row_id": "T2_R1",
+          "cells": {
+            "Carbamazepine Oxcarbazepine Phenobarbitone Can be used for generalized also Phenytoin": "Folic Acid 5 mg/day to be added along with AEDs in all women of child bearing age. Polytherapy and valproate to be avoided in women with epilepsy",
+            "S Starting dose: 100mg BD h Maintenance dose: 400-1200 si Starting dose: 150mg BD S Maintenance dose: 600 to 1800 h Starting dose: 30mg HS S Maintenance dose: 60-180 p A Starting dose: 200mg HS o Maintenance dose:200-400 p": "",
+            "edation, dizziness, ataxia, skin rash, SJS, yponatremia, seizure worsening in some tuations edation, dizziness, ataxia, headache, yponateremia, skin rash edation, ataxia, depression, memory roblems, hyperactivity in children, skin rash taxia, sedation, gum hyperplasia, coarsening f facial features, hirsutism, memory roblems, osteomalacia & bone loss, skin rash": ""
+          },
+          "source": {
+            "document_id": "ICMR-NEUR-007",
+            "document_name": "Neurology",
+            "page_number": 10,
+            "section": "TABLE_2",
+            "source_text_reference": "Carbamazepine Oxcarbazepine Phenobarbitone Can be used for generalized also Phenytoin: Folic Acid 5 mg/day to be added along with AEDs in all women of child bearing age. Polytherapy and valproate to be avoided in women with epilepsy",
+            "bounding_box": [
+              14.532989501953125,
+              1005.3984375,
+              829.9959920247396,
+              1173.9930419921875
+            ],
+            "extraction_type": "table",
+            "review_status": "needs_review",
+            "requires_manual_review": true,
+            "review_notes": "Sparse row with potential merged columns",
+            "normalized_term": null
+          }
+        }
+      ],
+      "source": {
+        "document_id": "ICMR-NEUR-007",
+        "document_name": "Neurology",
+        "page_number": 10,
+        "section": "TABLE_2",
+        "source_text_reference": "Carbamazepine Oxcarbazepine Phenobarbitone Can be used for generalized also Phenytoin: Folic Acid 5 mg/day to be added along with AEDs in all women of child bearing age. Polytherapy and valproate to be avoided in women with epilepsy",
+        "bounding_box": [
+          14.532989501953125,
+          1005.3984375,
+          829.9959920247396,
+          1173.9930419921875
+        ],
+        "extraction_type": "table",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "table_id": "TAB_P10_03",
+      "title": "Table 3 (Page 10)",
+      "headers": [
+        "Column_1",
+        "Column_2",
+        "Column_3"
+      ],
+      "rows": [
+        {
+          "row_id": "T3_R1",
+          "cells": {
+            "Column_1": "",
+            "Column_2": "uper refractory 24hr no control",
+            "Column_3": ""
+          },
+          "source": {
+            "document_id": "ICMR-NEUR-007",
+            "document_name": "Neurology",
+            "page_number": 10,
+            "section": "TABLE_3",
+            "source_text_reference": "Column_2: uper refractory 24hr no control",
+            "bounding_box": [
+              411.01080322265625,
+              1467.9169921875,
+              671.822021484375,
+              1515.008056640625
+            ],
+            "extraction_type": "table",
+            "review_status": "needs_review",
+            "requires_manual_review": true,
+            "review_notes": "Sparse row with potential merged columns",
+            "normalized_term": null
+          }
+        }
+      ],
+      "source": {
+        "document_id": "ICMR-NEUR-007",
+        "document_name": "Neurology",
+        "page_number": 10,
+        "section": "TABLE_3",
+        "source_text_reference": "Column_2: uper refractory 24hr no control",
+        "bounding_box": [
+          411.01080322265625,
+          1467.9169921875,
+          671.822021484375,
+          1515.008056640625
+        ],
+        "extraction_type": "table",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "table_id": "TAB_P11_02",
+      "title": "Table 2 (Page 11)",
+      "headers": [
+        "CAUSES OF HEADACHE",
+        "TREATMENT OF HEADACHE"
+      ],
+      "rows": [
+        {
+          "row_id": "T2_R1",
+          "cells": {
+            "CAUSES OF HEADACHE": "Intra cerebral hemorrhage",
+            "TREATMENT OF HEADACHE": "Good control of blood pressure"
+          },
+          "source": {
+            "document_id": "ICMR-NEUR-007",
+            "document_name": "Neurology",
+            "page_number": 11,
+            "section": "TABLE_2",
+            "source_text_reference": "CAUSES OF HEADACHE: Intra cerebral hemorrhage; TREATMENT OF HEADACHE: Good control of blood pressure",
+            "bounding_box": [
+              440.33788045247394,
+              1324.3839111328125,
+              831.030029296875,
+              1471.236063639323
+            ],
+            "extraction_type": "table",
+            "review_status": "extracted",
+            "requires_manual_review": false,
+            "review_notes": null,
+            "normalized_term": null
+          }
+        },
+        {
+          "row_id": "T2_R2",
+          "cells": {
+            "CAUSES OF HEADACHE": "Seizures",
+            "TREATMENT OF HEADACHE": "Antiepileptic medications"
+          },
+          "source": {
+            "document_id": "ICMR-NEUR-007",
+            "document_name": "Neurology",
+            "page_number": 11,
+            "section": "TABLE_2",
+            "source_text_reference": "CAUSES OF HEADACHE: Seizures; TREATMENT OF HEADACHE: Antiepileptic medications",
+            "bounding_box": [
+              440.33788045247394,
+              1324.3839111328125,
+              831.030029296875,
+              1471.236063639323
+            ],
+            "extraction_type": "table",
+            "review_status": "extracted",
+            "requires_manual_review": false,
+            "review_notes": null,
+            "normalized_term": null
+          }
+        },
+        {
+          "row_id": "T2_R3",
+          "cells": {
+            "CAUSES OF HEADACHE": "Cerebral venous sinus thrombosis",
+            "TREATMENT OF HEADACHE": "Follow up of anticoagulation"
+          },
+          "source": {
+            "document_id": "ICMR-NEUR-007",
+            "document_name": "Neurology",
+            "page_number": 11,
+            "section": "TABLE_2",
+            "source_text_reference": "CAUSES OF HEADACHE: Cerebral venous sinus thrombosis; TREATMENT OF HEADACHE: Follow up of anticoagulation",
+            "bounding_box": [
+              440.33788045247394,
+              1324.3839111328125,
+              831.030029296875,
+              1471.236063639323
+            ],
+            "extraction_type": "table",
+            "review_status": "extracted",
+            "requires_manual_review": false,
+            "review_notes": null,
+            "normalized_term": null
+          }
+        },
+        {
+          "row_id": "T2_R4",
+          "cells": {
+            "CAUSES OF HEADACHE": "Migraine",
+            "TREATMENT OF HEADACHE": "Give prophylaxis for adequate duration of time and taper after remission"
+          },
+          "source": {
+            "document_id": "ICMR-NEUR-007",
+            "document_name": "Neurology",
+            "page_number": 11,
+            "section": "TABLE_2",
+            "source_text_reference": "CAUSES OF HEADACHE: Migraine; TREATMENT OF HEADACHE: Give prophylaxis for adequate duration of time and taper after remission",
+            "bounding_box": [
+              440.33788045247394,
+              1324.3839111328125,
+              831.030029296875,
+              1471.236063639323
+            ],
+            "extraction_type": "table",
+            "review_status": "extracted",
+            "requires_manual_review": false,
+            "review_notes": null,
+            "normalized_term": null
+          }
+        }
+      ],
+      "source": {
+        "document_id": "ICMR-NEUR-007",
+        "document_name": "Neurology",
+        "page_number": 11,
+        "section": "TABLE_2",
+        "source_text_reference": "CAUSES OF HEADACHE: Intra cerebral hemorrhage; TREATMENT OF HEADACHE: Good control of blood pressure\nCAUSES OF HEADACHE: Seizures; TREATMENT OF HEADACHE: Antiepileptic medications\nCAUSES OF HEADACHE: Cerebral venous sinus thrombosis; TREATMENT OF HEADACHE: Follow up of anticoagulation\nCAUSES OF HEADACHE: Migraine; TREATMENT OF HEADACHE: Give prophylaxis for adequate duration of time and taper after remission",
+        "bounding_box": [
+          440.33788045247394,
+          1324.3839111328125,
+          831.030029296875,
+          1471.236063639323
+        ],
+        "extraction_type": "table",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "table_id": "TAB_P12_01",
+      "title": "Table 1 (Page 12)",
+      "headers": [
+        "DIFFERENTIAL DIAGNOSIS DIFFERENTIAL",
+        "Column_2"
+      ],
+      "rows": [
+        {
+          "row_id": "T1_R1",
+          "cells": {
+            "DIFFERENTIAL DIAGNOSIS DIFFERENTIAL": "DIAG Vascular-ischem stro",
+            "Column_2": "NOSIS ic/hemorrhagic ke"
+          },
+          "source": {
+            "document_id": "ICMR-NEUR-007",
+            "document_name": "Neurology",
+            "page_number": 12,
+            "section": "TABLE_1",
+            "source_text_reference": "DIFFERENTIAL DIAGNOSIS DIFFERENTIAL: DIAG Vascular-ischem stro; Column_2: NOSIS ic/hemorrhagic ke",
+            "bounding_box": [
+              576.9438390862451,
+              215.1669921875,
+              791.6793518066406,
+              514.884033203125
+            ],
+            "extraction_type": "table",
+            "review_status": "extracted",
+            "requires_manual_review": false,
+            "review_notes": null,
+            "normalized_term": null
+          }
+        },
+        {
+          "row_id": "T1_R3",
+          "cells": {
+            "DIFFERENTIAL DIAGNOSIS DIFFERENTIAL": "Infec viral/bacterial/f meningoencepha",
+            "Column_2": "tions ungal/protozoal lits/brain abscess"
+          },
+          "source": {
+            "document_id": "ICMR-NEUR-007",
+            "document_name": "Neurology",
+            "page_number": 12,
+            "section": "TABLE_1",
+            "source_text_reference": "DIFFERENTIAL DIAGNOSIS DIFFERENTIAL: Infec viral/bacterial/f meningoencepha; Column_2: tions ungal/protozoal lits/brain abscess",
+            "bounding_box": [
+              576.9438390862451,
+              215.1669921875,
+              791.6793518066406,
+              514.884033203125
+            ],
+            "extraction_type": "table",
+            "review_status": "extracted",
+            "requires_manual_review": false,
+            "review_notes": null,
+            "normalized_term": null
+          }
+        },
+        {
+          "row_id": "T1_R5",
+          "cells": {
+            "DIFFERENTIAL DIAGNOSIS DIFFERENTIAL": "Metabolic ence",
+            "Column_2": "phalopathies"
+          },
+          "source": {
+            "document_id": "ICMR-NEUR-007",
+            "document_name": "Neurology",
+            "page_number": 12,
+            "section": "TABLE_1",
+            "source_text_reference": "DIFFERENTIAL DIAGNOSIS DIFFERENTIAL: Metabolic ence; Column_2: phalopathies",
+            "bounding_box": [
+              576.9438390862451,
+              215.1669921875,
+              791.6793518066406,
+              514.884033203125
+            ],
+            "extraction_type": "table",
+            "review_status": "extracted",
+            "requires_manual_review": false,
+            "review_notes": null,
+            "normalized_term": null
+          }
+        },
+        {
+          "row_id": "T1_R7",
+          "cells": {
+            "DIFFERENTIAL DIAGNOSIS DIFFERENTIAL": "Seizures/pos",
+            "Column_2": "tictal state"
+          },
+          "source": {
+            "document_id": "ICMR-NEUR-007",
+            "document_name": "Neurology",
+            "page_number": 12,
+            "section": "TABLE_1",
+            "source_text_reference": "DIFFERENTIAL DIAGNOSIS DIFFERENTIAL: Seizures/pos; Column_2: tictal state",
+            "bounding_box": [
+              576.9438390862451,
+              215.1669921875,
+              791.6793518066406,
+              514.884033203125
+            ],
+            "extraction_type": "table",
+            "review_status": "extracted",
+            "requires_manual_review": false,
+            "review_notes": null,
+            "normalized_term": null
+          }
+        },
+        {
+          "row_id": "T1_R9",
+          "cells": {
+            "DIFFERENTIAL DIAGNOSIS DIFFERENTIAL": "Intoxications-drugs/toxins",
+            "Column_2": ""
+          },
+          "source": {
+            "document_id": "ICMR-NEUR-007",
+            "document_name": "Neurology",
+            "page_number": 12,
+            "section": "TABLE_1",
+            "source_text_reference": "DIFFERENTIAL DIAGNOSIS DIFFERENTIAL: Intoxications-drugs/toxins",
+            "bounding_box": [
+              576.9438390862451,
+              215.1669921875,
+              791.6793518066406,
+              514.884033203125
+            ],
+            "extraction_type": "table",
+            "review_status": "extracted",
+            "requires_manual_review": false,
+            "review_notes": null,
+            "normalized_term": null
+          }
+        }
+      ],
+      "source": {
+        "document_id": "ICMR-NEUR-007",
+        "document_name": "Neurology",
+        "page_number": 12,
+        "section": "TABLE_1",
+        "source_text_reference": "DIFFERENTIAL DIAGNOSIS DIFFERENTIAL: DIAG Vascular-ischem stro; Column_2: NOSIS ic/hemorrhagic ke\nDIFFERENTIAL DIAGNOSIS DIFFERENTIAL: Infec viral/bacterial/f meningoencepha; Column_2: tions ungal/protozoal lits/brain abscess\nDIFFERENTIAL DIAGNOSIS DIFFERENTIAL: Metabolic ence; Column_2: phalopathies\nDIFFERENTIAL DIAGNOSIS DIFFERENTIAL: Seizures/pos; Column_2: tictal state\nDIFFERENTIAL DIAGNOSIS DIFFERENTIAL: Intoxications-drugs/toxins",
+        "bounding_box": [
+          576.9438390862451,
+          215.1669921875,
+          791.6793518066406,
+          514.884033203125
+        ],
+        "extraction_type": "table",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "table_id": "TAB_P13_01",
+      "title": "Table 1 (Page 13)",
+      "headers": [
+        "Ischemic stroke Focal cerebral, spinal, or retinal infarction",
+        "Column_2",
+        "Intracerebral haemorrhage Focal collection of blood within the brain parenchyma or ventricular system that is not caused by trauma",
+        "Subarachnoid haemorrhage Bleeding into the subarachnoid space",
+        "Column_5",
+        "Cerebral venous thrombosis Thrombosis of a cerebral venous structure",
+        "Column_7"
+      ],
+      "rows": [
+        {
+          "row_id": "T1_R1",
+          "cells": {
+            "Ischemic stroke Focal cerebral, spinal, or retinal infarction": "",
+            "Column_2": "PRELIMINARY MANAGEMENT",
+            "Intracerebral haemorrhage Focal collection of blood within the brain parenchyma or ventricular system that is not caused by trauma": "",
+            "Subarachnoid haemorrhage Bleeding into the subarachnoid space": "",
+            "Column_5": "",
+            "Cerebral venous thrombosis Thrombosis of a cerebral venous structure": "",
+            "Column_7": ""
+          },
+          "source": {
+            "document_id": "ICMR-NEUR-007",
+            "document_name": "Neurology",
+            "page_number": 13,
+            "section": "TABLE_1",
+            "source_text_reference": "Column_2: PRELIMINARY MANAGEMENT",
+            "bounding_box": [
+              0.0001007080078125,
+              579.4708862304688,
+              715.3184814453125,
+              861.2622436523437
+            ],
+            "extraction_type": "table",
+            "review_status": "needs_review",
+            "requires_manual_review": true,
+            "review_notes": "Sparse row with potential merged columns",
+            "normalized_term": null
+          }
+        },
+        {
+          "row_id": "T1_R2",
+          "cells": {
+            "Ischemic stroke Focal cerebral, spinal, or retinal infarction": "• Assess and manage ABCs • Initiate cardiac monitoring • Maintain O2 saturation >94% • Establish IV access • Determine blood glucose and treat accordingly • Determine time of symptom onset or last known normal, and obtain family contact information, preferably a cell phone • Triage and RAPID TRANSFER of patient to nearest district hospital with CT Scan facility or Stroke center with facility for thrombolysis • Referal hospital to be notified to handle the referred patient with stroke",
+            "Column_2": "",
+            "Intracerebral haemorrhage Focal collection of blood within the brain parenchyma or ventricular system that is not caused by trauma": "",
+            "Subarachnoid haemorrhage Bleeding into the subarachnoid space": "",
+            "Column_5": "ESSENTIAL • CT Scan head • ECG • Blood Sugar • Lipids • Renal parameter",
+            "Cerebral venous thrombosis Thrombosis of a cerebral venous structure": "",
+            "Column_7": "DESIRABLE • CTA • Echocardiogram"
+          },
+          "source": {
+            "document_id": "ICMR-NEUR-007",
+            "document_name": "Neurology",
+            "page_number": 13,
+            "section": "TABLE_1",
+            "source_text_reference": "Ischemic stroke Focal cerebral, spinal, or retinal infarction: • Assess and manage ABCs • Initiate cardiac monitoring • Maintain O2 saturation >94% • Establish IV access • Determine blood glucose and treat accordingly • Determine time of symptom onset or last known normal, and obtain family contact information, preferably a cell phone • Triage and RAPID TRANSFER of patient to nearest district hospital with CT Scan facility or Stroke center with facility for thrombolysis • Referal hospital to be notified to handle the referred patient with stroke; Column_5: ESSENTIAL • CT Scan head • ECG • Blood Sugar • Lipids • Renal parameter; Column_7: DESIRABLE • CTA • Echocardiogram",
+            "bounding_box": [
+              0.0001007080078125,
+              579.4708862304688,
+              715.3184814453125,
+              861.2622436523437
+            ],
+            "extraction_type": "table",
+            "review_status": "needs_review",
+            "requires_manual_review": true,
+            "review_notes": "Sparse row with potential merged columns",
+            "normalized_term": null
+          }
+        }
+      ],
+      "source": {
+        "document_id": "ICMR-NEUR-007",
+        "document_name": "Neurology",
+        "page_number": 13,
+        "section": "TABLE_1",
+        "source_text_reference": "Column_2: PRELIMINARY MANAGEMENT\nIschemic stroke Focal cerebral, spinal, or retinal infarction: • Assess and manage ABCs • Initiate cardiac monitoring • Maintain O2 saturation >94% • Establish IV access • Determine blood glucose and treat accordingly • Determine time of symptom onset or last known normal, and obtain family contact information, preferably a cell phone • Triage and RAPID TRANSFER of patient to nearest district hospital with CT Scan facility or Stroke center with facility for throm",
+        "bounding_box": [
+          0.0001007080078125,
+          579.4708862304688,
+          715.3184814453125,
+          861.2622436523437
+        ],
+        "extraction_type": "table",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "table_id": "TAB_P15_01",
+      "title": "Table 1 (Page 15)",
+      "headers": [
+        "Column_1",
+        "NEUROLOGY",
+        "Column_3"
+      ],
+      "rows": [
+        {
+          "row_id": "T1_R1",
+          "cells": {
+            "Column_1": "",
+            "NEUROLOGY": "Dr. Jeyaraj Pandiyan, CMC, Ludhiana",
+            "Column_3": "Chair"
+          },
+          "source": {
+            "document_id": "ICMR-NEUR-007",
+            "document_name": "Neurology",
+            "page_number": 15,
+            "section": "TABLE_1",
+            "source_text_reference": "NEUROLOGY: Dr. Jeyaraj Pandiyan, CMC, Ludhiana; Column_3: Chair",
+            "bounding_box": [
+              74.23200225830078,
+              72.35198974609375,
+              396.0580139160156,
+              250.8909912109375
+            ],
+            "extraction_type": "table",
+            "review_status": "extracted",
+            "requires_manual_review": false,
+            "review_notes": null,
+            "normalized_term": null
+          }
+        },
+        {
+          "row_id": "T1_R2",
+          "cells": {
+            "Column_1": "",
+            "NEUROLOGY": "Dr. Manjari Tripathi, AIIMS,New Delhi",
+            "Column_3": "Co-Chair"
+          },
+          "source": {
+            "document_id": "ICMR-NEUR-007",
+            "document_name": "Neurology",
+            "page_number": 15,
+            "section": "TABLE_1",
+            "source_text_reference": "NEUROLOGY: Dr. Manjari Tripathi, AIIMS,New Delhi; Column_3: Co-Chair",
+            "bounding_box": [
+              74.23200225830078,
+              72.35198974609375,
+              396.0580139160156,
+              250.8909912109375
+            ],
+            "extraction_type": "table",
+            "review_status": "extracted",
+            "requires_manual_review": false,
+            "review_notes": null,
+            "normalized_term": null
+          }
+        },
+        {
+          "row_id": "T1_R3",
+          "cells": {
+            "Column_1": "",
+            "NEUROLOGY": "Dr. Salil Gupta, R & R Hospital, New Delhi",
+            "Column_3": "Member"
+          },
+          "source": {
+            "document_id": "ICMR-NEUR-007",
+            "document_name": "Neurology",
+            "page_number": 15,
+            "section": "TABLE_1",
+            "source_text_reference": "NEUROLOGY: Dr. Salil Gupta, R & R Hospital, New Delhi; Column_3: Member",
+            "bounding_box": [
+              74.23200225830078,
+              72.35198974609375,
+              396.0580139160156,
+              250.8909912109375
+            ],
+            "extraction_type": "table",
+            "review_status": "extracted",
+            "requires_manual_review": false,
+            "review_notes": null,
+            "normalized_term": null
+          }
+        },
+        {
+          "row_id": "T1_R4",
+          "cells": {
+            "Column_1": "",
+            "NEUROLOGY": "Dr. Shefali Gulati, AIIMS,New Delhi",
+            "Column_3": "Member"
+          },
+          "source": {
+            "document_id": "ICMR-NEUR-007",
+            "document_name": "Neurology",
+            "page_number": 15,
+            "section": "TABLE_1",
+            "source_text_reference": "NEUROLOGY: Dr. Shefali Gulati, AIIMS,New Delhi; Column_3: Member",
+            "bounding_box": [
+              74.23200225830078,
+              72.35198974609375,
+              396.0580139160156,
+              250.8909912109375
+            ],
+            "extraction_type": "table",
+            "review_status": "extracted",
+            "requires_manual_review": false,
+            "review_notes": null,
+            "normalized_term": null
+          }
+        },
+        {
+          "row_id": "T1_R5",
+          "cells": {
+            "Column_1": "",
+            "NEUROLOGY": "Dr. Sylaja PN, SCTIMST, Trivandrum",
+            "Column_3": "Member"
+          },
+          "source": {
+            "document_id": "ICMR-NEUR-007",
+            "document_name": "Neurology",
+            "page_number": 15,
+            "section": "TABLE_1",
+            "source_text_reference": "NEUROLOGY: Dr. Sylaja PN, SCTIMST, Trivandrum; Column_3: Member",
+            "bounding_box": [
+              74.23200225830078,
+              72.35198974609375,
+              396.0580139160156,
+              250.8909912109375
+            ],
+            "extraction_type": "table",
+            "review_status": "extracted",
+            "requires_manual_review": false,
+            "review_notes": null,
+            "normalized_term": null
+          }
+        },
+        {
+          "row_id": "T1_R6",
+          "cells": {
+            "Column_1": "",
+            "NEUROLOGY": "Dr. Vivek Nambiar, AIMS, Kochi",
+            "Column_3": "Member"
+          },
+          "source": {
+            "document_id": "ICMR-NEUR-007",
+            "document_name": "Neurology",
+            "page_number": 15,
+            "section": "TABLE_1",
+            "source_text_reference": "NEUROLOGY: Dr. Vivek Nambiar, AIMS, Kochi; Column_3: Member",
+            "bounding_box": [
+              74.23200225830078,
+              72.35198974609375,
+              396.0580139160156,
+              250.8909912109375
+            ],
+            "extraction_type": "table",
+            "review_status": "extracted",
+            "requires_manual_review": false,
+            "review_notes": null,
+            "normalized_term": null
+          }
+        },
+        {
+          "row_id": "T1_R7",
+          "cells": {
+            "Column_1": "",
+            "NEUROLOGY": "Dr. Karamvir Goyal, Ludhiana",
+            "Column_3": "Member"
+          },
+          "source": {
+            "document_id": "ICMR-NEUR-007",
+            "document_name": "Neurology",
+            "page_number": 15,
+            "section": "TABLE_1",
+            "source_text_reference": "NEUROLOGY: Dr. Karamvir Goyal, Ludhiana; Column_3: Member",
+            "bounding_box": [
+              74.23200225830078,
+              72.35198974609375,
+              396.0580139160156,
+              250.8909912109375
+            ],
+            "extraction_type": "table",
+            "review_status": "extracted",
+            "requires_manual_review": false,
+            "review_notes": null,
+            "normalized_term": null
+          }
+        },
+        {
+          "row_id": "T1_R8",
+          "cells": {
+            "Column_1": "",
+            "NEUROLOGY": "Dr. P K Misra, Lucknow District Hospital",
+            "Column_3": "Member"
+          },
+          "source": {
+            "document_id": "ICMR-NEUR-007",
+            "document_name": "Neurology",
+            "page_number": 15,
+            "section": "TABLE_1",
+            "source_text_reference": "NEUROLOGY: Dr. P K Misra, Lucknow District Hospital; Column_3: Member",
+            "bounding_box": [
+              74.23200225830078,
+              72.35198974609375,
+              396.0580139160156,
+              250.8909912109375
+            ],
+            "extraction_type": "table",
+            "review_status": "extracted",
+            "requires_manual_review": false,
+            "review_notes": null,
+            "normalized_term": null
+          }
+        },
+        {
+          "row_id": "T1_R9",
+          "cells": {
+            "Column_1": "",
+            "NEUROLOGY": "Dr. Sapna Erat Sreedharan, SCTIMST, Trivandrum",
+            "Column_3": "Member"
+          },
+          "source": {
+            "document_id": "ICMR-NEUR-007",
+            "document_name": "Neurology",
+            "page_number": 15,
+            "section": "TABLE_1",
+            "source_text_reference": "NEUROLOGY: Dr. Sapna Erat Sreedharan, SCTIMST, Trivandrum; Column_3: Member",
+            "bounding_box": [
+              74.23200225830078,
+              72.35198974609375,
+              396.0580139160156,
+              250.8909912109375
+            ],
+            "extraction_type": "table",
+            "review_status": "extracted",
+            "requires_manual_review": false,
+            "review_notes": null,
+            "normalized_term": null
+          }
+        }
+      ],
+      "source": {
+        "document_id": "ICMR-NEUR-007",
+        "document_name": "Neurology",
+        "page_number": 15,
+        "section": "TABLE_1",
+        "source_text_reference": "NEUROLOGY: Dr. Jeyaraj Pandiyan, CMC, Ludhiana; Column_3: Chair\nNEUROLOGY: Dr. Manjari Tripathi, AIIMS,New Delhi; Column_3: Co-Chair\nNEUROLOGY: Dr. Salil Gupta, R & R Hospital, New Delhi; Column_3: Member\nNEUROLOGY: Dr. Shefali Gulati, AIIMS,New Delhi; Column_3: Member\nNEUROLOGY: Dr. Sylaja PN, SCTIMST, Trivandrum; Column_3: Member\nNEUROLOGY: Dr. Vivek Nambiar, AIMS, Kochi; Column_3: Member\nNEUROLOGY: Dr. Karamvir Goyal, Ludhiana; Column_3: Member\nNEUROLOGY: Dr. P K Misra, Lucknow District Hospi",
+        "bounding_box": [
+          74.23200225830078,
+          72.35198974609375,
+          396.0580139160156,
+          250.8909912109375
+        ],
+        "extraction_type": "table",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    }
+  ],
+  "references": [
+    {
+      "reference_id": "REF_P2_01",
+      "citation_text": "Suggested Citation: Standard Treatment Workﬂows of",
+      "doi_or_url": null,
+      "source": {
+        "document_id": "ICMR-NEUR-007",
+        "document_name": "Neurology",
+        "page_number": 2,
+        "section": "Suggested Citation: Standard Treatment Workﬂows of",
+        "source_text_reference": "Suggested Citation: Standard Treatment Workﬂows of",
+        "bounding_box": [
+          83.87259674072266,
+          837.3139038085938,
+          245.83599853515625,
+          844.6339111328125
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "reference_id": "REF_P2_02",
+      "citation_text": "India, 2019 Edition, Vol. 1, New Delhi, Indian Council of",
+      "doi_or_url": null,
+      "source": {
+        "document_id": "ICMR-NEUR-007",
+        "document_name": "Neurology",
+        "page_number": 2,
+        "section": "Suggested Citation: Standard Treatment Workﬂows of",
+        "source_text_reference": "India, 2019 Edition, Vol. 1, New Delhi, Indian Council of",
+        "bounding_box": [
+          83.87259674072266,
+          844.5138549804688,
+          245.83714294433594,
+          851.8338623046875
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "reference_id": "REF_P2_03",
+      "citation_text": "Medical Research, Department of Health Research,",
+      "doi_or_url": null,
+      "source": {
+        "document_id": "ICMR-NEUR-007",
+        "document_name": "Neurology",
+        "page_number": 2,
+        "section": "Suggested Citation: Standard Treatment Workﬂows of",
+        "source_text_reference": "Medical Research, Department of Health Research,",
+        "bounding_box": [
+          83.87259674072266,
+          851.7138671875,
+          245.84201049804688,
+          859.0338745117188
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "reference_id": "REF_P2_04",
+      "citation_text": "Ministry of Health and Family Welfare, Government of",
+      "doi_or_url": null,
+      "source": {
+        "document_id": "ICMR-NEUR-007",
+        "document_name": "Neurology",
+        "page_number": 2,
+        "section": "Suggested Citation: Standard Treatment Workﬂows of",
+        "source_text_reference": "Ministry of Health and Family Welfare, Government of",
+        "bounding_box": [
+          83.87259674072266,
+          858.9138793945312,
+          245.82460021972656,
+          866.23388671875
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "reference_id": "REF_P2_05",
+      "citation_text": "© DHR and ICMR",
+      "doi_or_url": null,
+      "source": {
+        "document_id": "ICMR-NEUR-007",
+        "document_name": "Neurology",
+        "page_number": 2,
+        "section": "Suggested Citation: Standard Treatment Workﬂows of",
+        "source_text_reference": "© DHR and ICMR",
+        "bounding_box": [
+          83.87259674072266,
+          884.3118286132812,
+          134.18858337402344,
+          891.6318359375
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "reference_id": "REF_P2_06",
+      "citation_text": "Diary No. 17206/2019-CO/L",
+      "doi_or_url": null,
+      "source": {
+        "document_id": "ICMR-NEUR-007",
+        "document_name": "Neurology",
+        "page_number": 2,
+        "section": "Suggested Citation: Standard Treatment Workﬂows of",
+        "source_text_reference": "Diary No. 17206/2019-CO/L",
+        "bounding_box": [
+          83.87259674072266,
+          890.7567138671875,
+          135.7642059326172,
+          895.9766845703125
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "reference_id": "REF_P2_07",
+      "citation_text": "All rights reserved. No part of these workﬂows may be",
+      "doi_or_url": null,
+      "source": {
+        "document_id": "ICMR-NEUR-007",
+        "document_name": "Neurology",
+        "page_number": 2,
+        "section": "Suggested Citation: Standard Treatment Workﬂows of",
+        "source_text_reference": "All rights reserved. No part of these workﬂows may be",
+        "bounding_box": [
+          83.87259674072266,
+          907.3139038085938,
+          245.85525512695312,
+          914.6339111328125
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "reference_id": "REF_P2_08",
+      "citation_text": "transmitted or reproduced in any form or by any",
+      "doi_or_url": null,
+      "source": {
+        "document_id": "ICMR-NEUR-007",
+        "document_name": "Neurology",
+        "page_number": 2,
+        "section": "Suggested Citation: Standard Treatment Workﬂows of",
+        "source_text_reference": "transmitted or reproduced in any form or by any",
+        "bounding_box": [
+          83.87259674072266,
+          914.5138549804688,
+          245.83607482910156,
+          921.8338623046875
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "reference_id": "REF_P2_09",
+      "citation_text": "permission",
+      "doi_or_url": null,
+      "source": {
+        "document_id": "ICMR-NEUR-007",
+        "document_name": "Neurology",
+        "page_number": 2,
+        "section": "Suggested Citation: Standard Treatment Workﬂows of",
+        "source_text_reference": "permission",
+        "bounding_box": [
+          168.8625946044922,
+          921.7138671875,
+          203.41659545898438,
+          929.0338745117188
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "reference_id": "REF_P2_10",
+      "citation_text": "organization.",
+      "doi_or_url": null,
+      "source": {
+        "document_id": "ICMR-NEUR-007",
+        "document_name": "Neurology",
+        "page_number": 2,
+        "section": "Suggested Citation: Standard Treatment Workﬂows of",
+        "source_text_reference": "organization.",
+        "bounding_box": [
+          83.87259674072266,
+          928.9138793945312,
+          122.88399505615234,
+          936.23388671875
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "reference_id": "REF_P2_11",
+      "citation_text": "Printed in India",
+      "doi_or_url": null,
+      "source": {
+        "document_id": "ICMR-NEUR-007",
+        "document_name": "Neurology",
+        "page_number": 2,
+        "section": "Suggested Citation: Standard Treatment Workﬂows of",
+        "source_text_reference": "Printed in India",
+        "bounding_box": [
+          83.87259674072266,
+          947.1118774414062,
+          129.8625946044922,
+          954.431884765625
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "reference_id": "REF_P11_12",
+      "citation_text": "Hainer BL, Matheson EM. Approach to acute headache in adults. American family physician. 2013 May 15;87(10).",
+      "doi_or_url": null,
+      "source": {
+        "document_id": "ICMR-NEUR-007",
+        "document_name": "Neurology",
+        "page_number": 11,
+        "section": "REFERENCES",
+        "source_text_reference": "1.  Hainer BL, Matheson EM. Approach to acute headache in adults. American family physician. 2013 May 15;87(10).",
+        "bounding_box": [
+          9.596699714660645,
+          1516.235107421875,
+          446.5772399902344,
+          1528.340087890625
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "reference_id": "REF_P11_13",
+      "citation_text": "https://www.uptodate.com/contents/evaluation-of-headache-in-adults",
+      "doi_or_url": null,
+      "source": {
+        "document_id": "ICMR-NEUR-007",
+        "document_name": "Neurology",
+        "page_number": 11,
+        "section": "REFERENCES",
+        "source_text_reference": "2.  https://www.uptodate.com/contents/evaluation-of-headache-in-adults",
+        "bounding_box": [
+          9.596699714660645,
+          1527.0350341796875,
+          285.2766418457031,
+          1539.1400146484375
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    }
+  ],
+  "abbreviations": {
+    "STW": "Standard Treatment Workflow",
+    "ICMR": "Indian Council of Medical Research",
+    "DHR": "Department of Health Research",
+    "MoHFW": "Ministry of Health and Family Welfare",
+    "ECG": "Electrocardiogram",
+    "PCI": "Percutaneous Coronary Intervention",
+    "PHC": "Primary Health Centre",
+    "CHC": "Community Health Centre",
+    "ICU": "Intensive Care Unit"
+  }
+}

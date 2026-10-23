@@ -1,0 +1,4347 @@
+{
+  "document_id": "ICMR-NEUR-005",
+  "file_path": "data\\raw\\neurology\\1725952343_neurology_neuroinfections.pdf",
+  "sha256_hash": "e68e49918d96aa3e6397fdf6d7ade65feee86a67f87b6172a86090d45bb0e3c0",
+  "total_pages": 1,
+  "pages": [
+    {
+      "page_number": 1,
+      "width": 841.8900146484375,
+      "height": 1633.6800537109375,
+      "blocks": [
+        {
+          "block_id": "P1_B001",
+          "page_number": 1,
+          "bbox": [
+            603.9517211914062,
+            492.29156494140625,
+            752.517822265625,
+            505.7115478515625
+          ],
+          "text": "Intoxications-drugs/toxins",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "Intoxications-drugs/toxins",
+              "bbox": [
+                603.9517211914062,
+                492.29156494140625,
+                752.517822265625,
+                505.7115478515625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "Intoxications-drugs/toxins",
+                  "bbox": [
+                    603.9517211914062,
+                    492.29156494140625,
+                    752.517822265625,
+                    505.7115478515625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B002",
+          "page_number": 1,
+          "bbox": [
+            163.9687042236328,
+            1176.427001953125,
+            699.8092041015625,
+            1197.9893798828125
+          ],
+          "text": "AT TERTIARY CARE HOSPITALS-SELECTED DISTRICT HOSPITALS/MEDICAL COLLEGES",
+          "avg_font_size": 15.68,
+          "max_font_size": 15.68,
+          "is_heading_candidate": true,
+          "lines": [
+            {
+              "text": "AT TERTIARY CARE HOSPITALS-SELECTED DISTRICT HOSPITALS/MEDICAL COLLEGES",
+              "bbox": [
+                163.9687042236328,
+                1176.427001953125,
+                699.8092041015625,
+                1197.9893798828125
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "AT TERTIARY CARE HOSPITALS-SELECTED DISTRICT HOSPITALS/MEDICAL COLLEGES",
+                  "bbox": [
+                    163.9687042236328,
+                    1176.427001953125,
+                    699.8092041015625,
+                    1197.9893798828125
+                  ],
+                  "font": "Futura-CondensedExtraBol",
+                  "size": 15.681699752807617,
+                  "flags": 16
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B003",
+          "page_number": 1,
+          "bbox": [
+            14.04539966583252,
+            1209.15576171875,
+            691.656494140625,
+            1267.587890625
+          ],
+          "text": "• Neuroimaging-MRI/CT with contrast to rule out abscess/herniations.\nIf abscess-emergency neurosurgical consultation for favour of aspiration –open/stereotactic\n• Blood cultures-aerobic/anaerobic\n• CSF analysis-biocehmistry/cytology/gram staining/culture-bacterial , AFB and fungal/viral PCR/TB-PCR/fungal antigen",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "• Neuroimaging-MRI/CT with contrast to rule out abscess/herniations.",
+              "bbox": [
+                14.04539966583252,
+                1209.15576171875,
+                411.147705078125,
+                1222.5758056640625
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Neuroimaging-MRI/CT with contrast to rule out abscess/herniations. ",
+                  "bbox": [
+                    14.04539966583252,
+                    1209.15576171875,
+                    411.147705078125,
+                    1222.5758056640625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "If abscess-emergency neurosurgical consultation for favour of aspiration –open/stereotactic",
+              "bbox": [
+                14.04539966583252,
+                1224.1597900390625,
+                539.9478149414062,
+                1237.579833984375
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "  If abscess-emergency neurosurgical consultation for favour of aspiration –open/stereotactic",
+                  "bbox": [
+                    14.04539966583252,
+                    1224.1597900390625,
+                    539.9478149414062,
+                    1237.579833984375
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• Blood cultures-aerobic/anaerobic",
+              "bbox": [
+                14.04539966583252,
+                1239.163818359375,
+                211.58445739746094,
+                1252.5838623046875
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Blood cultures-aerobic/anaerobic",
+                  "bbox": [
+                    14.04539966583252,
+                    1239.163818359375,
+                    211.58445739746094,
+                    1252.5838623046875
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• CSF analysis-biocehmistry/cytology/gram staining/culture-bacterial , AFB and fungal/viral PCR/TB-PCR/fungal antigen",
+              "bbox": [
+                14.04539966583252,
+                1254.1678466796875,
+                691.656494140625,
+                1267.587890625
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• CSF analysis-biocehmistry/cytology/gram staining/culture-bacterial , AFB and fungal/viral PCR/TB-PCR/fungal antigen",
+                  "bbox": [
+                    14.04539966583252,
+                    1254.1678466796875,
+                    691.656494140625,
+                    1267.587890625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B004",
+          "page_number": 1,
+          "bbox": [
+            262.4648132324219,
+            1559.4381103515625,
+            580.4069213867188,
+            1577.3131103515625
+          ],
+          "text": "KEEP A HIGH THRESHOLD FOR INVASIVE PROCEDURES",
+          "avg_font_size": 13.0,
+          "max_font_size": 13.0,
+          "is_heading_candidate": true,
+          "lines": [
+            {
+              "text": "KEEP A HIGH THRESHOLD FOR INVASIVE PROCEDURES",
+              "bbox": [
+                262.4648132324219,
+                1559.4381103515625,
+                580.4069213867188,
+                1577.3131103515625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "      KEEP A HIGH THRESHOLD FOR INVASIVE PROCEDURES",
+                  "bbox": [
+                    262.4648132324219,
+                    1559.4381103515625,
+                    580.4069213867188,
+                    1577.3131103515625
+                  ],
+                  "font": "Futura-CondensedExtraBol",
+                  "size": 13.0,
+                  "flags": 16
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B005",
+          "page_number": 1,
+          "bbox": [
+            100.2822036743164,
+            121.48098754882812,
+            735.4393310546875,
+            147.9001922607422
+          ],
+          "text": "Standard Treatment Workﬂow (STW) for the Management of",
+          "avg_font_size": 19.2,
+          "max_font_size": 19.2,
+          "is_heading_candidate": true,
+          "lines": [
+            {
+              "text": "Standard Treatment Workﬂow (STW) for the Management of",
+              "bbox": [
+                100.2822036743164,
+                121.48098754882812,
+                735.4393310546875,
+                147.9001922607422
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "Standard Treatment Workﬂow (STW) for the Management of",
+                  "bbox": [
+                    100.2822036743164,
+                    121.48098754882812,
+                    735.4393310546875,
+                    147.9001922607422
+                  ],
+                  "font": "Montserrat-Black",
+                  "size": 19.200000762939453,
+                  "flags": 20
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B006",
+          "page_number": 1,
+          "bbox": [
+            251.82620239257812,
+            143.32418823242188,
+            583.8903198242188,
+            187.35618591308594
+          ],
+          "text": "NEUROINFECTIONS",
+          "avg_font_size": 32.0,
+          "max_font_size": 32.0,
+          "is_heading_candidate": true,
+          "lines": [
+            {
+              "text": "NEUROINFECTIONS",
+              "bbox": [
+                251.82620239257812,
+                143.32418823242188,
+                583.8903198242188,
+                187.35618591308594
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "NEUROINFECTIONS",
+                  "bbox": [
+                    251.82620239257812,
+                    143.32418823242188,
+                    583.8903198242188,
+                    187.35618591308594
+                  ],
+                  "font": "Montserrat-Black",
+                  "size": 32.0,
+                  "flags": 20
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B007",
+          "page_number": 1,
+          "bbox": [
+            281.2109069824219,
+            246.39996337890625,
+            429.68792724609375,
+            259.8199462890625
+          ],
+          "text": "Acute onset-hours to days",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "Acute onset-hours to days",
+              "bbox": [
+                281.2109069824219,
+                246.39996337890625,
+                429.68792724609375,
+                259.8199462890625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "Acute onset-hours to days",
+                  "bbox": [
+                    281.2109069824219,
+                    246.39996337890625,
+                    429.68792724609375,
+                    259.8199462890625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B008",
+          "page_number": 1,
+          "bbox": [
+            638.7333984375,
+            253.9832000732422,
+            733.2391967773438,
+            275.5455322265625
+          ],
+          "text": "DIFFERENTIAL",
+          "avg_font_size": 15.68,
+          "max_font_size": 15.68,
+          "is_heading_candidate": true,
+          "lines": [
+            {
+              "text": "DIFFERENTIAL",
+              "bbox": [
+                638.7333984375,
+                253.9832000732422,
+                733.2391967773438,
+                275.5455322265625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "DIFFERENTIAL ",
+                  "bbox": [
+                    638.7333984375,
+                    253.9832000732422,
+                    733.2391967773438,
+                    275.5455322265625
+                  ],
+                  "font": "Futura-CondensedExtraBol",
+                  "size": 15.681699752807617,
+                  "flags": 16
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B009",
+          "page_number": 1,
+          "bbox": [
+            647.0917358398438,
+            272.8011779785156,
+            720.16845703125,
+            294.363525390625
+          ],
+          "text": "DIAGNOSIS",
+          "avg_font_size": 15.68,
+          "max_font_size": 15.68,
+          "is_heading_candidate": true,
+          "lines": [
+            {
+              "text": "DIAGNOSIS",
+              "bbox": [
+                647.0917358398438,
+                272.8011779785156,
+                720.16845703125,
+                294.363525390625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "DIAGNOSIS",
+                  "bbox": [
+                    647.0917358398438,
+                    272.8011779785156,
+                    720.16845703125,
+                    294.363525390625
+                  ],
+                  "font": "Futura-CondensedExtraBol",
+                  "size": 15.681699752807617,
+                  "flags": 16
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B010",
+          "page_number": 1,
+          "bbox": [
+            274.2157897949219,
+            452.85797119140625,
+            435.4098815917969,
+            481.281982421875
+          ],
+          "text": "With/ without fever/\nheadache/vomiting/seizures",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "With/ without fever/",
+              "bbox": [
+                297.7778015136719,
+                452.85797119140625,
+                414.94989013671875,
+                466.2779541015625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "With/ without fever/ ",
+                  "bbox": [
+                    297.7778015136719,
+                    452.85797119140625,
+                    414.94989013671875,
+                    466.2779541015625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "headache/vomiting/seizures",
+              "bbox": [
+                274.2157897949219,
+                467.86199951171875,
+                435.4098815917969,
+                481.281982421875
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "headache/vomiting/seizures",
+                  "bbox": [
+                    274.2157897949219,
+                    467.86199951171875,
+                    435.4098815917969,
+                    481.281982421875
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B011",
+          "page_number": 1,
+          "bbox": [
+            65.5468978881836,
+            334.4035949707031,
+            141.89169311523438,
+            355.9659423828125
+          ],
+          "text": "SYMPTOMS",
+          "avg_font_size": 15.68,
+          "max_font_size": 15.68,
+          "is_heading_candidate": true,
+          "lines": [
+            {
+              "text": "SYMPTOMS",
+              "bbox": [
+                65.5468978881836,
+                334.4035949707031,
+                141.89169311523438,
+                355.9659423828125
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "SYMPTOMS",
+                  "bbox": [
+                    65.5468978881836,
+                    334.4035949707031,
+                    141.89169311523438,
+                    355.9659423828125
+                  ],
+                  "font": "Futura-CondensedExtraBol",
+                  "size": 15.681699752807617,
+                  "flags": 16
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B012",
+          "page_number": 1,
+          "bbox": [
+            307.033203125,
+            353.61627197265625,
+            440.82623291015625,
+            367.0362548828125
+          ],
+          "text": "Alteration in sensorium",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "Alteration in sensorium",
+              "bbox": [
+                307.033203125,
+                353.61627197265625,
+                440.82623291015625,
+                367.0362548828125
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "Alteration in sensorium",
+                  "bbox": [
+                    307.033203125,
+                    353.61627197265625,
+                    440.82623291015625,
+                    367.0362548828125
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B013",
+          "page_number": 1,
+          "bbox": [
+            589.30908203125,
+            285.62554931640625,
+            774.0540161132812,
+            299.0455322265625
+          ],
+          "text": "Vascular-ischemic/hemorrhagic",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "Vascular-ischemic/hemorrhagic",
+              "bbox": [
+                589.30908203125,
+                285.62554931640625,
+                774.0540161132812,
+                299.0455322265625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "Vascular-ischemic/hemorrhagic ",
+                  "bbox": [
+                    589.30908203125,
+                    285.62554931640625,
+                    774.0540161132812,
+                    299.0455322265625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B014",
+          "page_number": 1,
+          "bbox": [
+            662.6350708007812,
+            300.62957763671875,
+            697.6041259765625,
+            314.049560546875
+          ],
+          "text": "stroke",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "stroke",
+              "bbox": [
+                662.6350708007812,
+                300.62957763671875,
+                697.6041259765625,
+                314.049560546875
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "stroke",
+                  "bbox": [
+                    662.6350708007812,
+                    300.62957763671875,
+                    697.6041259765625,
+                    314.049560546875
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B015",
+          "page_number": 1,
+          "bbox": [
+            585.1022338867188,
+            341.82574462890625,
+            783.4981079101562,
+            385.2537841796875
+          ],
+          "text": "Infections\nviral/bacterial/fungal/protozoal\nmeningoencephalits/brain abscess",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "Infections",
+              "bbox": [
+                656.1182250976562,
+                341.82574462890625,
+                715.59521484375,
+                355.2457275390625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "Infections ",
+                  "bbox": [
+                    656.1182250976562,
+                    341.82574462890625,
+                    715.59521484375,
+                    355.2457275390625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "viral/bacterial/fungal/protozoal",
+              "bbox": [
+                595.4532470703125,
+                356.82977294921875,
+                776.2605590820312,
+                370.249755859375
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "viral/bacterial/fungal/protozoal ",
+                  "bbox": [
+                    595.4532470703125,
+                    356.82977294921875,
+                    776.2605590820312,
+                    370.249755859375
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "meningoencephalits/brain abscess",
+              "bbox": [
+                585.1022338867188,
+                371.83380126953125,
+                783.4981079101562,
+                385.2537841796875
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "meningoencephalits/brain abscess",
+                  "bbox": [
+                    585.1022338867188,
+                    371.83380126953125,
+                    783.4981079101562,
+                    385.2537841796875
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B016",
+          "page_number": 1,
+          "bbox": [
+            595.76318359375,
+            410.51812744140625,
+            758.1011352539062,
+            423.9381103515625
+          ],
+          "text": "Metabolic encephalopathies",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "Metabolic encephalopathies",
+              "bbox": [
+                595.76318359375,
+                410.51812744140625,
+                758.1011352539062,
+                423.9381103515625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "Metabolic encephalopathies",
+                  "bbox": [
+                    595.76318359375,
+                    410.51812744140625,
+                    758.1011352539062,
+                    423.9381103515625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B017",
+          "page_number": 1,
+          "bbox": [
+            198.0648956298828,
+            855.5013427734375,
+            681.54736328125,
+            877.0636596679688
+          ],
+          "text": "AT SECONDARY CARE LEVEL( TALUK, DISTRICT) HEADQUARTERS HOSPITAL",
+          "avg_font_size": 15.68,
+          "max_font_size": 15.68,
+          "is_heading_candidate": true,
+          "lines": [
+            {
+              "text": "AT SECONDARY CARE LEVEL( TALUK, DISTRICT) HEADQUARTERS HOSPITAL",
+              "bbox": [
+                198.0648956298828,
+                855.5013427734375,
+                681.54736328125,
+                877.0636596679688
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "AT SECONDARY CARE LEVEL( TALUK, DISTRICT) HEADQUARTERS HOSPITAL",
+                  "bbox": [
+                    198.0648956298828,
+                    855.5013427734375,
+                    681.54736328125,
+                    877.0636596679688
+                  ],
+                  "font": "Futura-CondensedExtraBol",
+                  "size": 15.681699752807617,
+                  "flags": 16
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B018",
+          "page_number": 1,
+          "bbox": [
+            333.00830078125,
+            528.8215942382812,
+            498.7073974609375,
+            550.3839111328125
+          ],
+          "text": "AT PRIMARY CARE LEVEL",
+          "avg_font_size": 15.68,
+          "max_font_size": 15.68,
+          "is_heading_candidate": true,
+          "lines": [
+            {
+              "text": "AT PRIMARY CARE LEVEL",
+              "bbox": [
+                333.00830078125,
+                528.8215942382812,
+                498.7073974609375,
+                550.3839111328125
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "AT PRIMARY CARE LEVEL",
+                  "bbox": [
+                    333.00830078125,
+                    528.8215942382812,
+                    498.7073974609375,
+                    550.3839111328125
+                  ],
+                  "font": "Futura-CondensedExtraBol",
+                  "size": 15.681699752807617,
+                  "flags": 16
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B019",
+          "page_number": 1,
+          "bbox": [
+            316.5738830566406,
+            558.5227661132812,
+            383.0799865722656,
+            580.0850830078125
+          ],
+          "text": "ESSENTIAL",
+          "avg_font_size": 15.68,
+          "max_font_size": 15.68,
+          "is_heading_candidate": true,
+          "lines": [
+            {
+              "text": "ESSENTIAL",
+              "bbox": [
+                316.5738830566406,
+                558.5227661132812,
+                383.0799865722656,
+                580.0850830078125
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "ESSENTIAL",
+                  "bbox": [
+                    316.5738830566406,
+                    558.5227661132812,
+                    383.0799865722656,
+                    580.0850830078125
+                  ],
+                  "font": "Futura-CondensedExtraBol",
+                  "size": 15.681699752807617,
+                  "flags": 16
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B020",
+          "page_number": 1,
+          "bbox": [
+            713.9619140625,
+            601.7930297851562,
+            804.5469970703125,
+            645.2210693359375
+          ],
+          "text": "• Stomach wash\n• Inj Mannitol\n• Inj Steroids",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "• Stomach wash",
+              "bbox": [
+                713.9619140625,
+                601.7930297851562,
+                804.5469970703125,
+                615.2130126953125
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Stomach wash",
+                  "bbox": [
+                    713.9619140625,
+                    601.7930297851562,
+                    804.5469970703125,
+                    615.2130126953125
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• Inj Mannitol",
+              "bbox": [
+                713.9619140625,
+                616.7970581054688,
+                788.9368286132812,
+                630.217041015625
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Inj Mannitol",
+                  "bbox": [
+                    713.9619140625,
+                    616.7970581054688,
+                    788.9368286132812,
+                    630.217041015625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• Inj Steroids",
+              "bbox": [
+                713.9619140625,
+                631.8010864257812,
+                784.8018798828125,
+                645.2210693359375
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Inj Steroids",
+                  "bbox": [
+                    713.9619140625,
+                    631.8010864257812,
+                    784.8018798828125,
+                    645.2210693359375
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B021",
+          "page_number": 1,
+          "bbox": [
+            15.623499870300293,
+            791.7412719726562,
+            642.5784301757812,
+            805.1612548828125
+          ],
+          "text": "When IV access not available-intra nasal or buccal Midazolam 0.2 mg/kg /intra rectal Diazepam 0.3-0.4 mg/kg",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "When IV access not available-intra nasal or buccal Midazolam 0.2 mg/kg /intra rectal Diazepam 0.3-0.4 mg/kg",
+              "bbox": [
+                15.623499870300293,
+                791.7412719726562,
+                642.5784301757812,
+                805.1612548828125
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": " When IV access not available-intra nasal or buccal Midazolam 0.2 mg/kg /intra rectal Diazepam 0.3-0.4 mg/kg",
+                  "bbox": [
+                    15.623499870300293,
+                    791.7412719726562,
+                    642.5784301757812,
+                    805.1612548828125
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B022",
+          "page_number": 1,
+          "bbox": [
+            15.75979995727539,
+            825.4273681640625,
+            367.9061279296875,
+            838.8473510742188
+          ],
+          "text": "Urgent referral to higher centres with intensive care facilities",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "Urgent referral to higher centres with intensive care facilities",
+              "bbox": [
+                15.75979995727539,
+                825.4273681640625,
+                367.9061279296875,
+                838.8473510742188
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": " Urgent referral to higher centres with intensive care facilities ",
+                  "bbox": [
+                    15.75979995727539,
+                    825.4273681640625,
+                    367.9061279296875,
+                    838.8473510742188
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B023",
+          "page_number": 1,
+          "bbox": [
+            14.786600112915039,
+            746.4981689453125,
+            607.3566284179688,
+            774.9221801757812
+          ],
+          "text": "If seizing- IV/IM Lorazepam 0.1 mg/kg followed by loading with Phenytoin 20 mg/kg weight at a rate of\n50 mg/minute",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "If seizing- IV/IM Lorazepam 0.1 mg/kg followed by loading with Phenytoin 20 mg/kg weight at a rate of",
+              "bbox": [
+                14.786600112915039,
+                746.4981689453125,
+                607.3566284179688,
+                759.9181518554688
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "  If seizing- IV/IM Lorazepam 0.1 mg/kg followed by loading with Phenytoin 20 mg/kg weight at a rate of ",
+                  "bbox": [
+                    14.786600112915039,
+                    746.4981689453125,
+                    607.3566284179688,
+                    759.9181518554688
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "50 mg/minute",
+              "bbox": [
+                14.786600112915039,
+                761.502197265625,
+                102.92960357666016,
+                774.9221801757812
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "  50 mg/minute",
+                  "bbox": [
+                    14.786600112915039,
+                    761.502197265625,
+                    102.92960357666016,
+                    774.9221801757812
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B024",
+          "page_number": 1,
+          "bbox": [
+            20.00979995727539,
+            713.0469360351562,
+            504.8899230957031,
+            726.4669189453125
+          ],
+          "text": "Correct hypoglycemia (blood sugar 50 mg/dl) with IV 100ml of 25% dextrose solution",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "Correct hypoglycemia (blood sugar 50 mg/dl) with IV 100ml of 25% dextrose solution",
+              "bbox": [
+                20.00979995727539,
+                713.0469360351562,
+                504.8899230957031,
+                726.4669189453125
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "Correct hypoglycemia (blood sugar 50 mg/dl) with IV 100ml of 25% dextrose solution",
+                  "bbox": [
+                    20.00979995727539,
+                    713.0469360351562,
+                    504.8899230957031,
+                    726.4669189453125
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B025",
+          "page_number": 1,
+          "bbox": [
+            21.12350082397461,
+            663.5576782226562,
+            627.4215698242188,
+            691.981689453125
+          ],
+          "text": "Establish IV access-urgent blood for hemogram/sugar/electrolytes/malaria testing-peripheral smear/rapid\nantigen detection",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "Establish IV access-urgent blood for hemogram/sugar/electrolytes/malaria testing-peripheral smear/rapid",
+              "bbox": [
+                21.12350082397461,
+                663.5576782226562,
+                627.4215698242188,
+                676.9776611328125
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "Establish IV access-urgent blood for hemogram/sugar/electrolytes/malaria testing-peripheral smear/rapid ",
+                  "bbox": [
+                    21.12350082397461,
+                    663.5576782226562,
+                    627.4215698242188,
+                    676.9776611328125
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "antigen detection",
+              "bbox": [
+                21.12350082397461,
+                678.5617065429688,
+                123.3244857788086,
+                691.981689453125
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "antigen detection",
+                  "bbox": [
+                    21.12350082397461,
+                    678.5617065429688,
+                    123.3244857788086,
+                    691.981689453125
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B026",
+          "page_number": 1,
+          "bbox": [
+            21.11520004272461,
+            618.0523681640625,
+            633.209228515625,
+            646.4763793945312
+          ],
+          "text": "Rule out circulatory shock, ongoing convulsions and hyperthermia/hyperpyrexia(core temperature > 40.5°C\nor hypothermia(< 36.5°C)",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "Rule out circulatory shock, ongoing convulsions and hyperthermia/hyperpyrexia(core temperature > 40.5°C",
+              "bbox": [
+                21.11520004272461,
+                618.0523681640625,
+                633.209228515625,
+                631.4723510742188
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "Rule out circulatory shock, ongoing convulsions and hyperthermia/hyperpyrexia(core temperature > 40.5°C ",
+                  "bbox": [
+                    21.11520004272461,
+                    618.0523681640625,
+                    633.209228515625,
+                    631.4723510742188
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "or hypothermia(< 36.5°C)",
+              "bbox": [
+                21.11520004272461,
+                633.056396484375,
+                161.0791778564453,
+                646.4763793945312
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "or hypothermia(< 36.5°C)",
+                  "bbox": [
+                    21.11520004272461,
+                    633.056396484375,
+                    161.0791778564453,
+                    646.4763793945312
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B027",
+          "page_number": 1,
+          "bbox": [
+            15.940400123596191,
+            585.4585571289062,
+            224.1912841796875,
+            598.8785400390625
+          ],
+          "text": "Check Airway/Breathing/Circulation",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "Check Airway/Breathing/Circulation",
+              "bbox": [
+                15.940400123596191,
+                585.4585571289062,
+                224.1912841796875,
+                598.8785400390625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": " Check Airway/Breathing/Circulation",
+                  "bbox": [
+                    15.940400123596191,
+                    585.4585571289062,
+                    224.1912841796875,
+                    598.8785400390625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B028",
+          "page_number": 1,
+          "bbox": [
+            17.10700035095215,
+            1277.890869140625,
+            403.1300354003906,
+            1412.5198974609375
+          ],
+          "text": "Empirical antibiotic (within 30 minutes of arrival)\n• If suspecting pyogenic meningitis-Inj Ceftriaxone 2 g+ Inj\nVancomycin 500 mg+ Inj Ampicillin 2 g if older than 50 years or\nimmunocompromised+ Inj Dexamethasone 8 mg IV\n• Continue empirical treatment till culture yields causative\norganism,then tailor treatment as per sensitivity reports for 10-14\ndays.\n• Steroids to be stopped after 48 hours,unless any other compelling\nindications-adrenal insufﬁciency/TBM",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "Empirical antibiotic (within 30 minutes of arrival)",
+              "bbox": [
+                24.10300064086914,
+                1277.890869140625,
+                322.8421630859375,
+                1292.6529541015625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "Empirical antibiotic (within 30 minutes of arrival)",
+                  "bbox": [
+                    24.10300064086914,
+                    1277.890869140625,
+                    319.7291259765625,
+                    1292.6529541015625
+                  ],
+                  "font": "Montserrat-Bold",
+                  "size": 11.0,
+                  "flags": 20
+                },
+                {
+                  "text": " ",
+                  "bbox": [
+                    320.004150390625,
+                    1279.06787109375,
+                    322.8421630859375,
+                    1292.4879150390625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• If suspecting pyogenic meningitis-Inj Ceftriaxone 2 g+ Inj",
+              "bbox": [
+                17.10700035095215,
+                1294.0718994140625,
+                350.6160888671875,
+                1307.491943359375
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• If suspecting pyogenic meningitis-Inj Ceftriaxone 2 g+ Inj ",
+                  "bbox": [
+                    17.10700035095215,
+                    1294.0718994140625,
+                    350.6160888671875,
+                    1307.491943359375
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "Vancomycin 500 mg+ Inj Ampicillin 2 g if older than 50 years or",
+              "bbox": [
+                24.10300064086914,
+                1309.075927734375,
+                388.8631896972656,
+                1322.4959716796875
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "Vancomycin 500 mg+ Inj Ampicillin 2 g if older than 50 years or ",
+                  "bbox": [
+                    24.10300064086914,
+                    1309.075927734375,
+                    388.8631896972656,
+                    1322.4959716796875
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "immunocompromised+ Inj Dexamethasone 8 mg IV",
+              "bbox": [
+                24.10300064086914,
+                1324.0799560546875,
+                318.7930603027344,
+                1337.5
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "immunocompromised+ Inj Dexamethasone 8 mg IV",
+                  "bbox": [
+                    24.10300064086914,
+                    1324.0799560546875,
+                    318.7930603027344,
+                    1337.5
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• Continue empirical treatment till culture yields causative",
+              "bbox": [
+                17.10700035095215,
+                1339.0838623046875,
+                352.55316162109375,
+                1352.50390625
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Continue empirical treatment till culture yields causative ",
+                  "bbox": [
+                    17.10700035095215,
+                    1339.0838623046875,
+                    352.55316162109375,
+                    1352.50390625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "organism,then tailor treatment as per sensitivity reports for 10-14",
+              "bbox": [
+                24.10300064086914,
+                1354.087890625,
+                396.8930969238281,
+                1367.5079345703125
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "organism,then tailor treatment as per sensitivity reports for 10-14 ",
+                  "bbox": [
+                    24.10300064086914,
+                    1354.087890625,
+                    396.8930969238281,
+                    1367.5079345703125
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "days.",
+              "bbox": [
+                24.10300064086914,
+                1369.0919189453125,
+                52.329002380371094,
+                1382.511962890625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "days.",
+                  "bbox": [
+                    24.10300064086914,
+                    1369.0919189453125,
+                    52.329002380371094,
+                    1382.511962890625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• Steroids to be stopped after 48 hours,unless any other compelling",
+              "bbox": [
+                17.10700035095215,
+                1384.0958251953125,
+                403.1300354003906,
+                1397.515869140625
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Steroids to be stopped after 48 hours,unless any other compelling ",
+                  "bbox": [
+                    17.10700035095215,
+                    1384.0958251953125,
+                    403.1300354003906,
+                    1397.515869140625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "indications-adrenal insufﬁciency/TBM",
+              "bbox": [
+                24.10300064086914,
+                1399.099853515625,
+                242.44308471679688,
+                1412.5198974609375
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "indications-adrenal insufﬁciency/TBM ",
+                  "bbox": [
+                    24.10300064086914,
+                    1399.099853515625,
+                    242.44308471679688,
+                    1412.5198974609375
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B029",
+          "page_number": 1,
+          "bbox": [
+            424.5898132324219,
+            1277.927001953125,
+            514.1298217773438,
+            1307.693115234375
+          ],
+          "text": "Viral-Herpes\nsimplex/Zoster",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "Viral-Herpes",
+              "bbox": [
+                424.5898132324219,
+                1277.927001953125,
+                502.0979919433594,
+                1292.6890869140625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "Viral-Herpes",
+                  "bbox": [
+                    424.5898132324219,
+                    1277.927001953125,
+                    498.9849853515625,
+                    1292.6890869140625
+                  ],
+                  "font": "Montserrat-Bold",
+                  "size": 11.0,
+                  "flags": 20
+                },
+                {
+                  "text": " ",
+                  "bbox": [
+                    499.2599792480469,
+                    1279.10400390625,
+                    502.0979919433594,
+                    1292.5240478515625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "simplex/Zoster",
+              "bbox": [
+                424.5898132324219,
+                1292.9310302734375,
+                514.1298217773438,
+                1307.693115234375
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "simplex/Zoster",
+                  "bbox": [
+                    424.5898132324219,
+                    1292.9310302734375,
+                    514.1298217773438,
+                    1307.693115234375
+                  ],
+                  "font": "Montserrat-Bold",
+                  "size": 11.0,
+                  "flags": 20
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B030",
+          "page_number": 1,
+          "bbox": [
+            417.59381103515625,
+            1324.10498046875,
+            496.08978271484375,
+            1382.537109375
+          ],
+          "text": "• Inj Acyclovir\n500 mg IV\n8 hourly for\n10 days",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "• Inj Acyclovir",
+              "bbox": [
+                417.59381103515625,
+                1324.10498046875,
+                496.08978271484375,
+                1337.5250244140625
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Inj Acyclovir ",
+                  "bbox": [
+                    417.59381103515625,
+                    1324.10498046875,
+                    496.08978271484375,
+                    1337.5250244140625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "500 mg IV",
+              "bbox": [
+                424.5898132324219,
+                1339.1090087890625,
+                483.4398498535156,
+                1352.529052734375
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "500 mg IV",
+                  "bbox": [
+                    424.5898132324219,
+                    1339.1090087890625,
+                    483.4398498535156,
+                    1352.529052734375
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "8 hourly for",
+              "bbox": [
+                417.59381103515625,
+                1354.113037109375,
+                492.2288818359375,
+                1367.5330810546875
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "  8 hourly for ",
+                  "bbox": [
+                    417.59381103515625,
+                    1354.113037109375,
+                    492.2288818359375,
+                    1367.5330810546875
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "10 days",
+              "bbox": [
+                417.59381103515625,
+                1369.1170654296875,
+                464.8938903808594,
+                1382.537109375
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "  10 days",
+                  "bbox": [
+                    417.59381103515625,
+                    1369.1170654296875,
+                    464.8938903808594,
+                    1382.537109375
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B031",
+          "page_number": 1,
+          "bbox": [
+            518.5,
+            1276.8919677734375,
+            809.49267578125,
+            1336.5009765625
+          ],
+          "text": "Cerebral malaria\nInj Artesunate 2.4 mg/kg IM or IV 3 doses\n12 hours apart and then OD /\nInj Quinine 20 mg/kg IV stat followed by 10mg/kg",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "Cerebral malaria",
+              "bbox": [
+                518.5,
+                1276.8919677734375,
+                624.464111328125,
+                1291.654052734375
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "  Cerebral malaria",
+                  "bbox": [
+                    518.5,
+                    1276.8919677734375,
+                    624.464111328125,
+                    1291.654052734375
+                  ],
+                  "font": "Montserrat-Bold",
+                  "size": 11.0,
+                  "flags": 20
+                }
+              ]
+            },
+            {
+              "text": "Inj Artesunate 2.4 mg/kg IM or IV 3 doses",
+              "bbox": [
+                518.5,
+                1293.0728759765625,
+                759.2677612304688,
+                1306.492919921875
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "  Inj Artesunate 2.4 mg/kg IM or IV 3 doses ",
+                  "bbox": [
+                    518.5,
+                    1293.0728759765625,
+                    759.2677612304688,
+                    1306.492919921875
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "12 hours apart and then OD /",
+              "bbox": [
+                518.5,
+                1308.076904296875,
+                687.9217529296875,
+                1321.4969482421875
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "  12 hours apart and then OD /",
+                  "bbox": [
+                    518.5,
+                    1308.076904296875,
+                    687.9217529296875,
+                    1321.4969482421875
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "Inj Quinine 20 mg/kg IV stat followed by 10mg/kg",
+              "bbox": [
+                518.5,
+                1323.0809326171875,
+                809.49267578125,
+                1336.5009765625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "  Inj Quinine 20 mg/kg IV stat followed by 10mg/kg ",
+                  "bbox": [
+                    518.5,
+                    1323.0809326171875,
+                    809.49267578125,
+                    1336.5009765625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B032",
+          "page_number": 1,
+          "bbox": [
+            518.5,
+            1338.0848388671875,
+            814.8948974609375,
+            1366.5089111328125
+          ],
+          "text": "TDS till patient can take orally,then\noral Artesunate+Pyrimethamine /Sulphadoxine for",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "TDS till patient can take orally,then",
+              "bbox": [
+                525.4959716796875,
+                1338.0848388671875,
+                729.3600463867188,
+                1351.5048828125
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "TDS till patient can take orally,then ",
+                  "bbox": [
+                    525.4959716796875,
+                    1338.0848388671875,
+                    729.3600463867188,
+                    1351.5048828125
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "oral Artesunate+Pyrimethamine /Sulphadoxine for",
+              "bbox": [
+                518.5,
+                1353.0888671875,
+                814.8948974609375,
+                1366.5089111328125
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "  oral Artesunate+Pyrimethamine /Sulphadoxine for ",
+                  "bbox": [
+                    518.5,
+                    1353.0888671875,
+                    814.8948974609375,
+                    1366.5089111328125
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B033",
+          "page_number": 1,
+          "bbox": [
+            525.4959716796875,
+            1368.0928955078125,
+            800.1547241210938,
+            1396.5169677734375
+          ],
+          "text": "3 days OR oral Quinine 10 mg/kg TDS  for total 7\ndays + Doxycycline 3 mg/kg OD for 7 days.",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "3 days OR oral Quinine 10 mg/kg TDS  for total 7",
+              "bbox": [
+                525.4959716796875,
+                1368.0928955078125,
+                800.1547241210938,
+                1381.512939453125
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "3 days OR oral Quinine 10 mg/kg TDS  for total 7 ",
+                  "bbox": [
+                    525.4959716796875,
+                    1368.0928955078125,
+                    800.1547241210938,
+                    1381.512939453125
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "days + Doxycycline 3 mg/kg OD for 7 days.",
+              "bbox": [
+                525.4959716796875,
+                1383.096923828125,
+                761.3798828125,
+                1396.5169677734375
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "days + Doxycycline 3 mg/kg OD for 7 days.",
+                  "bbox": [
+                    525.4959716796875,
+                    1383.096923828125,
+                    761.3798828125,
+                    1396.5169677734375
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B034",
+          "page_number": 1,
+          "bbox": [
+            16.448974609375,
+            1474.9249267578125,
+            618.3252563476562,
+            1488.344970703125
+          ],
+          "text": "*If uncomplicated-back referral to Secondary care centre for completing treatment regimen/monitoring.",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "*If uncomplicated-back referral to Secondary care centre for completing treatment regimen/monitoring.",
+              "bbox": [
+                16.448974609375,
+                1474.9249267578125,
+                618.3252563476562,
+                1488.344970703125
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "*If uncomplicated-back referral to Secondary care centre for completing treatment regimen/monitoring.  ",
+                  "bbox": [
+                    16.448974609375,
+                    1474.9249267578125,
+                    618.3252563476562,
+                    1488.344970703125
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B035",
+          "page_number": 1,
+          "bbox": [
+            610.90869140625,
+            445.77984619140625,
+            743.679931640625,
+            459.1998291015625
+          ],
+          "text": "Seizures/postictal state",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "Seizures/postictal state",
+              "bbox": [
+                610.90869140625,
+                445.77984619140625,
+                743.679931640625,
+                459.1998291015625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "Seizures/postictal state",
+                  "bbox": [
+                    610.90869140625,
+                    445.77984619140625,
+                    743.679931640625,
+                    459.1998291015625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B036",
+          "page_number": 1,
+          "bbox": [
+            637.10302734375,
+            220.4246063232422,
+            731.6088256835938,
+            241.9869384765625
+          ],
+          "text": "DIFFERENTIAL",
+          "avg_font_size": 15.68,
+          "max_font_size": 15.68,
+          "is_heading_candidate": true,
+          "lines": [
+            {
+              "text": "DIFFERENTIAL",
+              "bbox": [
+                637.10302734375,
+                220.4246063232422,
+                731.6088256835938,
+                241.9869384765625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "DIFFERENTIAL ",
+                  "bbox": [
+                    637.10302734375,
+                    220.4246063232422,
+                    731.6088256835938,
+                    241.9869384765625
+                  ],
+                  "font": "Futura-CondensedExtraBol",
+                  "size": 15.681699752807617,
+                  "flags": 16
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B037",
+          "page_number": 1,
+          "bbox": [
+            645.4613647460938,
+            239.2425994873047,
+            718.5380859375,
+            260.804931640625
+          ],
+          "text": "DIAGNOSIS",
+          "avg_font_size": 15.68,
+          "max_font_size": 15.68,
+          "is_heading_candidate": true,
+          "lines": [
+            {
+              "text": "DIAGNOSIS",
+              "bbox": [
+                645.4613647460938,
+                239.2425994873047,
+                718.5380859375,
+                260.804931640625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "DIAGNOSIS",
+                  "bbox": [
+                    645.4613647460938,
+                    239.2425994873047,
+                    718.5380859375,
+                    260.804931640625
+                  ],
+                  "font": "Futura-CondensedExtraBol",
+                  "size": 15.681699752807617,
+                  "flags": 16
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B038",
+          "page_number": 1,
+          "bbox": [
+            359.0,
+            1423.0032958984375,
+            461.840087890625,
+            1438.1392822265625
+          ],
+          "text": "COMPLICATIONS",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "COMPLICATIONS",
+              "bbox": [
+                359.0,
+                1423.0032958984375,
+                461.840087890625,
+                1438.1392822265625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "COMPLICATIONS",
+                  "bbox": [
+                    359.0,
+                    1423.0032958984375,
+                    461.840087890625,
+                    1438.1392822265625
+                  ],
+                  "font": "Montserrat-Black",
+                  "size": 11.0,
+                  "flags": 20
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B039",
+          "page_number": 1,
+          "bbox": [
+            74.45199584960938,
+            1447.8963623046875,
+            134.8199920654297,
+            1461.31640625
+          ],
+          "text": "Raised ICP",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "Raised ICP",
+              "bbox": [
+                74.45199584960938,
+                1447.8963623046875,
+                134.8199920654297,
+                1461.31640625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "Raised ICP",
+                  "bbox": [
+                    74.45199584960938,
+                    1447.8963623046875,
+                    134.8199920654297,
+                    1461.31640625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B040",
+          "page_number": 1,
+          "bbox": [
+            362.39208984375,
+            183.6705780029297,
+            476.2320251464844,
+            205.68658447265625
+          ],
+          "text": "ICD-10-G03.9",
+          "avg_font_size": 16.0,
+          "max_font_size": 16.0,
+          "is_heading_candidate": true,
+          "lines": [
+            {
+              "text": "ICD-10-G03.9",
+              "bbox": [
+                362.39208984375,
+                183.6705780029297,
+                476.2320251464844,
+                205.68658447265625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": " ICD-10-G03.9",
+                  "bbox": [
+                    362.39208984375,
+                    183.6705780029297,
+                    476.2320251464844,
+                    205.68658447265625
+                  ],
+                  "font": "Montserrat-Black",
+                  "size": 16.0,
+                  "flags": 20
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B041",
+          "page_number": 1,
+          "bbox": [
+            706.9619140625,
+            704.0103759765625,
+            758.4968872070312,
+            717.4303588867188
+          ],
+          "text": "Altered",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "Altered",
+              "bbox": [
+                706.9619140625,
+                704.0103759765625,
+                758.4968872070312,
+                717.4303588867188
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "  Altered ",
+                  "bbox": [
+                    706.9619140625,
+                    704.0103759765625,
+                    758.4968872070312,
+                    717.4303588867188
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B042",
+          "page_number": 1,
+          "bbox": [
+            713.9578857421875,
+            719.014404296875,
+            823.1878662109375,
+            837.4625854492188
+          ],
+          "text": "sensorium/seizures\n/focal\ndeﬁcits/hemodyna\nmic instability\n–where imaging\nand ICU\nmanagement are\nrequired.",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "sensorium/seizures",
+              "bbox": [
+                713.9578857421875,
+                719.014404296875,
+                823.1878662109375,
+                732.4343872070312
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "sensorium/seizures",
+                  "bbox": [
+                    713.9578857421875,
+                    719.014404296875,
+                    823.1878662109375,
+                    732.4343872070312
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "/focal",
+              "bbox": [
+                713.9578857421875,
+                734.0184326171875,
+                748.2779541015625,
+                747.4384155273438
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "/focal ",
+                  "bbox": [
+                    713.9578857421875,
+                    734.0184326171875,
+                    748.2779541015625,
+                    747.4384155273438
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "deﬁcits/hemodyna",
+              "bbox": [
+                713.9578857421875,
+                749.0224609375,
+                820.8316040039062,
+                762.4424438476562
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "deﬁcits/hemodyna",
+                  "bbox": [
+                    713.9578857421875,
+                    749.0224609375,
+                    820.8316040039062,
+                    762.4424438476562
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "mic instability",
+              "bbox": [
+                713.9578857421875,
+                764.0264892578125,
+                798.3609008789062,
+                777.4464721679688
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "mic instability ",
+                  "bbox": [
+                    713.9578857421875,
+                    764.0264892578125,
+                    798.3609008789062,
+                    777.4464721679688
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "–where imaging",
+              "bbox": [
+                713.9578857421875,
+                779.030517578125,
+                807.9307861328125,
+                792.4505004882812
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "–where imaging ",
+                  "bbox": [
+                    713.9578857421875,
+                    779.030517578125,
+                    807.9307861328125,
+                    792.4505004882812
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "and ICU",
+              "bbox": [
+                713.9578857421875,
+                794.0345458984375,
+                762.19287109375,
+                807.4545288085938
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "and ICU ",
+                  "bbox": [
+                    713.9578857421875,
+                    794.0345458984375,
+                    762.19287109375,
+                    807.4545288085938
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "management are",
+              "bbox": [
+                713.9578857421875,
+                809.03857421875,
+                815.6088256835938,
+                822.4585571289062
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "management are ",
+                  "bbox": [
+                    713.9578857421875,
+                    809.03857421875,
+                    815.6088256835938,
+                    822.4585571289062
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "required.",
+              "bbox": [
+                713.9578857421875,
+                824.0426025390625,
+                765.4708251953125,
+                837.4625854492188
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "required.",
+                  "bbox": [
+                    713.9578857421875,
+                    824.0426025390625,
+                    765.4708251953125,
+                    837.4625854492188
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B043",
+          "page_number": 1,
+          "bbox": [
+            713.438232421875,
+            555.1980590820312,
+            818.9212036132812,
+            595.578369140625
+          ],
+          "text": "NOT\nRECOMMENDED",
+          "avg_font_size": 15.68,
+          "max_font_size": 15.68,
+          "is_heading_candidate": true,
+          "lines": [
+            {
+              "text": "NOT",
+              "bbox": [
+                752.673828125,
+                555.1980590820312,
+                784.4307861328125,
+                576.7603759765625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "NOT ",
+                  "bbox": [
+                    752.673828125,
+                    555.1980590820312,
+                    784.4307861328125,
+                    576.7603759765625
+                  ],
+                  "font": "Futura-CondensedExtraBol",
+                  "size": 15.681699752807617,
+                  "flags": 16
+                }
+              ]
+            },
+            {
+              "text": "RECOMMENDED",
+              "bbox": [
+                713.438232421875,
+                574.0160522460938,
+                818.9212036132812,
+                595.578369140625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "RECOMMENDED",
+                  "bbox": [
+                    713.438232421875,
+                    574.0160522460938,
+                    818.9212036132812,
+                    595.578369140625
+                  ],
+                  "font": "Futura-CondensedExtraBol",
+                  "size": 15.681699752807617,
+                  "flags": 16
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B044",
+          "page_number": 1,
+          "bbox": [
+            716.1104125976562,
+            663.2679443359375,
+            806.3004150390625,
+            678.4039306640625
+          ],
+          "text": "CRITERIA FOR",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "CRITERIA FOR",
+              "bbox": [
+                716.1104125976562,
+                663.2679443359375,
+                806.3004150390625,
+                678.4039306640625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "CRITERIA FOR ",
+                  "bbox": [
+                    716.1104125976562,
+                    663.2679443359375,
+                    806.3004150390625,
+                    678.4039306640625
+                  ],
+                  "font": "Montserrat-Black",
+                  "size": 11.0,
+                  "flags": 20
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B045",
+          "page_number": 1,
+          "bbox": [
+            730.8944091796875,
+            678.27197265625,
+            794.947265625,
+            693.407958984375
+          ],
+          "text": "REFERRAL",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "REFERRAL",
+              "bbox": [
+                730.8944091796875,
+                678.27197265625,
+                794.947265625,
+                693.407958984375
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "REFERRAL",
+                  "bbox": [
+                    730.8944091796875,
+                    678.27197265625,
+                    794.947265625,
+                    693.407958984375
+                  ],
+                  "font": "Montserrat-Black",
+                  "size": 11.0,
+                  "flags": 20
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B046",
+          "page_number": 1,
+          "bbox": [
+            293.7148132324219,
+            1446.9522705078125,
+            778.9138793945312,
+            1462.0552978515625
+          ],
+          "text": "SIADH\nVasculitis\nHydrocephalus",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "SIADH",
+              "bbox": [
+                293.7148132324219,
+                1448.63525390625,
+                330.32281494140625,
+                1462.0552978515625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "SIADH",
+                  "bbox": [
+                    293.7148132324219,
+                    1448.63525390625,
+                    330.32281494140625,
+                    1462.0552978515625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "Vasculitis",
+              "bbox": [
+                499.8878173828125,
+                1447.8873291015625,
+                553.5787963867188,
+                1461.307373046875
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "Vasculitis",
+                  "bbox": [
+                    499.8878173828125,
+                    1447.8873291015625,
+                    553.5787963867188,
+                    1461.307373046875
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "Hydrocephalus",
+              "bbox": [
+                693.2568359375,
+                1446.9522705078125,
+                778.9138793945312,
+                1460.372314453125
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "Hydrocephalus",
+                  "bbox": [
+                    693.2568359375,
+                    1446.9522705078125,
+                    778.9138793945312,
+                    1460.372314453125
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B047",
+          "page_number": 1,
+          "bbox": [
+            23.049800872802734,
+            1519.46337890625,
+            257.6556091308594,
+            1532.8834228515625
+          ],
+          "text": "Afebrile,hemodynamically stable,seizure",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "Afebrile,hemodynamically stable,seizure",
+              "bbox": [
+                23.049800872802734,
+                1519.46337890625,
+                257.6556091308594,
+                1532.8834228515625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "Afebrile,hemodynamically stable,seizure ",
+                  "bbox": [
+                    23.049800872802734,
+                    1519.46337890625,
+                    257.6556091308594,
+                    1532.8834228515625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B048",
+          "page_number": 1,
+          "bbox": [
+            98.70779418945312,
+            1534.4674072265625,
+            178.87579345703125,
+            1547.887451171875
+          ],
+          "text": "free >48 hours",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "free >48 hours",
+              "bbox": [
+                98.70779418945312,
+                1534.4674072265625,
+                178.87579345703125,
+                1547.887451171875
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "free >48 hours",
+                  "bbox": [
+                    98.70779418945312,
+                    1534.4674072265625,
+                    178.87579345703125,
+                    1547.887451171875
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B049",
+          "page_number": 1,
+          "bbox": [
+            282.00079345703125,
+            1518.308349609375,
+            516.7189331054688,
+            1531.7283935546875
+          ],
+          "text": "Diagnosis and treatment plan made and",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "Diagnosis and treatment plan made and",
+              "bbox": [
+                282.00079345703125,
+                1518.308349609375,
+                516.7189331054688,
+                1531.7283935546875
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "Diagnosis and treatment plan made and ",
+                  "bbox": [
+                    282.00079345703125,
+                    1518.308349609375,
+                    516.7189331054688,
+                    1531.7283935546875
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B050",
+          "page_number": 1,
+          "bbox": [
+            372.37677001953125,
+            1533.3123779296875,
+            423.2165832519531,
+            1546.732421875
+          ],
+          "text": "initiated.",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "initiated.",
+              "bbox": [
+                372.37677001953125,
+                1533.3123779296875,
+                423.2165832519531,
+                1546.732421875
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "initiated.",
+                  "bbox": [
+                    372.37677001953125,
+                    1533.3123779296875,
+                    423.2165832519531,
+                    1546.732421875
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B051",
+          "page_number": 1,
+          "bbox": [
+            546.9027709960938,
+            1518.1873779296875,
+            821.0997924804688,
+            1531.607421875
+          ],
+          "text": "Continuation of treatment with monitoring can",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "Continuation of treatment with monitoring can",
+              "bbox": [
+                546.9027709960938,
+                1518.1873779296875,
+                821.0997924804688,
+                1531.607421875
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "Continuation of treatment with monitoring can ",
+                  "bbox": [
+                    546.9027709960938,
+                    1518.1873779296875,
+                    821.0997924804688,
+                    1531.607421875
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B052",
+          "page_number": 1,
+          "bbox": [
+            570.3767700195312,
+            1533.19140625,
+            794.5235595703125,
+            1546.6114501953125
+          ],
+          "text": "be ensured for the prescribed duration.",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "be ensured for the prescribed duration.",
+              "bbox": [
+                570.3767700195312,
+                1533.19140625,
+                794.5235595703125,
+                1546.6114501953125
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "be ensured for the prescribed duration.",
+                  "bbox": [
+                    570.3767700195312,
+                    1533.19140625,
+                    794.5235595703125,
+                    1546.6114501953125
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B053",
+          "page_number": 1,
+          "bbox": [
+            324.5487976074219,
+            1493.6263427734375,
+            487.32794189453125,
+            1508.7623291015625
+          ],
+          "text": "CRITERIA FOR DISCHARGE",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "CRITERIA FOR DISCHARGE",
+              "bbox": [
+                324.5487976074219,
+                1493.6263427734375,
+                487.32794189453125,
+                1508.7623291015625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "CRITERIA FOR DISCHARGE",
+                  "bbox": [
+                    324.5487976074219,
+                    1493.6263427734375,
+                    487.32794189453125,
+                    1508.7623291015625
+                  ],
+                  "font": "Montserrat-Black",
+                  "size": 11.0,
+                  "flags": 20
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B054",
+          "page_number": 1,
+          "bbox": [
+            277.60400390625,
+            884.1458129882812,
+            344.1100769042969,
+            905.7081298828125
+          ],
+          "text": "ESSENTIAL",
+          "avg_font_size": 15.68,
+          "max_font_size": 15.68,
+          "is_heading_candidate": true,
+          "lines": [
+            {
+              "text": "ESSENTIAL",
+              "bbox": [
+                277.60400390625,
+                884.1458129882812,
+                344.1100769042969,
+                905.7081298828125
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "ESSENTIAL",
+                  "bbox": [
+                    277.60400390625,
+                    884.1458129882812,
+                    344.1100769042969,
+                    905.7081298828125
+                  ],
+                  "font": "Futura-CondensedExtraBol",
+                  "size": 15.681699752807617,
+                  "flags": 16
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B055",
+          "page_number": 1,
+          "bbox": [
+            11.031200408935547,
+            1097.1856689453125,
+            340.2843322753906,
+            1110.605712890625
+          ],
+          "text": "Emergency CT/referral to centre with 24 hour CT facilities",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "Emergency CT/referral to centre with 24 hour CT facilities",
+              "bbox": [
+                11.031200408935547,
+                1097.1856689453125,
+                340.2843322753906,
+                1110.605712890625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": " Emergency CT/referral to centre with 24 hour CT facilities",
+                  "bbox": [
+                    11.031200408935547,
+                    1097.1856689453125,
+                    340.2843322753906,
+                    1110.605712890625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B056",
+          "page_number": 1,
+          "bbox": [
+            13.116700172424316,
+            1048.72412109375,
+            455.11004638671875,
+            1077.148193359375
+          ],
+          "text": "Start treatment for cerebral malaria-ﬁrst dose of IV Artesunate 2.4 mg/kg  OR\nQuinine 20 mg/kg bolus",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "Start treatment for cerebral malaria-ﬁrst dose of IV Artesunate 2.4 mg/kg  OR",
+              "bbox": [
+                13.116700172424316,
+                1048.72412109375,
+                455.11004638671875,
+                1062.1441650390625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "Start treatment for cerebral malaria-ﬁrst dose of IV Artesunate 2.4 mg/kg  OR ",
+                  "bbox": [
+                    13.116700172424316,
+                    1048.72412109375,
+                    455.11004638671875,
+                    1062.1441650390625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "Quinine 20 mg/kg bolus",
+              "bbox": [
+                13.116700172424316,
+                1063.7281494140625,
+                150.4517059326172,
+                1077.148193359375
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "Quinine 20 mg/kg bolus",
+                  "bbox": [
+                    13.116700172424316,
+                    1063.7281494140625,
+                    150.4517059326172,
+                    1077.148193359375
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B057",
+          "page_number": 1,
+          "bbox": [
+            6.112299919128418,
+            1002.5874633789062,
+            525.6787109375,
+            1016.0074462890625
+          ],
+          "text": "Stomach wash/activated charcoal administration-if history or suspicion of drug overdose/",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "Stomach wash/activated charcoal administration-if history or suspicion of drug overdose/",
+              "bbox": [
+                6.112299919128418,
+                1002.5874633789062,
+                525.6787109375,
+                1016.0074462890625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "  Stomach wash/activated charcoal administration-if history or suspicion of drug overdose/ ",
+                  "bbox": [
+                    6.112299919128418,
+                    1002.5874633789062,
+                    525.6787109375,
+                    1016.0074462890625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B058",
+          "page_number": 1,
+          "bbox": [
+            13.108299255371094,
+            1017.5914916992188,
+            172.9492950439453,
+            1031.011474609375
+          ],
+          "text": "non corrosive poison intake",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "non corrosive poison intake",
+              "bbox": [
+                13.108299255371094,
+                1017.5914916992188,
+                172.9492950439453,
+                1031.011474609375
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "non corrosive poison intake ",
+                  "bbox": [
+                    13.108299255371094,
+                    1017.5914916992188,
+                    172.9492950439453,
+                    1031.011474609375
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B059",
+          "page_number": 1,
+          "bbox": [
+            9.450699806213379,
+            975.0044555664062,
+            143.41969299316406,
+            988.4244384765625
+          ],
+          "text": "Inj Thiamine 100 mg IV",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "Inj Thiamine 100 mg IV",
+              "bbox": [
+                9.450699806213379,
+                975.0044555664062,
+                143.41969299316406,
+                988.4244384765625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": " Inj Thiamine 100 mg IV",
+                  "bbox": [
+                    9.450699806213379,
+                    975.0044555664062,
+                    143.41969299316406,
+                    988.4244384765625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B060",
+          "page_number": 1,
+          "bbox": [
+            11.144700050354004,
+            917.0784301757812,
+            521.094970703125,
+            960.5064697265625
+          ],
+          "text": "Establish and maintain airway: Intubate if GCS<8, impaired airway reﬂexes, abnormal\nrespiratory pattern, signs of raised ICP, oxygen saturation <92% despite high ﬂow oxygen,\nand ﬂuid refractory shock",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "Establish and maintain airway: Intubate if GCS<8, impaired airway reﬂexes, abnormal",
+              "bbox": [
+                11.144700050354004,
+                917.0784301757812,
+                498.8847961425781,
+                930.4984130859375
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "Establish and maintain airway: Intubate if GCS<8, impaired airway reﬂexes, abnormal ",
+                  "bbox": [
+                    11.144700050354004,
+                    917.0784301757812,
+                    498.8847961425781,
+                    930.4984130859375
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "respiratory pattern, signs of raised ICP, oxygen saturation <92% despite high ﬂow oxygen,",
+              "bbox": [
+                11.144700050354004,
+                932.0824584960938,
+                521.094970703125,
+                945.50244140625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "respiratory pattern, signs of raised ICP, oxygen saturation <92% despite high ﬂow oxygen, ",
+                  "bbox": [
+                    11.144700050354004,
+                    932.0824584960938,
+                    521.094970703125,
+                    945.50244140625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "and ﬂuid refractory shock",
+              "bbox": [
+                11.144700050354004,
+                947.0864868164062,
+                157.6427001953125,
+                960.5064697265625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "and ﬂuid refractory shock",
+                  "bbox": [
+                    11.144700050354004,
+                    947.0864868164062,
+                    157.6427001953125,
+                    960.5064697265625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B061",
+          "page_number": 1,
+          "bbox": [
+            10.022700309753418,
+            883.6819458007812,
+            828.3990478515625,
+            1007.8793334960938
+          ],
+          "text": "In addition to all the steps given above :\nDESIRABLE\n• Neuroimaging-CT with contrast -to rule out\nhemorrhage/infarcts/focal edema or lesions\n• Blood cultures aerobic/anaerobic\n• First dose of empirical treatment of pyogenic\nmeningitis-Inj Ceftriaxone 2 g + Inj Vancomycin\n500 mg.\nAdd Inj Ampicillin 2 g if older than 50 years /",
+          "avg_font_size": 11.52,
+          "max_font_size": 15.68,
+          "is_heading_candidate": true,
+          "lines": [
+            {
+              "text": "In addition to all the steps given above :",
+              "bbox": [
+                10.022700309753418,
+                896.2885131835938,
+                236.59962463378906,
+                909.70849609375
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "In addition to all the steps given above :",
+                  "bbox": [
+                    10.022700309753418,
+                    896.2885131835938,
+                    236.59962463378906,
+                    909.70849609375
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "DESIRABLE",
+              "bbox": [
+                643.2998046875,
+                883.6819458007812,
+                714.2830200195312,
+                905.2442626953125
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "DESIRABLE",
+                  "bbox": [
+                    643.2998046875,
+                    883.6819458007812,
+                    714.2830200195312,
+                    905.2442626953125
+                  ],
+                  "font": "Futura-CondensedExtraBol",
+                  "size": 15.681699752807617,
+                  "flags": 16
+                }
+              ]
+            },
+            {
+              "text": "• Neuroimaging-CT with contrast -to rule out",
+              "bbox": [
+                549.6240234375,
+                904.4351806640625,
+                806.5730590820312,
+                917.8551635742188
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Neuroimaging-CT with contrast -to rule out ",
+                  "bbox": [
+                    549.6240234375,
+                    904.4351806640625,
+                    806.5730590820312,
+                    917.8551635742188
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "hemorrhage/infarcts/focal edema or lesions",
+              "bbox": [
+                556.6200561523438,
+                919.439208984375,
+                805.4300537109375,
+                932.8591918945312
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "hemorrhage/infarcts/focal edema or lesions",
+                  "bbox": [
+                    556.6200561523438,
+                    919.439208984375,
+                    805.4300537109375,
+                    932.8591918945312
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• Blood cultures aerobic/anaerobic",
+              "bbox": [
+                549.6240844726562,
+                934.4432373046875,
+                749.0652465820312,
+                947.8632202148438
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Blood cultures aerobic/anaerobic ",
+                  "bbox": [
+                    549.6240844726562,
+                    934.4432373046875,
+                    749.0652465820312,
+                    947.8632202148438
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• First dose of empirical treatment of pyogenic",
+              "bbox": [
+                549.6240844726562,
+                949.447265625,
+                816.4278564453125,
+                962.8672485351562
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• First dose of empirical treatment of pyogenic ",
+                  "bbox": [
+                    549.6240844726562,
+                    949.447265625,
+                    816.4278564453125,
+                    962.8672485351562
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "meningitis-Inj Ceftriaxone 2 g + Inj Vancomycin",
+              "bbox": [
+                556.6201171875,
+                964.4512939453125,
+                828.3990478515625,
+                977.8712768554688
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "meningitis-Inj Ceftriaxone 2 g + Inj Vancomycin ",
+                  "bbox": [
+                    556.6201171875,
+                    964.4512939453125,
+                    828.3990478515625,
+                    977.8712768554688
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "500 mg.",
+              "bbox": [
+                556.6201171875,
+                979.455322265625,
+                606.6810302734375,
+                992.8753051757812
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "500 mg. ",
+                  "bbox": [
+                    556.6201171875,
+                    979.455322265625,
+                    606.6810302734375,
+                    992.8753051757812
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "Add Inj Ampicillin 2 g if older than 50 years /",
+              "bbox": [
+                549.6241455078125,
+                994.4593505859375,
+                813.0628051757812,
+                1007.8793334960938
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "  Add Inj Ampicillin 2 g if older than 50 years / ",
+                  "bbox": [
+                    549.6241455078125,
+                    994.4593505859375,
+                    813.0628051757812,
+                    1007.8793334960938
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B062",
+          "page_number": 1,
+          "bbox": [
+            549.6241455078125,
+            1009.46337890625,
+            827.2310180664062,
+            1112.907470703125
+          ],
+          "text": "immunocompromised along with Inj\nDexamethasone 8 mg\n• Fundus examination,CSF study to rule out\nmeningoencephalitis-if imaging rules out any\nmass lesions/herniations.\n• Urgent referral to higher centres with Intensive\ncare facilities",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "immunocompromised along with Inj",
+              "bbox": [
+                556.6201171875,
+                1009.46337890625,
+                770.39404296875,
+                1022.8833618164062
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "immunocompromised along with Inj ",
+                  "bbox": [
+                    556.6201171875,
+                    1009.46337890625,
+                    770.39404296875,
+                    1022.8833618164062
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "Dexamethasone 8 mg",
+              "bbox": [
+                556.6201171875,
+                1024.4674072265625,
+                684.4290161132812,
+                1037.887451171875
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "Dexamethasone 8 mg ",
+                  "bbox": [
+                    556.6201171875,
+                    1024.4674072265625,
+                    684.4290161132812,
+                    1037.887451171875
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• Fundus examination,CSF study to rule out",
+              "bbox": [
+                549.6241455078125,
+                1039.4713134765625,
+                797.6961669921875,
+                1052.891357421875
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Fundus examination,CSF study to rule out ",
+                  "bbox": [
+                    549.6241455078125,
+                    1039.4713134765625,
+                    797.6961669921875,
+                    1052.891357421875
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "meningoencephalitis-if imaging rules out any",
+              "bbox": [
+                556.6201782226562,
+                1054.4754638671875,
+                819.9281005859375,
+                1067.8955078125
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "meningoencephalitis-if imaging rules out any ",
+                  "bbox": [
+                    556.6201782226562,
+                    1054.4754638671875,
+                    819.9281005859375,
+                    1067.8955078125
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "mass lesions/herniations.",
+              "bbox": [
+                556.6201782226562,
+                1069.4793701171875,
+                699.6641845703125,
+                1082.8994140625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "mass lesions/herniations.",
+                  "bbox": [
+                    556.6201782226562,
+                    1069.4793701171875,
+                    699.6641845703125,
+                    1082.8994140625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• Urgent referral to higher centres with Intensive",
+              "bbox": [
+                549.6242065429688,
+                1084.4835205078125,
+                827.2310180664062,
+                1097.903564453125
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Urgent referral to higher centres with Intensive ",
+                  "bbox": [
+                    549.6242065429688,
+                    1084.4835205078125,
+                    827.2310180664062,
+                    1097.903564453125
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "care facilities",
+              "bbox": [
+                556.6202392578125,
+                1099.4874267578125,
+                634.4451904296875,
+                1112.907470703125
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "care facilities ",
+                  "bbox": [
+                    556.6202392578125,
+                    1099.4874267578125,
+                    634.4451904296875,
+                    1112.907470703125
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B063",
+          "page_number": 1,
+          "bbox": [
+            14.011505126953125,
+            1120.1468505859375,
+            698.1992797851562,
+            1165.081787109375
+          ],
+          "text": "CRITERIA FOR REFERRAL\n• Altered sensorium/seizures/focal deﬁcits/hemodynamic instability –where imaging and ICU management are required.\n• If no deﬁnite diagnosis achieved after preliminary investigations",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "CRITERIA FOR REFERRAL",
+              "bbox": [
+                345.1885070800781,
+                1120.1468505859375,
+                499.7066650390625,
+                1135.2828369140625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "CRITERIA FOR REFERRAL",
+                  "bbox": [
+                    345.1885070800781,
+                    1120.1468505859375,
+                    499.7066650390625,
+                    1135.2828369140625
+                  ],
+                  "font": "Montserrat-Black",
+                  "size": 11.0,
+                  "flags": 20
+                }
+              ]
+            },
+            {
+              "text": "• Altered sensorium/seizures/focal deﬁcits/hemodynamic instability –where imaging and ICU management are required.",
+              "bbox": [
+                14.011505126953125,
+                1136.6578369140625,
+                698.1992797851562,
+                1150.077880859375
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Altered sensorium/seizures/focal deﬁcits/hemodynamic instability –where imaging and ICU management are required.",
+                  "bbox": [
+                    14.011505126953125,
+                    1136.6578369140625,
+                    698.1992797851562,
+                    1150.077880859375
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• If no deﬁnite diagnosis achieved after preliminary investigations",
+              "bbox": [
+                14.011505126953125,
+                1151.6617431640625,
+                386.4154357910156,
+                1165.081787109375
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• If no deﬁnite diagnosis achieved after preliminary investigations",
+                  "bbox": [
+                    14.011505126953125,
+                    1151.6617431640625,
+                    386.4154357910156,
+                    1165.081787109375
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B064",
+          "page_number": 1,
+          "bbox": [
+            229.7205047607422,
+            89.39875030517578,
+            426.1774597167969,
+            110.53379821777344
+          ],
+          "text": "Department of Health Research\nMinistry of Health and Family Welfare, Government of India",
+          "avg_font_size": 7.49,
+          "max_font_size": 7.49,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "Department of Health Research",
+              "bbox": [
+                275.25830078125,
+                89.39875030517578,
+                380.6412048339844,
+                99.62901306152344
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "Department of Health Research",
+                  "bbox": [
+                    275.25830078125,
+                    89.39875030517578,
+                    380.6412048339844,
+                    99.62901306152344
+                  ],
+                  "font": "ArialMT",
+                  "size": 7.494699954986572,
+                  "flags": 0
+                }
+              ]
+            },
+            {
+              "text": "Ministry of Health and Family Welfare, Government of India",
+              "bbox": [
+                229.7205047607422,
+                100.30353546142578,
+                426.1774597167969,
+                110.53379821777344
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "Ministry of Health and Family Welfare, Government of India",
+                  "bbox": [
+                    229.7205047607422,
+                    100.30353546142578,
+                    426.1774597167969,
+                    110.53379821777344
+                  ],
+                  "font": "ArialMT",
+                  "size": 7.494699954986572,
+                  "flags": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B065",
+          "page_number": 1,
+          "bbox": [
+            25.068347930908203,
+            21.5657958984375,
+            35.201072692871094,
+            75.71836853027344
+          ],
+          "text": "October/ 2019",
+          "avg_font_size": 7.36,
+          "max_font_size": 7.36,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "October/ 2019",
+              "bbox": [
+                25.068347930908203,
+                21.5657958984375,
+                35.201072692871094,
+                75.71836853027344
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "October/ 2019",
+                  "bbox": [
+                    25.068347930908203,
+                    21.5657958984375,
+                    35.201072692871094,
+                    75.71836853027344
+                  ],
+                  "font": "Montserrat-Black",
+                  "size": 7.363900184631348,
+                  "flags": 20
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B066",
+          "page_number": 1,
+          "bbox": [
+            10.564499855041504,
+            1585.4737548828125,
+            834.8575439453125,
+            1629.8946533203125
+          ],
+          "text": "This STW has been prepared by national experts of India with feasibility considerations for various levels of healthcare system in the country. These broad guidelines are advisory, and are\nbased on expert opinions and available scientiﬁc evidence. There may be variations in the management of an individual patient based on his/her speciﬁc condition, as decided by the\ntreating physician. There will be no indemnity for direct or indirect consequences. Kindly visit our web portal (stw.icmr.org.in) for more information.\n© Indian Council of Medical Research and Department of Health Research, Ministry of Health & Family Welfare, Government of India.",
+          "avg_font_size": 9.14,
+          "max_font_size": 10.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "This STW has been prepared by national experts of India with feasibility considerations for various levels of healthcare system in the country. These broad guidelines are advisory, and are",
+              "bbox": [
+                10.564499855041504,
+                1585.4737548828125,
+                834.8575439453125,
+                1596.4537353515625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "This STW has been prepared by national experts of India with feasibility considerations for various levels of healthcare system in the country. These broad guidelines are advisory, and are ",
+                  "bbox": [
+                    10.564499855041504,
+                    1585.4737548828125,
+                    834.8575439453125,
+                    1596.4537353515625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 9.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "based on expert opinions and available scientiﬁc evidence. There may be variations in the management of an individual patient based on his/her speciﬁc condition, as decided by the",
+              "bbox": [
+                10.564499855041504,
+                1596.4716796875,
+                820.9606323242188,
+                1607.45166015625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "based on expert opinions and available scientiﬁc evidence. There may be variations in the management of an individual patient based on his/her speciﬁc condition, as decided by the ",
+                  "bbox": [
+                    10.564499855041504,
+                    1596.4716796875,
+                    820.9606323242188,
+                    1607.45166015625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 9.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "treating physician. There will be no indemnity for direct or indirect consequences. Kindly visit our web portal (stw.icmr.org.in) for more information.",
+              "bbox": [
+                10.564499855041504,
+                1606.2366943359375,
+                673.3505859375,
+                1618.6207275390625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "treating physician. There will be no indemnity for direct or indirect consequences. Kindly visit our web portal (",
+                  "bbox": [
+                    10.564499855041504,
+                    1607.4697265625,
+                    498.6155090332031,
+                    1618.44970703125
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 9.0,
+                  "flags": 4
+                },
+                {
+                  "text": "stw.icmr.org.in",
+                  "bbox": [
+                    498.6155090332031,
+                    1606.2366943359375,
+                    572.1365356445312,
+                    1618.6207275390625
+                  ],
+                  "font": "Montserrat-Black",
+                  "size": 9.0,
+                  "flags": 4
+                },
+                {
+                  "text": ") for more information.",
+                  "bbox": [
+                    572.1365356445312,
+                    1607.4697265625,
+                    673.3505859375,
+                    1618.44970703125
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 9.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "© Indian Council of Medical Research and Department of Health Research, Ministry of Health & Family Welfare, Government of India.",
+              "bbox": [
+                10.564499855041504,
+                1616.1346435546875,
+                599.3685913085938,
+                1629.8946533203125
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "©",
+                  "bbox": [
+                    10.564499855041504,
+                    1616.1346435546875,
+                    18.204500198364258,
+                    1629.8946533203125
+                  ],
+                  "font": "Montserrat-Black",
+                  "size": 10.0,
+                  "flags": 20
+                },
+                {
+                  "text": " Indian Council of Medical Research and Department of Health Research, Ministry of Health & Family Welfare, Government of India.",
+                  "bbox": [
+                    18.204599380493164,
+                    1618.4737548828125,
+                    599.3685913085938,
+                    1629.4537353515625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 9.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B067",
+          "page_number": 1,
+          "bbox": [
+            27.098487854003906,
+            423.023193359375,
+            811.1597900390625,
+            1207.0845947265625
+          ],
+          "text": "stw.icmr.org.in",
+          "avg_font_size": 141.98,
+          "max_font_size": 141.98,
+          "is_heading_candidate": true,
+          "lines": [
+            {
+              "text": "stw.icmr.org.in",
+              "bbox": [
+                27.098487854003906,
+                423.023193359375,
+                811.1597900390625,
+                1207.0845947265625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "stw.icmr.org.in",
+                  "bbox": [
+                    27.098487854003906,
+                    423.023193359375,
+                    811.1597900390625,
+                    1207.0845947265625
+                  ],
+                  "font": "Arial",
+                  "size": 141.97567749023438,
+                  "flags": 0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

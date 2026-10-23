@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ICMR STW Clinical Evidence Assistant</title>
+  <meta name="description" content="Evidence-grounded clinical decision support assistant based on official ICMR Standard Treatment Workflows.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+  <div class="app-layout">
+    <!-- Header -->
+    <header class="app-header">
+      <div class="header-content">
+        <div class="brand">
+          <div class="brand-badge">ICMR STW</div>
+          <div class="brand-titles">
+            <h1 class="brand-title">Multi-Specialty Clinical Evidence Platform</h1>
+            <p class="brand-subtitle">Strictly grounded in official Indian Council of Medical Research workflows</p>
+          </div>
+        </div>
+        <div class="header-status" style="display: flex; align-items: center; gap: 12px;">
+          <div style="display: flex; align-items: center; gap: 6px;">
+            <span class="status-indicator"></span>
+            <span class="status-text" id="system-status">Production Verified (426 Units)</span>
+          </div>
+          <button id="open-explorer-btn" class="btn-explorer" title="Browse all guidelines">Document Explorer</button>
+          <a href="/review" style="color: #93c5fd; text-decoration: none; font-size: 12px; font-weight: 500; border: 1px solid #1e3a8a; background: #0d1527; padding: 4px 10px; border-radius: 4px;">Review Portal (316 Flagged)</a>
+        </div>
+      </div>
+    </header>
+
+    <!-- Main Container -->
+    <main class="chat-container">
+      <!-- Chat history area -->
+      <div class="messages-viewport" id="messages-viewport">
+        <!-- Welcome card -->
+        <div class="welcome-card" id="welcome-card">
+          <h2>Clinical Decision Support</h2>
+          <p>Ask questions about clinical workflows, medications, contraindications, investigations, and referral criteria from official ICMR Standard Treatment Workflows.</p>
+          <div class="disclaimer-banner">
+            <strong>Clinical Safety Notice:</strong> This assistant provides evidence retrieval and synthesis from ICMR STWs. It does not provide autonomous diagnosis, prescription, or clinical decision-making.
+          </div>
+          <div class="sample-queries-section">
+            <span class="sample-label">Sample queries:</span>
+            <div class="sample-chips">
+              <button class="sample-chip" data-query="What is the recommended loading dose of aspirin in STEMI?">STEMI aspirin dose</button>
+              <button class="sample-chip" data-query="What are the absolute contraindications to thrombolysis?">Thrombolysis contraindications</button>
+              <button class="sample-chip" data-query="When should a STEMI patient be transferred to a PCI capable hospital?">STEMI PCI referral criteria</button>
+              <button class="sample-chip" data-query="What management of heart failure is described at the primary health centre level?">Heart failure at PHC</button>
+              <button class="sample-chip" data-query="What is the treatment for acute ischemic stroke?">Stroke (Neurology review check)</button>
+              <button class="sample-chip" data-query="What is the treatment for dengue fever?">Dengue fever (Abstention test)</button>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Input area -->
+      <div class="input-container">
+        <!-- Multi-specialty filter bar -->
+        <div class="filter-bar">
+          <label style="font-size: 0.8rem; color: #94a3b8; font-weight: 500;">Scope Filter:</label>
+          <select id="specialty-select" class="filter-select">
+            <option value="">All Specialties</option>
+          </select>
+          <select id="condition-select" class="filter-select">
+            <option value="">All Conditions</option>
+          </select>
+        </div>
+
+        <form class="chat-form" id="chat-form">
+          <div class="input-wrapper">
+            <textarea
+              id="query-input"
+              class="query-input"
+              placeholder="Ask a clinical question (e.g. STEMI door to needle time, beta blockers in heart failure)..."
+              rows="1"
+              required
+            ></textarea>
+            <div class="input-actions">
+              <label class="debug-toggle" title="Show latency and retrieval scores">
+                <input type="checkbox" id="debug-checkbox">
+                <span>Debug</span>
+              </label>
+              <button type="submit" id="send-button" class="send-button">
+                <span>Send</span>
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                  <line x1="22" y1="2" x2="11" y2="13"></line>
+                  <polygon points="22 2 15 22 11 13 2 9 22 2"></polygon>
+                </svg>
+              </button>
+            </div>
+          </div>
+        </form>
+      </div>
+    </main>
+  </div>
+
+  <!-- Document Explorer Modal -->
+  <div id="explorer-modal" class="modal-backdrop" style="display: none;">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h2>ICMR Standard Treatment Workflow Explorer</h2>
+        <button id="close-explorer-btn" class="modal-close-btn">&times;</button>
+      </div>
+      <div class="modal-body" id="explorer-body">
+        <div style="color: #94a3b8; font-size: 0.9rem;">Loading guidelines tree...</div>
+      </div>
+    </div>
+  </div>
+
+  <script src="/static/app.js"></script>
+</body>
+</html>

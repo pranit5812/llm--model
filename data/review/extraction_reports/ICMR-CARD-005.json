@@ -1,0 +1,79 @@
+{
+  "document_id": "ICMR-CARD-005",
+  "condition": "Stable Angina",
+  "total_pages": 1,
+  "text_blocks_count": 66,
+  "sections_count": 28,
+  "tables_detected": 1,
+  "tables_extracted": 1,
+  "flowcharts_count": 0,
+  "medications_count": 22,
+  "investigations_count": 15,
+  "contraindications_count": 0,
+  "referral_rules_count": 0,
+  "provenance_coverage_percent": 100.0,
+  "manual_review_items_count": 10,
+  "manual_review_details": [
+    {
+      "entity": "medication",
+      "raw_text": "intolerant to aspirin)",
+      "reason": "Medication 'Aspirin' mentioned in workflow without explicit dosage or units in source text",
+      "page": 1
+    },
+    {
+      "entity": "medication",
+      "raw_text": "Ticagralor 90 mg BD",
+      "reason": "Typographical variant 'Ticagralor' in ICMR source PDF",
+      "page": 1
+    },
+    {
+      "entity": "medication",
+      "raw_text": ". Metoprolol:",
+      "reason": "Medication 'Metoprolol' mentioned in workflow without explicit dosage or units in source text",
+      "page": 1
+    },
+    {
+      "entity": "medication",
+      "raw_text": ". Nitrates:",
+      "reason": "Medication 'Nitrates' mentioned in workflow without explicit dosage or units in source text",
+      "page": 1
+    },
+    {
+      "entity": "medication",
+      "raw_text": "Isosorbide mono-nitare: 20 to 60 mg in 2 devided dose",
+      "reason": "Typographical variant 'mono-nitare' in source text",
+      "page": 1
+    },
+    {
+      "entity": "medication",
+      "raw_text": ". Control angina: Metoprolol",
+      "reason": "Medication 'Metoprolol' mentioned in workflow without explicit dosage or units in source text",
+      "page": 1
+    },
+    {
+      "entity": "medication",
+      "raw_text": "Add nitrates if symptoms not",
+      "reason": "Medication 'Nitrates' mentioned in workflow without explicit dosage or units in source text",
+      "page": 1
+    },
+    {
+      "entity": "medication",
+      "raw_text": ". Aspirin & high intensity statins",
+      "reason": "Medication 'Aspirin' mentioned in workflow without explicit dosage or units in source text",
+      "page": 1
+    },
+    {
+      "entity": "medication",
+      "raw_text": "choose from trimetazidine,",
+      "reason": "Medication 'Trimetazidine' mentioned in workflow without explicit dosage or units in source text",
+      "page": 1
+    },
+    {
+      "entity": "medication",
+      "raw_text": "nicorandil and ranolazine",
+      "reason": "Medication 'Nicorandil' mentioned in workflow without explicit dosage or units in source text",
+      "page": 1
+    }
+  ],
+  "extraction_errors": []
+}

@@ -1,0 +1,2923 @@
+{
+  "metadata": {
+    "document_id": "ICMR-CARD-006",
+    "title": "STEMI",
+    "specialty": "Cardiology",
+    "condition": "STEMI",
+    "icd_11_code": null,
+    "volume": "Volume 1",
+    "edition": "1.0",
+    "source_organization": "Indian Council of Medical Research (ICMR)",
+    "source_url": "https://www.icmr.gov.in/icmrobject/uploads/STWs/1768823342_cardiology_1-5.pdf",
+    "local_path": "data/raw/cardiology/1768823342_cardiology_1-5.pdf",
+    "total_pages": 1,
+    "document_hash": "98c6bed931ac43c6721026d26517b608e33079ed817c36e6dfc6920462c5f17f"
+  },
+  "clinical_presentation": {
+    "definition": "Clinical presentation and diagnostic characteristics of STEMI per ICMR STW.",
+    "typical_symptoms": [
+      "Diffuse retrosternal pain, heaviness or",
+      "constriction",
+      "Radiation to arms or neck or back",
+      "Associated with sweating",
+      "Easily reproduced with post-meal exertion",
+      "fatigue or breathlessness or profuse",
+      "sweating or epigastric discomfort/",
+      "More likelihood if known patient of CAD/",
+      "multiple risk factors",
+      "Variable"
+    ],
+    "atypical_presentations": [
+      "Consider atypical presentation: Exertional"
+    ],
+    "signs_and_physical_exam": [
+      "syncope"
+    ],
+    "unlikely_features": [
+      "Pricking or piercing",
+      "or stabbing type of",
+      "pain"
+    ],
+    "red_flags": [
+      ". Angina at rest or lasting more than 20 minutes",
+      ". Recent worsening of stable angina (crescendo) to CCS",
+      "class III",
+      ". New onset effort angina of less than 1 month in CCS class",
+      ". Post infarction angina",
+      "ECG: If ST Elevation: Follow ST Elevation MI (STEMI) protocol"
+    ],
+    "source": {
+      "document_id": "ICMR-CARD-006",
+      "document_name": "STEMI",
+      "page_number": 1,
+      "section": "CLINICAL PRESENTATION",
+      "source_text_reference": "ACUTE CORONARY SYNDROME:\n1. Angina at rest or lasting more than 20 minutes\n2. Recent worsening of stable angina (crescendo) to CCS\nclass III\n3. New onset effort angina of less than 1 month in CCS class\nII/ III\n4. Post infarction angina\nECG: If ST Elevation: Follow ST Elevation MI (STEMI) protocol\nIf no ST Elavation: UA/NSTEMI\nCONSIDER ANGINA IF\n• Diffuse retrosternal pain, heaviness or\nconstriction\n• Radiation to arms or neck or back\n• Associated with sweating\n• Easily reproduced with post-meal exertion\n• Consider atypical presentation: Exertional\nfatigue or breathlessness or profuse\nsweating or epigastric discomfort/\nsyncope\nMore likelihood if known patient of CAD/\nmultiple risk factors\nVariable\nlocation or\ncharacteristic\nLong lasting (hours to\ndays) or short lasting\n(less than a minute)\nRestricted to areas\nabove jaw or\nbelow epigatrium\nLocalized\nto a point\nPrecipitated by\nmovement of neck or\narms or respiration\nANGINA UNLIKELY IF:\nPricking or piercing\nor stabbing type of\npain",
+      "bounding_box": null,
+      "extraction_type": "text",
+      "review_status": "extracted",
+      "requires_manual_review": false,
+      "review_notes": null,
+      "normalized_term": null
+    }
+  },
+  "diagnostic_criteria": [
+    {
+      "criterion_id": "CRIT_1_1_1",
+      "name": "STEMI DIAGNOSIS*",
+      "description": "STEMI DIAGNOSIS*",
+      "diagnostic_threshold": null,
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "STEMI DIAGNOSIS*",
+        "source_text_reference": "STEMI DIAGNOSIS*",
+        "bounding_box": [
+          668.0194702148438,
+          1101.5,
+          794.649169921875,
+          1121.0394287109375
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "criterion_id": "CRIT_1_1_2",
+      "name": "STEMI DIAGNOSIS*",
+      "description": "Coronary angiography",
+      "diagnostic_threshold": null,
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "STEMI DIAGNOSIS*",
+        "source_text_reference": "Coronary\nangiography",
+        "bounding_box": [
+          633.4774780273438,
+          1441.9937744140625,
+          692.53759765625,
+          1466.0438232421875
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "criterion_id": "CRIT_1_1_3",
+      "name": "STEMI DIAGNOSIS*",
+      "description": "*The time point the diagnosis is conﬁrmed with patient history &",
+      "diagnostic_threshold": null,
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "STEMI DIAGNOSIS*",
+        "source_text_reference": "*The time point the diagnosis is\nconﬁrmed with patient history &",
+        "bounding_box": [
+          717.9309692382812,
+          1416.575439453125,
+          827.6517944335938,
+          1438.363525390625
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "criterion_id": "CRIT_1_1_4",
+      "name": "STEMI DIAGNOSIS*",
+      "description": "ECG ideally within 10mins from the First Medical Contract (FMC). All delays are related to FMC.",
+      "diagnostic_threshold": null,
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "STEMI DIAGNOSIS*",
+        "source_text_reference": "ECG ideally within 10mins from\nthe First Medical Contract (FMC).\nAll delays are related to FMC.",
+        "bounding_box": [
+          715.802978515625,
+          1437.051513671875,
+          827.5455932617188,
+          1467.1634521484375
+        ],
+        "extraction_type": "text",
+        "review_status": "needs_review",
+        "requires_manual_review": true,
+        "review_notes": "Typographical error 'First Medical Contract' for First Medical Contact",
+        "normalized_term": "First Medical Contact"
+      }
+    },
+    {
+      "criterion_id": "CRIT_1_2_1",
+      "name": "ECG REVEALS ST ELEVATION MI",
+      "description": "ECG REVEALS ST ELEVATION MI",
+      "diagnostic_threshold": null,
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "ECG REVEALS ST ELEVATION MI",
+        "source_text_reference": "ECG REVEALS ST ELEVATION MI",
+        "bounding_box": [
+          31.0,
+          508.37384033203125,
+          204.17431640625,
+          524.5718383789062
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "criterion_id": "CRIT_1_2_2",
+      "name": "ECG REVEALS ST ELEVATION MI",
+      "description": "Refer to primary angioplasty/ thrombolysis capable hospital",
+      "diagnostic_threshold": null,
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "ECG REVEALS ST ELEVATION MI",
+        "source_text_reference": "Refer to primary angioplasty/\nthrombolysis capable hospital",
+        "bounding_box": [
+          31.0,
+          535.8878173828125,
+          193.57891845703125,
+          562.2438354492188
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "criterion_id": "CRIT_1_2_3",
+      "name": "ECG REVEALS ST ELEVATION MI",
+      "description": "Pleuritis/ Pneumonitis/ embolism/ pneumothorax",
+      "diagnostic_threshold": null,
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "ECG REVEALS ST ELEVATION MI",
+        "source_text_reference": "Pleuritis/ Pneumonitis/ embolism/ pneumothorax",
+        "bounding_box": [
+          550.449951171875,
+          393.7549743652344,
+          822.3464965820312,
+          408.3591613769531
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "criterion_id": "CRIT_1_2_4",
+      "name": "ECG REVEALS ST ELEVATION MI",
+      "description": "Pericardial rub",
+      "diagnostic_threshold": null,
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "ECG REVEALS ST ELEVATION MI",
+        "source_text_reference": "Pericardial rub",
+        "bounding_box": [
+          598.4805297851562,
+          420.9732971191406,
+          678.3626098632812,
+          435.3282775878906
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "criterion_id": "CRIT_1_2_5",
+      "name": "ECG REVEALS ST ELEVATION MI",
+      "description": "Neuralgia or herpes",
+      "diagnostic_threshold": null,
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "ECG REVEALS ST ELEVATION MI",
+        "source_text_reference": "Neuralgia or herpes",
+        "bounding_box": [
+          584.7965087890625,
+          446.9773254394531,
+          692.5416259765625,
+          461.3323059082031
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "criterion_id": "CRIT_1_2_6",
+      "name": "ECG REVEALS ST ELEVATION MI",
+      "description": "Respiratory evaluation",
+      "diagnostic_threshold": null,
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "ECG REVEALS ST ELEVATION MI",
+        "source_text_reference": "Respiratory evaluation",
+        "bounding_box": [
+          325.3175048828125,
+          393.6712951660156,
+          447.3636169433594,
+          408.0262756347656
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "criterion_id": "CRIT_1_2_7",
+      "name": "ECG REVEALS ST ELEVATION MI",
+      "description": "Unequal or absent peripheral pulses Dissection of Aorta LOOK  FOR OTHER",
+      "diagnostic_threshold": null,
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "ECG REVEALS ST ELEVATION MI",
+        "source_text_reference": "Unequal or absent peripheral pulses\nDissection of Aorta\nLOOK  FOR OTHER",
+        "bounding_box": [
+          167.25,
+          365.5002746582031,
+          687.19384765625,
+          380.3282775878906
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    }
+  ],
+  "investigations": [
+    {
+      "investigation_id": "INV_P1_01",
+      "name": ". Admit in ICU equipped with continuous ECG monitoring & deﬁbrillation",
+      "tier": "BASIC",
+      "modality": "Laboratory / Diagnostic Imaging",
+      "indication": "Workup for STEMI",
+      "target_findings": null,
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "GENERAL MEASURES",
+        "source_text_reference": "1. Admit in ICU equipped with continuous ECG monitoring & deﬁbrillation",
+        "bounding_box": [
+          340.0,
+          523.0880126953125,
+          744.2060546875,
+          537.4430541992188
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "investigation_id": "INV_P1_02",
+      "name": ". Routine bio-chemistry and serial cardiac  enzymes (troponin)",
+      "tier": "BASIC",
+      "modality": "Laboratory / Diagnostic Imaging",
+      "indication": "Workup for STEMI",
+      "target_findings": null,
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "GENERAL MEASURES",
+        "source_text_reference": "2. Routine bio-chemistry and serial cardiac  enzymes (troponin)",
+        "bounding_box": [
+          340.0,
+          536.2879638671875,
+          687.1038208007812,
+          550.6430053710938
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "investigation_id": "INV_P1_03",
+      "name": ". Echocardiography, particularly for mechanical complication",
+      "tier": "BASIC",
+      "modality": "Laboratory / Diagnostic Imaging",
+      "indication": "Workup for STEMI",
+      "target_findings": null,
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "GENERAL MEASURES",
+        "source_text_reference": "6. Echocardiography, particularly for mechanical complication",
+        "bounding_box": [
+          340.0,
+          589.0877685546875,
+          680.6776123046875,
+          603.4428100585938
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "investigation_id": "INV_P1_04",
+      "name": "angiography",
+      "tier": "BASIC",
+      "modality": "Laboratory / Diagnostic Imaging",
+      "indication": "Workup for STEMI",
+      "target_findings": null,
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "STEMI DIAGNOSIS*",
+        "source_text_reference": "angiography",
+        "bounding_box": [
+          633.4774780273438,
+          1452.9937744140625,
+          692.53759765625,
+          1466.0438232421875
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "investigation_id": "INV_P1_05",
+      "name": "ECG ideally within 10mins from",
+      "tier": "BASIC",
+      "modality": "Laboratory / Diagnostic Imaging",
+      "indication": "Workup for STEMI",
+      "target_findings": null,
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "STEMI DIAGNOSIS*",
+        "source_text_reference": "ECG ideally within 10mins from",
+        "bounding_box": [
+          719.3309936523438,
+          1437.051513671875,
+          826.2686767578125,
+          1447.9635009765625
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "investigation_id": "INV_P1_06",
+      "name": ". ECG to be done at 60-90 min after starting thrombolysis to assess whether thrombolysis",
+      "tier": "BASIC",
+      "modality": "Laboratory / Diagnostic Imaging",
+      "indication": "Workup for STEMI",
+      "target_findings": null,
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "POST THROMBOLYSIS",
+        "source_text_reference": "1. ECG to be done at 60-90 min after starting thrombolysis to assess whether thrombolysis",
+        "bounding_box": [
+          329.0,
+          759.0879516601562,
+          818.192138671875,
+          773.4429931640625
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    }
+  ],
+  "tier_management": [
+    {
+      "tier_id": "TIER_P1_01",
+      "tier": "TERTIARY_PCI",
+      "general_measures": [
+        "1. Admit in ICU equipped with continuous ECG monitoring & deﬁbrillation",
+        "2. Routine bio-chemistry and serial cardiac  enzymes (troponin)",
+        "3. Pain relief by opioid",
+        "4. O2 if saturation less than 90%",
+        "5. Aspirin 325 mg, Clopidogrel 300 mg and Atorvastatin 80 mg/Rosuvastatin 20-40mg",
+        "6. Echocardiography, particularly for mechanical complication"
+      ],
+      "investigations_performed": [],
+      "medications_initiated": [],
+      "referral_actions": [],
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "GENERAL MEASURES",
+        "source_text_reference": "1. Admit in ICU equipped with continuous ECG monitoring & deﬁbrillation\n2. Routine bio-chemistry and serial cardiac  enzymes (troponin)\n3. Pain relief by opioid\n4. O2 if saturation less than 90%\n5. Aspirin 325 mg, Clopidogrel 300 mg and Atorvastatin 80 mg/Rosuvastatin 20-40mg\n6. Echocardiography, particularly for mechanical complication",
+        "bounding_box": null,
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "tier_id": "TIER_P1_02",
+      "tier": "TERTIARY_PCI",
+      "general_measures": [
+        "A. Tranfer to PCI capable hospital if PCI can be performed within 120 min"
+      ],
+      "investigations_performed": [],
+      "medications_initiated": [],
+      "referral_actions": [],
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "PCI INCAPABLE CENTRE",
+        "source_text_reference": "A. Tranfer to PCI capable hospital if PCI can be performed within 120 min",
+        "bounding_box": null,
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "tier_id": "TIER_P1_03",
+      "tier": "TERTIARY_PCI",
+      "general_measures": [
+        "1. Use unfractionated heparin",
+        "2. No routine thrombosuction",
+        "3. Tackle culprit artery only unless shock",
+        "4. DES to be preferred"
+      ],
+      "investigations_performed": [],
+      "medications_initiated": [],
+      "referral_actions": [],
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "DURING PROCEDURE",
+        "source_text_reference": "1. Use unfractionated heparin\n2. No routine thrombosuction\n3. Tackle culprit artery only unless shock\n4. DES to be preferred",
+        "bounding_box": null,
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "tier_id": "TIER_P1_04",
+      "tier": "TERTIARY_PCI",
+      "general_measures": [
+        "1. Continue dual antiplatelets for at least 1 year"
+      ],
+      "investigations_performed": [],
+      "medications_initiated": [],
+      "referral_actions": [],
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "POST PROCEDURE",
+        "source_text_reference": "1. Continue dual antiplatelets for at least 1 year",
+        "bounding_box": null,
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "tier_id": "TIER_P1_05",
+      "tier": "TERTIARY_PCI",
+      "general_measures": [
+        "1. Proceed for PCI",
+        "2. Radial route preferred",
+        "3. Preferably within 90 minutes"
+      ],
+      "investigations_performed": [],
+      "medications_initiated": [],
+      "referral_actions": [],
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "PCI CAPABLE HOSPITAL",
+        "source_text_reference": "1. Proceed for PCI\n2. Radial route preferred\n3. Preferably within 90 minutes",
+        "bounding_box": null,
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    }
+  ],
+  "medications": [
+    {
+      "medication_id": "MED_P1_01",
+      "generic_name": "Aspirin",
+      "drug_class": null,
+      "dosage": ". Aspirin 325 mg, Clopidogrel 300 mg and Atorvastatin 80 mg/Rosuvastatin 20-40mg",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "GENERAL MEASURES",
+        "source_text_reference": "5. Aspirin 325 mg, Clopidogrel 300 mg and Atorvastatin 80 mg/Rosuvastatin 20-40mg",
+        "bounding_box": [
+          340.0,
+          575.8878173828125,
+          811.2269287109375,
+          590.2428588867188
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "medication_id": "MED_P1_02",
+      "generic_name": "Heparin",
+      "drug_class": null,
+      "dosage": ". Use unfractionated heparin (Dose not specified in text)",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "DURING PROCEDURE",
+        "source_text_reference": "1. Use unfractionated heparin",
+        "bounding_box": [
+          40.27880096435547,
+          705.0879516601562,
+          201.87762451171875,
+          719.4429931640625
+        ],
+        "extraction_type": "text",
+        "review_status": "needs_review",
+        "requires_manual_review": true,
+        "review_notes": "Medication 'Heparin' mentioned in workflow without explicit dosage or units in source text",
+        "normalized_term": null
+      }
+    },
+    {
+      "medication_id": "MED_P1_03",
+      "generic_name": "Aspirin",
+      "drug_class": null,
+      "dosage": ". Aspirin: Loading dose 325 mg followed by 75 mg OD",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": true,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "Anti-platelets",
+        "source_text_reference": "1. Aspirin: Loading dose 325 mg followed by 75 mg OD",
+        "bounding_box": [
+          47.999000549316406,
+          1142.00537109375,
+          337.725830078125,
+          1156.3603515625
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "medication_id": "MED_P1_04",
+      "generic_name": "Clopidogrel",
+      "drug_class": null,
+      "dosage": ". Clopidogrel: Loading dose 300 mg followed 75 mg OD",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": true,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "Anti-platelets",
+        "source_text_reference": "2. Clopidogrel: Loading dose 300 mg followed 75 mg OD",
+        "bounding_box": [
+          47.999000549316406,
+          1154.5013427734375,
+          351.606689453125,
+          1168.8563232421875
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "medication_id": "MED_P1_05",
+      "generic_name": "Prasugrel",
+      "drug_class": null,
+      "dosage": ". Prasugrel: Loading dose 60 mg followed by 10 mg OD",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": true,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "Anti-platelets",
+        "source_text_reference": "3. Prasugrel: Loading dose 60 mg followed by 10 mg OD",
+        "bounding_box": [
+          47.999000549316406,
+          1166.9974365234375,
+          348.2517395019531,
+          1181.3524169921875
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "medication_id": "MED_P1_06",
+      "generic_name": "Ticagralor",
+      "drug_class": null,
+      "dosage": ". Ticagralor: Loading dose 180 mg followed by 90 mg BD",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": true,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "Anti-platelets",
+        "source_text_reference": "4. Ticagralor: Loading dose 180 mg followed by 90 mg BD",
+        "bounding_box": [
+          47.999000549316406,
+          1179.493408203125,
+          357.2200012207031,
+          1193.848388671875
+        ],
+        "extraction_type": "text",
+        "review_status": "needs_review",
+        "requires_manual_review": true,
+        "review_notes": "Typographical variant 'Ticagralor' in ICMR source PDF",
+        "normalized_term": "Ticagrelor"
+      }
+    },
+    {
+      "medication_id": "MED_P1_07",
+      "generic_name": "Metoprolol",
+      "drug_class": null,
+      "dosage": "Metoprolol: (Dose not specified in text)",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "Anti-platelets",
+        "source_text_reference": "Metoprolol:",
+        "bounding_box": [
+          47.999000549316406,
+          1204.4853515625,
+          108.96981811523438,
+          1218.84033203125
+        ],
+        "extraction_type": "text",
+        "review_status": "needs_review",
+        "requires_manual_review": true,
+        "review_notes": "Medication 'Metoprolol' mentioned in workflow without explicit dosage or units in source text",
+        "normalized_term": null
+      }
+    },
+    {
+      "medication_id": "MED_P1_08",
+      "generic_name": "Nitrates",
+      "drug_class": null,
+      "dosage": "Nitrates: (Dose not specified in text)",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "Anti-platelets",
+        "source_text_reference": "Nitrates:",
+        "bounding_box": [
+          47.999000549316406,
+          1241.973388671875,
+          92.902099609375,
+          1256.328369140625
+        ],
+        "extraction_type": "text",
+        "review_status": "needs_review",
+        "requires_manual_review": true,
+        "review_notes": "Medication 'Nitrates' mentioned in workflow without explicit dosage or units in source text",
+        "normalized_term": null
+      }
+    },
+    {
+      "medication_id": "MED_P1_09",
+      "generic_name": "Isosorbide",
+      "drug_class": null,
+      "dosage": "Isosorbide mono-nitare 20 to 60 mg in 2 divided dose",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "Anti-platelets",
+        "source_text_reference": "Isosorbide mono-nitare 20 to 60 mg in 2 divided dose",
+        "bounding_box": [
+          69.9990005493164,
+          1254.4693603515625,
+          358.3739318847656,
+          1268.8243408203125
+        ],
+        "extraction_type": "text",
+        "review_status": "needs_review",
+        "requires_manual_review": true,
+        "review_notes": "Typographical variant 'mono-nitare' in source text",
+        "normalized_term": "Isosorbide mononitrate"
+      }
+    },
+    {
+      "medication_id": "MED_P1_10",
+      "generic_name": "Atorvastatin",
+      "drug_class": null,
+      "dosage": "High dose Atorvastatin 80 mg OD",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "Anti-platelets",
+        "source_text_reference": "High dose Atorvastatin 80 mg OD",
+        "bounding_box": [
+          47.999000549316406,
+          1304.453369140625,
+          231.2799530029297,
+          1318.808349609375
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "medication_id": "MED_P1_11",
+      "generic_name": "Rosuvastatin",
+      "drug_class": null,
+      "dosage": "Rosuvastatin 20-40mg OD",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "Anti-platelets",
+        "source_text_reference": "Rosuvastatin 20-40mg OD",
+        "bounding_box": [
+          47.999000549316406,
+          1316.9493408203125,
+          192.4279022216797,
+          1331.3043212890625
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "medication_id": "MED_P1_12",
+      "generic_name": "Ramipril",
+      "drug_class": null,
+      "dosage": "Ramipril 2.5 -10 mg OD",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "Anti-platelets",
+        "source_text_reference": "Ramipril 2.5 -10 mg OD",
+        "bounding_box": [
+          47.999000549316406,
+          1354.4373779296875,
+          171.66983032226562,
+          1368.7923583984375
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "medication_id": "MED_P1_13",
+      "generic_name": "Enalapril",
+      "drug_class": null,
+      "dosage": "Enalapril 2.5 -10mg BD",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "Anti-platelets",
+        "source_text_reference": "Enalapril 2.5 -10mg BD",
+        "bounding_box": [
+          47.999000549316406,
+          1366.9334716796875,
+          169.58203125,
+          1381.2884521484375
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "medication_id": "MED_P1_14",
+      "generic_name": "Morphine",
+      "drug_class": null,
+      "dosage": "Morphine: (Dose not specified in text)",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "Anti-platelets",
+        "source_text_reference": "Morphine:",
+        "bounding_box": [
+          16.000001907348633,
+          1403.9263916015625,
+          74.4540023803711,
+          1418.8424072265625
+        ],
+        "extraction_type": "text",
+        "review_status": "needs_review",
+        "requires_manual_review": true,
+        "review_notes": "Medication 'Morphine' mentioned in workflow without explicit dosage or units in source text",
+        "normalized_term": null
+      }
+    },
+    {
+      "medication_id": "MED_P1_15",
+      "generic_name": "Heparin",
+      "drug_class": null,
+      "dosage": ". Unfractionated heparin: Bolus",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": true,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "Anti thrombotics:",
+        "source_text_reference": "1. Unfractionated heparin: Bolus",
+        "bounding_box": [
+          419.501953125,
+          1142.6104736328125,
+          591.5286865234375,
+          1156.9654541015625
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "medication_id": "MED_P1_16",
+      "generic_name": "Enoxaparin",
+      "drug_class": null,
+      "dosage": ". Enoxaparin: 1 mg/Kg SC 12 hrly",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": true,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "Anti thrombotics:",
+        "source_text_reference": "2. Enoxaparin: 1 mg/Kg SC 12 hrly",
+        "bounding_box": [
+          419.501953125,
+          1208.6104736328125,
+          594.2896118164062,
+          1222.9654541015625
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "medication_id": "MED_P1_17",
+      "generic_name": "Tenecteplase",
+      "drug_class": null,
+      "dosage": "Tenecteplase (Dose not specified in text)",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "Thrombolyic Therapy:",
+        "source_text_reference": "Tenecteplase",
+        "bounding_box": [
+          411.49395751953125,
+          1247.715576171875,
+          497.41387939453125,
+          1262.631591796875
+        ],
+        "extraction_type": "text",
+        "review_status": "needs_review",
+        "requires_manual_review": true,
+        "review_notes": "Medication 'Tenecteplase' mentioned in workflow without explicit dosage or units in source text",
+        "normalized_term": null
+      }
+    },
+    {
+      "medication_id": "MED_P1_18",
+      "generic_name": "Reteplase",
+      "drug_class": null,
+      "dosage": "Reteplase (Dose not specified in text)",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "Thrombolyic Therapy:",
+        "source_text_reference": "Reteplase",
+        "bounding_box": [
+          411.49395751953125,
+          1313.715576171875,
+          474.8760070800781,
+          1328.631591796875
+        ],
+        "extraction_type": "text",
+        "review_status": "needs_review",
+        "requires_manual_review": true,
+        "review_notes": "Medication 'Reteplase' mentioned in workflow without explicit dosage or units in source text",
+        "normalized_term": null
+      }
+    },
+    {
+      "medication_id": "MED_P1_19",
+      "generic_name": "Alteplase",
+      "drug_class": null,
+      "dosage": "Alteplase (Dose not specified in text)",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "Thrombolyic Therapy:",
+        "source_text_reference": "Alteplase",
+        "bounding_box": [
+          411.49395751953125,
+          1353.315673828125,
+          472.3570251464844,
+          1368.231689453125
+        ],
+        "extraction_type": "text",
+        "review_status": "needs_review",
+        "requires_manual_review": true,
+        "review_notes": "Medication 'Alteplase' mentioned in workflow without explicit dosage or units in source text",
+        "normalized_term": null
+      }
+    },
+    {
+      "medication_id": "MED_P1_20",
+      "generic_name": "Streptokinase",
+      "drug_class": null,
+      "dosage": "Streptokinase (Dose not specified in text)",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "Thrombolyic Therapy:",
+        "source_text_reference": "Streptokinase",
+        "bounding_box": [
+          411.49395751953125,
+          1419.3155517578125,
+          501.6609802246094,
+          1434.2315673828125
+        ],
+        "extraction_type": "text",
+        "review_status": "needs_review",
+        "requires_manual_review": true,
+        "review_notes": "Medication 'Streptokinase' mentioned in workflow without explicit dosage or units in source text",
+        "normalized_term": null
+      }
+    }
+  ],
+  "contraindications": [
+    {
+      "contraindication_id": "CI_P1_01",
+      "type": "ABSOLUTE",
+      "condition_description": "Primary-PCI",
+      "intervention_affected": "Thrombolytic Therapy / Pharmacotherapy",
+      "timeframe": null,
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "ABSOLUTE CONTRA-INDICATIONS TO THROMBOLYIC THERAPY:",
+        "source_text_reference": "Primary-PCI",
+        "bounding_box": [
+          633.7958984375,
+          1148.9937744140625,
+          689.544921875,
+          1162.0438232421875
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "contraindication_id": "CI_P1_02",
+      "type": "ABSOLUTE",
+      "condition_description": "capable centre",
+      "intervention_affected": "Thrombolytic Therapy / Pharmacotherapy",
+      "timeframe": null,
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "ABSOLUTE CONTRA-INDICATIONS TO THROMBOLYIC THERAPY:",
+        "source_text_reference": "capable centre",
+        "bounding_box": [
+          627.6058959960938,
+          1159.9937744140625,
+          695.7459106445312,
+          1173.0438232421875
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "contraindication_id": "CI_P1_03",
+      "type": "ABSOLUTE",
+      "condition_description": "EMS or non",
+      "intervention_affected": "Thrombolytic Therapy / Pharmacotherapy",
+      "timeframe": null,
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "ABSOLUTE CONTRA-INDICATIONS TO THROMBOLYIC THERAPY:",
+        "source_text_reference": "EMS or non",
+        "bounding_box": [
+          763.3858642578125,
+          1142.9937744140625,
+          818.7449340820312,
+          1156.0438232421875
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "contraindication_id": "CI_P1_04",
+      "type": "ABSOLUTE",
+      "condition_description": "primary-PCI",
+      "intervention_affected": "Thrombolytic Therapy / Pharmacotherapy",
+      "timeframe": null,
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "ABSOLUTE CONTRA-INDICATIONS TO THROMBOLYIC THERAPY:",
+        "source_text_reference": "primary-PCI",
+        "bounding_box": [
+          762.2158813476562,
+          1153.9937744140625,
+          817.7959594726562,
+          1167.0438232421875
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "contraindication_id": "CI_P1_05",
+      "type": "ABSOLUTE",
+      "condition_description": "capable centre",
+      "intervention_affected": "Thrombolytic Therapy / Pharmacotherapy",
+      "timeframe": null,
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "ABSOLUTE CONTRA-INDICATIONS TO THROMBOLYIC THERAPY:",
+        "source_text_reference": "capable centre",
+        "bounding_box": [
+          755.9358520507812,
+          1164.9937744140625,
+          824.0758666992188,
+          1178.0438232421875
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "contraindication_id": "CI_P1_06",
+      "type": "ABSOLUTE",
+      "condition_description": "PCI possible",
+      "intervention_affected": "Thrombolytic Therapy / Pharmacotherapy",
+      "timeframe": null,
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "ABSOLUTE CONTRA-INDICATIONS TO THROMBOLYIC THERAPY:",
+        "source_text_reference": "PCI possible",
+        "bounding_box": [
+          762.23583984375,
+          1197.2437744140625,
+          819.8959350585938,
+          1210.2938232421875
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "contraindication_id": "CI_P1_07",
+      "type": "ABSOLUTE",
+      "condition_description": "<120 mins?",
+      "intervention_affected": "Thrombolytic Therapy / Pharmacotherapy",
+      "timeframe": null,
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "ABSOLUTE CONTRA-INDICATIONS TO THROMBOLYIC THERAPY:",
+        "source_text_reference": "<120 mins?",
+        "bounding_box": [
+          764.9058227539062,
+          1208.2437744140625,
+          815.0958251953125,
+          1221.2938232421875
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "contraindication_id": "CI_P1_08",
+      "type": "ABSOLUTE",
+      "condition_description": "Primary PCI",
+      "intervention_affected": "Thrombolytic Therapy / Pharmacotherapy",
+      "timeframe": null,
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "ABSOLUTE CONTRA-INDICATIONS TO THROMBOLYIC THERAPY:",
+        "source_text_reference": "Primary PCI",
+        "bounding_box": [
+          634.6648559570312,
+          1245.9937744140625,
+          689.3338623046875,
+          1259.0438232421875
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "contraindication_id": "CI_P1_09",
+      "type": "ABSOLUTE",
+      "condition_description": "Rescue PCI",
+      "intervention_affected": "Thrombolytic Therapy / Pharmacotherapy",
+      "timeframe": null,
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "ABSOLUTE CONTRA-INDICATIONS TO THROMBOLYIC THERAPY:",
+        "source_text_reference": "Rescue PCI",
+        "bounding_box": [
+          635.96484375,
+          1285.6536865234375,
+          688.0347900390625,
+          1298.7037353515625
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "contraindication_id": "CI_P1_10",
+      "type": "ABSOLUTE",
+      "condition_description": "Preferably",
+      "intervention_affected": "Thrombolytic Therapy / Pharmacotherapy",
+      "timeframe": null,
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "ABSOLUTE CONTRA-INDICATIONS TO THROMBOLYIC THERAPY:",
+        "source_text_reference": "Preferably",
+        "bounding_box": [
+          624.32421875,
+          1198.408935546875,
+          653.4500732421875,
+          1206.239013671875
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "contraindication_id": "CI_P1_11",
+      "type": "ABSOLUTE",
+      "condition_description": "<60 mins",
+      "intervention_affected": "Thrombolytic Therapy / Pharmacotherapy",
+      "timeframe": null,
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "ABSOLUTE CONTRA-INDICATIONS TO THROMBOLYIC THERAPY:",
+        "source_text_reference": "<60 mins",
+        "bounding_box": [
+          625.4882202148438,
+          1204.408935546875,
+          651.0122680664062,
+          1212.239013671875
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "contraindication_id": "CI_P1_12",
+      "type": "ABSOLUTE",
+      "condition_description": "Preferably",
+      "intervention_affected": "Thrombolytic Therapy / Pharmacotherapy",
+      "timeframe": null,
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "ABSOLUTE CONTRA-INDICATIONS TO THROMBOLYIC THERAPY:",
+        "source_text_reference": "Preferably",
+        "bounding_box": [
+          659.0402221679688,
+          1407.6649169921875,
+          688.1666870117188,
+          1415.4949951171875
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "contraindication_id": "CI_P1_13",
+      "type": "ABSOLUTE",
+      "condition_description": "-24 hours",
+      "intervention_affected": "Thrombolytic Therapy / Pharmacotherapy",
+      "timeframe": null,
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "ABSOLUTE CONTRA-INDICATIONS TO THROMBOLYIC THERAPY:",
+        "source_text_reference": "3-24 hours",
+        "bounding_box": [
+          658.5182495117188,
+          1413.6649169921875,
+          687.420166015625,
+          1421.4949951171875
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "contraindication_id": "CI_P1_14",
+      "type": "ABSOLUTE",
+      "condition_description": "Preferabl",
+      "intervention_affected": "Thrombolytic Therapy / Pharmacotherapy",
+      "timeframe": null,
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "ABSOLUTE CONTRA-INDICATIONS TO THROMBOLYIC THERAPY:",
+        "source_text_reference": "Preferabl",
+        "bounding_box": [
+          769.5542602539062,
+          1297.85888671875,
+          794.4560546875,
+          1305.68896484375
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "contraindication_id": "CI_P1_15",
+      "type": "ABSOLUTE",
+      "condition_description": "y within",
+      "intervention_affected": "Thrombolytic Therapy / Pharmacotherapy",
+      "timeframe": null,
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "ABSOLUTE CONTRA-INDICATIONS TO THROMBOLYIC THERAPY:",
+        "source_text_reference": "y within",
+        "bounding_box": [
+          771.1142578125,
+          1303.85888671875,
+          794.17236328125,
+          1311.68896484375
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "contraindication_id": "CI_P1_16",
+      "type": "ABSOLUTE",
+      "condition_description": "0 mins",
+      "intervention_affected": "Thrombolytic Therapy / Pharmacotherapy",
+      "timeframe": null,
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "ABSOLUTE CONTRA-INDICATIONS TO THROMBOLYIC THERAPY:",
+        "source_text_reference": "30 mins",
+        "bounding_box": [
+          770.9522705078125,
+          1309.85888671875,
+          793.0562744140625,
+          1317.68896484375
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "contraindication_id": "CI_P1_17",
+      "type": "ABSOLUTE",
+      "condition_description": "Preferably",
+      "intervention_affected": "Thrombolytic Therapy / Pharmacotherapy",
+      "timeframe": null,
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "ABSOLUTE CONTRA-INDICATIONS TO THROMBOLYIC THERAPY:",
+        "source_text_reference": "Preferably",
+        "bounding_box": [
+          715.7042846679688,
+          1257.8809814453125,
+          743.5587158203125,
+          1265.7110595703125
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "contraindication_id": "CI_P1_18",
+      "type": "ABSOLUTE",
+      "condition_description": "<90mins",
+      "intervention_affected": "Thrombolytic Therapy / Pharmacotherapy",
+      "timeframe": null,
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "ABSOLUTE CONTRA-INDICATIONS TO THROMBOLYIC THERAPY:",
+        "source_text_reference": "<90mins",
+        "bounding_box": [
+          717.5042724609375,
+          1263.8809814453125,
+          743.0283203125,
+          1271.7110595703125
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "contraindication_id": "CI_P1_19",
+      "type": "ABSOLUTE",
+      "condition_description": "(<60 mins)",
+      "intervention_affected": "Thrombolytic Therapy / Pharmacotherapy",
+      "timeframe": null,
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "ABSOLUTE CONTRA-INDICATIONS TO THROMBOLYIC THERAPY:",
+        "source_text_reference": "(<60 mins)",
+        "bounding_box": [
+          715.1942749023438,
+          1269.8809814453125,
+          745.3383178710938,
+          1277.7110595703125
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "contraindication_id": "CI_P1_20",
+      "type": "ABSOLUTE",
+      "condition_description": "in early",
+      "intervention_affected": "Thrombolytic Therapy / Pharmacotherapy",
+      "timeframe": null,
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "ABSOLUTE CONTRA-INDICATIONS TO THROMBOLYIC THERAPY:",
+        "source_text_reference": "in early",
+        "bounding_box": [
+          719.904296875,
+          1275.8809814453125,
+          740.6229248046875,
+          1283.7110595703125
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "contraindication_id": "CI_P1_21",
+      "type": "ABSOLUTE",
+      "condition_description": "presenters",
+      "intervention_affected": "Thrombolytic Therapy / Pharmacotherapy",
+      "timeframe": null,
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "ABSOLUTE CONTRA-INDICATIONS TO THROMBOLYIC THERAPY:",
+        "source_text_reference": "presenters",
+        "bounding_box": [
+          715.0263061523438,
+          1281.8809814453125,
+          744.2288818359375,
+          1289.7110595703125
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "contraindication_id": "CI_P1_22",
+      "type": "ABSOLUTE",
+      "condition_description": "Immediate",
+      "intervention_affected": "Thrombolytic Therapy / Pharmacotherapy",
+      "timeframe": null,
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "ABSOLUTE CONTRA-INDICATIONS TO THROMBOLYIC THERAPY:",
+        "source_text_reference": "Immediate",
+        "bounding_box": [
+          740.0222778320312,
+          1378.366943359375,
+          772.2416381835938,
+          1386.197021484375
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "contraindication_id": "CI_P1_23",
+      "type": "ABSOLUTE",
+      "condition_description": "transfer to",
+      "intervention_affected": "Thrombolytic Therapy / Pharmacotherapy",
+      "timeframe": null,
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "ABSOLUTE CONTRA-INDICATIONS TO THROMBOLYIC THERAPY:",
+        "source_text_reference": "transfer to",
+        "bounding_box": [
+          741.498291015625,
+          1383.364990234375,
+          770.7608032226562,
+          1391.195068359375
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "contraindication_id": "CI_P1_24",
+      "type": "ABSOLUTE",
+      "condition_description": "PCI centre",
+      "intervention_affected": "Thrombolytic Therapy / Pharmacotherapy",
+      "timeframe": null,
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "ABSOLUTE CONTRA-INDICATIONS TO THROMBOLYIC THERAPY:",
+        "source_text_reference": "PCI centre",
+        "bounding_box": [
+          741.144287109375,
+          1388.3629150390625,
+          769.848876953125,
+          1396.1929931640625
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "contraindication_id": "CI_P1_25",
+      "type": "ABSOLUTE",
+      "condition_description": "Immediately",
+      "intervention_affected": "Thrombolytic Therapy / Pharmacotherapy",
+      "timeframe": null,
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "ABSOLUTE CONTRA-INDICATIONS TO THROMBOLYIC THERAPY:",
+        "source_text_reference": "Immediately",
+        "bounding_box": [
+          654.5582885742188,
+          1325.9990234375,
+          689.7710571289062,
+          1333.8291015625
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "contraindication_id": "CI_P1_26",
+      "type": "ABSOLUTE",
+      "condition_description": "Immediate",
+      "intervention_affected": "Thrombolytic Therapy / Pharmacotherapy",
+      "timeframe": null,
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "ABSOLUTE CONTRA-INDICATIONS TO THROMBOLYIC THERAPY:",
+        "source_text_reference": "Immediate",
+        "bounding_box": [
+          712.5302734375,
+          1226.7769775390625,
+          744.7496337890625,
+          1234.6070556640625
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "contraindication_id": "CI_P1_27",
+      "type": "ABSOLUTE",
+      "condition_description": "transfer to",
+      "intervention_affected": "Thrombolytic Therapy / Pharmacotherapy",
+      "timeframe": null,
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "ABSOLUTE CONTRA-INDICATIONS TO THROMBOLYIC THERAPY:",
+        "source_text_reference": "transfer to",
+        "bounding_box": [
+          714.0062866210938,
+          1232.7769775390625,
+          743.268798828125,
+          1240.6070556640625
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "contraindication_id": "CI_P1_28",
+      "type": "ABSOLUTE",
+      "condition_description": "PCI centre",
+      "intervention_affected": "Thrombolytic Therapy / Pharmacotherapy",
+      "timeframe": null,
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "ABSOLUTE CONTRA-INDICATIONS TO THROMBOLYIC THERAPY:",
+        "source_text_reference": "PCI centre",
+        "bounding_box": [
+          713.6522827148438,
+          1238.7769775390625,
+          742.3574829101562,
+          1246.6070556640625
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "contraindication_id": "CI_P1_29",
+      "type": "ABSOLUTE",
+      "condition_description": "Successful",
+      "intervention_affected": "Thrombolytic Therapy / Pharmacotherapy",
+      "timeframe": null,
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "ABSOLUTE CONTRA-INDICATIONS TO THROMBOLYIC THERAPY:",
+        "source_text_reference": "Successful",
+        "bounding_box": [
+          681.955078125,
+          1356.9068603515625,
+          732.1650390625,
+          1369.9569091796875
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "contraindication_id": "CI_P1_30",
+      "type": "ABSOLUTE",
+      "condition_description": "ﬁbrinolysis",
+      "intervention_affected": "Thrombolytic Therapy / Pharmacotherapy",
+      "timeframe": null,
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "ABSOLUTE CONTRA-INDICATIONS TO THROMBOLYIC THERAPY:",
+        "source_text_reference": "ﬁbrinolysis",
+        "bounding_box": [
+          681.5750732421875,
+          1367.9068603515625,
+          730.4361572265625,
+          1380.9569091796875
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "contraindication_id": "CI_P1_31",
+      "type": "ABSOLUTE",
+      "condition_description": "Immediate",
+      "intervention_affected": "Thrombolytic Therapy / Pharmacotherapy",
+      "timeframe": null,
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "ABSOLUTE CONTRA-INDICATIONS TO THROMBOLYIC THERAPY:",
+        "source_text_reference": "Immediate",
+        "bounding_box": [
+          778.465087890625,
+          1356.9068603515625,
+          832.1651000976562,
+          1369.9569091796875
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "contraindication_id": "CI_P1_32",
+      "type": "ABSOLUTE",
+      "condition_description": "ﬁbrinolysis",
+      "intervention_affected": "Thrombolytic Therapy / Pharmacotherapy",
+      "timeframe": null,
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "ABSOLUTE CONTRA-INDICATIONS TO THROMBOLYIC THERAPY:",
+        "source_text_reference": "ﬁbrinolysis",
+        "bounding_box": [
+          779.8250732421875,
+          1367.9068603515625,
+          828.6861572265625,
+          1380.9569091796875
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    }
+  ],
+  "referral_criteria": [
+    {
+      "referral_id": "REF_P1_01",
+      "urgency": "IMMEDIATE",
+      "trigger_condition": "Transfer to PCI capable hospital immediately",
+      "originating_tier": null,
+      "target_facility_type": "Higher level / PCI-capable facility",
+      "time_window": null,
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "Transfer to PCI capable hospital immediately",
+        "source_text_reference": "Transfer to PCI capable hospital immediately",
+        "bounding_box": [
+          56.0,
+          874.6890869140625,
+          305.47900390625,
+          889.0441284179688
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "referral_id": "REF_P1_02",
+      "urgency": "URGENT",
+      "trigger_condition": "Angiography with a view to PCI only if any of following/ Contra indications of angiography:",
+      "originating_tier": null,
+      "target_facility_type": "Higher level / PCI-capable facility",
+      "time_window": null,
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "Transfer to PCI capable hospital immediately",
+        "source_text_reference": "Angiography with a view to PCI only if any of following/ Contra indications of angiography:",
+        "bounding_box": [
+          170.01499938964844,
+          924.68408203125,
+          664.9952392578125,
+          939.0391235351562
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "referral_id": "REF_P1_03",
+      "urgency": "IMMEDIATE",
+      "trigger_condition": "If ongoing pain, thrombolysis and transfer immediately",
+      "originating_tier": null,
+      "target_facility_type": "Higher level / PCI-capable facility",
+      "time_window": null,
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "Transfer to PCI capable hospital immediately",
+        "source_text_reference": "If ongoing pain, thrombolysis and transfer immediately",
+        "bounding_box": [
+          467.0040283203125,
+          874.6890869140625,
+          770.3499755859375,
+          889.0441284179688
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "referral_id": "REF_P1_04",
+      "urgency": "URGENT",
+      "trigger_condition": "Recurrent anginal",
+      "originating_tier": null,
+      "target_facility_type": "Higher level / PCI-capable facility",
+      "time_window": null,
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "Transfer to PCI capable hospital immediately",
+        "source_text_reference": "Recurrent anginal",
+        "bounding_box": [
+          27.20949935913086,
+          947.8140869140625,
+          129.6722869873047,
+          962.1691284179688
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "referral_id": "REF_P1_05",
+      "urgency": "URGENT",
+      "trigger_condition": "pain not controlled",
+      "originating_tier": null,
+      "target_facility_type": "Higher level / PCI-capable facility",
+      "time_window": null,
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "Transfer to PCI capable hospital immediately",
+        "source_text_reference": "pain not controlled",
+        "bounding_box": [
+          24.49250030517578,
+          961.0140991210938,
+          132.37942504882812,
+          975.369140625
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "referral_id": "REF_P1_06",
+      "urgency": "URGENT",
+      "trigger_condition": "by medical therapy",
+      "originating_tier": null,
+      "target_facility_type": "Higher level / PCI-capable facility",
+      "time_window": null,
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "Transfer to PCI capable hospital immediately",
+        "source_text_reference": "by medical therapy",
+        "bounding_box": [
+          23.975500106811523,
+          974.214111328125,
+          130.02650451660156,
+          988.5691528320312
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "referral_id": "REF_P1_07",
+      "urgency": "URGENT",
+      "trigger_condition": "Cardiogenic shock",
+      "originating_tier": null,
+      "target_facility_type": "Higher level / PCI-capable facility",
+      "time_window": null,
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "Transfer to PCI capable hospital immediately",
+        "source_text_reference": "Cardiogenic shock",
+        "bounding_box": [
+          160.48548889160156,
+          956.8121337890625,
+          262.510498046875,
+          971.1671752929688
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "referral_id": "REF_P1_08",
+      "urgency": "URGENT",
+      "trigger_condition": "Acute LVF",
+      "originating_tier": null,
+      "target_facility_type": "Higher level / PCI-capable facility",
+      "time_window": null,
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "Transfer to PCI capable hospital immediately",
+        "source_text_reference": "Acute LVF",
+        "bounding_box": [
+          320.71148681640625,
+          955.8111572265625,
+          376.29339599609375,
+          970.1661987304688
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "referral_id": "REF_P1_09",
+      "urgency": "URGENT",
+      "trigger_condition": "Mecahnical",
+      "originating_tier": null,
+      "target_facility_type": "Higher level / PCI-capable facility",
+      "time_window": null,
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "Transfer to PCI capable hospital immediately",
+        "source_text_reference": "Mecahnical",
+        "bounding_box": [
+          448.39947509765625,
+          950.80615234375,
+          514.6084594726562,
+          965.1611938476562
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "referral_id": "REF_P1_10",
+      "urgency": "URGENT",
+      "trigger_condition": "complication",
+      "originating_tier": null,
+      "target_facility_type": "Higher level / PCI-capable facility",
+      "time_window": null,
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "Transfer to PCI capable hospital immediately",
+        "source_text_reference": "complication",
+        "bounding_box": [
+          443.823486328125,
+          964.0061645507812,
+          519.1954956054688,
+          978.3612060546875
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "referral_id": "REF_P1_11",
+      "urgency": "URGENT",
+      "trigger_condition": "Dynamic ST-T",
+      "originating_tier": null,
+      "target_facility_type": "Higher level / PCI-capable facility",
+      "time_window": null,
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "Transfer to PCI capable hospital immediately",
+        "source_text_reference": "Dynamic ST-T",
+        "bounding_box": [
+          582.7755126953125,
+          949.80517578125,
+          661.1275634765625,
+          964.1602172851562
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "referral_id": "REF_P1_12",
+      "urgency": "URGENT",
+      "trigger_condition": "changes",
+      "originating_tier": null,
+      "target_facility_type": "Higher level / PCI-capable facility",
+      "time_window": null,
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "Transfer to PCI capable hospital immediately",
+        "source_text_reference": "changes",
+        "bounding_box": [
+          596.9655151367188,
+          963.0051879882812,
+          644.04443359375,
+          977.3602294921875
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "referral_id": "REF_P1_13",
+      "urgency": "URGENT",
+      "trigger_condition": "Life threatening",
+      "originating_tier": null,
+      "target_facility_type": "Higher level / PCI-capable facility",
+      "time_window": null,
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "Transfer to PCI capable hospital immediately",
+        "source_text_reference": "Life threatening",
+        "bounding_box": [
+          713.4775390625,
+          946.8021850585938,
+          804.4255981445312,
+          961.1572265625
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "referral_id": "REF_P1_14",
+      "urgency": "URGENT",
+      "trigger_condition": "ventricular",
+      "originating_tier": null,
+      "target_facility_type": "Higher level / PCI-capable facility",
+      "time_window": null,
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "Transfer to PCI capable hospital immediately",
+        "source_text_reference": "ventricular",
+        "bounding_box": [
+          731.4625244140625,
+          960.002197265625,
+          790.5534057617188,
+          974.3572387695312
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "referral_id": "REF_P1_15",
+      "urgency": "URGENT",
+      "trigger_condition": "arrhythmias",
+      "originating_tier": null,
+      "target_facility_type": "Higher level / PCI-capable facility",
+      "time_window": null,
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "Transfer to PCI capable hospital immediately",
+        "source_text_reference": "arrhythmias",
+        "bounding_box": [
+          722.5635375976562,
+          973.2022094726562,
+          792.4564819335938,
+          987.5572509765625
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    }
+  ],
+  "flowcharts": [
+    {
+      "flowchart_id": "FC_P1_01",
+      "title": "PATIENT WITH STEMI WITHIN 12 HOURS Flowchart",
+      "description": null,
+      "start_node_id": "NODE_1_1_START",
+      "nodes": [
+        {
+          "node_id": "NODE_1_1_START",
+          "node_type": "START",
+          "label": "Start: PATIENT WITH STEMI WITHIN 12 HOURS",
+          "description": "Patient evaluation under PATIENT WITH STEMI WITHIN 12 HOURS",
+          "branches": [
+            {
+              "branch_id": "BR_1_1_01",
+              "condition": "Clinical presentation evaluated",
+              "target_node_id": "NODE_1_1_ACTION",
+              "rationale": "Default transition to action node for STEMI"
+            }
+          ],
+          "source": {
+            "document_id": "ICMR-CARD-006",
+            "document_name": "STEMI",
+            "page_number": 1,
+            "section": "PATIENT WITH STEMI WITHIN 12 HOURS",
+            "source_text_reference": "Initial entry node for STEMI clinical pathway",
+            "bounding_box": null,
+            "extraction_type": "flowchart",
+            "review_status": "extracted",
+            "requires_manual_review": false,
+            "review_notes": null,
+            "normalized_term": null
+          }
+        },
+        {
+          "node_id": "NODE_1_1_ACTION",
+          "node_type": "ACTION",
+          "label": "Action: STEMI Management",
+          "description": "Proceed according to PATIENT WITH STEMI WITHIN 12 HOURS guidelines",
+          "branches": [],
+          "source": {
+            "document_id": "ICMR-CARD-006",
+            "document_name": "STEMI",
+            "page_number": 1,
+            "section": "PATIENT WITH STEMI WITHIN 12 HOURS",
+            "source_text_reference": "Management action for STEMI",
+            "bounding_box": null,
+            "extraction_type": "flowchart",
+            "review_status": "extracted",
+            "requires_manual_review": false,
+            "review_notes": null,
+            "normalized_term": null
+          }
+        }
+      ],
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "PATIENT WITH STEMI WITHIN 12 HOURS",
+        "source_text_reference": "Flowchart algorithm for PATIENT WITH STEMI WITHIN 12 HOURS",
+        "bounding_box": null,
+        "extraction_type": "flowchart",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "flowchart_id": "FC_P1_02",
+      "title": "PATIENT WITH STEMI IN 12-24 HOURS Flowchart",
+      "description": null,
+      "start_node_id": "NODE_1_2_START",
+      "nodes": [
+        {
+          "node_id": "NODE_1_2_START",
+          "node_type": "START",
+          "label": "Start: PATIENT WITH STEMI IN 12-24 HOURS",
+          "description": "Patient evaluation under PATIENT WITH STEMI IN 12-24 HOURS",
+          "branches": [
+            {
+              "branch_id": "BR_1_2_01",
+              "condition": "Clinical presentation evaluated",
+              "target_node_id": "NODE_1_2_ACTION",
+              "rationale": "Default transition to action node for STEMI"
+            }
+          ],
+          "source": {
+            "document_id": "ICMR-CARD-006",
+            "document_name": "STEMI",
+            "page_number": 1,
+            "section": "PATIENT WITH STEMI IN 12-24 HOURS",
+            "source_text_reference": "Initial entry node for STEMI clinical pathway",
+            "bounding_box": null,
+            "extraction_type": "flowchart",
+            "review_status": "extracted",
+            "requires_manual_review": false,
+            "review_notes": null,
+            "normalized_term": null
+          }
+        },
+        {
+          "node_id": "NODE_1_2_ACTION",
+          "node_type": "ACTION",
+          "label": "Action: STEMI Management",
+          "description": "Proceed according to PATIENT WITH STEMI IN 12-24 HOURS guidelines",
+          "branches": [],
+          "source": {
+            "document_id": "ICMR-CARD-006",
+            "document_name": "STEMI",
+            "page_number": 1,
+            "section": "PATIENT WITH STEMI IN 12-24 HOURS",
+            "source_text_reference": "Management action for STEMI",
+            "bounding_box": null,
+            "extraction_type": "flowchart",
+            "review_status": "extracted",
+            "requires_manual_review": false,
+            "review_notes": null,
+            "normalized_term": null
+          }
+        }
+      ],
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "PATIENT WITH STEMI IN 12-24 HOURS",
+        "source_text_reference": "Flowchart algorithm for PATIENT WITH STEMI IN 12-24 HOURS",
+        "bounding_box": null,
+        "extraction_type": "flowchart",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "flowchart_id": "FC_P1_03",
+      "title": "PATIENT WITH STEMI AFTER 24 HOURS Flowchart",
+      "description": null,
+      "start_node_id": "NODE_1_3_START",
+      "nodes": [
+        {
+          "node_id": "NODE_1_3_START",
+          "node_type": "START",
+          "label": "Start: PATIENT WITH STEMI AFTER 24 HOURS",
+          "description": "Patient evaluation under PATIENT WITH STEMI AFTER 24 HOURS",
+          "branches": [
+            {
+              "branch_id": "BR_1_3_01",
+              "condition": "Clinical presentation evaluated",
+              "target_node_id": "NODE_1_3_ACTION",
+              "rationale": "Default transition to action node for STEMI"
+            }
+          ],
+          "source": {
+            "document_id": "ICMR-CARD-006",
+            "document_name": "STEMI",
+            "page_number": 1,
+            "section": "PATIENT WITH STEMI AFTER 24 HOURS",
+            "source_text_reference": "Initial entry node for STEMI clinical pathway",
+            "bounding_box": null,
+            "extraction_type": "flowchart",
+            "review_status": "extracted",
+            "requires_manual_review": false,
+            "review_notes": null,
+            "normalized_term": null
+          }
+        },
+        {
+          "node_id": "NODE_1_3_ACTION",
+          "node_type": "ACTION",
+          "label": "Action: STEMI Management",
+          "description": "Proceed according to PATIENT WITH STEMI AFTER 24 HOURS guidelines",
+          "branches": [],
+          "source": {
+            "document_id": "ICMR-CARD-006",
+            "document_name": "STEMI",
+            "page_number": 1,
+            "section": "PATIENT WITH STEMI AFTER 24 HOURS",
+            "source_text_reference": "Management action for STEMI",
+            "bounding_box": null,
+            "extraction_type": "flowchart",
+            "review_status": "extracted",
+            "requires_manual_review": false,
+            "review_notes": null,
+            "normalized_term": null
+          }
+        }
+      ],
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "PATIENT WITH STEMI AFTER 24 HOURS",
+        "source_text_reference": "Flowchart algorithm for PATIENT WITH STEMI AFTER 24 HOURS",
+        "bounding_box": null,
+        "extraction_type": "flowchart",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "flowchart_id": "FC_P1_04",
+      "title": "MISSION: LIFELINE Flowchart",
+      "description": null,
+      "start_node_id": "NODE_1_4_START",
+      "nodes": [
+        {
+          "node_id": "NODE_1_4_START",
+          "node_type": "START",
+          "label": "Start: MISSION: LIFELINE",
+          "description": "Patient evaluation under MISSION: LIFELINE",
+          "branches": [
+            {
+              "branch_id": "BR_1_4_01",
+              "condition": "Clinical presentation evaluated",
+              "target_node_id": "NODE_1_4_ACTION",
+              "rationale": "Default transition to action node for STEMI"
+            }
+          ],
+          "source": {
+            "document_id": "ICMR-CARD-006",
+            "document_name": "STEMI",
+            "page_number": 1,
+            "section": "MISSION: LIFELINE",
+            "source_text_reference": "Initial entry node for STEMI clinical pathway",
+            "bounding_box": null,
+            "extraction_type": "flowchart",
+            "review_status": "extracted",
+            "requires_manual_review": false,
+            "review_notes": null,
+            "normalized_term": null
+          }
+        },
+        {
+          "node_id": "NODE_1_4_ACTION",
+          "node_type": "ACTION",
+          "label": "Action: STEMI Management",
+          "description": "Proceed according to MISSION: LIFELINE guidelines",
+          "branches": [],
+          "source": {
+            "document_id": "ICMR-CARD-006",
+            "document_name": "STEMI",
+            "page_number": 1,
+            "section": "MISSION: LIFELINE",
+            "source_text_reference": "Management action for STEMI",
+            "bounding_box": null,
+            "extraction_type": "flowchart",
+            "review_status": "extracted",
+            "requires_manual_review": false,
+            "review_notes": null,
+            "normalized_term": null
+          }
+        }
+      ],
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "MISSION: LIFELINE",
+        "source_text_reference": "Flowchart algorithm for MISSION: LIFELINE",
+        "bounding_box": null,
+        "extraction_type": "flowchart",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    }
+  ],
+  "tables": [
+    {
+      "table_id": "TAB_P1_01",
+      "title": "Table 1 (Page 1)",
+      "headers": [
+        "ANGINA UNLIKELY IF:",
+        "Column_2",
+        "Column_3",
+        "Column_4",
+        "Column_5",
+        "Column_6",
+        "Column_7"
+      ],
+      "rows": [
+        {
+          "row_id": "T1_R1",
+          "cells": {
+            "ANGINA UNLIKELY IF:": "Variable location or characteristic",
+            "Column_2": "",
+            "Column_3": "Long lasting (hours to days) or short lasting (less than a minute)",
+            "Column_4": "Restricted to areas L above jaw or t below epigatrium",
+            "Column_5": "ocalized o a point",
+            "Column_6": "Pricking or piercing or stabbing type of pain",
+            "Column_7": "Precipitated by movement of neck or arms or respiration"
+          },
+          "source": {
+            "document_id": "ICMR-CARD-006",
+            "document_name": "STEMI",
+            "page_number": 1,
+            "section": "TABLE_1",
+            "source_text_reference": "ANGINA UNLIKELY IF:: Variable location or characteristic; Column_3: Long lasting (hours to days) or short lasting (less than a minute); Column_4: Restricted to areas L above jaw or t below epigatrium; Column_5: ocalized o a point; Column_6: Pricking or piercing or stabbing type of pain; Column_7: Precipitated by movement of neck or arms or respiration",
+            "bounding_box": [
+              157.29857090541296,
+              293.2349853515625,
+              820.0,
+              351.4930419921875
+            ],
+            "extraction_type": "table",
+            "review_status": "extracted",
+            "requires_manual_review": false,
+            "review_notes": null,
+            "normalized_term": null
+          }
+        }
+      ],
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "TABLE_1",
+        "source_text_reference": "ANGINA UNLIKELY IF:: Variable location or characteristic; Column_3: Long lasting (hours to days) or short lasting (less than a minute); Column_4: Restricted to areas L above jaw or t below epigatrium; Column_5: ocalized o a point; Column_6: Pricking or piercing or stabbing type of pain; Column_7: Precipitated by movement of neck or arms or respiration",
+        "bounding_box": [
+          157.29857090541296,
+          293.2349853515625,
+          820.0,
+          351.4930419921875
+        ],
+        "extraction_type": "table",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "table_id": "TAB_P1_03",
+      "title": "Table 3 (Page 1)",
+      "headers": [
+        "Column_1",
+        "Previous intra- cerebral hemorrhage or stroke of unknown etiology",
+        "Column_3",
+        "Ischemic stroke in last 6 months",
+        "CNS neoplasm or AV malformation",
+        "Recent (within 1 month) major trauma/ surgey/ head injury",
+        "Column_7",
+        "Recent (within 1 K month) major GI te bleed m",
+        "nown bleeding ndency (except enstrual bleed)",
+        "Aortic dissection"
+      ],
+      "rows": [
+        {
+          "row_id": "T3_R1",
+          "cells": {
+            "Column_1": "",
+            "Previous intra- cerebral hemorrhage or stroke of unknown etiology": "DRUGS & DOSAGE",
+            "Column_3": "",
+            "Ischemic stroke in last 6 months": "",
+            "CNS neoplasm or AV malformation": "",
+            "Recent (within 1 month) major trauma/ surgey/ head injury": "",
+            "Column_7": "",
+            "Recent (within 1 K month) major GI te bleed m": "",
+            "nown bleeding ndency (except enstrual bleed)": "",
+            "Aortic dissection": ""
+          },
+          "source": {
+            "document_id": "ICMR-CARD-006",
+            "document_name": "STEMI",
+            "page_number": 1,
+            "section": "TABLE_3",
+            "source_text_reference": "Previous intra- cerebral hemorrhage or stroke of unknown etiology: DRUGS & DOSAGE",
+            "bounding_box": [
+              0.26359863281249996,
+              1025.0,
+              747.5,
+              1501.0
+            ],
+            "extraction_type": "table",
+            "review_status": "needs_review",
+            "requires_manual_review": true,
+            "review_notes": "Sparse row with potential merged columns",
+            "normalized_term": null
+          }
+        },
+        {
+          "row_id": "T3_R2",
+          "cells": {
+            "Column_1": "",
+            "Previous intra- cerebral hemorrhage or stroke of unknown etiology": "Anti-platelets 1. Aspirin: Loading dose 325 mg followed by 75 mg OD 2. Clopidogrel: Loading dose 300 mg followed 75 mg OD 3. Prasugrel: Loading dose 60 mg followed by 10 mg OD 4. Ticagralor: Loading dose 180 mg followed by 90 mg BD Anti-ischemic: Metoprolol: Short acting: 25-100 mg BD Long acting: 25 -100 mg OD Nitrates: Isosorbide mono-nitare 20 to 60 mg in 2 divided dose Nitroglycerine sustained release 2.6 to 6.5 mg BD Nitroglycerine IV 5-25 mcg/ min infusion Lipid lowering agents: High dose Atorvastatin 80 mg OD Rosuvastatin 20-40mg OD Non-statin lipid modifying agents Ace-inhibitor Ramipril 2.5 -10 mg OD Enalapril 2.5 -10mg BD Oxygen: If oxygen saturation below 90% Morphine: Titrated in a dose of 2-4 mg IV every 15 minutes Beta-blocker: Oral beta-blocker if LVEF is less than 40%",
+            "Column_3": "",
+            "Ischemic stroke in last 6 months": "",
+            "CNS neoplasm or AV malformation": "",
+            "Recent (within 1 month) major trauma/ surgey/ head injury": "",
+            "Column_7": "Anti thrombotics: 1. Unfractionated heparin: Bolus of 60 U/Kg (maximum 5000 U) followed by 12 U/Kg hourly infusion to maintain APTT at 50-70 sec 2. Enoxaparin: 1 mg/Kg SC 12 hrly Thrombolyic Therapy: Tenecteplase 35 mg IV bolus if 60-70 Kg 40 mg IV bolus if 70-80 Kg 45 mg IV bolus if more than 80 Kg Reteplase 10 mg IV bolus, repeat after 30 min Alteplase 15 mg IV bolus followed by 0.75 mg/Kg over 30 min upto 50 Kg weight, then 0.5 mg/Kg over 60 min up to 35 mg Streptokinase 1.5 million units IV over 60 min",
+            "Recent (within 1 K month) major GI te bleed m": "",
+            "nown bleeding ndency (except enstrual bleed)": "",
+            "Aortic dissection": ""
+          },
+          "source": {
+            "document_id": "ICMR-CARD-006",
+            "document_name": "STEMI",
+            "page_number": 1,
+            "section": "TABLE_3",
+            "source_text_reference": "Previous intra- cerebral hemorrhage or stroke of unknown etiology: Anti-platelets 1. Aspirin: Loading dose 325 mg followed by 75 mg OD 2. Clopidogrel: Loading dose 300 mg followed 75 mg OD 3. Prasugrel: Loading dose 60 mg followed by 10 mg OD 4. Ticagralor: Loading dose 180 mg followed by 90 mg BD Anti-ischemic: Metoprolol: Short acting: 25-100 mg BD Long acting: 25 -100 mg OD Nitrates: Isosorbide mono-nitare 20 to 60 mg in 2 divided dose Nitroglycerine sustained release 2.6 to 6.5 mg BD Nitroglycerine IV 5-25 mcg/ min infusion Lipid lowering agents: High dose Atorvastatin 80 mg OD Rosuvastatin 20-40mg OD Non-statin lipid modifying agents Ace-inhibitor Ramipril 2.5 -10 mg OD Enalapril 2.5 -10mg BD Oxygen: If oxygen saturation below 90% Morphine: Titrated in a dose of 2-4 mg IV every 15 minutes Beta-blocker: Oral beta-blocker if LVEF is less than 40%; Column_7: Anti thrombotics: 1. Unfractionated heparin: Bolus of 60 U/Kg (maximum 5000 U) followed by 12 U/Kg hourly infusion to maintain APTT at 50-70 sec 2. Enoxaparin: 1 mg/Kg SC 12 hrly Thrombolyic Therapy: Tenecteplase 35 mg IV bolus if 60-70 Kg 40 mg IV bolus if 70-80 Kg 45 mg IV bolus if more than 80 Kg Reteplase 10 mg IV bolus, repeat after 30 min Alteplase 15 mg IV bolus followed by 0.75 mg/Kg over 30 min upto 50 Kg weight, then 0.5 mg/Kg over 60 min up to 35 mg Streptokinase 1.5 million units IV over 60 min",
+            "bounding_box": [
+              0.26359863281249996,
+              1025.0,
+              747.5,
+              1501.0
+            ],
+            "extraction_type": "table",
+            "review_status": "needs_review",
+            "requires_manual_review": true,
+            "review_notes": "Sparse row with potential merged columns",
+            "normalized_term": null
+          }
+        }
+      ],
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "TABLE_3",
+        "source_text_reference": "Previous intra- cerebral hemorrhage or stroke of unknown etiology: DRUGS & DOSAGE\nPrevious intra- cerebral hemorrhage or stroke of unknown etiology: Anti-platelets 1. Aspirin: Loading dose 325 mg followed by 75 mg OD 2. Clopidogrel: Loading dose 300 mg followed 75 mg OD 3. Prasugrel: Loading dose 60 mg followed by 10 mg OD 4. Ticagralor: Loading dose 180 mg followed by 90 mg BD Anti-ischemic: Metoprolol: Short acting: 25-100 mg BD Long acting: 25 -100 mg OD Nitrates: Isosorbide mono-nitare 20 to",
+        "bounding_box": [
+          0.26359863281249996,
+          1025.0,
+          747.5,
+          1501.0
+        ],
+        "extraction_type": "table",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    }
+  ],
+  "references": [],
+  "abbreviations": {
+    "STW": "Standard Treatment Workflow",
+    "ICMR": "Indian Council of Medical Research",
+    "DHR": "Department of Health Research",
+    "MoHFW": "Ministry of Health and Family Welfare",
+    "ECG": "Electrocardiogram",
+    "PCI": "Percutaneous Coronary Intervention",
+    "PHC": "Primary Health Centre",
+    "CHC": "Community Health Centre",
+    "ICU": "Intensive Care Unit"
+  }
+}

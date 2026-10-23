@@ -1,0 +1,1532 @@
+{
+  "metadata": {
+    "document_id": "ICMR-CARD-001",
+    "title": "Atrial Fibrillation",
+    "specialty": "Cardiology",
+    "condition": "Atrial Fibrillation",
+    "icd_11_code": null,
+    "volume": "Volume 1",
+    "edition": "1.0",
+    "source_organization": "Indian Council of Medical Research (ICMR)",
+    "source_url": "https://www.icmr.gov.in/icmrobject/uploads/STWs/1768823343_cardiology_1-1.pdf",
+    "local_path": "data/raw/cardiology/1768823343_cardiology_1-1.pdf",
+    "total_pages": 1,
+    "document_hash": "4c1f2004ef6d22f6a73d598cc8259bd9abca573375e418ea20e0e2f5d373122e"
+  },
+  "clinical_presentation": {
+    "definition": "Clinical presentation and diagnostic characteristics of Atrial Fibrillation per ICMR STW.",
+    "typical_symptoms": [
+      "Paroxysmal AF: Episodes of AF for",
+      "less than 7 days",
+      "Persistent AF: AF lasing from 7",
+      "days to 1 year",
+      "Long standing perssistent AF: AF",
+      "lasting for > 1 year",
+      "Permanent AF: AF with heart rate",
+      "control as only option"
+    ],
+    "atypical_presentations": [],
+    "signs_and_physical_exam": [],
+    "unlikely_features": [],
+    "red_flags": [],
+    "source": {
+      "document_id": "ICMR-CARD-001",
+      "document_name": "Atrial Fibrillation",
+      "page_number": 1,
+      "section": "CLINICAL PRESENTATION",
+      "source_text_reference": "CATEGORIZE AF\n• Paroxysmal AF: Episodes of AF for\nless than 7 days\n• Persistent AF: AF lasing from 7\ndays to 1 year\n• Long standing perssistent AF: AF\nlasting for > 1 year\n• Permanent AF: AF with heart rate\ncontrol as only option",
+      "bounding_box": null,
+      "extraction_type": "text",
+      "review_status": "needs_review",
+      "requires_manual_review": true,
+      "review_notes": "Typographical variant 'lasing' for lasting",
+      "normalized_term": "lasting"
+    }
+  },
+  "diagnostic_criteria": [],
+  "investigations": [
+    {
+      "investigation_id": "INV_P1_01",
+      "name": "Hemograms",
+      "tier": "BASIC",
+      "modality": "Laboratory / Diagnostic Imaging",
+      "indication": "Workup for Atrial Fibrillation",
+      "target_findings": null,
+      "source": {
+        "document_id": "ICMR-CARD-001",
+        "document_name": "Atrial Fibrillation",
+        "page_number": 1,
+        "section": "BASIC INVESTIGATIONS",
+        "source_text_reference": "• Hemograms",
+        "bounding_box": [
+          351.7695007324219,
+          862.1787109375,
+          427.4703674316406,
+          876.5337524414062
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "investigation_id": "INV_P1_02",
+      "name": "Blood sugar, Creatinine",
+      "tier": "BASIC",
+      "modality": "Laboratory / Diagnostic Imaging",
+      "indication": "Workup for Atrial Fibrillation",
+      "target_findings": null,
+      "source": {
+        "document_id": "ICMR-CARD-001",
+        "document_name": "Atrial Fibrillation",
+        "page_number": 1,
+        "section": "BASIC INVESTIGATIONS",
+        "source_text_reference": "• Blood sugar, Creatinine",
+        "bounding_box": [
+          351.7695007324219,
+          875.3787231445312,
+          486.7076110839844,
+          889.7337646484375
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "investigation_id": "INV_P1_03",
+      "name": "Electrolytes",
+      "tier": "BASIC",
+      "modality": "Laboratory / Diagnostic Imaging",
+      "indication": "Workup for Atrial Fibrillation",
+      "target_findings": null,
+      "source": {
+        "document_id": "ICMR-CARD-001",
+        "document_name": "Atrial Fibrillation",
+        "page_number": 1,
+        "section": "BASIC INVESTIGATIONS",
+        "source_text_reference": "• Electrolytes",
+        "bounding_box": [
+          351.7695007324219,
+          888.5787353515625,
+          422.11236572265625,
+          902.9337768554688
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "investigation_id": "INV_P1_04",
+      "name": "12 lead ECG",
+      "tier": "BASIC",
+      "modality": "Laboratory / Diagnostic Imaging",
+      "indication": "Workup for Atrial Fibrillation",
+      "target_findings": null,
+      "source": {
+        "document_id": "ICMR-CARD-001",
+        "document_name": "Atrial Fibrillation",
+        "page_number": 1,
+        "section": "BASIC INVESTIGATIONS",
+        "source_text_reference": "• 12 lead ECG",
+        "bounding_box": [
+          351.7695007324219,
+          901.7787475585938,
+          420.8494567871094,
+          916.1337890625
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "investigation_id": "INV_P1_05",
+      "name": "Prolonged ECG monitoring",
+      "tier": "OPTIONAL",
+      "modality": "Laboratory / Diagnostic Imaging",
+      "indication": "Workup for Atrial Fibrillation",
+      "target_findings": null,
+      "source": {
+        "document_id": "ICMR-CARD-001",
+        "document_name": "Atrial Fibrillation",
+        "page_number": 1,
+        "section": "OPTIONAL INVESTIGATIONS",
+        "source_text_reference": "• Prolonged ECG monitoring",
+        "bounding_box": [
+          351.7695007324219,
+          1089.0439453125,
+          507.4535827636719,
+          1103.39892578125
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "investigation_id": "INV_P1_06",
+      "name": "Trans-esophagial echocardiography",
+      "tier": "OPTIONAL",
+      "modality": "Laboratory / Diagnostic Imaging",
+      "indication": "Workup for Atrial Fibrillation",
+      "target_findings": null,
+      "source": {
+        "document_id": "ICMR-CARD-001",
+        "document_name": "Atrial Fibrillation",
+        "page_number": 1,
+        "section": "OPTIONAL INVESTIGATIONS",
+        "source_text_reference": "• Trans-esophagial echocardiography",
+        "bounding_box": [
+          351.7695007324219,
+          1102.2440185546875,
+          555.6578369140625,
+          1116.5989990234375
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "investigation_id": "INV_P1_07",
+      "name": "Exercise Stress Test",
+      "tier": "OPTIONAL",
+      "modality": "Laboratory / Diagnostic Imaging",
+      "indication": "Workup for Atrial Fibrillation",
+      "target_findings": null,
+      "source": {
+        "document_id": "ICMR-CARD-001",
+        "document_name": "Atrial Fibrillation",
+        "page_number": 1,
+        "section": "OPTIONAL INVESTIGATIONS",
+        "source_text_reference": "• Exercise Stress Test",
+        "bounding_box": [
+          351.7695007324219,
+          1115.4439697265625,
+          463.70440673828125,
+          1129.7989501953125
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "investigation_id": "INV_P1_08",
+      "name": "CT scan",
+      "tier": "OPTIONAL",
+      "modality": "Laboratory / Diagnostic Imaging",
+      "indication": "Workup for Atrial Fibrillation",
+      "target_findings": null,
+      "source": {
+        "document_id": "ICMR-CARD-001",
+        "document_name": "Atrial Fibrillation",
+        "page_number": 1,
+        "section": "OPTIONAL INVESTIGATIONS",
+        "source_text_reference": "• CT scan",
+        "bounding_box": [
+          351.7695007324219,
+          1128.6439208984375,
+          400.41143798828125,
+          1142.9989013671875
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "investigation_id": "INV_P1_09",
+      "name": "EP study",
+      "tier": "OPTIONAL",
+      "modality": "Laboratory / Diagnostic Imaging",
+      "indication": "Workup for Atrial Fibrillation",
+      "target_findings": null,
+      "source": {
+        "document_id": "ICMR-CARD-001",
+        "document_name": "Atrial Fibrillation",
+        "page_number": 1,
+        "section": "OPTIONAL INVESTIGATIONS",
+        "source_text_reference": "• EP study",
+        "bounding_box": [
+          351.7695007324219,
+          1155.0440673828125,
+          406.7035217285156,
+          1169.3990478515625
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "investigation_id": "INV_P1_10",
+      "name": "Coronary angiography",
+      "tier": "OPTIONAL",
+      "modality": "Laboratory / Diagnostic Imaging",
+      "indication": "Workup for Atrial Fibrillation",
+      "target_findings": null,
+      "source": {
+        "document_id": "ICMR-CARD-001",
+        "document_name": "Atrial Fibrillation",
+        "page_number": 1,
+        "section": "OPTIONAL INVESTIGATIONS",
+        "source_text_reference": "• Coronary angiography",
+        "bounding_box": [
+          351.7695007324219,
+          1168.2440185546875,
+          481.4385986328125,
+          1182.5989990234375
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "investigation_id": "INV_P1_11",
+      "name": "Plain X-ray chest",
+      "tier": "DESIRABLE",
+      "modality": "Laboratory / Diagnostic Imaging",
+      "indication": "Workup for Atrial Fibrillation",
+      "target_findings": null,
+      "source": {
+        "document_id": "ICMR-CARD-001",
+        "document_name": "Atrial Fibrillation",
+        "page_number": 1,
+        "section": "DESIRABLE INVESTIGATIONS",
+        "source_text_reference": "• Plain X-ray chest",
+        "bounding_box": [
+          351.7695007324219,
+          957.5283203125,
+          449.3625793457031,
+          971.8833618164062
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "investigation_id": "INV_P1_12",
+      "name": "Thyroid evaluation",
+      "tier": "DESIRABLE",
+      "modality": "Laboratory / Diagnostic Imaging",
+      "indication": "Workup for Atrial Fibrillation",
+      "target_findings": null,
+      "source": {
+        "document_id": "ICMR-CARD-001",
+        "document_name": "Atrial Fibrillation",
+        "page_number": 1,
+        "section": "DESIRABLE INVESTIGATIONS",
+        "source_text_reference": "• Thyroid evaluation",
+        "bounding_box": [
+          351.7695007324219,
+          970.7283325195312,
+          459.4056701660156,
+          985.0833740234375
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "investigation_id": "INV_P1_13",
+      "name": "Liver function test",
+      "tier": "DESIRABLE",
+      "modality": "Laboratory / Diagnostic Imaging",
+      "indication": "Workup for Atrial Fibrillation",
+      "target_findings": null,
+      "source": {
+        "document_id": "ICMR-CARD-001",
+        "document_name": "Atrial Fibrillation",
+        "page_number": 1,
+        "section": "DESIRABLE INVESTIGATIONS",
+        "source_text_reference": "• Liver function test",
+        "bounding_box": [
+          351.76947021484375,
+          983.9283447265625,
+          457.32440185546875,
+          998.2833862304688
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "investigation_id": "INV_P1_14",
+      "name": "Troponins",
+      "tier": "DESIRABLE",
+      "modality": "Laboratory / Diagnostic Imaging",
+      "indication": "Workup for Atrial Fibrillation",
+      "target_findings": null,
+      "source": {
+        "document_id": "ICMR-CARD-001",
+        "document_name": "Atrial Fibrillation",
+        "page_number": 1,
+        "section": "DESIRABLE INVESTIGATIONS",
+        "source_text_reference": "• Troponins",
+        "bounding_box": [
+          351.76947021484375,
+          997.1283569335938,
+          412.8084716796875,
+          1011.4833984375
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "investigation_id": "INV_P1_15",
+      "name": "Prothrombin time, INR (Coagulation",
+      "tier": "DESIRABLE",
+      "modality": "Laboratory / Diagnostic Imaging",
+      "indication": "Workup for Atrial Fibrillation",
+      "target_findings": null,
+      "source": {
+        "document_id": "ICMR-CARD-001",
+        "document_name": "Atrial Fibrillation",
+        "page_number": 1,
+        "section": "DESIRABLE INVESTIGATIONS",
+        "source_text_reference": "• Prothrombin time, INR (Coagulation",
+        "bounding_box": [
+          351.76947021484375,
+          1010.328369140625,
+          557.09765625,
+          1024.683349609375
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "investigation_id": "INV_P1_16",
+      "name": "proﬁle)",
+      "tier": "DESIRABLE",
+      "modality": "Laboratory / Diagnostic Imaging",
+      "indication": "Workup for Atrial Fibrillation",
+      "target_findings": null,
+      "source": {
+        "document_id": "ICMR-CARD-001",
+        "document_name": "Atrial Fibrillation",
+        "page_number": 1,
+        "section": "DESIRABLE INVESTIGATIONS",
+        "source_text_reference": "proﬁle)",
+        "bounding_box": [
+          358.7654724121094,
+          1023.5284423828125,
+          398.1784973144531,
+          1037.8834228515625
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "investigation_id": "INV_P1_17",
+      "name": "Echocardiography",
+      "tier": "DESIRABLE",
+      "modality": "Laboratory / Diagnostic Imaging",
+      "indication": "Workup for Atrial Fibrillation",
+      "target_findings": null,
+      "source": {
+        "document_id": "ICMR-CARD-001",
+        "document_name": "Atrial Fibrillation",
+        "page_number": 1,
+        "section": "DESIRABLE INVESTIGATIONS",
+        "source_text_reference": "• Echocardiography",
+        "bounding_box": [
+          351.76947021484375,
+          1036.7283935546875,
+          459.0095520019531,
+          1051.0833740234375
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    }
+  ],
+  "tier_management": [],
+  "medications": [
+    {
+      "medication_id": "MED_P1_01",
+      "generic_name": "Doac",
+      "drug_class": null,
+      "dosage": "Direct oral anticoagulants (DOAC) (Dose not specified in text)",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-001",
+        "document_name": "Atrial Fibrillation",
+        "page_number": 1,
+        "section": "CHOICE OF ANTI-COAGULATION",
+        "source_text_reference": "• Direct oral anticoagulants (DOAC)",
+        "bounding_box": [
+          533.2317504882812,
+          513.364013671875,
+          725.9946899414062,
+          527.7190551757812
+        ],
+        "extraction_type": "text",
+        "review_status": "needs_review",
+        "requires_manual_review": true,
+        "review_notes": "Medication 'Doac' mentioned in workflow without explicit dosage or units in source text",
+        "normalized_term": null
+      }
+    },
+    {
+      "medication_id": "MED_P1_02",
+      "generic_name": "Aspirin",
+      "drug_class": null,
+      "dosage": "Avoid concomitant aspirin, anti platelets, NSAIDs (Dose not specified in text)",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-001",
+        "document_name": "Atrial Fibrillation",
+        "page_number": 1,
+        "section": "MEASURES TO REDUCE HIGH BLEEDING RISK",
+        "source_text_reference": "• Avoid concomitant aspirin, anti platelets, NSAIDs",
+        "bounding_box": [
+          533.23779296875,
+          642.09619140625,
+          807.1136474609375,
+          656.4512329101562
+        ],
+        "extraction_type": "text",
+        "review_status": "needs_review",
+        "requires_manual_review": true,
+        "review_notes": "Medication 'Aspirin' mentioned in workflow without explicit dosage or units in source text",
+        "normalized_term": null
+      }
+    },
+    {
+      "medication_id": "MED_P1_03",
+      "generic_name": "Oac",
+      "drug_class": null,
+      "dosage": "Start OAC (Dose not specified in text)",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-001",
+        "document_name": "Atrial Fibrillation",
+        "page_number": 1,
+        "section": "MEASURES TO REDUCE HIGH BLEEDING RISK",
+        "source_text_reference": "• Start OAC",
+        "bounding_box": [
+          9.98980712890625,
+          880.8842163085938,
+          70.56571197509766,
+          895.2392578125
+        ],
+        "extraction_type": "text",
+        "review_status": "needs_review",
+        "requires_manual_review": true,
+        "review_notes": "Medication 'Oac' mentioned in workflow without explicit dosage or units in source text",
+        "normalized_term": null
+      }
+    },
+    {
+      "medication_id": "MED_P1_04",
+      "generic_name": "Metoprolol",
+      "drug_class": null,
+      "dosage": "Start Metoprolol/Diltiazem/Verapamil if HR >110/min & (Dose not specified in text)",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-001",
+        "document_name": "Atrial Fibrillation",
+        "page_number": 1,
+        "section": "MEASURES TO REDUCE HIGH BLEEDING RISK",
+        "source_text_reference": "• Start Metoprolol/Diltiazem/Verapamil if HR >110/min &",
+        "bounding_box": [
+          9.98980712890625,
+          891.8842163085938,
+          310.8189697265625,
+          906.2392578125
+        ],
+        "extraction_type": "text",
+        "review_status": "needs_review",
+        "requires_manual_review": true,
+        "review_notes": "Medication 'Metoprolol' mentioned in workflow without explicit dosage or units in source text",
+        "normalized_term": null
+      }
+    },
+    {
+      "medication_id": "MED_P1_05",
+      "generic_name": "Aspirin",
+      "drug_class": null,
+      "dosage": "Drugs (e.g. concomitant aspirin or (Dose not specified in text)",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-001",
+        "document_name": "Atrial Fibrillation",
+        "page_number": 1,
+        "section": "CHA2DS2-VASC",
+        "source_text_reference": "- Drugs (e.g. concomitant aspirin or",
+        "bounding_box": [
+          279.7532958984375,
+          640.8837890625,
+          473.7701416015625,
+          655.2388305664062
+        ],
+        "extraction_type": "text",
+        "review_status": "needs_review",
+        "requires_manual_review": true,
+        "review_notes": "Medication 'Aspirin' mentioned in workflow without explicit dosage or units in source text",
+        "normalized_term": null
+      }
+    },
+    {
+      "medication_id": "MED_P1_06",
+      "generic_name": "Oac",
+      "drug_class": null,
+      "dosage": "OAC if score >1 (Dose not specified in text)",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-001",
+        "document_name": "Atrial Fibrillation",
+        "page_number": 1,
+        "section": "STROKE RISK SCORE",
+        "source_text_reference": "OAC if score >1",
+        "bounding_box": [
+          11.26710033416748,
+          690.0420532226562,
+          93.8661117553711,
+          704.3970947265625
+        ],
+        "extraction_type": "text",
+        "review_status": "needs_review",
+        "requires_manual_review": true,
+        "review_notes": "Medication 'Oac' mentioned in workflow without explicit dosage or units in source text",
+        "normalized_term": null
+      }
+    },
+    {
+      "medication_id": "MED_P1_07",
+      "generic_name": "Digoxin",
+      "drug_class": null,
+      "dosage": "BB + digoxin in HF (Dose not specified in text)",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-001",
+        "document_name": "Atrial Fibrillation",
+        "page_number": 1,
+        "section": "CONVERSION TO NSR",
+        "source_text_reference": "BB + digoxin in HF",
+        "bounding_box": [
+          475.57940673828125,
+          734.2291259765625,
+          577.2634887695312,
+          748.5841674804688
+        ],
+        "extraction_type": "text",
+        "review_status": "needs_review",
+        "requires_manual_review": true,
+        "review_notes": "Medication 'Digoxin' mentioned in workflow without explicit dosage or units in source text",
+        "normalized_term": null
+      }
+    },
+    {
+      "medication_id": "MED_P1_08",
+      "generic_name": "Oac",
+      "drug_class": null,
+      "dosage": "Start OAC (Oral Anticoagulant) (Dose not specified in text)",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-001",
+        "document_name": "Atrial Fibrillation",
+        "page_number": 1,
+        "section": "CONVERSION TO NSR",
+        "source_text_reference": "• Start OAC (Oral Anticoagulant)",
+        "bounding_box": [
+          10.262699127197266,
+          1020.2138671875,
+          185.3717498779297,
+          1034.56884765625
+        ],
+        "extraction_type": "text",
+        "review_status": "needs_review",
+        "requires_manual_review": true,
+        "review_notes": "Medication 'Oac' mentioned in workflow without explicit dosage or units in source text",
+        "normalized_term": null
+      }
+    },
+    {
+      "medication_id": "MED_P1_09",
+      "generic_name": "Amiodarone",
+      "drug_class": null,
+      "dosage": "Amiodarone (Dose not specified in text)",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-001",
+        "document_name": "Atrial Fibrillation",
+        "page_number": 1,
+        "section": "CHF",
+        "source_text_reference": "Amiodarone",
+        "bounding_box": [
+          574.591552734375,
+          1036.0338134765625,
+          643.2315063476562,
+          1050.3887939453125
+        ],
+        "extraction_type": "text",
+        "review_status": "needs_review",
+        "requires_manual_review": true,
+        "review_notes": "Medication 'Amiodarone' mentioned in workflow without explicit dosage or units in source text",
+        "normalized_term": null
+      }
+    },
+    {
+      "medication_id": "MED_P1_10",
+      "generic_name": "Flecainide",
+      "drug_class": null,
+      "dosage": "Flecainide (Dose not specified in text)",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-001",
+        "document_name": "Atrial Fibrillation",
+        "page_number": 1,
+        "section": "CHF",
+        "source_text_reference": "Flecainide",
+        "bounding_box": [
+          663.4248657226562,
+          1144.13525390625,
+          720.1408081054688,
+          1158.490234375
+        ],
+        "extraction_type": "text",
+        "review_status": "needs_review",
+        "requires_manual_review": true,
+        "review_notes": "Medication 'Flecainide' mentioned in workflow without explicit dosage or units in source text",
+        "normalized_term": null
+      }
+    },
+    {
+      "medication_id": "MED_P1_11",
+      "generic_name": "Propafenone",
+      "drug_class": null,
+      "dosage": "Propafenone (Dose not specified in text)",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-001",
+        "document_name": "Atrial Fibrillation",
+        "page_number": 1,
+        "section": "CHF",
+        "source_text_reference": "Propafenone",
+        "bounding_box": [
+          663.4249267578125,
+          1157.335205078125,
+          734.9017333984375,
+          1171.690185546875
+        ],
+        "extraction_type": "text",
+        "review_status": "needs_review",
+        "requires_manual_review": true,
+        "review_notes": "Medication 'Propafenone' mentioned in workflow without explicit dosage or units in source text",
+        "normalized_term": null
+      }
+    },
+    {
+      "medication_id": "MED_P1_12",
+      "generic_name": "Sotalol",
+      "drug_class": null,
+      "dosage": "Sotalol (Dose not specified in text)",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-001",
+        "document_name": "Atrial Fibrillation",
+        "page_number": 1,
+        "section": "CHF",
+        "source_text_reference": "Sotalol",
+        "bounding_box": [
+          663.4249267578125,
+          1170.5352783203125,
+          700.8578491210938,
+          1184.8902587890625
+        ],
+        "extraction_type": "text",
+        "review_status": "needs_review",
+        "requires_manual_review": true,
+        "review_notes": "Medication 'Sotalol' mentioned in workflow without explicit dosage or units in source text",
+        "normalized_term": null
+      }
+    },
+    {
+      "medication_id": "MED_P1_13",
+      "generic_name": "Flecainide",
+      "drug_class": null,
+      "dosage": "(Flecainide (Dose not specified in text)",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-001",
+        "document_name": "Atrial Fibrillation",
+        "page_number": 1,
+        "section": "CHF",
+        "source_text_reference": "(Flecainide",
+        "bounding_box": [
+          755.6929321289062,
+          1023.6741943359375,
+          818.909912109375,
+          1038.0291748046875
+        ],
+        "extraction_type": "text",
+        "review_status": "needs_review",
+        "requires_manual_review": true,
+        "review_notes": "Medication 'Flecainide' mentioned in workflow without explicit dosage or units in source text",
+        "normalized_term": null
+      }
+    },
+    {
+      "medication_id": "MED_P1_14",
+      "generic_name": "Propafenone",
+      "drug_class": null,
+      "dosage": "Propafenone) (Dose not specified in text)",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-001",
+        "document_name": "Atrial Fibrillation",
+        "page_number": 1,
+        "section": "CHF",
+        "source_text_reference": "Propafenone)",
+        "bounding_box": [
+          755.6929321289062,
+          1050.0743408203125,
+          830.7898559570312,
+          1064.4293212890625
+        ],
+        "extraction_type": "text",
+        "review_status": "needs_review",
+        "requires_manual_review": true,
+        "review_notes": "Medication 'Propafenone' mentioned in workflow without explicit dosage or units in source text",
+        "normalized_term": null
+      }
+    },
+    {
+      "medication_id": "MED_P1_15",
+      "generic_name": "Oac",
+      "drug_class": null,
+      "dosage": "Re-assess clinical status, need and adequacy of OAC (Dose not specified in text)",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-001",
+        "document_name": "Atrial Fibrillation",
+        "page_number": 1,
+        "section": "RESTORING RHYTHM, RESTORING FREEDOM",
+        "source_text_reference": "• Re-assess clinical status, need and adequacy of OAC",
+        "bounding_box": [
+          10.534199714660645,
+          1107.5068359375,
+          303.4983215332031,
+          1121.86181640625
+        ],
+        "extraction_type": "text",
+        "review_status": "needs_review",
+        "requires_manual_review": true,
+        "review_notes": "Medication 'Oac' mentioned in workflow without explicit dosage or units in source text",
+        "normalized_term": null
+      }
+    }
+  ],
+  "contraindications": [],
+  "referral_criteria": [
+    {
+      "referral_id": "REF_P1_01",
+      "urgency": "URGENT",
+      "trigger_condition": "LOOK FOR IMMEDIATE INTERVENTION",
+      "originating_tier": null,
+      "target_facility_type": "Higher level / PCI-capable facility",
+      "time_window": null,
+      "source": {
+        "document_id": "ICMR-CARD-001",
+        "document_name": "Atrial Fibrillation",
+        "page_number": 1,
+        "section": "LOOK FOR IMMEDIATE INTERVENTION",
+        "source_text_reference": "LOOK FOR IMMEDIATE INTERVENTION",
+        "bounding_box": [
+          612.7177734375,
+          361.6891174316406,
+          808.82177734375,
+          376.64111328125
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "referral_id": "REF_P1_02",
+      "urgency": "URGENT",
+      "trigger_condition": "• Systolic BP 90 mmHg, HR > 150 or",
+      "originating_tier": null,
+      "target_facility_type": "Higher level / PCI-capable facility",
+      "time_window": null,
+      "source": {
+        "document_id": "ICMR-CARD-001",
+        "document_name": "Atrial Fibrillation",
+        "page_number": 1,
+        "section": "LOOK FOR IMMEDIATE INTERVENTION",
+        "source_text_reference": "• Systolic BP 90 mmHg, HR > 150 or",
+        "bounding_box": [
+          612.7177734375,
+          399.4043273925781,
+          804.5568237304688,
+          413.7593078613281
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "referral_id": "REF_P1_03",
+      "urgency": "URGENT",
+      "trigger_condition": "<50/min",
+      "originating_tier": null,
+      "target_facility_type": "Higher level / PCI-capable facility",
+      "time_window": null,
+      "source": {
+        "document_id": "ICMR-CARD-001",
+        "document_name": "Atrial Fibrillation",
+        "page_number": 1,
+        "section": "LOOK FOR IMMEDIATE INTERVENTION",
+        "source_text_reference": "<50/min",
+        "bounding_box": [
+          619.7137451171875,
+          412.6042785644531,
+          664.3408203125,
+          426.9592590332031
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "referral_id": "REF_P1_04",
+      "urgency": "URGENT",
+      "trigger_condition": "• Ongoing Angina",
+      "originating_tier": null,
+      "target_facility_type": "Higher level / PCI-capable facility",
+      "time_window": null,
+      "source": {
+        "document_id": "ICMR-CARD-001",
+        "document_name": "Atrial Fibrillation",
+        "page_number": 1,
+        "section": "LOOK FOR IMMEDIATE INTERVENTION",
+        "source_text_reference": "• Ongoing Angina",
+        "bounding_box": [
+          612.7177734375,
+          425.8042297363281,
+          710.6398315429688,
+          440.1592102050781
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "referral_id": "REF_P1_05",
+      "urgency": "URGENT",
+      "trigger_condition": "• CHF or TIA or stroke",
+      "originating_tier": null,
+      "target_facility_type": "Higher level / PCI-capable facility",
+      "time_window": null,
+      "source": {
+        "document_id": "ICMR-CARD-001",
+        "document_name": "Atrial Fibrillation",
+        "page_number": 1,
+        "section": "LOOK FOR IMMEDIATE INTERVENTION",
+        "source_text_reference": "• CHF or TIA or stroke",
+        "bounding_box": [
+          612.7177734375,
+          439.0041809082031,
+          728.3619995117188,
+          453.3591613769531
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "referral_id": "REF_P1_06",
+      "urgency": "URGENT",
+      "trigger_condition": "• Major bleed on Oral",
+      "originating_tier": null,
+      "target_facility_type": "Higher level / PCI-capable facility",
+      "time_window": null,
+      "source": {
+        "document_id": "ICMR-CARD-001",
+        "document_name": "Atrial Fibrillation",
+        "page_number": 1,
+        "section": "LOOK FOR IMMEDIATE INTERVENTION",
+        "source_text_reference": "• Major bleed on Oral",
+        "bounding_box": [
+          612.7177734375,
+          452.2041320800781,
+          727.3058471679688,
+          466.5591125488281
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "referral_id": "REF_P1_07",
+      "urgency": "URGENT",
+      "trigger_condition": "Anti-coagulants",
+      "originating_tier": null,
+      "target_facility_type": "Higher level / PCI-capable facility",
+      "time_window": null,
+      "source": {
+        "document_id": "ICMR-CARD-001",
+        "document_name": "Atrial Fibrillation",
+        "page_number": 1,
+        "section": "LOOK FOR IMMEDIATE INTERVENTION",
+        "source_text_reference": "Anti-coagulants",
+        "bounding_box": [
+          619.7137451171875,
+          465.4040832519531,
+          707.9458618164062,
+          479.7590637207031
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    }
+  ],
+  "flowcharts": [],
+  "tables": [
+    {
+      "table_id": "TAB_P1_01",
+      "title": "Table 1 (Page 1)",
+      "headers": [
+        "CHA DS -VAS 2 2 C",
+        "SCORE",
+        "HAS-BLED"
+      ],
+      "rows": [
+        {
+          "row_id": "T1_R1",
+          "cells": {
+            "CHA DS -VAS 2 2 C": "- Congestive heart failure/LV dysfunction - Hypertension - Aged > 75 years - Diabetes mellitus - Stroke/ TIA/ TE - Vascular disease [prior MI, PAD or aortic plaque] - Aged 65-74 years",
+            "SCORE": "1 1 2 1 2 1 1 1",
+            "HAS-BLED": "- Hypertension i.e. uncontrolled BP - Abnormal renal/ liver function - Stroke - Bleeding tendency or predisposition - Labile INR - Age (e.g. >65) - Drugs (e.g. concomitant aspirin or NSAIDSs or alcohol"
+          },
+          "source": {
+            "document_id": "ICMR-CARD-001",
+            "document_name": "Atrial Fibrillation",
+            "page_number": 1,
+            "section": "TABLE_1",
+            "source_text_reference": "CHA DS -VAS 2 2 C: - Congestive heart failure/LV dysfunction - Hypertension - Aged > 75 years - Diabetes mellitus - Stroke/ TIA/ TE - Vascular disease [prior MI, PAD or aortic plaque] - Aged 65-74 years; SCORE: 1 1 2 1 2 1 1 1; HAS-BLED: - Hypertension i.e. uncontrolled BP - Abnormal renal/ liver function - Stroke - Bleeding tendency or predisposition - Labile INR - Age (e.g. >65) - Drugs (e.g. concomitant aspirin or NSAIDSs or alcohol",
+            "bounding_box": [
+              9.564000129699707,
+              510.7921142578125,
+              475.8070068359375,
+              688.7610473632812
+            ],
+            "extraction_type": "table",
+            "review_status": "extracted",
+            "requires_manual_review": false,
+            "review_notes": null,
+            "normalized_term": null
+          }
+        },
+        {
+          "row_id": "T1_R2",
+          "cells": {
+            "CHA DS -VAS 2 2 C": "Maximum Score",
+            "SCORE": "9",
+            "HAS-BLED": ""
+          },
+          "source": {
+            "document_id": "ICMR-CARD-001",
+            "document_name": "Atrial Fibrillation",
+            "page_number": 1,
+            "section": "TABLE_1",
+            "source_text_reference": "CHA DS -VAS 2 2 C: Maximum Score; SCORE: 9",
+            "bounding_box": [
+              9.564000129699707,
+              510.7921142578125,
+              475.8070068359375,
+              688.7610473632812
+            ],
+            "extraction_type": "table",
+            "review_status": "extracted",
+            "requires_manual_review": false,
+            "review_notes": null,
+            "normalized_term": null
+          }
+        }
+      ],
+      "source": {
+        "document_id": "ICMR-CARD-001",
+        "document_name": "Atrial Fibrillation",
+        "page_number": 1,
+        "section": "TABLE_1",
+        "source_text_reference": "CHA DS -VAS 2 2 C: - Congestive heart failure/LV dysfunction - Hypertension - Aged > 75 years - Diabetes mellitus - Stroke/ TIA/ TE - Vascular disease [prior MI, PAD or aortic plaque] - Aged 65-74 years; SCORE: 1 1 2 1 2 1 1 1; HAS-BLED: - Hypertension i.e. uncontrolled BP - Abnormal renal/ liver function - Stroke - Bleeding tendency or predisposition - Labile INR - Age (e.g. >65) - Drugs (e.g. concomitant aspirin or NSAIDSs or alcohol\nCHA DS -VAS 2 2 C: Maximum Score; SCORE: 9",
+        "bounding_box": [
+          9.564000129699707,
+          510.7921142578125,
+          475.8070068359375,
+          688.7610473632812
+        ],
+        "extraction_type": "table",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "table_id": "TAB_P1_04",
+      "title": "Table 4 (Page 1)",
+      "headers": [
+        "Column_1",
+        "Column_2",
+        "Column_3",
+        "INVESTIGATIONS BASIC INVESTIGATIONS • Hemograms • Blood sugar, Creatinine • Electrolytes • 12 lead ECG DESIRABLE INVESTIGATIONS • Plain X-ray chest C • Thyroid evaluation C • Liver function test A • Troponins • Prothrombin time, INR (Coagulation profile) • Echocardiography A OPTIONAL INVESTIGATIONS • Prolonged ECG monitoring • Trans-esophagial echocardiography • Exercise Stress Test • CT scan • MRI A • EP study • Coronary angiography"
+      ],
+      "rows": [
+        {
+          "row_id": "T4_R1",
+          "cells": {
+            "Column_1": "AT PHC/CHC",
+            "Column_2": "",
+            "Column_3": "",
+            "INVESTIGATIONS BASIC INVESTIGATIONS • Hemograms • Blood sugar, Creatinine • Electrolytes • 12 lead ECG DESIRABLE INVESTIGATIONS • Plain X-ray chest C • Thyroid evaluation C • Liver function test A • Troponins • Prothrombin time, INR (Coagulation profile) • Echocardiography A OPTIONAL INVESTIGATIONS • Prolonged ECG monitoring • Trans-esophagial echocardiography • Exercise Stress Test • CT scan • MRI A • EP study • Coronary angiography": ""
+          },
+          "source": {
+            "document_id": "ICMR-CARD-001",
+            "document_name": "Atrial Fibrillation",
+            "page_number": 1,
+            "section": "TABLE_4",
+            "source_text_reference": "Column_1: AT PHC/CHC",
+            "bounding_box": [
+              0.3535920113325119,
+              813.5161830357143,
+              587.1605709427638,
+              1197.5360514322917
+            ],
+            "extraction_type": "table",
+            "review_status": "needs_review",
+            "requires_manual_review": true,
+            "review_notes": "Sparse row with potential merged columns",
+            "normalized_term": null
+          }
+        },
+        {
+          "row_id": "T4_R2",
+          "cells": {
+            "Column_1": "• Detailed clinical evaluation • Basic investigations • Careful ECG evaluation • Start OAC • Start Metoprolol/Diltiazem/Verapamil if HR >110/min & no evidence of CHF • Refer if indicators for early intervention",
+            "Column_2": "",
+            "Column_3": "",
+            "INVESTIGATIONS BASIC INVESTIGATIONS • Hemograms • Blood sugar, Creatinine • Electrolytes • 12 lead ECG DESIRABLE INVESTIGATIONS • Plain X-ray chest C • Thyroid evaluation C • Liver function test A • Troponins • Prothrombin time, INR (Coagulation profile) • Echocardiography A OPTIONAL INVESTIGATIONS • Prolonged ECG monitoring • Trans-esophagial echocardiography • Exercise Stress Test • CT scan • MRI A • EP study • Coronary angiography": ""
+          },
+          "source": {
+            "document_id": "ICMR-CARD-001",
+            "document_name": "Atrial Fibrillation",
+            "page_number": 1,
+            "section": "TABLE_4",
+            "source_text_reference": "Column_1: • Detailed clinical evaluation • Basic investigations • Careful ECG evaluation • Start OAC • Start Metoprolol/Diltiazem/Verapamil if HR >110/min & no evidence of CHF • Refer if indicators for early intervention",
+            "bounding_box": [
+              0.3535920113325119,
+              813.5161830357143,
+              587.1605709427638,
+              1197.5360514322917
+            ],
+            "extraction_type": "table",
+            "review_status": "needs_review",
+            "requires_manual_review": true,
+            "review_notes": "Sparse row with potential merged columns",
+            "normalized_term": null
+          }
+        },
+        {
+          "row_id": "T4_R3",
+          "cells": {
+            "Column_1": "AT DISTRICT HOSPITAL",
+            "Column_2": "",
+            "Column_3": "",
+            "INVESTIGATIONS BASIC INVESTIGATIONS • Hemograms • Blood sugar, Creatinine • Electrolytes • 12 lead ECG DESIRABLE INVESTIGATIONS • Plain X-ray chest C • Thyroid evaluation C • Liver function test A • Troponins • Prothrombin time, INR (Coagulation profile) • Echocardiography A OPTIONAL INVESTIGATIONS • Prolonged ECG monitoring • Trans-esophagial echocardiography • Exercise Stress Test • CT scan • MRI A • EP study • Coronary angiography": ""
+          },
+          "source": {
+            "document_id": "ICMR-CARD-001",
+            "document_name": "Atrial Fibrillation",
+            "page_number": 1,
+            "section": "TABLE_4",
+            "source_text_reference": "Column_1: AT DISTRICT HOSPITAL",
+            "bounding_box": [
+              0.3535920113325119,
+              813.5161830357143,
+              587.1605709427638,
+              1197.5360514322917
+            ],
+            "extraction_type": "table",
+            "review_status": "needs_review",
+            "requires_manual_review": true,
+            "review_notes": "Sparse row with potential merged columns",
+            "normalized_term": null
+          }
+        },
+        {
+          "row_id": "T4_R4",
+          "cells": {
+            "Column_1": "• Admit if indicators of early interventions • Immediate cardioversion after heparinization,if hemodynamic instability • Manage precipitating factors if any • Assess stroke, bleeding risk & coagulation parameters • Detailed echocardiogram • Start OAC (Oral Anticoagulant) • Control HR by single drug or combination of BB & Ca Blocker Refer HR uncontrolled or CHF or angina",
+            "Column_2": "",
+            "Column_3": "",
+            "INVESTIGATIONS BASIC INVESTIGATIONS • Hemograms • Blood sugar, Creatinine • Electrolytes • 12 lead ECG DESIRABLE INVESTIGATIONS • Plain X-ray chest C • Thyroid evaluation C • Liver function test A • Troponins • Prothrombin time, INR (Coagulation profile) • Echocardiography A OPTIONAL INVESTIGATIONS • Prolonged ECG monitoring • Trans-esophagial echocardiography • Exercise Stress Test • CT scan • MRI A • EP study • Coronary angiography": ""
+          },
+          "source": {
+            "document_id": "ICMR-CARD-001",
+            "document_name": "Atrial Fibrillation",
+            "page_number": 1,
+            "section": "TABLE_4",
+            "source_text_reference": "Column_1: • Admit if indicators of early interventions • Immediate cardioversion after heparinization,if hemodynamic instability • Manage precipitating factors if any • Assess stroke, bleeding risk & coagulation parameters • Detailed echocardiogram • Start OAC (Oral Anticoagulant) • Control HR by single drug or combination of BB & Ca Blocker Refer HR uncontrolled or CHF or angina",
+            "bounding_box": [
+              0.3535920113325119,
+              813.5161830357143,
+              587.1605709427638,
+              1197.5360514322917
+            ],
+            "extraction_type": "table",
+            "review_status": "needs_review",
+            "requires_manual_review": true,
+            "review_notes": "Sparse row with potential merged columns",
+            "normalized_term": null
+          }
+        },
+        {
+          "row_id": "T4_R5",
+          "cells": {
+            "Column_1": "",
+            "Column_2": "AT TERTIARY CENTRE",
+            "Column_3": "",
+            "INVESTIGATIONS BASIC INVESTIGATIONS • Hemograms • Blood sugar, Creatinine • Electrolytes • 12 lead ECG DESIRABLE INVESTIGATIONS • Plain X-ray chest C • Thyroid evaluation C • Liver function test A • Troponins • Prothrombin time, INR (Coagulation profile) • Echocardiography A OPTIONAL INVESTIGATIONS • Prolonged ECG monitoring • Trans-esophagial echocardiography • Exercise Stress Test • CT scan • MRI A • EP study • Coronary angiography": ""
+          },
+          "source": {
+            "document_id": "ICMR-CARD-001",
+            "document_name": "Atrial Fibrillation",
+            "page_number": 1,
+            "section": "TABLE_4",
+            "source_text_reference": "Column_2: AT TERTIARY CENTRE",
+            "bounding_box": [
+              0.3535920113325119,
+              813.5161830357143,
+              587.1605709427638,
+              1197.5360514322917
+            ],
+            "extraction_type": "table",
+            "review_status": "needs_review",
+            "requires_manual_review": true,
+            "review_notes": "Sparse row with potential merged columns",
+            "normalized_term": null
+          }
+        },
+        {
+          "row_id": "T4_R6",
+          "cells": {
+            "Column_1": "• Re-assess clinical status, need and adequacy of OAC • Start NOAC (Non-Vitamin K antagonist Oral Anticoagulants) • Optimise management of underlying cardiac disease • Stress life style and AF risk factor modification • Assess need for rhythm control and discuss pros & cons • Consider RFA in select patient",
+            "Column_2": "",
+            "Column_3": "",
+            "INVESTIGATIONS BASIC INVESTIGATIONS • Hemograms • Blood sugar, Creatinine • Electrolytes • 12 lead ECG DESIRABLE INVESTIGATIONS • Plain X-ray chest C • Thyroid evaluation C • Liver function test A • Troponins • Prothrombin time, INR (Coagulation profile) • Echocardiography A OPTIONAL INVESTIGATIONS • Prolonged ECG monitoring • Trans-esophagial echocardiography • Exercise Stress Test • CT scan • MRI A • EP study • Coronary angiography": ""
+          },
+          "source": {
+            "document_id": "ICMR-CARD-001",
+            "document_name": "Atrial Fibrillation",
+            "page_number": 1,
+            "section": "TABLE_4",
+            "source_text_reference": "Column_1: • Re-assess clinical status, need and adequacy of OAC • Start NOAC (Non-Vitamin K antagonist Oral Anticoagulants) • Optimise management of underlying cardiac disease • Stress life style and AF risk factor modification • Assess need for rhythm control and discuss pros & cons • Consider RFA in select patient",
+            "bounding_box": [
+              0.3535920113325119,
+              813.5161830357143,
+              587.1605709427638,
+              1197.5360514322917
+            ],
+            "extraction_type": "table",
+            "review_status": "needs_review",
+            "requires_manual_review": true,
+            "review_notes": "Sparse row with potential merged columns",
+            "normalized_term": null
+          }
+        }
+      ],
+      "source": {
+        "document_id": "ICMR-CARD-001",
+        "document_name": "Atrial Fibrillation",
+        "page_number": 1,
+        "section": "TABLE_4",
+        "source_text_reference": "Column_1: AT PHC/CHC\nColumn_1: • Detailed clinical evaluation • Basic investigations • Careful ECG evaluation • Start OAC • Start Metoprolol/Diltiazem/Verapamil if HR >110/min & no evidence of CHF • Refer if indicators for early intervention\nColumn_1: AT DISTRICT HOSPITAL\nColumn_1: • Admit if indicators of early interventions • Immediate cardioversion after heparinization,if hemodynamic instability • Manage precipitating factors if any • Assess stroke, bleeding risk & coagulation parameters • De",
+        "bounding_box": [
+          0.3535920113325119,
+          813.5161830357143,
+          587.1605709427638,
+          1197.5360514322917
+        ],
+        "extraction_type": "table",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    }
+  ],
+  "references": [
+    {
+      "reference_id": "REF_P1_01",
+      "citation_text": "Joglar JA et al. 2023 ACC/AHA/ACCP/HRS guidelines for the diagnosis & management of AF: a report of ACC/AHA joint committee on clinical",
+      "doi_or_url": null,
+      "source": {
+        "document_id": "ICMR-CARD-001",
+        "document_name": "Atrial Fibrillation",
+        "page_number": 1,
+        "section": "REFERENCES",
+        "source_text_reference": "Joglar JA et al. 2023 ACC/AHA/ACCP/HRS guidelines for the diagnosis & management of AF: a report of ACC/AHA joint committee on clinical",
+        "bounding_box": [
+          42.779701232910156,
+          1521.94921875,
+          808.6525268554688,
+          1536.30419921875
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "reference_id": "REF_P1_02",
+      "citation_text": "practice guidelines. 2024;149:e1-e156. doi:CIR.0000000000001193",
+      "doi_or_url": null,
+      "source": {
+        "document_id": "ICMR-CARD-001",
+        "document_name": "Atrial Fibrillation",
+        "page_number": 1,
+        "section": "REFERENCES",
+        "source_text_reference": "practice guidelines. 2024;149:e1-e156. doi:CIR.0000000000001193",
+        "bounding_box": [
+          42.779701232910156,
+          1535.1492919921875,
+          394.6247863769531,
+          1549.5042724609375
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "reference_id": "REF_P1_03",
+      "citation_text": "VanGelder et al. 2024 ESC guidelines for the management of AF developed in collaboration with EACTS. European Heart J.2024:45,3314-3414",
+      "doi_or_url": null,
+      "source": {
+        "document_id": "ICMR-CARD-001",
+        "document_name": "Atrial Fibrillation",
+        "page_number": 1,
+        "section": "REFERENCES",
+        "source_text_reference": "VanGelder et al. 2024 ESC guidelines for the management of AF developed in collaboration with EACTS. European Heart J.2024:45,3314-3414",
+        "bounding_box": [
+          42.779701232910156,
+          1548.3492431640625,
+          810.1583862304688,
+          1562.7042236328125
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    }
+  ],
+  "abbreviations": {
+    "STW": "Standard Treatment Workflow",
+    "ICMR": "Indian Council of Medical Research",
+    "DHR": "Department of Health Research",
+    "MoHFW": "Ministry of Health and Family Welfare",
+    "ECG": "Electrocardiogram",
+    "PCI": "Percutaneous Coronary Intervention",
+    "PHC": "Primary Health Centre",
+    "CHC": "Community Health Centre",
+    "ICU": "Intensive Care Unit"
+  }
+}

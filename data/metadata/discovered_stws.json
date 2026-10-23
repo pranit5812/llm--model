@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "source_portal": "https://www.icmr.gov.in/standard-treatment-workflows-stws",
+    "specialty": "Cardiology",
+    "count": 7
+  },
+  "documents": [
+    {
+      "sequence": "1",
+      "specialty": "Cardiology",
+      "title": "Atrial Fibrillation",
+      "pdf_url": "https://www.icmr.gov.in/icmrobject/uploads/STWs/1768823343_cardiology_1-1.pdf",
+      "stated_size": "43.80 KB",
+      "document_type": "individual_stw",
+      "source_domain": "www.icmr.gov.in"
+    },
+    {
+      "sequence": "2",
+      "specialty": "Cardiology",
+      "title": "Bradyarrythmias",
+      "pdf_url": "https://www.icmr.gov.in/icmrobject/uploads/STWs/1771492063_bradyarrthymia13_2_2.pdf",
+      "stated_size": "5.70 MB",
+      "document_type": "individual_stw",
+      "source_domain": "www.icmr.gov.in"
+    },
+    {
+      "sequence": "3",
+      "specialty": "Cardiology",
+      "title": "Heart failure",
+      "pdf_url": "https://www.icmr.gov.in/icmrobject/uploads/STWs/1768823345_cardiology_1-3.pdf",
+      "stated_size": "211.59 KB",
+      "document_type": "individual_stw",
+      "source_domain": "www.icmr.gov.in"
+    },
+    {
+      "sequence": "4",
+      "specialty": "Cardiology",
+      "title": "NSTEMI",
+      "pdf_url": "https://www.icmr.gov.in/icmrobject/uploads/STWs/1768823342_cardiology_1-4.pdf",
+      "stated_size": "204.28 KB",
+      "document_type": "individual_stw",
+      "source_domain": "www.icmr.gov.in"
+    },
+    {
+      "sequence": "5",
+      "specialty": "Cardiology",
+      "title": "Stable angina",
+      "pdf_url": "https://www.icmr.gov.in/icmrobject/uploads/STWs/1768823342_cardiology_1-6.pdf",
+      "stated_size": "10.71 MB",
+      "document_type": "individual_stw",
+      "source_domain": "www.icmr.gov.in"
+    },
+    {
+      "sequence": "6",
+      "specialty": "Cardiology",
+      "title": "STEMI",
+      "pdf_url": "https://www.icmr.gov.in/icmrobject/uploads/STWs/1768823342_cardiology_1-5.pdf",
+      "stated_size": "33.42 MB",
+      "document_type": "individual_stw",
+      "source_domain": "www.icmr.gov.in"
+    },
+    {
+      "sequence": "7",
+      "specialty": "Cardiology",
+      "title": "Cardiology (All)",
+      "pdf_url": "https://www.icmr.gov.in/icmrobject/uploads/STWs/1771492083_cardiology_all.pdf",
+      "stated_size": "7.67 MB",
+      "document_type": "consolidated_stw",
+      "source_domain": "www.icmr.gov.in"
+    }
+  ]
+}

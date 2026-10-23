@@ -1,0 +1,247 @@
+{
+  "metadata": {
+    "document_id": "ICMR-NEUR-004",
+    "title": "Headache",
+    "specialty": "Neurology",
+    "condition": "Headache",
+    "icd_11_code": null,
+    "volume": "Volume 1",
+    "edition": "1.0",
+    "source_organization": "Indian Council of Medical Research (ICMR)",
+    "source_url": "https://www.icmr.gov.in/icmrobject/uploads/STWs/1725952344_neurology_headache.pdf",
+    "local_path": "data\\raw\\neurology\\1725952344_neurology_headache.pdf",
+    "total_pages": 1,
+    "document_hash": "4c390a218df0dd29782444a37441647a392015e50e001c5234d2430ba3ec2dcc"
+  },
+  "clinical_presentation": null,
+  "diagnostic_criteria": [],
+  "investigations": [],
+  "tier_management": [],
+  "medications": [
+    {
+      "medication_id": "MED_P1_01",
+      "generic_name": "Heparin",
+      "drug_class": null,
+      "dosage": "heparin/LMWH (Dose not specified in text)",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-NEUR-004",
+        "document_name": "Headache",
+        "page_number": 1,
+        "section": "THROMBOSIS",
+        "source_text_reference": "heparin/LMWH",
+        "bounding_box": [
+          325.4813232421875,
+          1196.8194580078125,
+          410.5343322753906,
+          1210.239501953125
+        ],
+        "extraction_type": "text",
+        "review_status": "needs_review",
+        "requires_manual_review": true,
+        "review_notes": "Medication 'Heparin' mentioned in workflow without explicit dosage or units in source text",
+        "normalized_term": null
+      }
+    }
+  ],
+  "contraindications": [],
+  "referral_criteria": [],
+  "flowcharts": [],
+  "tables": [
+    {
+      "table_id": "TAB_P1_02",
+      "title": "Table 2 (Page 1)",
+      "headers": [
+        "CAUSES OF HEADACHE",
+        "TREATMENT OF HEADACHE"
+      ],
+      "rows": [
+        {
+          "row_id": "T2_R1",
+          "cells": {
+            "CAUSES OF HEADACHE": "Intra cerebral hemorrhage",
+            "TREATMENT OF HEADACHE": "Good control of blood pressure"
+          },
+          "source": {
+            "document_id": "ICMR-NEUR-004",
+            "document_name": "Headache",
+            "page_number": 1,
+            "section": "TABLE_2",
+            "source_text_reference": "CAUSES OF HEADACHE: Intra cerebral hemorrhage; TREATMENT OF HEADACHE: Good control of blood pressure",
+            "bounding_box": [
+              440.33697509765625,
+              1324.3839721679688,
+              831.0289916992188,
+              1471.236063639323
+            ],
+            "extraction_type": "table",
+            "review_status": "extracted",
+            "requires_manual_review": false,
+            "review_notes": null,
+            "normalized_term": null
+          }
+        },
+        {
+          "row_id": "T2_R2",
+          "cells": {
+            "CAUSES OF HEADACHE": "Seizures",
+            "TREATMENT OF HEADACHE": "Antiepileptic medications"
+          },
+          "source": {
+            "document_id": "ICMR-NEUR-004",
+            "document_name": "Headache",
+            "page_number": 1,
+            "section": "TABLE_2",
+            "source_text_reference": "CAUSES OF HEADACHE: Seizures; TREATMENT OF HEADACHE: Antiepileptic medications",
+            "bounding_box": [
+              440.33697509765625,
+              1324.3839721679688,
+              831.0289916992188,
+              1471.236063639323
+            ],
+            "extraction_type": "table",
+            "review_status": "extracted",
+            "requires_manual_review": false,
+            "review_notes": null,
+            "normalized_term": null
+          }
+        },
+        {
+          "row_id": "T2_R3",
+          "cells": {
+            "CAUSES OF HEADACHE": "Cerebral venous sinus thrombosis",
+            "TREATMENT OF HEADACHE": "Follow up of anticoagulation"
+          },
+          "source": {
+            "document_id": "ICMR-NEUR-004",
+            "document_name": "Headache",
+            "page_number": 1,
+            "section": "TABLE_2",
+            "source_text_reference": "CAUSES OF HEADACHE: Cerebral venous sinus thrombosis; TREATMENT OF HEADACHE: Follow up of anticoagulation",
+            "bounding_box": [
+              440.33697509765625,
+              1324.3839721679688,
+              831.0289916992188,
+              1471.236063639323
+            ],
+            "extraction_type": "table",
+            "review_status": "extracted",
+            "requires_manual_review": false,
+            "review_notes": null,
+            "normalized_term": null
+          }
+        },
+        {
+          "row_id": "T2_R4",
+          "cells": {
+            "CAUSES OF HEADACHE": "Migraine",
+            "TREATMENT OF HEADACHE": "Give prophylaxis for adequate duration of time and taper after remission"
+          },
+          "source": {
+            "document_id": "ICMR-NEUR-004",
+            "document_name": "Headache",
+            "page_number": 1,
+            "section": "TABLE_2",
+            "source_text_reference": "CAUSES OF HEADACHE: Migraine; TREATMENT OF HEADACHE: Give prophylaxis for adequate duration of time and taper after remission",
+            "bounding_box": [
+              440.33697509765625,
+              1324.3839721679688,
+              831.0289916992188,
+              1471.236063639323
+            ],
+            "extraction_type": "table",
+            "review_status": "extracted",
+            "requires_manual_review": false,
+            "review_notes": null,
+            "normalized_term": null
+          }
+        }
+      ],
+      "source": {
+        "document_id": "ICMR-NEUR-004",
+        "document_name": "Headache",
+        "page_number": 1,
+        "section": "TABLE_2",
+        "source_text_reference": "CAUSES OF HEADACHE: Intra cerebral hemorrhage; TREATMENT OF HEADACHE: Good control of blood pressure\nCAUSES OF HEADACHE: Seizures; TREATMENT OF HEADACHE: Antiepileptic medications\nCAUSES OF HEADACHE: Cerebral venous sinus thrombosis; TREATMENT OF HEADACHE: Follow up of anticoagulation\nCAUSES OF HEADACHE: Migraine; TREATMENT OF HEADACHE: Give prophylaxis for adequate duration of time and taper after remission",
+        "bounding_box": [
+          440.33697509765625,
+          1324.3839721679688,
+          831.0289916992188,
+          1471.236063639323
+        ],
+        "extraction_type": "table",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    }
+  ],
+  "references": [
+    {
+      "reference_id": "REF_P1_01",
+      "citation_text": "Hainer BL, Matheson EM. Approach to acute headache in adults. American family physician. 2013 May 15;87(10).",
+      "doi_or_url": null,
+      "source": {
+        "document_id": "ICMR-NEUR-004",
+        "document_name": "Headache",
+        "page_number": 1,
+        "section": "REFERENCES",
+        "source_text_reference": "1.  Hainer BL, Matheson EM. Approach to acute headache in adults. American family physician. 2013 May 15;87(10).",
+        "bounding_box": [
+          9.596699714660645,
+          1516.235107421875,
+          446.5772399902344,
+          1528.340087890625
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "reference_id": "REF_P1_02",
+      "citation_text": "https://www.uptodate.com/contents/evaluation-of-headache-in-adults",
+      "doi_or_url": null,
+      "source": {
+        "document_id": "ICMR-NEUR-004",
+        "document_name": "Headache",
+        "page_number": 1,
+        "section": "REFERENCES",
+        "source_text_reference": "2.  https://www.uptodate.com/contents/evaluation-of-headache-in-adults",
+        "bounding_box": [
+          9.596699714660645,
+          1527.0350341796875,
+          285.2766418457031,
+          1539.1400146484375
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    }
+  ],
+  "abbreviations": {
+    "STW": "Standard Treatment Workflow",
+    "ICMR": "Indian Council of Medical Research",
+    "DHR": "Department of Health Research",
+    "MoHFW": "Ministry of Health and Family Welfare",
+    "ECG": "Electrocardiogram",
+    "PCI": "Percutaneous Coronary Intervention",
+    "PHC": "Primary Health Centre",
+    "CHC": "Community Health Centre",
+    "ICU": "Intensive Care Unit"
+  }
+}

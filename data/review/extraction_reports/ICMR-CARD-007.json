@@ -1,0 +1,384 @@
+{
+  "document_id": "ICMR-CARD-007",
+  "condition": "Cardiology (All)",
+  "total_pages": 16,
+  "text_blocks_count": 674,
+  "sections_count": 218,
+  "tables_detected": 14,
+  "tables_extracted": 14,
+  "flowcharts_count": 5,
+  "medications_count": 93,
+  "investigations_count": 56,
+  "contraindications_count": 32,
+  "referral_rules_count": 22,
+  "provenance_coverage_percent": 100.0,
+  "manual_review_items_count": 61,
+  "manual_review_details": [
+    {
+      "entity": "clinical_presentation",
+      "reason": "Typographical variant 'lasing' for lasting",
+      "page": 8
+    },
+    {
+      "entity": "diagnostic_criterion",
+      "text": "ECG ideally within 10mins from\nthe First Medical Contract (F",
+      "reason": "Typographical error 'First Medical Contract' for First Medical Contact",
+      "page": 13
+    },
+    {
+      "entity": "medication",
+      "raw_text": "Direct oral anticoagulants (DOAC)",
+      "reason": "Medication 'Doac' mentioned in workflow without explicit dosage or units in source text",
+      "page": 8
+    },
+    {
+      "entity": "medication",
+      "raw_text": "Avoid concomitant aspirin, anti platelets, NSAIDs",
+      "reason": "Medication 'Aspirin' mentioned in workflow without explicit dosage or units in source text",
+      "page": 8
+    },
+    {
+      "entity": "medication",
+      "raw_text": "Start OAC",
+      "reason": "Medication 'Oac' mentioned in workflow without explicit dosage or units in source text",
+      "page": 8
+    },
+    {
+      "entity": "medication",
+      "raw_text": "Start Metoprolol/Diltiazem/Verapamil if HR >110/min &",
+      "reason": "Medication 'Metoprolol' mentioned in workflow without explicit dosage or units in source text",
+      "page": 8
+    },
+    {
+      "entity": "medication",
+      "raw_text": "Drugs (e.g. concomitant aspirin or",
+      "reason": "Medication 'Aspirin' mentioned in workflow without explicit dosage or units in source text",
+      "page": 8
+    },
+    {
+      "entity": "medication",
+      "raw_text": "OAC if score >1",
+      "reason": "Medication 'Oac' mentioned in workflow without explicit dosage or units in source text",
+      "page": 8
+    },
+    {
+      "entity": "medication",
+      "raw_text": "BB + digoxin in HF",
+      "reason": "Medication 'Digoxin' mentioned in workflow without explicit dosage or units in source text",
+      "page": 8
+    },
+    {
+      "entity": "medication",
+      "raw_text": "Start OAC (Oral Anticoagulant)",
+      "reason": "Medication 'Oac' mentioned in workflow without explicit dosage or units in source text",
+      "page": 8
+    },
+    {
+      "entity": "medication",
+      "raw_text": "Amiodarone",
+      "reason": "Medication 'Amiodarone' mentioned in workflow without explicit dosage or units in source text",
+      "page": 8
+    },
+    {
+      "entity": "medication",
+      "raw_text": "Flecainide",
+      "reason": "Medication 'Flecainide' mentioned in workflow without explicit dosage or units in source text",
+      "page": 8
+    },
+    {
+      "entity": "medication",
+      "raw_text": "Propafenone",
+      "reason": "Medication 'Propafenone' mentioned in workflow without explicit dosage or units in source text",
+      "page": 8
+    },
+    {
+      "entity": "medication",
+      "raw_text": "Sotalol",
+      "reason": "Medication 'Sotalol' mentioned in workflow without explicit dosage or units in source text",
+      "page": 8
+    },
+    {
+      "entity": "medication",
+      "raw_text": "(Flecainide",
+      "reason": "Medication 'Flecainide' mentioned in workflow without explicit dosage or units in source text",
+      "page": 8
+    },
+    {
+      "entity": "medication",
+      "raw_text": "Propafenone)",
+      "reason": "Medication 'Propafenone' mentioned in workflow without explicit dosage or units in source text",
+      "page": 8
+    },
+    {
+      "entity": "medication",
+      "raw_text": "Re-assess clinical status, need and adequacy of OAC",
+      "reason": "Medication 'Oac' mentioned in workflow without explicit dosage or units in source text",
+      "page": 8
+    },
+    {
+      "entity": "medication",
+      "raw_text": "Blockers or digoxin)",
+      "reason": "Medication 'Digoxin' mentioned in workflow without explicit dosage or units in source text",
+      "page": 9
+    },
+    {
+      "entity": "medication",
+      "raw_text": "Increase diuretics and reduce carvedilol to manage",
+      "reason": "Medication 'Carvedilol' mentioned in workflow without explicit dosage or units in source text",
+      "page": 10
+    },
+    {
+      "entity": "medication",
+      "raw_text": "Likely CHF: Decongest with furosemide",
+      "reason": "Medication 'Furosemide' mentioned in workflow without explicit dosage or units in source text",
+      "page": 10
+    },
+    {
+      "entity": "medication",
+      "raw_text": "Optimise therapy with furosemide/ARNI/",
+      "reason": "Medication 'Furosemide' mentioned in workflow without explicit dosage or units in source text",
+      "page": 10
+    },
+    {
+      "entity": "medication",
+      "raw_text": "spironolactone/ O2 and stabilize",
+      "reason": "Medication 'Spironolactone' mentioned in workflow without explicit dosage or units in source text",
+      "page": 10
+    },
+    {
+      "entity": "medication",
+      "raw_text": ". Optimize therapy with furosemide, ARNI, β  blockers (HFrEF,",
+      "reason": "Medication 'Furosemide' mentioned in workflow without explicit dosage or units in source text",
+      "page": 10
+    },
+    {
+      "entity": "medication",
+      "raw_text": "HFMrEF, HFpEF) spironolactone and O2",
+      "reason": "Medication 'Spironolactone' mentioned in workflow without explicit dosage or units in source text",
+      "page": 10
+    },
+    {
+      "entity": "medication",
+      "raw_text": "Decongest with intravenous furosemide",
+      "reason": "Medication 'Furosemide' mentioned in workflow without explicit dosage or units in source text",
+      "page": 10
+    },
+    {
+      "entity": "medication",
+      "raw_text": "Start ARNI and spironolactone orally",
+      "reason": "Medication 'Arni' mentioned in workflow without explicit dosage or units in source text",
+      "page": 10
+    },
+    {
+      "entity": "medication",
+      "raw_text": "prevention with aspirin",
+      "reason": "Medication 'Aspirin' mentioned in workflow without explicit dosage or units in source text",
+      "page": 10
+    },
+    {
+      "entity": "medication",
+      "raw_text": "intolerant to aspirin)",
+      "reason": "Medication 'Aspirin' mentioned in workflow without explicit dosage or units in source text",
+      "page": 11
+    },
+    {
+      "entity": "medication",
+      "raw_text": "Ticagralor 90 mg BD",
+      "reason": "Typographical variant 'Ticagralor' in ICMR source PDF",
+      "page": 11
+    },
+    {
+      "entity": "medication",
+      "raw_text": ". Metoprolol:",
+      "reason": "Medication 'Metoprolol' mentioned in workflow without explicit dosage or units in source text",
+      "page": 11
+    },
+    {
+      "entity": "medication",
+      "raw_text": ". Nitrates:",
+      "reason": "Medication 'Nitrates' mentioned in workflow without explicit dosage or units in source text",
+      "page": 11
+    },
+    {
+      "entity": "medication",
+      "raw_text": "Isosorbide mono-nitare: 20 to 60 mg in 2 devided dose",
+      "reason": "Typographical variant 'mono-nitare' in source text",
+      "page": 11
+    },
+    {
+      "entity": "medication",
+      "raw_text": ". Control angina: Metoprolol",
+      "reason": "Medication 'Metoprolol' mentioned in workflow without explicit dosage or units in source text",
+      "page": 11
+    },
+    {
+      "entity": "medication",
+      "raw_text": "Add nitrates if symptoms not",
+      "reason": "Medication 'Nitrates' mentioned in workflow without explicit dosage or units in source text",
+      "page": 11
+    },
+    {
+      "entity": "medication",
+      "raw_text": ". Aspirin & high intensity statins",
+      "reason": "Medication 'Aspirin' mentioned in workflow without explicit dosage or units in source text",
+      "page": 11
+    },
+    {
+      "entity": "medication",
+      "raw_text": "choose from trimetazidine,",
+      "reason": "Medication 'Trimetazidine' mentioned in workflow without explicit dosage or units in source text",
+      "page": 11
+    },
+    {
+      "entity": "medication",
+      "raw_text": "nicorandil and ranolazine",
+      "reason": "Medication 'Nicorandil' mentioned in workflow without explicit dosage or units in source text",
+      "page": 11
+    },
+    {
+      "entity": "medication",
+      "raw_text": "Aspirin, Clopidogrel in",
+      "reason": "Medication 'Aspirin' mentioned in workflow without explicit dosage or units in source text",
+      "page": 12
+    },
+    {
+      "entity": "medication",
+      "raw_text": "Heparin/ LMWH",
+      "reason": "Medication 'Heparin' mentioned in workflow without explicit dosage or units in source text",
+      "page": 12
+    },
+    {
+      "entity": "medication",
+      "raw_text": "Metoprolol",
+      "reason": "Medication 'Metoprolol' mentioned in workflow without explicit dosage or units in source text",
+      "page": 12
+    },
+    {
+      "entity": "medication",
+      "raw_text": ".Continue Aspirin,",
+      "reason": "Medication 'Aspirin' mentioned in workflow without explicit dosage or units in source text",
+      "page": 12
+    },
+    {
+      "entity": "medication",
+      "raw_text": "Clopidogrel, Heparin &",
+      "reason": "Medication 'Clopidogrel' mentioned in workflow without explicit dosage or units in source text",
+      "page": 12
+    },
+    {
+      "entity": "medication",
+      "raw_text": ".Add nitrates if needed",
+      "reason": "Medication 'Nitrates' mentioned in workflow without explicit dosage or units in source text",
+      "page": 12
+    },
+    {
+      "entity": "medication",
+      "raw_text": ". Continue aspirin and heparin",
+      "reason": "Medication 'Aspirin' mentioned in workflow without explicit dosage or units in source text",
+      "page": 12
+    },
+    {
+      "entity": "medication",
+      "raw_text": ". Load with clopidogrel or prasugrel or ticagralor if not already done",
+      "reason": "Medication 'Clopidogrel' mentioned in workflow without explicit dosage or units in source text",
+      "page": 12
+    },
+    {
+      "entity": "medication",
+      "raw_text": "intra-venous nitrates if ongoing pain, severe MR or LVF)",
+      "reason": "Medication 'Nitrates' mentioned in workflow without explicit dosage or units in source text",
+      "page": 12
+    },
+    {
+      "entity": "medication",
+      "raw_text": "with Ticagrelor or prasugrel if PCI is planned",
+      "reason": "Medication 'Ticagrelor' mentioned in workflow without explicit dosage or units in source text",
+      "page": 12
+    },
+    {
+      "entity": "medication",
+      "raw_text": ". Aspirin use within 7 days",
+      "reason": "Medication 'Aspirin' mentioned in workflow without explicit dosage or units in source text",
+      "page": 12
+    },
+    {
+      "entity": "medication",
+      "raw_text": ". Ticagralor: Loading dose 180 mg followed by 90 mg",
+      "reason": "Typographical variant 'Ticagralor' in ICMR source PDF",
+      "page": 12
+    },
+    {
+      "entity": "medication",
+      "raw_text": "Isosorbide mono-nitare 20 to 60 mg in 2 devided",
+      "reason": "Typographical variant 'mono-nitare' in source text",
+      "page": 12
+    },
+    {
+      "entity": "medication",
+      "raw_text": ".Conservative management: Aspirin, clopidogrel, BB",
+      "reason": "Medication 'Aspirin' mentioned in workflow without explicit dosage or units in source text",
+      "page": 12
+    },
+    {
+      "entity": "medication",
+      "raw_text": ". Use unfractionated heparin",
+      "reason": "Medication 'Heparin' mentioned in workflow without explicit dosage or units in source text",
+      "page": 13
+    },
+    {
+      "entity": "medication",
+      "raw_text": ". Ticagralor: Loading dose 180 mg followed by 90 mg BD",
+      "reason": "Typographical variant 'Ticagralor' in ICMR source PDF",
+      "page": 13
+    },
+    {
+      "entity": "medication",
+      "raw_text": "Metoprolol:",
+      "reason": "Medication 'Metoprolol' mentioned in workflow without explicit dosage or units in source text",
+      "page": 13
+    },
+    {
+      "entity": "medication",
+      "raw_text": "Nitrates:",
+      "reason": "Medication 'Nitrates' mentioned in workflow without explicit dosage or units in source text",
+      "page": 13
+    },
+    {
+      "entity": "medication",
+      "raw_text": "Isosorbide mono-nitare 20 to 60 mg in 2 divided dose",
+      "reason": "Typographical variant 'mono-nitare' in source text",
+      "page": 13
+    },
+    {
+      "entity": "medication",
+      "raw_text": "Morphine:",
+      "reason": "Medication 'Morphine' mentioned in workflow without explicit dosage or units in source text",
+      "page": 13
+    },
+    {
+      "entity": "medication",
+      "raw_text": "Tenecteplase",
+      "reason": "Medication 'Tenecteplase' mentioned in workflow without explicit dosage or units in source text",
+      "page": 13
+    },
+    {
+      "entity": "medication",
+      "raw_text": "Reteplase",
+      "reason": "Medication 'Reteplase' mentioned in workflow without explicit dosage or units in source text",
+      "page": 13
+    },
+    {
+      "entity": "medication",
+      "raw_text": "Alteplase",
+      "reason": "Medication 'Alteplase' mentioned in workflow without explicit dosage or units in source text",
+      "page": 13
+    },
+    {
+      "entity": "medication",
+      "raw_text": "Streptokinase",
+      "reason": "Medication 'Streptokinase' mentioned in workflow without explicit dosage or units in source text",
+      "page": 13
+    }
+  ],
+  "extraction_errors": []
+}

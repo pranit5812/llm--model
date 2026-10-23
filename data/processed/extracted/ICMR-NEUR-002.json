@@ -1,0 +1,5157 @@
+{
+  "document_id": "ICMR-NEUR-002",
+  "file_path": "data\\raw\\neurology\\1725952345_neurology_dementia.pdf",
+  "sha256_hash": "b1e1c604670dc08624344e182517d1d229e1570011464e12ac258f7dac455fee",
+  "total_pages": 1,
+  "pages": [
+    {
+      "page_number": 1,
+      "width": 841.8900146484375,
+      "height": 1633.6800537109375,
+      "blocks": [
+        {
+          "block_id": "P1_B001",
+          "page_number": 1,
+          "bbox": [
+            237.01220703125,
+            680.5894775390625,
+            353.3822937011719,
+            694.0094604492188
+          ],
+          "text": "Cognitive decline in",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "Cognitive decline in",
+              "bbox": [
+                237.01220703125,
+                680.5894775390625,
+                353.3822937011719,
+                694.0094604492188
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "  Cognitive decline in ",
+                  "bbox": [
+                    237.01220703125,
+                    680.5894775390625,
+                    353.3822937011719,
+                    694.0094604492188
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B002",
+          "page_number": 1,
+          "bbox": [
+            244.00820922851562,
+            693.7894897460938,
+            327.88323974609375,
+            720.4094848632812
+          ],
+          "text": "more than one\ndomain",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "more than one",
+              "bbox": [
+                244.00820922851562,
+                693.7894897460938,
+                327.88323974609375,
+                707.20947265625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "more than one ",
+                  "bbox": [
+                    244.00820922851562,
+                    693.7894897460938,
+                    327.88323974609375,
+                    707.20947265625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "domain",
+              "bbox": [
+                244.00820922851562,
+                706.989501953125,
+                286.72119140625,
+                720.4094848632812
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "domain",
+                  "bbox": [
+                    244.00820922851562,
+                    706.989501953125,
+                    286.72119140625,
+                    720.4094848632812
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B003",
+          "page_number": 1,
+          "bbox": [
+            352.3013000488281,
+            651.6802368164062,
+            488.8551940917969,
+            672.3902587890625
+          ],
+          "text": "No\nNo dementia",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "No",
+              "bbox": [
+                352.3013000488281,
+                651.6802368164062,
+                367.8883056640625,
+                665.1002197265625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "No",
+                  "bbox": [
+                    352.3013000488281,
+                    651.6802368164062,
+                    367.8883056640625,
+                    665.1002197265625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "No dementia",
+              "bbox": [
+                417.17919921875,
+                658.9702758789062,
+                488.8551940917969,
+                672.3902587890625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "No dementia",
+                  "bbox": [
+                    417.17919921875,
+                    658.9702758789062,
+                    488.8551940917969,
+                    672.3902587890625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B004",
+          "page_number": 1,
+          "bbox": [
+            413.92919921875,
+            732.1480712890625,
+            527.7451171875,
+            745.5680541992188
+          ],
+          "text": "Suspected dementia",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "Suspected dementia",
+              "bbox": [
+                413.92919921875,
+                732.1480712890625,
+                527.7451171875,
+                745.5680541992188
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "Suspected dementia",
+                  "bbox": [
+                    413.92919921875,
+                    732.1480712890625,
+                    527.7451171875,
+                    745.5680541992188
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B005",
+          "page_number": 1,
+          "bbox": [
+            225.38619995117188,
+            752.51513671875,
+            355.5272216796875,
+            765.9351196289062
+          ],
+          "text": "Delirium or Depression?",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "Delirium or Depression?",
+              "bbox": [
+                225.38619995117188,
+                752.51513671875,
+                355.5272216796875,
+                765.9351196289062
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "Delirium or Depression?",
+                  "bbox": [
+                    225.38619995117188,
+                    752.51513671875,
+                    355.5272216796875,
+                    765.9351196289062
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B006",
+          "page_number": 1,
+          "bbox": [
+            235.88670349121094,
+            799.6118774414062,
+            337.49371337890625,
+            813.0318603515625
+          ],
+          "text": "Functional decline",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "Functional decline",
+              "bbox": [
+                235.88670349121094,
+                799.6118774414062,
+                337.49371337890625,
+                813.0318603515625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "Functional decline",
+                  "bbox": [
+                    235.88670349121094,
+                    799.6118774414062,
+                    337.49371337890625,
+                    813.0318603515625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B007",
+          "page_number": 1,
+          "bbox": [
+            267.2257080078125,
+            727.27587890625,
+            285.2767028808594,
+            740.6958618164062
+          ],
+          "text": "Yes",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "Yes",
+              "bbox": [
+                267.2257080078125,
+                727.27587890625,
+                285.2767028808594,
+                740.6958618164062
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "Yes",
+                  "bbox": [
+                    267.2257080078125,
+                    727.27587890625,
+                    285.2767028808594,
+                    740.6958618164062
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B008",
+          "page_number": 1,
+          "bbox": [
+            265.22369384765625,
+            776.6438598632812,
+            280.8106994628906,
+            790.0638427734375
+          ],
+          "text": "No",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "No",
+              "bbox": [
+                265.22369384765625,
+                776.6438598632812,
+                280.8106994628906,
+                790.0638427734375
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "No",
+                  "bbox": [
+                    265.22369384765625,
+                    776.6438598632812,
+                    280.8106994628906,
+                    790.0638427734375
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B009",
+          "page_number": 1,
+          "bbox": [
+            82.57029724121094,
+            747.1480712890625,
+            205.42938232421875,
+            767.7486572265625
+          ],
+          "text": "Yes\nTreat",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "Yes",
+              "bbox": [
+                187.37840270996094,
+                747.1480712890625,
+                205.42938232421875,
+                760.5680541992188
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "Yes",
+                  "bbox": [
+                    187.37840270996094,
+                    747.1480712890625,
+                    205.42938232421875,
+                    760.5680541992188
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "Treat",
+              "bbox": [
+                82.57029724121094,
+                754.3286743164062,
+                110.24629974365234,
+                767.7486572265625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "Treat",
+                  "bbox": [
+                    82.57029724121094,
+                    754.3286743164062,
+                    110.24629974365234,
+                    767.7486572265625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B010",
+          "page_number": 1,
+          "bbox": [
+            474.1806945800781,
+            771.07373046875,
+            492.231689453125,
+            784.4937133789062
+          ],
+          "text": "Yes",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "Yes",
+              "bbox": [
+                474.1806945800781,
+                771.07373046875,
+                492.231689453125,
+                784.4937133789062
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "Yes",
+                  "bbox": [
+                    474.1806945800781,
+                    771.07373046875,
+                    492.231689453125,
+                    784.4937133789062
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B011",
+          "page_number": 1,
+          "bbox": [
+            364.79669189453125,
+            792.6227416992188,
+            724.7777709960938,
+            812.5167236328125
+          ],
+          "text": "No\nFollow up and Re-evaluation",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "No",
+              "bbox": [
+                364.79669189453125,
+                792.6227416992188,
+                380.3836975097656,
+                806.042724609375
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "No",
+                  "bbox": [
+                    364.79669189453125,
+                    792.6227416992188,
+                    380.3836975097656,
+                    806.042724609375
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "Follow up and Re-evaluation",
+              "bbox": [
+                563.099609375,
+                799.0967407226562,
+                724.7777709960938,
+                812.5167236328125
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "  Follow up and Re-evaluation",
+                  "bbox": [
+                    563.099609375,
+                    799.0967407226562,
+                    724.7777709960938,
+                    812.5167236328125
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B012",
+          "page_number": 1,
+          "bbox": [
+            265.2196044921875,
+            820.6127319335938,
+            283.2705993652344,
+            834.03271484375
+          ],
+          "text": "Yes",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "Yes",
+              "bbox": [
+                265.2196044921875,
+                820.6127319335938,
+                283.2705993652344,
+                834.03271484375
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "Yes",
+                  "bbox": [
+                    265.2196044921875,
+                    820.6127319335938,
+                    283.2705993652344,
+                    834.03271484375
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B013",
+          "page_number": 1,
+          "bbox": [
+            269.8778991699219,
+            842.8892822265625,
+            324.15185546875,
+            856.3092651367188
+          ],
+          "text": "Dementia",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "Dementia",
+              "bbox": [
+                269.8778991699219,
+                842.8892822265625,
+                324.15185546875,
+                856.3092651367188
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "Dementia",
+                  "bbox": [
+                    269.8778991699219,
+                    842.8892822265625,
+                    324.15185546875,
+                    856.3092651367188
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B014",
+          "page_number": 1,
+          "bbox": [
+            218.88229370117188,
+            877.2676391601562,
+            572.585205078125,
+            898.6139526367188
+          ],
+          "text": "Typical clinical proﬁle (age, progression, no focal signs)\nYes",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "Typical clinical proﬁle (age, progression, no focal signs)",
+              "bbox": [
+                218.88229370117188,
+                885.1939697265625,
+                520.53662109375,
+                898.6139526367188
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "  Typical clinical proﬁle (age, progression, no focal signs)",
+                  "bbox": [
+                    218.88229370117188,
+                    885.1939697265625,
+                    520.53662109375,
+                    898.6139526367188
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "Yes",
+              "bbox": [
+                554.5341796875,
+                877.2676391601562,
+                572.585205078125,
+                890.6876220703125
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "Yes",
+                  "bbox": [
+                    554.5341796875,
+                    877.2676391601562,
+                    572.585205078125,
+                    890.6876220703125
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B015",
+          "page_number": 1,
+          "bbox": [
+            595.97119140625,
+            886.51904296875,
+            665.1831665039062,
+            899.9390258789062
+          ],
+          "text": "Probable AD",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "Probable AD",
+              "bbox": [
+                595.97119140625,
+                886.51904296875,
+                665.1831665039062,
+                899.9390258789062
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "Probable AD",
+                  "bbox": [
+                    595.97119140625,
+                    886.51904296875,
+                    665.1831665039062,
+                    899.9390258789062
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B016",
+          "page_number": 1,
+          "bbox": [
+            721.8222045898438,
+            713.280029296875,
+            753.53515625,
+            766.300048828125
+          ],
+          "text": "ASHA\nPHC\nCHC\nDH",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "ASHA",
+              "bbox": [
+                721.8222045898438,
+                713.280029296875,
+                753.53515625,
+                726.7000122070312
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "ASHA",
+                  "bbox": [
+                    721.8222045898438,
+                    713.280029296875,
+                    753.53515625,
+                    726.7000122070312
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "PHC",
+              "bbox": [
+                721.8222045898438,
+                726.4800415039062,
+                745.5932006835938,
+                739.9000244140625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "PHC",
+                  "bbox": [
+                    721.8222045898438,
+                    726.4800415039062,
+                    745.5932006835938,
+                    739.9000244140625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "CHC",
+              "bbox": [
+                721.8222045898438,
+                739.6800537109375,
+                745.857177734375,
+                753.1000366210938
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "CHC",
+                  "bbox": [
+                    721.8222045898438,
+                    739.6800537109375,
+                    745.857177734375,
+                    753.1000366210938
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "DH",
+              "bbox": [
+                721.8222045898438,
+                752.8800659179688,
+                739.0482177734375,
+                766.300048828125
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "DH",
+                  "bbox": [
+                    721.8222045898438,
+                    752.8800659179688,
+                    739.0482177734375,
+                    766.300048828125
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B017",
+          "page_number": 1,
+          "bbox": [
+            643.10009765625,
+            918.6729736328125,
+            761.8453369140625,
+            932.0929565429688
+          ],
+          "text": "VD/ mixed dementia",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "VD/ mixed dementia",
+              "bbox": [
+                643.10009765625,
+                918.6729736328125,
+                761.8453369140625,
+                932.0929565429688
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "  VD/ mixed dementia",
+                  "bbox": [
+                    643.10009765625,
+                    918.6729736328125,
+                    761.8453369140625,
+                    932.0929565429688
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B018",
+          "page_number": 1,
+          "bbox": [
+            511.287109375,
+            960.0786743164062,
+            612.729248046875,
+            973.4986572265625
+          ],
+          "text": "Lab investigation",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "Lab investigation",
+              "bbox": [
+                511.287109375,
+                960.0786743164062,
+                612.729248046875,
+                973.4986572265625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "  Lab investigation ",
+                  "bbox": [
+                    511.287109375,
+                    960.0786743164062,
+                    612.729248046875,
+                    973.4986572265625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B019",
+          "page_number": 1,
+          "bbox": [
+            528.4801025390625,
+            973.2786865234375,
+            592.6871948242188,
+            986.6986694335938
+          ],
+          "text": "TSH, vit. B12",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "TSH, vit. B12",
+              "bbox": [
+                528.4801025390625,
+                973.2786865234375,
+                592.6871948242188,
+                986.6986694335938
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "TSH, vit. B12",
+                  "bbox": [
+                    528.4801025390625,
+                    973.2786865234375,
+                    592.6871948242188,
+                    986.6986694335938
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B020",
+          "page_number": 1,
+          "bbox": [
+            198.70010375976562,
+            879.0636596679688,
+            214.287109375,
+            892.483642578125
+          ],
+          "text": "No",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "No",
+              "bbox": [
+                198.70010375976562,
+                879.0636596679688,
+                214.287109375,
+                892.483642578125
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "No",
+                  "bbox": [
+                    198.70010375976562,
+                    879.0636596679688,
+                    214.287109375,
+                    892.483642578125
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B021",
+          "page_number": 1,
+          "bbox": [
+            68.83789825439453,
+            969.3355712890625,
+            139.62289428710938,
+            982.7555541992188
+          ],
+          "text": "Other causes",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "Other causes",
+              "bbox": [
+                68.83789825439453,
+                969.3355712890625,
+                139.62289428710938,
+                982.7555541992188
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "Other causes",
+                  "bbox": [
+                    68.83789825439453,
+                    969.3355712890625,
+                    139.62289428710938,
+                    982.7555541992188
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B022",
+          "page_number": 1,
+          "bbox": [
+            608.80517578125,
+            836.4917602539062,
+            720.8392333984375,
+            863.1117553710938
+          ],
+          "text": "Medical college\nTertiary level centre",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "Medical college",
+              "bbox": [
+                608.80517578125,
+                836.4917602539062,
+                702.3931884765625,
+                849.9117431640625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "  Medical college ",
+                  "bbox": [
+                    608.80517578125,
+                    836.4917602539062,
+                    702.3931884765625,
+                    849.9117431640625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "Tertiary level centre",
+              "bbox": [
+                608.80517578125,
+                849.6917724609375,
+                720.8392333984375,
+                863.1117553710938
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "  Tertiary level centre",
+                  "bbox": [
+                    608.80517578125,
+                    849.6917724609375,
+                    720.8392333984375,
+                    863.1117553710938
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B023",
+          "page_number": 1,
+          "bbox": [
+            108.55220031738281,
+            120.74067687988281,
+            726.5034790039062,
+            146.44435119628906
+          ],
+          "text": "Standard Treatment Workﬂow (STW) for the Management of",
+          "avg_font_size": 18.68,
+          "max_font_size": 18.68,
+          "is_heading_candidate": true,
+          "lines": [
+            {
+              "text": "Standard Treatment Workﬂow (STW) for the Management of",
+              "bbox": [
+                108.55220031738281,
+                120.74067687988281,
+                726.5034790039062,
+                146.44435119628906
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "Standard Treatment Workﬂow (STW) for the Management of",
+                  "bbox": [
+                    108.55220031738281,
+                    120.74067687988281,
+                    726.5034790039062,
+                    146.44435119628906
+                  ],
+                  "font": "Montserrat-Black",
+                  "size": 18.68000030517578,
+                  "flags": 20
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B024",
+          "page_number": 1,
+          "bbox": [
+            330.75048828125,
+            137.3701171875,
+            504.30242919921875,
+            192.06842041015625
+          ],
+          "text": "DEMENTIA\nICD 10 - F02,F03,G30",
+          "avg_font_size": 20.22,
+          "max_font_size": 24.44,
+          "is_heading_candidate": true,
+          "lines": [
+            {
+              "text": "DEMENTIA",
+              "bbox": [
+                347.38330078125,
+                137.3701171875,
+                487.6689147949219,
+                170.9995574951172
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "DEMENTIA",
+                  "bbox": [
+                    347.38330078125,
+                    137.3701171875,
+                    487.6689147949219,
+                    170.9995574951172
+                  ],
+                  "font": "Montserrat-Black",
+                  "size": 24.440000534057617,
+                  "flags": 20
+                }
+              ]
+            },
+            {
+              "text": "ICD 10 - F02,F03,G30",
+              "bbox": [
+                330.75048828125,
+                170.0524139404297,
+                504.30242919921875,
+                192.06842041015625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "ICD 10 - F02,F03,G30",
+                  "bbox": [
+                    330.75048828125,
+                    170.0524139404297,
+                    504.30242919921875,
+                    192.06842041015625
+                  ],
+                  "font": "Montserrat-Black",
+                  "size": 16.0,
+                  "flags": 20
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B025",
+          "page_number": 1,
+          "bbox": [
+            32.557498931884766,
+            292.2169494628906,
+            119.01749420166016,
+            330.8419494628906
+          ],
+          "text": "CLINICAL\nFEATURES OF",
+          "avg_font_size": 15.0,
+          "max_font_size": 15.0,
+          "is_heading_candidate": true,
+          "lines": [
+            {
+              "text": "CLINICAL",
+              "bbox": [
+                41.70750045776367,
+                292.2169494628906,
+                106.36349487304688,
+                312.8419494628906
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "CLINICAL  ",
+                  "bbox": [
+                    41.70750045776367,
+                    292.2169494628906,
+                    106.36349487304688,
+                    312.8419494628906
+                  ],
+                  "font": "Futura-CondensedExtraBol",
+                  "size": 15.0,
+                  "flags": 16
+                }
+              ]
+            },
+            {
+              "text": "FEATURES OF",
+              "bbox": [
+                32.557498931884766,
+                310.2169494628906,
+                119.01749420166016,
+                330.8419494628906
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "FEATURES OF ",
+                  "bbox": [
+                    32.557498931884766,
+                    310.2169494628906,
+                    119.01749420166016,
+                    330.8419494628906
+                  ],
+                  "font": "Futura-CondensedExtraBol",
+                  "size": 15.0,
+                  "flags": 16
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B026",
+          "page_number": 1,
+          "bbox": [
+            40.64249801635742,
+            328.2169494628906,
+            106.40249633789062,
+            348.8419494628906
+          ],
+          "text": "DEMENTIA",
+          "avg_font_size": 15.0,
+          "max_font_size": 15.0,
+          "is_heading_candidate": true,
+          "lines": [
+            {
+              "text": "DEMENTIA",
+              "bbox": [
+                40.64249801635742,
+                328.2169494628906,
+                106.40249633789062,
+                348.8419494628906
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "DEMENTIA",
+                  "bbox": [
+                    40.64249801635742,
+                    328.2169494628906,
+                    106.40249633789062,
+                    348.8419494628906
+                  ],
+                  "font": "Futura-CondensedExtraBol",
+                  "size": 15.0,
+                  "flags": 16
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B027",
+          "page_number": 1,
+          "bbox": [
+            217.53269958496094,
+            222.97467041015625,
+            317.26971435546875,
+            236.39466857910156
+          ],
+          "text": "Impaired memory",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "Impaired memory",
+              "bbox": [
+                217.53269958496094,
+                222.97467041015625,
+                317.26971435546875,
+                236.39466857910156
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "Impaired memory",
+                  "bbox": [
+                    217.53269958496094,
+                    222.97467041015625,
+                    317.26971435546875,
+                    236.39466857910156
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B028",
+          "page_number": 1,
+          "bbox": [
+            246.22950744628906,
+            315.58355712890625,
+            454.61224365234375,
+            329.0308837890625
+          ],
+          "text": "Apathy\nAgression",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "Apathy",
+              "bbox": [
+                246.22950744628906,
+                315.61090087890625,
+                285.7745361328125,
+                329.0308837890625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "Apathy",
+                  "bbox": [
+                    246.22950744628906,
+                    315.61090087890625,
+                    285.7745361328125,
+                    329.0308837890625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "Agression",
+              "bbox": [
+                401.30621337890625,
+                315.58355712890625,
+                454.61224365234375,
+                329.0035400390625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "Agression",
+                  "bbox": [
+                    401.30621337890625,
+                    315.58355712890625,
+                    454.61224365234375,
+                    329.0035400390625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B029",
+          "page_number": 1,
+          "bbox": [
+            240.22999572753906,
+            406.62847900390625,
+            301.13702392578125,
+            420.0484619140625
+          ],
+          "text": "Depression",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "Depression",
+              "bbox": [
+                240.22999572753906,
+                406.62847900390625,
+                301.13702392578125,
+                420.0484619140625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "Depression",
+                  "bbox": [
+                    240.22999572753906,
+                    406.62847900390625,
+                    301.13702392578125,
+                    420.0484619140625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B030",
+          "page_number": 1,
+          "bbox": [
+            542.25390625,
+            315.83160400390625,
+            642.1118774414062,
+            329.2515869140625
+          ],
+          "text": "Mood ﬂuctuations",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "Mood ﬂuctuations",
+              "bbox": [
+                542.25390625,
+                315.83160400390625,
+                642.1118774414062,
+                329.2515869140625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "Mood ﬂuctuations",
+                  "bbox": [
+                    542.25390625,
+                    315.83160400390625,
+                    642.1118774414062,
+                    329.2515869140625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B031",
+          "page_number": 1,
+          "bbox": [
+            376.07861328125,
+            406.63043212890625,
+            644.784912109375,
+            420.0699462890625
+          ],
+          "text": "Personality change\nSleep disturbances",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "Personality change",
+              "bbox": [
+                540.4608764648438,
+                406.64996337890625,
+                644.784912109375,
+                420.0699462890625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "Personality change",
+                  "bbox": [
+                    540.4608764648438,
+                    406.64996337890625,
+                    644.784912109375,
+                    420.0699462890625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "Sleep disturbances",
+              "bbox": [
+                376.07861328125,
+                406.63043212890625,
+                480.0397033691406,
+                420.0504150390625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "Sleep disturbances",
+                  "bbox": [
+                    376.07861328125,
+                    406.63043212890625,
+                    480.0397033691406,
+                    420.0504150390625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B032",
+          "page_number": 1,
+          "bbox": [
+            554.4766235351562,
+            223.22711181640625,
+            779.4800415039062,
+            237.35218811035156
+          ],
+          "text": "Hallucinations\nIncontinence",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "Hallucinations",
+              "bbox": [
+                554.4766235351562,
+                223.22711181640625,
+                633.3026123046875,
+                236.64710998535156
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "Hallucinations",
+                  "bbox": [
+                    554.4766235351562,
+                    223.22711181640625,
+                    633.3026123046875,
+                    236.64710998535156
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "Incontinence",
+              "bbox": [
+                707.6279296875,
+                223.93218994140625,
+                779.4800415039062,
+                237.35218811035156
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "Incontinence",
+                  "bbox": [
+                    707.6279296875,
+                    223.93218994140625,
+                    779.4800415039062,
+                    237.35218811035156
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B033",
+          "page_number": 1,
+          "bbox": [
+            46.27149963378906,
+            1014.8951416015625,
+            804.22314453125,
+            1035.5201416015625
+          ],
+          "text": "FOLLOW UP OF DIAGNOSED & TREATED PATIENTS INTERVENTION MATRIX FOR DEMENTIA ACROSS PLATFORMS OF CARE",
+          "avg_font_size": 15.0,
+          "max_font_size": 15.0,
+          "is_heading_candidate": true,
+          "lines": [
+            {
+              "text": "FOLLOW UP OF DIAGNOSED & TREATED PATIENTS INTERVENTION MATRIX FOR DEMENTIA ACROSS PLATFORMS OF CARE",
+              "bbox": [
+                46.27149963378906,
+                1014.8951416015625,
+                804.22314453125,
+                1035.5201416015625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "FOLLOW UP OF DIAGNOSED & TREATED PATIENTS INTERVENTION MATRIX FOR DEMENTIA ACROSS PLATFORMS OF CARE ",
+                  "bbox": [
+                    46.27149963378906,
+                    1014.8951416015625,
+                    804.22314453125,
+                    1035.5201416015625
+                  ],
+                  "font": "Futura-CondensedExtraBol",
+                  "size": 15.0,
+                  "flags": 16
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B034",
+          "page_number": 1,
+          "bbox": [
+            38.93989944458008,
+            1050.3795166015625,
+            330.7934265136719,
+            1071.0045166015625
+          ],
+          "text": "PRIMARY HEALTH CENTRE (MEDICAL OFFICER)",
+          "avg_font_size": 15.0,
+          "max_font_size": 15.0,
+          "is_heading_candidate": true,
+          "lines": [
+            {
+              "text": "PRIMARY HEALTH CENTRE (MEDICAL OFFICER)",
+              "bbox": [
+                38.93989944458008,
+                1050.3795166015625,
+                330.7934265136719,
+                1071.0045166015625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "PRIMARY HEALTH CENTRE (MEDICAL OFFICER)",
+                  "bbox": [
+                    38.93989944458008,
+                    1050.3795166015625,
+                    330.7934265136719,
+                    1071.0045166015625
+                  ],
+                  "font": "Futura-CondensedExtraBol",
+                  "size": 15.0,
+                  "flags": 16
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B035",
+          "page_number": 1,
+          "bbox": [
+            376.33489990234375,
+            1037.1044921875,
+            660.8760375976562,
+            1057.7294921875
+          ],
+          "text": "DISTRICT HOSPITAL (SPECIALIST- PHYSICIAN/",
+          "avg_font_size": 15.0,
+          "max_font_size": 15.0,
+          "is_heading_candidate": true,
+          "lines": [
+            {
+              "text": "DISTRICT HOSPITAL (SPECIALIST- PHYSICIAN/",
+              "bbox": [
+                376.33489990234375,
+                1037.1044921875,
+                660.8760375976562,
+                1057.7294921875
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "DISTRICT HOSPITAL (SPECIALIST- PHYSICIAN/",
+                  "bbox": [
+                    376.33489990234375,
+                    1037.1044921875,
+                    660.8760375976562,
+                    1057.7294921875
+                  ],
+                  "font": "Futura-CondensedExtraBol",
+                  "size": 15.0,
+                  "flags": 16
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B036",
+          "page_number": 1,
+          "bbox": [
+            390.4798889160156,
+            1055.1044921875,
+            651.2609252929688,
+            1075.7294921875
+          ],
+          "text": "GERIATRIC SPECIALIST/ NEUROLOGIST/",
+          "avg_font_size": 15.0,
+          "max_font_size": 15.0,
+          "is_heading_candidate": true,
+          "lines": [
+            {
+              "text": "GERIATRIC SPECIALIST/ NEUROLOGIST/",
+              "bbox": [
+                390.4798889160156,
+                1055.1044921875,
+                651.2609252929688,
+                1075.7294921875
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": " GERIATRIC SPECIALIST/ NEUROLOGIST/ ",
+                  "bbox": [
+                    390.4798889160156,
+                    1055.1044921875,
+                    651.2609252929688,
+                    1075.7294921875
+                  ],
+                  "font": "Futura-CondensedExtraBol",
+                  "size": 15.0,
+                  "flags": 16
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B037",
+          "page_number": 1,
+          "bbox": [
+            471.8848876953125,
+            1073.1044921875,
+            569.85595703125,
+            1093.7294921875
+          ],
+          "text": "PSYCHIATRIST)",
+          "avg_font_size": 15.0,
+          "max_font_size": 15.0,
+          "is_heading_candidate": true,
+          "lines": [
+            {
+              "text": "PSYCHIATRIST)",
+              "bbox": [
+                471.8848876953125,
+                1073.1044921875,
+                569.85595703125,
+                1093.7294921875
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "PSYCHIATRIST) ",
+                  "bbox": [
+                    471.8848876953125,
+                    1073.1044921875,
+                    569.85595703125,
+                    1093.7294921875
+                  ],
+                  "font": "Futura-CondensedExtraBol",
+                  "size": 15.0,
+                  "flags": 16
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B038",
+          "page_number": 1,
+          "bbox": [
+            338.0072937011719,
+            619.9776000976562,
+            508.0263366699219,
+            640.6026000976562
+          ],
+          "text": "EVALUATION OF DEMENTIA",
+          "avg_font_size": 15.0,
+          "max_font_size": 15.0,
+          "is_heading_candidate": true,
+          "lines": [
+            {
+              "text": "EVALUATION OF DEMENTIA",
+              "bbox": [
+                338.0072937011719,
+                619.9776000976562,
+                508.0263366699219,
+                640.6026000976562
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "EVALUATION OF DEMENTIA",
+                  "bbox": [
+                    338.0072937011719,
+                    619.9776000976562,
+                    508.0263366699219,
+                    640.6026000976562
+                  ],
+                  "font": "Futura-CondensedExtraBol",
+                  "size": 15.0,
+                  "flags": 16
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B039",
+          "page_number": 1,
+          "bbox": [
+            203.13720703125,
+            1383.9595947265625,
+            638.7147216796875,
+            1404.5845947265625
+          ],
+          "text": "MEDICATIONS RECOMMENDED FOR USE FOR ALZHIEMERS DEMENTIA",
+          "avg_font_size": 15.0,
+          "max_font_size": 15.0,
+          "is_heading_candidate": true,
+          "lines": [
+            {
+              "text": "MEDICATIONS RECOMMENDED FOR USE FOR ALZHIEMERS DEMENTIA",
+              "bbox": [
+                203.13720703125,
+                1383.9595947265625,
+                638.7147216796875,
+                1404.5845947265625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "MEDICATIONS RECOMMENDED FOR USE FOR ALZHIEMERS DEMENTIA",
+                  "bbox": [
+                    203.13720703125,
+                    1383.9595947265625,
+                    638.7147216796875,
+                    1404.5845947265625
+                  ],
+                  "font": "Futura-CondensedExtraBol",
+                  "size": 15.0,
+                  "flags": 16
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B040",
+          "page_number": 1,
+          "bbox": [
+            262.4648132324219,
+            1530.4459228515625,
+            580.4069213867188,
+            1548.3209228515625
+          ],
+          "text": "KEEP A HIGH THRESHOLD FOR INVASIVE PROCEDURES",
+          "avg_font_size": 13.0,
+          "max_font_size": 13.0,
+          "is_heading_candidate": true,
+          "lines": [
+            {
+              "text": "KEEP A HIGH THRESHOLD FOR INVASIVE PROCEDURES",
+              "bbox": [
+                262.4648132324219,
+                1530.4459228515625,
+                580.4069213867188,
+                1548.3209228515625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "      KEEP A HIGH THRESHOLD FOR INVASIVE PROCEDURES",
+                  "bbox": [
+                    262.4648132324219,
+                    1530.4459228515625,
+                    580.4069213867188,
+                    1548.3209228515625
+                  ],
+                  "font": "Futura-CondensedExtraBol",
+                  "size": 13.0,
+                  "flags": 16
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B041",
+          "page_number": 1,
+          "bbox": [
+            225.44189453125,
+            1406.9312744140625,
+            326.3169250488281,
+            1427.5562744140625
+          ],
+          "text": "FOR COGNITION",
+          "avg_font_size": 15.0,
+          "max_font_size": 15.0,
+          "is_heading_candidate": true,
+          "lines": [
+            {
+              "text": "FOR COGNITION",
+              "bbox": [
+                225.44189453125,
+                1406.9312744140625,
+                326.3169250488281,
+                1427.5562744140625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "FOR COGNITION",
+                  "bbox": [
+                    225.44189453125,
+                    1406.9312744140625,
+                    326.3169250488281,
+                    1427.5562744140625
+                  ],
+                  "font": "Futura-CondensedExtraBol",
+                  "size": 15.0,
+                  "flags": 16
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B042",
+          "page_number": 1,
+          "bbox": [
+            7.767600059509277,
+            1442.075439453125,
+            534.1717529296875,
+            1470.0814208984375
+          ],
+          "text": "• Donepezil: 5 mg once after breakfast x 1 month, then 10 mg after breakfast to continue\nIf any side effect/ not tolerating: Rivastigmine to be used start dose 1.5 mg BD / 1 month then 3",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "• Donepezil: 5 mg once after breakfast x 1 month, then 10 mg after breakfast to continue",
+              "bbox": [
+                7.767600059509277,
+                1442.075439453125,
+                489.6557312011719,
+                1456.8375244140625
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "•",
+                  "bbox": [
+                    7.767600059509277,
+                    1443.25244140625,
+                    10.858600616455078,
+                    1456.6724853515625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                },
+                {
+                  "text": " ",
+                  "bbox": [
+                    10.858600616455078,
+                    1443.25244140625,
+                    13.696600914001465,
+                    1456.6724853515625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                },
+                {
+                  "text": "Donepezil",
+                  "bbox": [
+                    13.696600914001465,
+                    1442.075439453125,
+                    71.6666030883789,
+                    1456.8375244140625
+                  ],
+                  "font": "Montserrat-Bold",
+                  "size": 11.0,
+                  "flags": 20
+                },
+                {
+                  "text": ": 5 mg once after breakfast x 1 month, then 10 mg after breakfast to continue ",
+                  "bbox": [
+                    71.6666030883789,
+                    1443.25244140625,
+                    489.6557312011719,
+                    1456.6724853515625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "If any side effect/ not tolerating: Rivastigmine to be used start dose 1.5 mg BD / 1 month then 3",
+              "bbox": [
+                7.767600059509277,
+                1454.9454345703125,
+                534.1717529296875,
+                1470.0814208984375
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "  If any side effect/ not tolerating: ",
+                  "bbox": [
+                    7.767600059509277,
+                    1456.452392578125,
+                    188.3975067138672,
+                    1469.8724365234375
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                },
+                {
+                  "text": "Rivastigmine ",
+                  "bbox": [
+                    188.3975067138672,
+                    1454.9454345703125,
+                    270.0945129394531,
+                    1470.0814208984375
+                  ],
+                  "font": "Montserrat-Black",
+                  "size": 11.0,
+                  "flags": 20
+                },
+                {
+                  "text": "to be used start dose 1.5 mg BD / 1 month then 3 ",
+                  "bbox": [
+                    270.0945129394531,
+                    1456.452392578125,
+                    534.1717529296875,
+                    1469.8724365234375
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B043",
+          "page_number": 1,
+          "bbox": [
+            7.767599582672119,
+            1469.65234375,
+            520.0828247070312,
+            1509.637451171875
+          ],
+          "text": "mg BD x 1 month, then 4.5 mg BD x 1 month, then 6 mg twice after meals only x 1 month.\n• Memantine: in moderate to severe dementia 5 mg BD x 1 month, then 10 mg BD to continue.\n• Galantamine: 8 mg BD if not tolerating 1",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "mg BD x 1 month, then 4.5 mg BD x 1 month, then 6 mg twice after meals only x 1 month.",
+              "bbox": [
+                14.763599395751953,
+                1469.65234375,
+                497.81768798828125,
+                1483.0723876953125
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "mg BD x 1 month, then 4.5 mg BD x 1 month, then 6 mg twice after meals only x 1 month.",
+                  "bbox": [
+                    14.763599395751953,
+                    1469.65234375,
+                    497.81768798828125,
+                    1483.0723876953125
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• Memantine: in moderate to severe dementia 5 mg BD x 1 month, then 10 mg BD to continue.",
+              "bbox": [
+                7.767599582672119,
+                1481.6754150390625,
+                520.0828247070312,
+                1496.4375
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "•",
+                  "bbox": [
+                    7.767599582672119,
+                    1482.8524169921875,
+                    10.858599662780762,
+                    1496.2724609375
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                },
+                {
+                  "text": " Memantine:",
+                  "bbox": [
+                    10.858599662780762,
+                    1481.6754150390625,
+                    82.93060302734375,
+                    1496.4375
+                  ],
+                  "font": "Montserrat-Bold",
+                  "size": 11.0,
+                  "flags": 20
+                },
+                {
+                  "text": " in moderate to severe dementia 5 mg BD x 1 month, then 10 mg BD to continue.",
+                  "bbox": [
+                    82.93060302734375,
+                    1482.8524169921875,
+                    520.0828247070312,
+                    1496.2724609375
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• Galantamine: 8 mg BD if not tolerating 1",
+              "bbox": [
+                7.767599582672119,
+                1494.8753662109375,
+                235.6886749267578,
+                1509.637451171875
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• ",
+                  "bbox": [
+                    7.767599582672119,
+                    1496.0523681640625,
+                    13.696599960327148,
+                    1509.472412109375
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                },
+                {
+                  "text": "Galantamine: ",
+                  "bbox": [
+                    13.696599960327148,
+                    1494.8753662109375,
+                    93.68860626220703,
+                    1509.637451171875
+                  ],
+                  "font": "Montserrat-Bold",
+                  "size": 11.0,
+                  "flags": 20
+                },
+                {
+                  "text": "8 mg BD if not tolerating 1",
+                  "bbox": [
+                    93.68860626220703,
+                    1496.0523681640625,
+                    235.6886749267578,
+                    1509.472412109375
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B044",
+          "page_number": 1,
+          "bbox": [
+            576.27587890625,
+            1414.9381103515625,
+            684.21875,
+            1435.5631103515625
+          ],
+          "text": "FOR DEPRESSION",
+          "avg_font_size": 15.0,
+          "max_font_size": 15.0,
+          "is_heading_candidate": true,
+          "lines": [
+            {
+              "text": "FOR DEPRESSION",
+              "bbox": [
+                576.27587890625,
+                1414.9381103515625,
+                684.21875,
+                1435.5631103515625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "FOR DEPRESSION",
+                  "bbox": [
+                    576.27587890625,
+                    1414.9381103515625,
+                    684.21875,
+                    1435.5631103515625
+                  ],
+                  "font": "Futura-CondensedExtraBol",
+                  "size": 15.0,
+                  "flags": 16
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B045",
+          "page_number": 1,
+          "bbox": [
+            570.138671875,
+            1451.25927734375,
+            687.211669921875,
+            1464.6793212890625
+          ],
+          "text": "• Escitalopram 10 mg",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "• Escitalopram 10 mg",
+              "bbox": [
+                570.138671875,
+                1451.25927734375,
+                687.211669921875,
+                1464.6793212890625
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• ",
+                  "bbox": [
+                    570.138671875,
+                    1451.25927734375,
+                    576.0676879882812,
+                    1464.6793212890625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                },
+                {
+                  "text": "Escitalopram 10 mg ",
+                  "bbox": [
+                    576.0676879882812,
+                    1451.25927734375,
+                    687.211669921875,
+                    1464.6793212890625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B046",
+          "page_number": 1,
+          "bbox": [
+            725.7935180664062,
+            1413.9381103515625,
+            824.237060546875,
+            1434.5631103515625
+          ],
+          "text": "FOR AGITATION",
+          "avg_font_size": 15.0,
+          "max_font_size": 15.0,
+          "is_heading_candidate": true,
+          "lines": [
+            {
+              "text": "FOR AGITATION",
+              "bbox": [
+                725.7935180664062,
+                1413.9381103515625,
+                824.237060546875,
+                1434.5631103515625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "FOR AGITATION",
+                  "bbox": [
+                    725.7935180664062,
+                    1413.9381103515625,
+                    824.237060546875,
+                    1434.5631103515625
+                  ],
+                  "font": "Futura-CondensedExtraBol",
+                  "size": 15.0,
+                  "flags": 16
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B047",
+          "page_number": 1,
+          "bbox": [
+            715.02490234375,
+            1450.25927734375,
+            817.1817626953125,
+            1516.4793701171875
+          ],
+          "text": "• Identiﬁcation of\ntriggers\n• Non\npharmacological\ninterventions",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "• Identiﬁcation of",
+              "bbox": [
+                715.02490234375,
+                1450.25927734375,
+                810.484130859375,
+                1463.6793212890625
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Identiﬁcation of ",
+                  "bbox": [
+                    715.02490234375,
+                    1450.25927734375,
+                    810.484130859375,
+                    1463.6793212890625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "triggers",
+              "bbox": [
+                722.0208740234375,
+                1463.4593505859375,
+                764.0078125,
+                1476.87939453125
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "triggers",
+                  "bbox": [
+                    722.0208740234375,
+                    1463.4593505859375,
+                    764.0078125,
+                    1476.87939453125
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• Non",
+              "bbox": [
+                715.02490234375,
+                1476.6593017578125,
+                746.6719360351562,
+                1490.079345703125
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Non ",
+                  "bbox": [
+                    715.02490234375,
+                    1476.6593017578125,
+                    746.6719360351562,
+                    1490.079345703125
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "pharmacological",
+              "bbox": [
+                722.0208740234375,
+                1489.8592529296875,
+                817.1817626953125,
+                1503.279296875
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "pharmacological ",
+                  "bbox": [
+                    722.0208740234375,
+                    1489.8592529296875,
+                    817.1817626953125,
+                    1503.279296875
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "interventions",
+              "bbox": [
+                722.0208740234375,
+                1503.059326171875,
+                794.1920776367188,
+                1516.4793701171875
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "interventions",
+                  "bbox": [
+                    722.0208740234375,
+                    1503.059326171875,
+                    794.1920776367188,
+                    1516.4793701171875
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B048",
+          "page_number": 1,
+          "bbox": [
+            125.01219940185547,
+            684.6743774414062,
+            196.34609985351562,
+            698.0943603515625
+          ],
+          "text": "History and",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "History and",
+              "bbox": [
+                125.01219940185547,
+                684.6743774414062,
+                196.34609985351562,
+                698.0943603515625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "  History and ",
+                  "bbox": [
+                    125.01219940185547,
+                    684.6743774414062,
+                    196.34609985351562,
+                    698.0943603515625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B049",
+          "page_number": 1,
+          "bbox": [
+            132.00819396972656,
+            697.8743896484375,
+            200.50408935546875,
+            711.2943725585938
+          ],
+          "text": "examination",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "examination",
+              "bbox": [
+                132.00819396972656,
+                697.8743896484375,
+                200.50408935546875,
+                711.2943725585938
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "examination",
+                  "bbox": [
+                    132.00819396972656,
+                    697.8743896484375,
+                    200.50408935546875,
+                    711.2943725585938
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B050",
+          "page_number": 1,
+          "bbox": [
+            576.7080078125,
+            719.5044555664062,
+            678.1489868164062,
+            732.9244384765625
+          ],
+          "text": "Lab investigation",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "Lab investigation",
+              "bbox": [
+                576.7080078125,
+                719.5044555664062,
+                678.1489868164062,
+                732.9244384765625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "  Lab investigation ",
+                  "bbox": [
+                    576.7080078125,
+                    719.5044555664062,
+                    678.1489868164062,
+                    732.9244384765625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B051",
+          "page_number": 1,
+          "bbox": [
+            576.7080078125,
+            732.7044677734375,
+            674.3551635742188,
+            759.324462890625
+          ],
+          "text": "TSH,Vit B12, vit D\nLFT/RFT/FBS",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "TSH,Vit B12, vit D",
+              "bbox": [
+                583.7039794921875,
+                732.7044677734375,
+                674.3551635742188,
+                746.1244506835938
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "TSH,Vit B12, vit D",
+                  "bbox": [
+                    583.7039794921875,
+                    732.7044677734375,
+                    674.3551635742188,
+                    746.1244506835938
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "LFT/RFT/FBS",
+              "bbox": [
+                576.7080078125,
+                745.9044799804688,
+                649.8140869140625,
+                759.324462890625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "  LFT/RFT/FBS",
+                  "bbox": [
+                    576.7080078125,
+                    745.9044799804688,
+                    649.8140869140625,
+                    759.324462890625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B052",
+          "page_number": 1,
+          "bbox": [
+            426.60791015625,
+            792.9077758789062,
+            519.3038940429688,
+            806.3277587890625
+          ],
+          "text": "Neuropsychiatry",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "Neuropsychiatry",
+              "bbox": [
+                426.60791015625,
+                792.9077758789062,
+                519.3038940429688,
+                806.3277587890625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "Neuropsychiatry ",
+                  "bbox": [
+                    426.60791015625,
+                    792.9077758789062,
+                    519.3038940429688,
+                    806.3277587890625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B053",
+          "page_number": 1,
+          "bbox": [
+            427.6089172363281,
+            806.1077880859375,
+            465.5907897949219,
+            819.5277709960938
+          ],
+          "text": "testing",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "testing",
+              "bbox": [
+                427.6089172363281,
+                806.1077880859375,
+                465.5907897949219,
+                819.5277709960938
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "testing",
+                  "bbox": [
+                    427.6089172363281,
+                    806.1077880859375,
+                    465.5907897949219,
+                    819.5277709960938
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B054",
+          "page_number": 1,
+          "bbox": [
+            51.45800018310547,
+            873.2261352539062,
+            136.3560028076172,
+            886.6461181640625
+          ],
+          "text": "Optional tests",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "Optional tests",
+              "bbox": [
+                51.45800018310547,
+                873.2261352539062,
+                136.3560028076172,
+                886.6461181640625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "  Optional tests ",
+                  "bbox": [
+                    51.45800018310547,
+                    873.2261352539062,
+                    136.3560028076172,
+                    886.6461181640625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B055",
+          "page_number": 1,
+          "bbox": [
+            58.45399856567383,
+            886.4261474609375,
+            152.8460693359375,
+            913.046142578125
+          ],
+          "text": "based on clinical\nfeatures",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "based on clinical",
+              "bbox": [
+                58.45399856567383,
+                886.4261474609375,
+                152.8460693359375,
+                899.8461303710938
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "based on clinical ",
+                  "bbox": [
+                    58.45399856567383,
+                    886.4261474609375,
+                    152.8460693359375,
+                    899.8461303710938
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "features",
+              "bbox": [
+                58.45399856567383,
+                899.6261596679688,
+                102.66299438476562,
+                913.046142578125
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "features",
+                  "bbox": [
+                    58.45399856567383,
+                    899.6261596679688,
+                    102.66299438476562,
+                    913.046142578125
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B056",
+          "page_number": 1,
+          "bbox": [
+            528.5645141601562,
+            923.7022705078125,
+            595.4005126953125,
+            937.1222534179688
+          ],
+          "text": "CT scan/MRI",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "CT scan/MRI",
+              "bbox": [
+                528.5645141601562,
+                923.7022705078125,
+                595.4005126953125,
+                937.1222534179688
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "CT scan/MRI",
+                  "bbox": [
+                    528.5645141601562,
+                    923.7022705078125,
+                    595.4005126953125,
+                    937.1222534179688
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B057",
+          "page_number": 1,
+          "bbox": [
+            404.2846984863281,
+            223.47613525390625,
+            445.6996765136719,
+            236.89613342285156
+          ],
+          "text": "Anxiety",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "Anxiety",
+              "bbox": [
+                404.2846984863281,
+                223.47613525390625,
+                445.6996765136719,
+                236.89613342285156
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "Anxiety",
+                  "bbox": [
+                    404.2846984863281,
+                    223.47613525390625,
+                    445.6996765136719,
+                    236.89613342285156
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B058",
+          "page_number": 1,
+          "bbox": [
+            707.9947509765625,
+            1086.8770751953125,
+            826.7288208007812,
+            1166.297119140625
+          ],
+          "text": "• Not responding to\nadequate dose and\nduration of\nprescribed\nmedications\n• Presence of red ﬂags",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "• Not responding to",
+              "bbox": [
+                707.9947509765625,
+                1086.8770751953125,
+                816.36572265625,
+                1100.297119140625
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Not responding to ",
+                  "bbox": [
+                    707.9947509765625,
+                    1086.8770751953125,
+                    816.36572265625,
+                    1100.297119140625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "adequate dose and",
+              "bbox": [
+                714.99072265625,
+                1100.0770263671875,
+                823.1857299804688,
+                1113.4970703125
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "adequate dose and ",
+                  "bbox": [
+                    714.99072265625,
+                    1100.0770263671875,
+                    823.1857299804688,
+                    1113.4970703125
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "duration of",
+              "bbox": [
+                714.99072265625,
+                1113.277099609375,
+                778.2616577148438,
+                1126.6971435546875
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "duration of ",
+                  "bbox": [
+                    714.99072265625,
+                    1113.277099609375,
+                    778.2616577148438,
+                    1126.6971435546875
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "prescribed",
+              "bbox": [
+                714.99072265625,
+                1126.4771728515625,
+                776.3927001953125,
+                1139.897216796875
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "prescribed ",
+                  "bbox": [
+                    714.99072265625,
+                    1126.4771728515625,
+                    776.3927001953125,
+                    1139.897216796875
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "medications",
+              "bbox": [
+                707.9947509765625,
+                1139.6771240234375,
+                781.5848388671875,
+                1153.09716796875
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "  medications",
+                  "bbox": [
+                    707.9947509765625,
+                    1139.6771240234375,
+                    781.5848388671875,
+                    1153.09716796875
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• Presence of red ﬂags",
+              "bbox": [
+                707.9947509765625,
+                1152.8770751953125,
+                826.7288208007812,
+                1166.297119140625
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Presence of red ﬂags",
+                  "bbox": [
+                    707.9947509765625,
+                    1152.8770751953125,
+                    826.7288208007812,
+                    1166.297119140625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B059",
+          "page_number": 1,
+          "bbox": [
+            5.765761375427246,
+            1104.8731689453125,
+            310.5757751464844,
+            1157.893310546875
+          ],
+          "text": "• Diagnose dementia after detailed history\n• Screeing for:\n- Treatable causes of dementia - thyroid disorders, B-12\ndeﬁciency, subdural hemorrhage.",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "• Diagnose dementia after detailed history",
+              "bbox": [
+                7.76776123046875,
+                1104.8731689453125,
+                237.40374755859375,
+                1118.293212890625
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Diagnose dementia after detailed history",
+                  "bbox": [
+                    7.76776123046875,
+                    1104.8731689453125,
+                    237.40374755859375,
+                    1118.293212890625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• Screeing for:",
+              "bbox": [
+                7.76776123046875,
+                1118.0731201171875,
+                81.51176452636719,
+                1131.4931640625
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Screeing for:",
+                  "bbox": [
+                    7.76776123046875,
+                    1118.0731201171875,
+                    81.51176452636719,
+                    1131.4931640625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "- Treatable causes of dementia - thyroid disorders, B-12",
+              "bbox": [
+                7.76776123046875,
+                1131.273193359375,
+                310.5757751464844,
+                1144.6932373046875
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "  - Treatable causes of dementia - thyroid disorders, B-12",
+                  "bbox": [
+                    7.76776123046875,
+                    1131.273193359375,
+                    310.5757751464844,
+                    1144.6932373046875
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "deﬁciency, subdural hemorrhage.",
+              "bbox": [
+                5.765761375427246,
+                1144.4732666015625,
+                202.79774475097656,
+                1157.893310546875
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "     deﬁciency, subdural hemorrhage.",
+                  "bbox": [
+                    5.765761375427246,
+                    1144.4732666015625,
+                    202.79774475097656,
+                    1157.893310546875
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B060",
+          "page_number": 1,
+          "bbox": [
+            7.76776123046875,
+            1157.6732177734375,
+            337.5808410644531,
+            1382.29345703125
+          ],
+          "text": "- Depression.\n- Vascular risk factors\n• Lab investigations- CBC, biochemistry, liver function tests,\nhemogram, lipd proﬁle, TFT, VDRL, vit B12 level, vit D level\n• Referrals for MRI/CT\n• Initiation of treatment/drugs; treatment for co-morbid\nconditions (including depression, vision, hearing deﬁcits\nand gait problems), thyroid, arthritis.\n• Initiate therapy for vascular risk factors\n• Encourage healthy lifestyle\n• Assess for palliative care\n• Learn and share facts about dementia to provide\nimmediate need to the person with severe dementia\n• Follow up and monitor for side effects of drugs/ red ﬂags in\npatient/ signs of danger\n• Follow-up of difﬁcult patients under the guidance of\nhigher centre.",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "- Depression.",
+              "bbox": [
+                7.76776123046875,
+                1157.6732177734375,
+                83.63475799560547,
+                1171.09326171875
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "  - Depression.",
+                  "bbox": [
+                    7.76776123046875,
+                    1157.6732177734375,
+                    83.63475799560547,
+                    1171.09326171875
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "- Vascular risk factors",
+              "bbox": [
+                7.76776123046875,
+                1170.8731689453125,
+                128.15065002441406,
+                1184.293212890625
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "  - Vascular risk factors",
+                  "bbox": [
+                    7.76776123046875,
+                    1170.8731689453125,
+                    128.15065002441406,
+                    1184.293212890625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• Lab investigations- CBC, biochemistry, liver function tests,",
+              "bbox": [
+                7.76776123046875,
+                1184.0732421875,
+                329.988525390625,
+                1197.4932861328125
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Lab investigations- CBC, biochemistry, liver function tests, ",
+                  "bbox": [
+                    7.76776123046875,
+                    1184.0732421875,
+                    329.988525390625,
+                    1197.4932861328125
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "hemogram, lipd proﬁle, TFT, VDRL, vit B12 level, vit D level",
+              "bbox": [
+                14.763761520385742,
+                1197.2733154296875,
+                325.04071044921875,
+                1210.693359375
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "hemogram, lipd proﬁle, TFT, VDRL, vit B12 level, vit D level",
+                  "bbox": [
+                    14.763761520385742,
+                    1197.2733154296875,
+                    325.04071044921875,
+                    1210.693359375
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• Referrals for MRI/CT",
+              "bbox": [
+                7.767761707305908,
+                1210.4732666015625,
+                120.957763671875,
+                1223.893310546875
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Referrals for MRI/CT",
+                  "bbox": [
+                    7.767761707305908,
+                    1210.4732666015625,
+                    120.957763671875,
+                    1223.893310546875
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• Initiation of treatment/drugs; treatment for co-morbid",
+              "bbox": [
+                7.767761707305908,
+                1223.6732177734375,
+                312.5008544921875,
+                1237.09326171875
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Initiation of treatment/drugs; treatment for co-morbid ",
+                  "bbox": [
+                    7.767761707305908,
+                    1223.6732177734375,
+                    312.5008544921875,
+                    1237.09326171875
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "conditions (including depression, vision, hearing deﬁcits",
+              "bbox": [
+                14.763761520385742,
+                1236.873291015625,
+                322.81878662109375,
+                1250.2933349609375
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "conditions (including depression, vision, hearing deﬁcits ",
+                  "bbox": [
+                    14.763761520385742,
+                    1236.873291015625,
+                    322.81878662109375,
+                    1250.2933349609375
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "and gait problems), thyroid, arthritis.",
+              "bbox": [
+                14.763761520385742,
+                1250.0733642578125,
+                214.1167449951172,
+                1263.493408203125
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "and gait problems), thyroid, arthritis.",
+                  "bbox": [
+                    14.763761520385742,
+                    1250.0733642578125,
+                    214.1167449951172,
+                    1263.493408203125
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• Initiate therapy for vascular risk factors",
+              "bbox": [
+                7.767761707305908,
+                1263.2733154296875,
+                224.06182861328125,
+                1276.693359375
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Initiate therapy for vascular risk factors",
+                  "bbox": [
+                    7.767761707305908,
+                    1263.2733154296875,
+                    224.06182861328125,
+                    1276.693359375
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• Encourage healthy lifestyle",
+              "bbox": [
+                7.767761707305908,
+                1276.4732666015625,
+                160.6897735595703,
+                1289.893310546875
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Encourage healthy lifestyle",
+                  "bbox": [
+                    7.767761707305908,
+                    1276.4732666015625,
+                    160.6897735595703,
+                    1289.893310546875
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• Assess for palliative care",
+              "bbox": [
+                7.767761707305908,
+                1289.67333984375,
+                145.16766357421875,
+                1303.0933837890625
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Assess for palliative care",
+                  "bbox": [
+                    7.767761707305908,
+                    1289.67333984375,
+                    145.16766357421875,
+                    1303.0933837890625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• Learn and share facts about dementia to provide",
+              "bbox": [
+                7.767761707305908,
+                1302.8734130859375,
+                281.89984130859375,
+                1316.29345703125
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Learn and share facts about dementia to provide ",
+                  "bbox": [
+                    7.767761707305908,
+                    1302.8734130859375,
+                    281.89984130859375,
+                    1316.29345703125
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "immediate need to the person with severe dementia",
+              "bbox": [
+                14.763761520385742,
+                1316.0733642578125,
+                302.3367004394531,
+                1329.493408203125
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "immediate need to the person with severe dementia",
+                  "bbox": [
+                    14.763761520385742,
+                    1316.0733642578125,
+                    302.3367004394531,
+                    1329.493408203125
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• Follow up and monitor for side effects of drugs/ red ﬂags in",
+              "bbox": [
+                7.767761707305908,
+                1329.2733154296875,
+                337.5808410644531,
+                1342.693359375
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Follow up and monitor for side effects of drugs/ red ﬂags in ",
+                  "bbox": [
+                    7.767761707305908,
+                    1329.2733154296875,
+                    337.5808410644531,
+                    1342.693359375
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "patient/ signs of danger",
+              "bbox": [
+                14.763761520385742,
+                1342.473388671875,
+                146.995849609375,
+                1355.8934326171875
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "patient/ signs of danger ",
+                  "bbox": [
+                    14.763761520385742,
+                    1342.473388671875,
+                    146.995849609375,
+                    1355.8934326171875
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• Follow-up of difﬁcult patients under the guidance of",
+              "bbox": [
+                7.767761707305908,
+                1355.6734619140625,
+                301.9870300292969,
+                1369.093505859375
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Follow-up of difﬁcult patients under the guidance of ",
+                  "bbox": [
+                    7.767761707305908,
+                    1355.6734619140625,
+                    301.9870300292969,
+                    1369.093505859375
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "higher centre.",
+              "bbox": [
+                14.763761520385742,
+                1368.8734130859375,
+                90.69676208496094,
+                1382.29345703125
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "higher centre.",
+                  "bbox": [
+                    14.763761520385742,
+                    1368.8734130859375,
+                    90.69676208496094,
+                    1382.29345703125
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B061",
+          "page_number": 1,
+          "bbox": [
+            360.74676513671875,
+            1104.8734130859375,
+            682.9688110351562,
+            1369.09375
+          ],
+          "text": "• Careful evaluation of all the referral patients of dementia\n• Screening for treatable causes for dementia including\nnormal pressure hydrocephalus, B12 deﬁciency,\nhypothyroidism, chronic meningitis\n• Neuroimaging CT/MRI- to rule out subdural hematoma/\ntumors/ NPH(surgically remediable causes of rapid\ncognitive decline)\n• Lab investigations- CBC, liver function tests, biochemistry,\nhemogram, lipd proﬁle, vit D levels, TFT, VDRL, retrovirus\nafter counselling (whenever feasible and high index of\nsuspicion)\n• All the points mentioned in PHC to be followed if patient\npresents to a DH\n• Upward referral linkages with tertiary care and\ndownward referral with PHC.\n• Encouraging patient and caregiver participation in an\nongoing support program for them.\n• Avoid antipsychotics until necessary\n• Interaction with, training of MOs at PHC/UPHC and\nongoing clinical support and supervision",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "• Careful evaluation of all the referral patients of dementia",
+              "bbox": [
+                360.74676513671875,
+                1104.8734130859375,
+                675.1028442382812,
+                1118.29345703125
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Careful evaluation of all the referral patients of dementia",
+                  "bbox": [
+                    360.74676513671875,
+                    1104.8734130859375,
+                    675.1028442382812,
+                    1118.29345703125
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• Screening for treatable causes for dementia including",
+              "bbox": [
+                360.74676513671875,
+                1118.0733642578125,
+                662.8521728515625,
+                1131.493408203125
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Screening for treatable causes for dementia including ",
+                  "bbox": [
+                    360.74676513671875,
+                    1118.0733642578125,
+                    662.8521728515625,
+                    1131.493408203125
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "normal pressure hydrocephalus, B12 deﬁciency,",
+              "bbox": [
+                367.7427673339844,
+                1131.2734375,
+                628.1911010742188,
+                1144.6934814453125
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "normal pressure hydrocephalus, B12 deﬁciency, ",
+                  "bbox": [
+                    367.7427673339844,
+                    1131.2734375,
+                    628.1911010742188,
+                    1144.6934814453125
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "hypothyroidism, chronic meningitis",
+              "bbox": [
+                367.7427673339844,
+                1144.4735107421875,
+                562.2999877929688,
+                1157.8935546875
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "hypothyroidism, chronic meningitis",
+                  "bbox": [
+                    367.7427673339844,
+                    1144.4735107421875,
+                    562.2999877929688,
+                    1157.8935546875
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• Neuroimaging CT/MRI- to rule out subdural hematoma/",
+              "bbox": [
+                360.74676513671875,
+                1157.6734619140625,
+                672.7826538085938,
+                1171.093505859375
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Neuroimaging CT/MRI- to rule out subdural hematoma/ ",
+                  "bbox": [
+                    360.74676513671875,
+                    1157.6734619140625,
+                    672.7826538085938,
+                    1171.093505859375
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "tumors/ NPH(surgically remediable causes of rapid",
+              "bbox": [
+                367.7427673339844,
+                1170.8734130859375,
+                646.49609375,
+                1184.29345703125
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "tumors/ NPH(surgically remediable causes of rapid ",
+                  "bbox": [
+                    367.7427673339844,
+                    1170.8734130859375,
+                    646.49609375,
+                    1184.29345703125
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "cognitive decline)",
+              "bbox": [
+                367.7427673339844,
+                1184.073486328125,
+                464.6087646484375,
+                1197.4935302734375
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "cognitive decline)",
+                  "bbox": [
+                    367.7427673339844,
+                    1184.073486328125,
+                    464.6087646484375,
+                    1197.4935302734375
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• Lab investigations- CBC, liver function tests, biochemistry,",
+              "bbox": [
+                360.74676513671875,
+                1197.2735595703125,
+                682.9688110351562,
+                1210.693603515625
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Lab investigations- CBC, liver function tests, biochemistry, ",
+                  "bbox": [
+                    360.74676513671875,
+                    1197.2735595703125,
+                    682.9688110351562,
+                    1210.693603515625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "hemogram, lipd proﬁle, vit D levels, TFT, VDRL, retrovirus",
+              "bbox": [
+                367.7427673339844,
+                1210.4735107421875,
+                675.5792846679688,
+                1223.8935546875
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "hemogram, lipd proﬁle, vit D levels, TFT, VDRL, retrovirus ",
+                  "bbox": [
+                    367.7427673339844,
+                    1210.4735107421875,
+                    675.5792846679688,
+                    1223.8935546875
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "after counselling (whenever feasible and high index of",
+              "bbox": [
+                367.7427673339844,
+                1223.6734619140625,
+                664.875,
+                1237.093505859375
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "after counselling (whenever feasible and high index of ",
+                  "bbox": [
+                    367.7427673339844,
+                    1223.6734619140625,
+                    664.875,
+                    1237.093505859375
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "suspicion)",
+              "bbox": [
+                367.7427673339844,
+                1236.87353515625,
+                423.16082763671875,
+                1250.2935791015625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "suspicion)",
+                  "bbox": [
+                    367.7427673339844,
+                    1236.87353515625,
+                    423.16082763671875,
+                    1250.2935791015625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• All the points mentioned in PHC to be followed if patient",
+              "bbox": [
+                360.74676513671875,
+                1250.0736083984375,
+                679.5380249023438,
+                1263.49365234375
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• All the points mentioned in PHC to be followed if patient ",
+                  "bbox": [
+                    360.74676513671875,
+                    1250.0736083984375,
+                    679.5380249023438,
+                    1263.49365234375
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "presents to a DH",
+              "bbox": [
+                367.7427673339844,
+                1263.2735595703125,
+                458.0747985839844,
+                1276.693603515625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "presents to a DH",
+                  "bbox": [
+                    367.7427673339844,
+                    1263.2735595703125,
+                    458.0747985839844,
+                    1276.693603515625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• Upward referral linkages with tertiary care and",
+              "bbox": [
+                360.74676513671875,
+                1276.4735107421875,
+                623.1498413085938,
+                1289.8935546875
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Upward referral linkages with tertiary care and ",
+                  "bbox": [
+                    360.74676513671875,
+                    1276.4735107421875,
+                    623.1498413085938,
+                    1289.8935546875
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "downward referral with PHC.",
+              "bbox": [
+                367.7427673339844,
+                1289.673583984375,
+                525.3190307617188,
+                1303.0936279296875
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "downward referral with PHC.",
+                  "bbox": [
+                    367.7427673339844,
+                    1289.673583984375,
+                    525.3190307617188,
+                    1303.0936279296875
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• Encouraging patient and caregiver participation in an",
+              "bbox": [
+                360.74676513671875,
+                1302.8736572265625,
+                661.9072875976562,
+                1316.293701171875
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Encouraging patient and caregiver participation in an ",
+                  "bbox": [
+                    360.74676513671875,
+                    1302.8736572265625,
+                    661.9072875976562,
+                    1316.293701171875
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "ongoing support program for them.",
+              "bbox": [
+                367.7427673339844,
+                1316.0736083984375,
+                562.4298095703125,
+                1329.49365234375
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "ongoing support program for them.",
+                  "bbox": [
+                    367.7427673339844,
+                    1316.0736083984375,
+                    562.4298095703125,
+                    1329.49365234375
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• Avoid antipsychotics until necessary",
+              "bbox": [
+                360.74676513671875,
+                1329.2735595703125,
+                563.8387451171875,
+                1342.693603515625
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Avoid antipsychotics until necessary",
+                  "bbox": [
+                    360.74676513671875,
+                    1329.2735595703125,
+                    563.8387451171875,
+                    1342.693603515625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• Interaction with, training of MOs at PHC/UPHC and",
+              "bbox": [
+                360.74676513671875,
+                1342.4736328125,
+                646.0328979492188,
+                1355.8936767578125
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Interaction with, training of MOs at PHC/UPHC and ",
+                  "bbox": [
+                    360.74676513671875,
+                    1342.4736328125,
+                    646.0328979492188,
+                    1355.8936767578125
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "ongoing clinical support and supervision",
+              "bbox": [
+                367.7427673339844,
+                1355.6737060546875,
+                589.8010864257812,
+                1369.09375
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "ongoing clinical support and supervision",
+                  "bbox": [
+                    367.7427673339844,
+                    1355.6737060546875,
+                    589.8010864257812,
+                    1369.09375
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B062",
+          "page_number": 1,
+          "bbox": [
+            723.525390625,
+            1042.8922119140625,
+            815.7273559570312,
+            1063.5172119140625
+          ],
+          "text": "REASONS FOR",
+          "avg_font_size": 15.0,
+          "max_font_size": 15.0,
+          "is_heading_candidate": true,
+          "lines": [
+            {
+              "text": "REASONS FOR",
+              "bbox": [
+                723.525390625,
+                1042.8922119140625,
+                815.7273559570312,
+                1063.5172119140625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "REASONS FOR ",
+                  "bbox": [
+                    723.525390625,
+                    1042.8922119140625,
+                    815.7273559570312,
+                    1063.5172119140625
+                  ],
+                  "font": "Futura-CondensedExtraBol",
+                  "size": 15.0,
+                  "flags": 16
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B063",
+          "page_number": 1,
+          "bbox": [
+            735.870361328125,
+            1060.8922119140625,
+            798.8568725585938,
+            1081.5172119140625
+          ],
+          "text": "REFERRAL",
+          "avg_font_size": 15.0,
+          "max_font_size": 15.0,
+          "is_heading_candidate": true,
+          "lines": [
+            {
+              "text": "REFERRAL",
+              "bbox": [
+                735.870361328125,
+                1060.8922119140625,
+                798.8568725585938,
+                1081.5172119140625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "REFERRAL",
+                  "bbox": [
+                    735.870361328125,
+                    1060.8922119140625,
+                    798.8568725585938,
+                    1081.5172119140625
+                  ],
+                  "font": "Futura-CondensedExtraBol",
+                  "size": 15.0,
+                  "flags": 16
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B064",
+          "page_number": 1,
+          "bbox": [
+            737.484375,
+            1216.1263427734375,
+            799.3312377929688,
+            1232.6263427734375
+          ],
+          "text": "RED FLAGS",
+          "avg_font_size": 12.0,
+          "max_font_size": 12.0,
+          "is_heading_candidate": true,
+          "lines": [
+            {
+              "text": "RED FLAGS",
+              "bbox": [
+                737.484375,
+                1216.1263427734375,
+                799.3312377929688,
+                1232.6263427734375
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "  RED FLAGS",
+                  "bbox": [
+                    737.484375,
+                    1216.1263427734375,
+                    799.3312377929688,
+                    1232.6263427734375
+                  ],
+                  "font": "Futura-CondensedExtraBol",
+                  "size": 12.0,
+                  "flags": 16
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B065",
+          "page_number": 1,
+          "bbox": [
+            714.8115234375,
+            1245.69189453125,
+            820.2465209960938,
+            1338.31201171875
+          ],
+          "text": "• Fever\n• Rapid progression\n• Seizures\n• Recent head\ninjury\n• Alcoholism and\nfalls",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "• Fever",
+              "bbox": [
+                714.8115234375,
+                1245.69189453125,
+                749.6717529296875,
+                1259.1119384765625
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Fever",
+                  "bbox": [
+                    714.8115234375,
+                    1245.69189453125,
+                    749.6717529296875,
+                    1259.1119384765625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• Rapid progression",
+              "bbox": [
+                714.8115234375,
+                1258.8919677734375,
+                820.2465209960938,
+                1272.31201171875
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Rapid progression",
+                  "bbox": [
+                    714.8115234375,
+                    1258.8919677734375,
+                    820.2465209960938,
+                    1272.31201171875
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• Seizures",
+              "bbox": [
+                714.8115234375,
+                1272.0919189453125,
+                766.2365112304688,
+                1285.511962890625
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Seizures",
+                  "bbox": [
+                    714.8115234375,
+                    1272.0919189453125,
+                    766.2365112304688,
+                    1285.511962890625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• Recent head",
+              "bbox": [
+                714.8115234375,
+                1285.2918701171875,
+                792.8236083984375,
+                1298.7119140625
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Recent head ",
+                  "bbox": [
+                    714.8115234375,
+                    1285.2918701171875,
+                    792.8236083984375,
+                    1298.7119140625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "injury",
+              "bbox": [
+                721.8074951171875,
+                1298.491943359375,
+                753.0255126953125,
+                1311.9119873046875
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "injury",
+                  "bbox": [
+                    721.8074951171875,
+                    1298.491943359375,
+                    753.0255126953125,
+                    1311.9119873046875
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• Alcoholism and",
+              "bbox": [
+                714.8115234375,
+                1311.6920166015625,
+                809.1145629882812,
+                1325.112060546875
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Alcoholism and ",
+                  "bbox": [
+                    714.8115234375,
+                    1311.6920166015625,
+                    809.1145629882812,
+                    1325.112060546875
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "falls",
+              "bbox": [
+                721.8074951171875,
+                1324.8919677734375,
+                743.345458984375,
+                1338.31201171875
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "falls",
+                  "bbox": [
+                    721.8074951171875,
+                    1324.8919677734375,
+                    743.345458984375,
+                    1338.31201171875
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B066",
+          "page_number": 1,
+          "bbox": [
+            47.00979995727539,
+            479.9825744628906,
+            774.03173828125,
+            577.7235107421875
+          ],
+          "text": "IMPORTANT POINTS TO CONSIDER\n• Dementia is a complex and variable condition\n• No single test will deﬁnitively diagnose dementia\n• The clinical features if present, should be a change from baseline normal functioning in a middle aged to old person\n• Assessment should aim at gathering information about changed behaviours, functional capacity, psychosocial support and medical\ncomorbidities\n• History should be taken from a close caregiver, staying with the patient for a longer duration than the appearance of symptoms",
+          "avg_font_size": 11.57,
+          "max_font_size": 15.0,
+          "is_heading_candidate": true,
+          "lines": [
+            {
+              "text": "IMPORTANT POINTS TO CONSIDER",
+              "bbox": [
+                53.00979995727539,
+                479.9825744628906,
+                268.26727294921875,
+                500.6075744628906
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "IMPORTANT POINTS TO CONSIDER",
+                  "bbox": [
+                    53.00979995727539,
+                    479.9825744628906,
+                    268.26727294921875,
+                    500.6075744628906
+                  ],
+                  "font": "Futura-CondensedExtraBol",
+                  "size": 15.0,
+                  "flags": 16
+                }
+              ]
+            },
+            {
+              "text": "• Dementia is a complex and variable condition",
+              "bbox": [
+                47.00979995727539,
+                498.30377197265625,
+                303.1887512207031,
+                511.7237548828125
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Dementia is a complex and variable condition",
+                  "bbox": [
+                    47.00979995727539,
+                    498.30377197265625,
+                    303.1887512207031,
+                    511.7237548828125
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• No single test will deﬁnitively diagnose dementia",
+              "bbox": [
+                47.00979995727539,
+                511.50372314453125,
+                320.9658203125,
+                524.9237060546875
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• No single test will deﬁnitively diagnose dementia",
+                  "bbox": [
+                    47.00979995727539,
+                    511.50372314453125,
+                    320.9658203125,
+                    524.9237060546875
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• The clinical features if present, should be a change from baseline normal functioning in a middle aged to old person",
+              "bbox": [
+                47.00979995727539,
+                524.7036743164062,
+                684.55810546875,
+                538.1236572265625
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• The clinical features if present, should be a change from baseline normal functioning in a middle aged to old person",
+                  "bbox": [
+                    47.00979995727539,
+                    524.7036743164062,
+                    684.55810546875,
+                    538.1236572265625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• Assessment should aim at gathering information about changed behaviours, functional capacity, psychosocial support and medical",
+              "bbox": [
+                47.00979995727539,
+                537.9036254882812,
+                774.03173828125,
+                551.3236083984375
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• Assessment should aim at gathering information about changed behaviours, functional capacity, psychosocial support and medical ",
+                  "bbox": [
+                    47.00979995727539,
+                    537.9036254882812,
+                    774.03173828125,
+                    551.3236083984375
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "comorbidities",
+              "bbox": [
+                54.00579833984375,
+                551.1035766601562,
+                132.84280395507812,
+                564.5235595703125
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "comorbidities ",
+                  "bbox": [
+                    54.00579833984375,
+                    551.1035766601562,
+                    132.84280395507812,
+                    564.5235595703125
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "• History should be taken from a close caregiver, staying with the patient for a longer duration than the appearance of symptoms",
+              "bbox": [
+                47.00979995727539,
+                564.3035278320312,
+                746.2435913085938,
+                577.7235107421875
+              ],
+              "is_bullet": true,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "• History should be taken from a close caregiver, staying with the patient for a longer duration than the appearance of symptoms",
+                  "bbox": [
+                    47.00979995727539,
+                    564.3035278320312,
+                    746.2435913085938,
+                    577.7235107421875
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B067",
+          "page_number": 1,
+          "bbox": [
+            694.99072265625,
+            309.71051025390625,
+            799.8757934570312,
+            336.3304443359375
+          ],
+          "text": "Forgetting learned\nactivities",
+          "avg_font_size": 11.0,
+          "max_font_size": 11.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "Forgetting learned",
+              "bbox": [
+                694.99072265625,
+                309.71051025390625,
+                799.8757934570312,
+                323.1304931640625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "Forgetting learned ",
+                  "bbox": [
+                    694.99072265625,
+                    309.71051025390625,
+                    799.8757934570312,
+                    323.1304931640625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "activities",
+              "bbox": [
+                694.99072265625,
+                322.91046142578125,
+                743.3797607421875,
+                336.3304443359375
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "activities",
+                  "bbox": [
+                    694.99072265625,
+                    322.91046142578125,
+                    743.3797607421875,
+                    336.3304443359375
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 11.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B068",
+          "page_number": 1,
+          "bbox": [
+            229.7205047607422,
+            89.39777374267578,
+            426.1774597167969,
+            110.53282165527344
+          ],
+          "text": "Department of Health Research\nMinistry of Health and Family Welfare, Government of India",
+          "avg_font_size": 7.49,
+          "max_font_size": 7.49,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "Department of Health Research",
+              "bbox": [
+                275.25830078125,
+                89.39777374267578,
+                380.6412048339844,
+                99.62803649902344
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "Department of Health Research",
+                  "bbox": [
+                    275.25830078125,
+                    89.39777374267578,
+                    380.6412048339844,
+                    99.62803649902344
+                  ],
+                  "font": "ArialMT",
+                  "size": 7.494699954986572,
+                  "flags": 0
+                }
+              ]
+            },
+            {
+              "text": "Ministry of Health and Family Welfare, Government of India",
+              "bbox": [
+                229.7205047607422,
+                100.30255889892578,
+                426.1774597167969,
+                110.53282165527344
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "Ministry of Health and Family Welfare, Government of India",
+                  "bbox": [
+                    229.7205047607422,
+                    100.30255889892578,
+                    426.1774597167969,
+                    110.53282165527344
+                  ],
+                  "font": "ArialMT",
+                  "size": 7.494699954986572,
+                  "flags": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B069",
+          "page_number": 1,
+          "bbox": [
+            25.068347930908203,
+            21.5648193359375,
+            35.201072692871094,
+            75.71739196777344
+          ],
+          "text": "October/ 2019",
+          "avg_font_size": 7.36,
+          "max_font_size": 7.36,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "October/ 2019",
+              "bbox": [
+                25.068347930908203,
+                21.5648193359375,
+                35.201072692871094,
+                75.71739196777344
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "October/ 2019",
+                  "bbox": [
+                    25.068347930908203,
+                    21.5648193359375,
+                    35.201072692871094,
+                    75.71739196777344
+                  ],
+                  "font": "Montserrat-Black",
+                  "size": 7.363900184631348,
+                  "flags": 20
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B070",
+          "page_number": 1,
+          "bbox": [
+            10.564499855041504,
+            1572.4727783203125,
+            834.8575439453125,
+            1616.8936767578125
+          ],
+          "text": "This STW has been prepared by national experts of India with feasibility considerations for various levels of healthcare system in the country. These broad guidelines are advisory, and are\nbased on expert opinions and available scientiﬁc evidence. There may be variations in the management of an individual patient based on his/her speciﬁc condition, as decided by the\ntreating physician. There will be no indemnity for direct or indirect consequences. Kindly visit our web portal (stw.icmr.org.in) for more information.\n© Indian Council of Medical Research and Department of Health Research, Ministry of Health & Family Welfare, Government of India.",
+          "avg_font_size": 9.14,
+          "max_font_size": 10.0,
+          "is_heading_candidate": false,
+          "lines": [
+            {
+              "text": "This STW has been prepared by national experts of India with feasibility considerations for various levels of healthcare system in the country. These broad guidelines are advisory, and are",
+              "bbox": [
+                10.564499855041504,
+                1572.4727783203125,
+                834.8575439453125,
+                1583.4527587890625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "This STW has been prepared by national experts of India with feasibility considerations for various levels of healthcare system in the country. These broad guidelines are advisory, and are ",
+                  "bbox": [
+                    10.564499855041504,
+                    1572.4727783203125,
+                    834.8575439453125,
+                    1583.4527587890625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 9.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "based on expert opinions and available scientiﬁc evidence. There may be variations in the management of an individual patient based on his/her speciﬁc condition, as decided by the",
+              "bbox": [
+                10.564499855041504,
+                1583.4708251953125,
+                820.9606323242188,
+                1594.4508056640625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "based on expert opinions and available scientiﬁc evidence. There may be variations in the management of an individual patient based on his/her speciﬁc condition, as decided by the ",
+                  "bbox": [
+                    10.564499855041504,
+                    1583.4708251953125,
+                    820.9606323242188,
+                    1594.4508056640625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 9.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "treating physician. There will be no indemnity for direct or indirect consequences. Kindly visit our web portal (stw.icmr.org.in) for more information.",
+              "bbox": [
+                10.564499855041504,
+                1593.2357177734375,
+                673.3505859375,
+                1605.6197509765625
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "treating physician. There will be no indemnity for direct or indirect consequences. Kindly visit our web portal (",
+                  "bbox": [
+                    10.564499855041504,
+                    1594.46875,
+                    498.6155090332031,
+                    1605.44873046875
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 9.0,
+                  "flags": 4
+                },
+                {
+                  "text": "stw.icmr.org.in",
+                  "bbox": [
+                    498.6155090332031,
+                    1593.2357177734375,
+                    572.1365356445312,
+                    1605.6197509765625
+                  ],
+                  "font": "Montserrat-Black",
+                  "size": 9.0,
+                  "flags": 4
+                },
+                {
+                  "text": ") for more information.",
+                  "bbox": [
+                    572.1365356445312,
+                    1594.46875,
+                    673.3505859375,
+                    1605.44873046875
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 9.0,
+                  "flags": 4
+                }
+              ]
+            },
+            {
+              "text": "© Indian Council of Medical Research and Department of Health Research, Ministry of Health & Family Welfare, Government of India.",
+              "bbox": [
+                10.564499855041504,
+                1603.1336669921875,
+                599.3685913085938,
+                1616.8936767578125
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "©",
+                  "bbox": [
+                    10.564499855041504,
+                    1603.1336669921875,
+                    18.204500198364258,
+                    1616.8936767578125
+                  ],
+                  "font": "Montserrat-Black",
+                  "size": 10.0,
+                  "flags": 20
+                },
+                {
+                  "text": " Indian Council of Medical Research and Department of Health Research, Ministry of Health & Family Welfare, Government of India.",
+                  "bbox": [
+                    18.204599380493164,
+                    1605.4727783203125,
+                    599.3685913085938,
+                    1616.4527587890625
+                  ],
+                  "font": "Montserrat-Regular",
+                  "size": 9.0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "block_id": "P1_B071",
+          "page_number": 1,
+          "bbox": [
+            27.097145080566406,
+            423.0245056152344,
+            811.1555786132812,
+            1207.0828857421875
+          ],
+          "text": "stw.icmr.org.in",
+          "avg_font_size": 141.98,
+          "max_font_size": 141.98,
+          "is_heading_candidate": true,
+          "lines": [
+            {
+              "text": "stw.icmr.org.in",
+              "bbox": [
+                27.097145080566406,
+                423.0245056152344,
+                811.1555786132812,
+                1207.0828857421875
+              ],
+              "is_bullet": false,
+              "is_numbered": false,
+              "spans": [
+                {
+                  "text": "stw.icmr.org.in",
+                  "bbox": [
+                    27.097145080566406,
+                    423.0245056152344,
+                    811.1555786132812,
+                    1207.0828857421875
+                  ],
+                  "font": "Arial",
+                  "size": 141.97515869140625,
+                  "flags": 0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

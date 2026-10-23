@@ -1,0 +1,1202 @@
+
+{
+  "metadata": {
+    "document_id": "ICMR-CARD-006",
+    "title": "ST Elevation Myocardial Infarction (STEMI)",
+    "specialty": "Cardiology",
+    "condition": "ST Elevation Myocardial Infarction (STEMI)",
+    "icd_11_code": "BA41.0",
+    "volume": "Volume 1",
+    "edition": "2019 (Updated Jan 2026)",
+    "source_organization": "Indian Council of Medical Research (ICMR) & Department of Health Research (DHR), MoHFW",
+    "source_url": "https://www.icmr.gov.in/icmrobject/uploads/STWs/1768823342_cardiology_1-5.pdf",
+    "local_path": "data/raw/cardiology/1768823342_cardiology_1-5.pdf",
+    "total_pages": 1,
+    "document_hash": "98c6bed931ac43c6721026d26517b608e33079ed817c36e6dfc6920462c5f17f"
+  },
+  "clinical_presentation": {
+    "definition": "Acute coronary syndrome presentation with persistent ST segment elevation on 12-lead electrocardiogram or presumed new left bundle branch block requiring emergent reperfusion therapy.",
+    "typical_symptoms": [
+      "Diffuse retrosternal pain, heaviness or constriction",
+      "Radiation to arms or neck or back",
+      "Associated with sweating",
+      "Easily reproduced with post-meal exertion"
+    ],
+    "atypical_presentations": [
+      "Exertional fatigue",
+      "Breathlessness",
+      "Profuse sweating",
+      "Epigastric discomfort",
+      "Syncope"
+    ],
+    "signs_and_physical_exam": [
+      "Unequal or absent peripheral pulses (indicates Aortic Dissection)",
+      "Pericardial rub (indicates Pericarditis)",
+      "Signs of respiratory pathology: pleuritis, pneumonitis, embolism, pneumothorax",
+      "Neuralgia or herpes zoster rash"
+    ],
+    "unlikely_features": [
+      "Variable location or characteristic",
+      "Long lasting (hours to days) or short lasting (less than a minute)",
+      "Restricted to areas above jaw or below epigastrium",
+      "Localized to a point",
+      "Precipitated by movement of neck or arms or respiration",
+      "Pricking or piercing or stabbing type of pain"
+    ],
+    "red_flags": [
+      "Angina at rest or lasting more than 20 minutes",
+      "Cardiogenic shock",
+      "Acute Left Ventricular Failure (LVF)",
+      "Mechanical complications",
+      "Life threatening ventricular arrhythmias",
+      "Dynamic ST-T changes",
+      "Oxygen saturation below 90%"
+    ],
+    "source": {
+      "document_id": "ICMR-CARD-006",
+      "document_name": "STEMI",
+      "page_number": 1,
+      "section": "CONSIDER ANGINA IF / ANGINA UNLIKELY IF / ACUTE CORONARY SYNDROME",
+      "source_text_reference": "CONSIDER ANGINA IF • Diffuse retrosternal pain, heaviness or constriction • Radiation to arms or neck or back • Associated with sweating ... ANGINA UNLIKELY IF: Variable location or characteristic ... Pricking or piercing or stabbing type of pain"
+    }
+  },
+  "diagnostic_criteria": [
+    {
+      "criterion_id": "CRIT-STEMI-01",
+      "name": "STEMI Diagnosis Confirmation & Timing",
+      "description": "The time point the diagnosis is confirmed with patient history & ECG ideally within 10 mins from First Medical Contact (FMC). All delays are related to FMC.",
+      "diagnostic_threshold": "Diagnosis confirmed within <= 10 minutes from First Medical Contact",
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "STEMI DIAGNOSIS*",
+        "source_text_reference": "The time point the diagnosis is confirmed with patient history & ECG ideally within 10mins from the First Medical Contract (FMC). All delays are related to FMC."
+      }
+    },
+    {
+      "criterion_id": "CRIT-STEMI-02",
+      "name": "Electrocardiographic ST Elevation MI",
+      "description": "ECG reveals persistent ST segment elevation in contiguous leads warranting immediate referral to primary angioplasty / thrombolysis capable hospital.",
+      "diagnostic_threshold": "ST Elevation present on 12-lead ECG",
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "ECG REVEALS ST ELEVATION MI",
+        "source_text_reference": "ECG: If ST Elevation: Follow ST Elevation MI (STEMI) protocol. Refer to primary angioplasty/ thrombolysis capable hospital."
+      }
+    }
+  ],
+  "investigations": [
+    {
+      "investigation_id": "INV-01",
+      "name": "12-lead ECG",
+      "tier": "BASIC",
+      "modality": "Electrocardiography",
+      "indication": "Suspected acute coronary syndrome / chest pain",
+      "target_findings": "ST elevation, dynamic ST-T changes, arrhythmias",
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "STEMI DIAGNOSIS*",
+        "source_text_reference": "STEMI DIAGNOSIS* The time point the diagnosis is confirmed with patient history & ECG ideally within 10mins from the First Medical Contract (FMC)."
+      }
+    },
+    {
+      "investigation_id": "INV-02",
+      "name": "Serial Cardiac Enzymes (Troponin)",
+      "tier": "BASIC",
+      "modality": "Laboratory",
+      "indication": "Routine assessment in all suspected acute MI cases",
+      "target_findings": "Elevated cardiac troponin indicating myocardial necrosis",
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "GENERAL MEASURES",
+        "source_text_reference": "2. Routine bio-chemistry and serial cardiac enzymes (troponin)"
+      }
+    },
+    {
+      "investigation_id": "INV-03",
+      "name": "Routine Bio-chemistry",
+      "tier": "BASIC",
+      "modality": "Laboratory",
+      "indication": "Baseline metabolic and organ function assessment",
+      "target_findings": "Electrolyte imbalances, renal dysfunction, glucose dysregulation",
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "GENERAL MEASURES",
+        "source_text_reference": "2. Routine bio-chemistry and serial cardiac enzymes (troponin)"
+      }
+    },
+    {
+      "investigation_id": "INV-04",
+      "name": "Bedside Echocardiography",
+      "tier": "DESIRABLE",
+      "modality": "Ultrasound Imaging",
+      "indication": "Assessment of LV function and mechanical complications",
+      "target_findings": "Regional wall motion abnormalities, mechanical complications (VSR, acute MR, free wall rupture)",
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "GENERAL MEASURES",
+        "source_text_reference": "6. Echocardiography, particularly for mechanical complication"
+      }
+    },
+    {
+      "investigation_id": "INV-05",
+      "name": "Coronary Angiography",
+      "tier": "OPTIONAL",
+      "modality": "Invasive Fluoroscopy",
+      "indication": "Primary PCI, rescue PCI, or post-fibrinolysis evaluation",
+      "target_findings": "Culprit vessel occlusion, coronary anatomy suitability for revascularization",
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "PCI CAPABLE HOSPITAL",
+        "source_text_reference": "Coronary angiography. Proceed for PCI, Radial route preferred, Preferably within 90 minutes"
+      }
+    }
+  ],
+  "tier_management": [
+    {
+      "tier_id": "TIER-EMS-NON-PCI",
+      "tier": "PHC_CHC",
+      "general_measures": [
+        "First Medical Contact (FMC) diagnosis within 10 minutes",
+        "Continuous ECG monitoring and defibrillation standby if available",
+        "Oxygen administration if saturation is below 90%",
+        "Pain relief with IV morphine titrated in 2-4 mg increments q15m"
+      ],
+      "investigations_performed": [
+        "Immediate 12-lead ECG",
+        "Blood glucose and basic biochemistry",
+        "Cardiac troponin"
+      ],
+      "medications_initiated": [
+        "Aspirin 325 mg loading dose chewed",
+        "Clopidogrel 300 mg loading dose (or Ticagrelor 180 mg)",
+        "Atorvastatin 80 mg (or Rosuvastatin 20-40 mg)"
+      ],
+      "referral_actions": [
+        "Assess if transfer to PCI capable hospital can be achieved in <= 120 minutes",
+        "If transfer <= 120 min: immediate transfer to PCI capable centre",
+        "If transfer > 120 min: immediate thrombolysis (preferably within 10-30 min), then transfer"
+      ],
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "PCI INCAPABLE CENTRE / GENERAL MEASURES",
+        "source_text_reference": "PCI INCAPABLE CENTRE: A. Transfer to PCI capable hospital if PCI can be performed within 120 min. If Transfer to PCI incapable hospital not feasible: THROMBOLYSE Within 12 hours of symptom onset"
+      }
+    },
+    {
+      "tier_id": "TIER-DISTRICT",
+      "tier": "DISTRICT_HOSPITAL",
+      "general_measures": [
+        "Admit in ICU equipped with continuous ECG monitoring & defibrillation",
+        "Serial cardiac enzymes and echocardiography for mechanical complications",
+        "Post-thrombolysis 60-90 min ECG assessment of ST resolution"
+      ],
+      "investigations_performed": [
+        "Serial 12-lead ECGs",
+        "Troponin assays",
+        "Transthoracic Echocardiography",
+        "Electrolytes and renal panel"
+      ],
+      "medications_initiated": [
+        "Enoxaparin 1 mg/kg SC q12h (preferred) or Unfractionated Heparin infusion",
+        "Thrombolytic therapy if indicated (Tenecteplase, Reteplase, Alteplase, or Streptokinase)",
+        "Oral Beta-blockers if LVEF < 40% without shock/heart failure",
+        "ACE-inhibitors (Ramipril / Enalapril)"
+      ],
+      "referral_actions": [
+        "If thrombolysis failed (<50% ST resolution): immediate transfer for rescue PCI",
+        "If thrombolysis successful: transfer for angiography/PCI within 3 to 24 hours"
+      ],
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "POST THROMBOLYSIS / GENERAL MEASURES",
+        "source_text_reference": "POST THROMBOLYSIS: 1. ECG to be done at 60-90 min after starting thrombolysis to assess whether thrombolysis is successful (>50% ST settlement with pain relief) or not. 2. If successful, transfer patient for PCI within 3-24 hours. 3. If thrombolysis failed, transfer patient immediately for PCI capable hospital."
+      }
+    },
+    {
+      "tier_id": "TIER-TERTIARY-PCI",
+      "tier": "TERTIARY_PCI",
+      "general_measures": [
+        "Primary PCI pathway door-to-balloon target <= 90 minutes (<60 minutes in early presenters)",
+        "Radial access route preferred",
+        "Drug Eluting Stents (DES) preferred",
+        "Tackle culprit artery only unless cardiogenic shock",
+        "Unfractionated heparin during procedure",
+        "No routine thrombosuction"
+      ],
+      "investigations_performed": [
+        "Coronary angiography",
+        "Hemodynamic invasive monitoring",
+        "Post-PCI echocardiography"
+      ],
+      "medications_initiated": [
+        "Unfractionated heparin during PCI",
+        "Dual antiplatelet therapy continued for at least 1 year"
+      ],
+      "referral_actions": [
+        "Accept emergency referrals from non-PCI centres",
+        "Provide rescue PCI for failed thrombolysis",
+        "Routine pharmaco-invasive angiography post-successful thrombolysis within 3-24 hours"
+      ],
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "PCI CAPABLE HOSPITAL / DURING PROCEDURE / POST PROCEDURE",
+        "source_text_reference": "PCI CAPABLE HOSPITAL: 1. Proceed for PCI 2. Radial route preferred 3. Preferably within 90 minutes. DURING PROCEDURE: 1. Use unfractionated heparin 2. No routine thrombosuction 3. Tackle culprit artery only unless shock 4. DES to be preferred. POST PROCEDURE: 1. Continue dual antiplatelets for at least 1 year"
+      }
+    }
+  ],
+  "medications": [
+    {
+      "medication_id": "MED-ASPIRIN",
+      "generic_name": "Aspirin",
+      "drug_class": "Antiplatelet",
+      "dosage": "325 mg loading dose, followed by 75 mg OD",
+      "route": "Oral",
+      "frequency": "Once daily (after loading dose)",
+      "duration": "Indefinite / at least 1 year in DAPT",
+      "is_loading_dose": true,
+      "maintenance_dose": "75 mg OD",
+      "weight_based": false,
+      "monitoring_parameters": [
+        "Gastrointestinal bleeding signs",
+        "Platelet count"
+      ],
+      "cautions_and_contraindications": [
+        "Active bleeding diathesis"
+      ],
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "DRUGS & DOSAGE",
+        "source_text_reference": "1. Aspirin: Loading dose 325 mg followed by 75 mg OD"
+      }
+    },
+    {
+      "medication_id": "MED-CLOPIDOGREL",
+      "generic_name": "Clopidogrel",
+      "drug_class": "P2Y12 Antiplatelet",
+      "dosage": "300 mg loading dose, followed by 75 mg OD",
+      "route": "Oral",
+      "frequency": "Once daily (after loading dose)",
+      "duration": "At least 1 year post-procedure",
+      "is_loading_dose": true,
+      "maintenance_dose": "75 mg OD",
+      "weight_based": false,
+      "monitoring_parameters": [
+        "Bleeding signs"
+      ],
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "DRUGS & DOSAGE",
+        "source_text_reference": "2. Clopidogrel: Loading dose 300 mg followed 75 mg OD"
+      }
+    },
+    {
+      "medication_id": "MED-PRASUGREL",
+      "generic_name": "Prasugrel",
+      "drug_class": "P2Y12 Antiplatelet",
+      "dosage": "60 mg loading dose, followed by 10 mg OD",
+      "route": "Oral",
+      "frequency": "Once daily (after loading dose)",
+      "duration": "At least 1 year post-PCI",
+      "is_loading_dose": true,
+      "maintenance_dose": "10 mg OD",
+      "weight_based": false,
+      "monitoring_parameters": [
+        "Bleeding risk"
+      ],
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "DRUGS & DOSAGE",
+        "source_text_reference": "3. Prasugrel: Loading dose 60 mg followed by 10 mg OD"
+      }
+    },
+    {
+      "medication_id": "MED-TICAGRELOR",
+      "generic_name": "Ticagrelor",
+      "drug_class": "P2Y12 Antiplatelet",
+      "dosage": "180 mg loading dose, followed by 90 mg BD",
+      "route": "Oral",
+      "frequency": "Twice daily (after loading dose)",
+      "duration": "At least 1 year post-procedure",
+      "is_loading_dose": true,
+      "maintenance_dose": "90 mg BD",
+      "weight_based": false,
+      "monitoring_parameters": [
+        "Bleeding signs",
+        "Dyspnea"
+      ],
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "DRUGS & DOSAGE",
+        "source_text_reference": "4. Ticagralor: Loading dose 180 mg followed by 90 mg BD"
+      }
+    },
+    {
+      "medication_id": "MED-ATORVASTATIN",
+      "generic_name": "Atorvastatin",
+      "drug_class": "HMG-CoA Reductase Inhibitor (High Dose Statin)",
+      "dosage": "80 mg OD",
+      "route": "Oral",
+      "frequency": "Once daily",
+      "duration": "Long-term secondary prevention",
+      "is_loading_dose": false,
+      "weight_based": false,
+      "monitoring_parameters": [
+        "Lipid profile",
+        "Liver function tests"
+      ],
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "DRUGS & DOSAGE",
+        "source_text_reference": "High dose Atorvastatin 80 mg OD"
+      }
+    },
+    {
+      "medication_id": "MED-ROSUVASTATIN",
+      "generic_name": "Rosuvastatin",
+      "drug_class": "HMG-CoA Reductase Inhibitor (High Dose Statin)",
+      "dosage": "20-40 mg OD",
+      "route": "Oral",
+      "frequency": "Once daily",
+      "duration": "Long-term secondary prevention",
+      "is_loading_dose": false,
+      "weight_based": false,
+      "monitoring_parameters": [
+        "Lipid profile"
+      ],
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "DRUGS & DOSAGE",
+        "source_text_reference": "Rosuvastatin 20-40mg OD"
+      }
+    },
+    {
+      "medication_id": "MED-TENECTEPLASE",
+      "generic_name": "Tenecteplase",
+      "drug_class": "Fibrin-specific Thrombolytic Agent",
+      "dosage": "35 mg (60-70 kg), 40 mg (70-80 kg), 45 mg (>80 kg)",
+      "route": "Intravenous",
+      "frequency": "Stat single bolus",
+      "duration": "Single dose",
+      "is_loading_dose": true,
+      "weight_based": true,
+      "weight_rules": [
+        { "weight_range": "60-70 Kg", "dose": "35 mg IV bolus" },
+        { "weight_range": "70-80 Kg", "dose": "40 mg IV bolus" },
+        { "weight_range": ">80 Kg", "dose": "45 mg IV bolus" }
+      ],
+      "monitoring_parameters": [
+        "ECG resolution at 60-90 min",
+        "Signs of systemic or intracerebral hemorrhage",
+        "Blood pressure and pulse"
+      ],
+      "cautions_and_contraindications": [
+        "Check all absolute contraindications to thrombolysis prior to administration"
+      ],
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "DRUGS & DOSAGE",
+        "source_text_reference": "Tenecteplase: 35 mg IV bolus if 60-70 Kg, 40 mg IV bolus if 70-80 Kg, 45 mg IV bolus if more than 80 Kg"
+      }
+    },
+    {
+      "medication_id": "MED-RETEPLASE",
+      "generic_name": "Reteplase",
+      "drug_class": "Fibrin-specific Thrombolytic Agent",
+      "dosage": "10 mg IV bolus, repeat after 30 min",
+      "route": "Intravenous",
+      "frequency": "Two boluses 30 minutes apart",
+      "duration": "Completed in 30 minutes",
+      "is_loading_dose": true,
+      "weight_based": false,
+      "monitoring_parameters": [
+        "ECG resolution at 60-90 min",
+        "Bleeding signs"
+      ],
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "DRUGS & DOSAGE",
+        "source_text_reference": "Reteplase: 10 mg IV bolus, repeat after 30 min"
+      }
+    },
+    {
+      "medication_id": "MED-ALTEPLASE",
+      "generic_name": "Alteplase",
+      "drug_class": "Fibrin-specific Thrombolytic Agent (rt-PA)",
+      "dosage": "15 mg IV bolus followed by 0.75 mg/Kg over 30 min upto 50 Kg weight, then 0.5 mg/Kg over 60 min up to 35 mg",
+      "route": "Intravenous",
+      "frequency": "Accelerated infusion protocol",
+      "duration": "90 minutes infusion",
+      "is_loading_dose": true,
+      "weight_based": true,
+      "monitoring_parameters": [
+        "ECG resolution at 60-90 min",
+        "Neurological checks for intracranial hemorrhage"
+      ],
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "DRUGS & DOSAGE",
+        "source_text_reference": "Alteplase: 15 mg IV bolus followed by 0.75 mg/Kg over 30 min upto 50 Kg weight, then 0.5 mg/Kg over 60 min up to 35 mg"
+      }
+    },
+    {
+      "medication_id": "MED-STREPTOKINASE",
+      "generic_name": "Streptokinase",
+      "drug_class": "Non-fibrin-specific Thrombolytic Agent",
+      "dosage": "1.5 million units IV over 60 min",
+      "route": "Intravenous infusion",
+      "frequency": "Stat infusion",
+      "duration": "60 minutes",
+      "is_loading_dose": true,
+      "weight_based": false,
+      "monitoring_parameters": [
+        "Hypotension",
+        "Allergic reactions / anaphylaxis",
+        "ECG resolution"
+      ],
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "DRUGS & DOSAGE",
+        "source_text_reference": "Streptokinase: 1.5 million units IV over 60 min"
+      }
+    },
+    {
+      "medication_id": "MED-ENOXAPARIN",
+      "generic_name": "Enoxaparin",
+      "drug_class": "Low Molecular Weight Heparin (LMWH)",
+      "dosage": "1 mg/Kg SC 12 hrly",
+      "route": "Subcutaneous",
+      "frequency": "Every 12 hours",
+      "duration": "Continued till PCI or hospital discharge",
+      "is_loading_dose": false,
+      "weight_based": true,
+      "monitoring_parameters": [
+        "Renal function",
+        "Platelet count",
+        "Bleeding"
+      ],
+      "cautions_and_contraindications": [
+        "Preferred over unfractionated heparin in post-thrombolysis management"
+      ],
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "DRUGS & DOSAGE",
+        "source_text_reference": "2. Enoxaparin: 1 mg/Kg SC 12 hrly ... Enoxaparin (preferred over unfractionated heparin) to be continued till PCI OR discharge"
+      }
+    },
+    {
+      "medication_id": "MED-UFH",
+      "generic_name": "Unfractionated Heparin",
+      "drug_class": "Antithrombotic / Anticoagulant",
+      "dosage": "Bolus of 60 U/Kg (maximum 5000 U) followed by 12 U/Kg hourly infusion",
+      "route": "Intravenous",
+      "frequency": "Continuous infusion",
+      "duration": "Titrated during procedure or medical therapy",
+      "is_loading_dose": true,
+      "maintenance_dose": "12 U/Kg hourly infusion to maintain APTT at 50-70 sec",
+      "weight_based": true,
+      "monitoring_parameters": [
+        "APTT maintained at 50-70 seconds"
+      ],
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "DRUGS & DOSAGE",
+        "source_text_reference": "1. Unfractionated heparin: Bolus of 60 U/Kg (maximum 5000 U) followed by 12 U/Kg hourly infusion to maintain APTT at 50-70 sec"
+      }
+    },
+    {
+      "medication_id": "MED-MORPHINE",
+      "generic_name": "Morphine",
+      "drug_class": "Opioid Analgesic",
+      "dosage": "2-4 mg IV titrated every 15 minutes",
+      "route": "Intravenous",
+      "frequency": "Every 15 minutes as needed",
+      "duration": "Acute pain relief",
+      "is_loading_dose": false,
+      "weight_based": false,
+      "monitoring_parameters": [
+        "Respiratory rate",
+        "Blood pressure",
+        "Level of consciousness"
+      ],
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "DRUGS & DOSAGE",
+        "source_text_reference": "Morphine: Titrated in a dose of 2-4 mg IV every 15 minutes"
+      }
+    },
+    {
+      "medication_id": "MED-METOPROLOL",
+      "generic_name": "Metoprolol",
+      "drug_class": "Beta-blocker",
+      "dosage": "Short acting: 25-100 mg BD; Long acting: 25-100 mg OD",
+      "route": "Oral",
+      "frequency": "BD for short acting, OD for long acting",
+      "duration": "Long-term secondary prevention",
+      "is_loading_dose": false,
+      "weight_based": false,
+      "monitoring_parameters": [
+        "Heart rate (>50 bpm)",
+        "Blood pressure"
+      ],
+      "cautions_and_contraindications": [
+        "Oral beta-blocker indicated if LVEF is less than 40%; avoid if acute heart failure or bradycardia"
+      ],
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "DRUGS & DOSAGE",
+        "source_text_reference": "Metoprolol: Short acting: 25-100 mg BD, Long acting: 25 -100 mg OD ... Beta-blocker: Oral beta-blocker if LVEF is less than 40%"
+      }
+    },
+    {
+      "medication_id": "MED-RAMIPRIL",
+      "generic_name": "Ramipril",
+      "drug_class": "ACE Inhibitor",
+      "dosage": "2.5-10 mg OD",
+      "route": "Oral",
+      "frequency": "Once daily",
+      "duration": "Long-term post-MI",
+      "is_loading_dose": false,
+      "weight_based": false,
+      "monitoring_parameters": [
+        "Serum creatinine",
+        "Serum potassium",
+        "Blood pressure"
+      ],
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "DRUGS & DOSAGE",
+        "source_text_reference": "Ace-inhibitor Ramipril 2.5 -10 mg OD"
+      }
+    },
+    {
+      "medication_id": "MED-ENALAPRIL",
+      "generic_name": "Enalapril",
+      "drug_class": "ACE Inhibitor",
+      "dosage": "2.5-10 mg BD",
+      "route": "Oral",
+      "frequency": "Twice daily",
+      "duration": "Long-term post-MI",
+      "is_loading_dose": false,
+      "weight_based": false,
+      "monitoring_parameters": [
+        "Serum creatinine",
+        "Serum potassium"
+      ],
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "DRUGS & DOSAGE",
+        "source_text_reference": "Enalapril 2.5 -10mg BD"
+      }
+    }
+  ],
+  "contraindications": [
+    {
+      "contraindication_id": "CI-01",
+      "type": "ABSOLUTE",
+      "condition_description": "Previous intracerebral hemorrhage or stroke of unknown etiology",
+      "intervention_affected": "Thrombolytic Therapy",
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "ABSOLUTE CONTRA-INDICATIONS TO THROMBOLYTIC THERAPY",
+        "source_text_reference": "Previous intra-cerebral hemorrhage or stroke of unknown etiology"
+      }
+    },
+    {
+      "contraindication_id": "CI-02",
+      "type": "ABSOLUTE",
+      "condition_description": "Ischemic stroke in last 6 months",
+      "intervention_affected": "Thrombolytic Therapy",
+      "timeframe": "Last 6 months",
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "ABSOLUTE CONTRA-INDICATIONS TO THROMBOLYTIC THERAPY",
+        "source_text_reference": "Ischemic stroke in last 6 months"
+      }
+    },
+    {
+      "contraindication_id": "CI-03",
+      "type": "ABSOLUTE",
+      "condition_description": "CNS neoplasm or arteriovenous (AV) malformation",
+      "intervention_affected": "Thrombolytic Therapy",
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "ABSOLUTE CONTRA-INDICATIONS TO THROMBOLYTIC THERAPY",
+        "source_text_reference": "CNS neoplasm or AV malformation"
+      }
+    },
+    {
+      "contraindication_id": "CI-04",
+      "type": "ABSOLUTE",
+      "condition_description": "Recent major trauma, surgery, or head injury",
+      "intervention_affected": "Thrombolytic Therapy",
+      "timeframe": "Within 1 month",
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "ABSOLUTE CONTRA-INDICATIONS TO THROMBOLYTIC THERAPY",
+        "source_text_reference": "Recent (within 1 month) major trauma/ surgey/ head injury"
+      }
+    },
+    {
+      "contraindication_id": "CI-05",
+      "type": "ABSOLUTE",
+      "condition_description": "Recent major gastrointestinal bleeding",
+      "intervention_affected": "Thrombolytic Therapy",
+      "timeframe": "Within 1 month",
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "ABSOLUTE CONTRA-INDICATIONS TO THROMBOLYTIC THERAPY",
+        "source_text_reference": "Recent (within 1 month) major GI bleed"
+      }
+    },
+    {
+      "contraindication_id": "CI-06",
+      "type": "ABSOLUTE",
+      "condition_description": "Known bleeding tendency (except menstrual bleed)",
+      "intervention_affected": "Thrombolytic Therapy",
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "ABSOLUTE CONTRA-INDICATIONS TO THROMBOLYTIC THERAPY",
+        "source_text_reference": "Known bleeding tendency (except menstrual bleed)"
+      }
+    },
+    {
+      "contraindication_id": "CI-07",
+      "type": "ABSOLUTE",
+      "condition_description": "Aortic dissection",
+      "intervention_affected": "Thrombolytic Therapy",
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "ABSOLUTE CONTRA-INDICATIONS TO THROMBOLYTIC THERAPY",
+        "source_text_reference": "Aortic dissection"
+      }
+    },
+    {
+      "contraindication_id": "CI-08",
+      "type": "ABSOLUTE",
+      "condition_description": "Severe uncontrolled hypertension",
+      "intervention_affected": "Thrombolytic Therapy",
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "ABSOLUTE CONTRA-INDICATIONS TO THROMBOLYTIC THERAPY",
+        "source_text_reference": "Severe uncontrolled hypertension"
+      }
+    }
+  ],
+  "referral_criteria": [
+    {
+      "referral_id": "REF-01",
+      "urgency": "IMMEDIATE",
+      "trigger_condition": "Patient presenting to PCI incapable centre where transfer door-to-balloon time <= 120 min",
+      "originating_tier": "EMS or non primary-PCI capable centre",
+      "target_facility_type": "Primary-PCI capable centre",
+      "time_window": "<= 120 minutes door-to-balloon",
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "PCI INCAPABLE CENTRE",
+        "source_text_reference": "A. Transfer to PCI capable hospital if PCI can be performed within 120 min ... Immediate transfer to PCI centre"
+      }
+    },
+    {
+      "referral_id": "REF-02",
+      "urgency": "IMMEDIATE",
+      "trigger_condition": "Failed fibrinolysis (< 50% ST segment resolution with persistent pain at 60-90 minutes post-thrombolysis)",
+      "originating_tier": "Thrombolysis centre / District Hospital",
+      "target_facility_type": "Primary-PCI capable centre (for Rescue PCI)",
+      "time_window": "Immediately",
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "POST THROMBOLYSIS",
+        "source_text_reference": "3. If thrombolysis failed, transfer patient immediately for PCI capable hospital"
+      }
+    },
+    {
+      "referral_id": "REF-03",
+      "urgency": "URGENT",
+      "trigger_condition": "Successful fibrinolysis (> 50% ST segment resolution and pain relief at 60-90 minutes)",
+      "originating_tier": "Thrombolysis centre / District Hospital",
+      "target_facility_type": "PCI capable centre (Routine Coronary Angiography)",
+      "time_window": "Within 3 to 24 hours",
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "POST THROMBOLYSIS",
+        "source_text_reference": "2. If successful, transfer patient for PCI within 3-24 hours"
+      }
+    },
+    {
+      "referral_id": "REF-04",
+      "urgency": "IMMEDIATE",
+      "trigger_condition": "Patient presenting with STEMI between 12 to 24 hours of onset",
+      "originating_tier": "Any non-PCI facility",
+      "target_facility_type": "PCI capable hospital",
+      "time_window": "Immediately",
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "PATIENT WITH STEMI IN 12-24 HOURS",
+        "source_text_reference": "PATIENT WITH STEMI IN 12-24 HOURS: Transfer to PCI capable hospital immediately. If ongoing pain, thrombolysis and transfer immediately"
+      }
+    }
+  ],
+  "flowcharts": [
+    {
+      "flowchart_id": "FC-STEMI-REPERFUSION",
+      "title": "STEMI Reperfusion Strategy and Triage Workflow",
+      "description": "Decision algorithm covering First Medical Contact, triage across PCI vs Non-PCI centers, time window stratification, and post-thrombolysis pathways",
+      "start_node_id": "NODE-FMC-DIAGNOSIS",
+      "nodes": [
+        {
+          "node_id": "NODE-FMC-DIAGNOSIS",
+          "node_type": "START",
+          "label": "First Medical Contact (FMC) & ECG",
+          "description": "Patient presenting with ischemic chest pain. Diagnosis confirmed with history and 12-lead ECG ideally within <= 10 min.",
+          "branches": [
+            {
+              "branch_id": "BR-01",
+              "condition": "ECG reveals persistent ST Elevation MI",
+              "target_node_id": "NODE-TIME-STRATIFICATION",
+              "rationale": "ST elevation confirmed on ECG"
+            }
+          ],
+          "source": {
+            "document_id": "ICMR-CARD-006",
+            "document_name": "STEMI",
+            "page_number": 1,
+            "section": "STEMI DIAGNOSIS*",
+            "source_text_reference": "The time point the diagnosis is confirmed with patient history & ECG ideally within 10mins from the First Medical Contract (FMC)."
+          }
+        },
+        {
+          "node_id": "NODE-TIME-STRATIFICATION",
+          "node_type": "DECISION",
+          "label": "Time Window from Symptom Onset",
+          "description": "Determine duration since symptom onset: < 12 hours, 12-24 hours, or > 24 hours.",
+          "branches": [
+            {
+              "branch_id": "BR-TIME-LT12",
+              "condition": "Duration < 12 hours",
+              "target_node_id": "NODE-CENTRE-CAPABILITY",
+              "rationale": "Candidate for immediate primary reperfusion"
+            },
+            {
+              "branch_id": "BR-TIME-12TO24",
+              "condition": "Duration 12 to 24 hours",
+              "target_node_id": "NODE-STEMI-12-24H",
+              "rationale": "Requires immediate transfer to PCI centre"
+            },
+            {
+              "branch_id": "BR-TIME-GT24",
+              "condition": "Duration > 24 hours",
+              "target_node_id": "NODE-STEMI-GT24H",
+              "rationale": "Invasive evaluation only for specific high-risk complications"
+            }
+          ],
+          "source": {
+            "document_id": "ICMR-CARD-006",
+            "document_name": "STEMI",
+            "page_number": 1,
+            "section": "PATIENT WITH STEMI WITHIN 12 HOURS / IN 12-24 HOURS / AFTER 24 HOURS",
+            "source_text_reference": "PATIENT WITH STEMI WITHIN 12 HOURS ... PATIENT WITH STEMI IN 12-24 HOURS ... PATIENT WITH STEMI AFTER 24 HOURS"
+          }
+        },
+        {
+          "node_id": "NODE-CENTRE-CAPABILITY",
+          "node_type": "DECISION",
+          "label": "Assess Facility Reperfusion Capability (< 12 hours)",
+          "description": "Evaluate if presentation is at a Primary-PCI capable centre or EMS / non-PCI centre.",
+          "branches": [
+            {
+              "branch_id": "BR-PCI-CAPABLE",
+              "condition": "Facility is Primary-PCI capable",
+              "target_node_id": "NODE-PRIMARY-PCI",
+              "rationale": "Proceed directly with Primary PCI"
+            },
+            {
+              "branch_id": "BR-NON-PCI",
+              "condition": "Facility is EMS or non-PCI capable centre",
+              "target_node_id": "NODE-PCI-TIMING-CHECK",
+              "rationale": "Assess transfer time feasibility"
+            }
+          ],
+          "source": {
+            "document_id": "ICMR-CARD-006",
+            "document_name": "STEMI",
+            "page_number": 1,
+            "section": "MISSION: LIFELINE / PCI CAPABLE HOSPITAL / PCI INCAPABLE CENTRE",
+            "source_text_reference": "Primary-PCI capable centre ... EMS or non primary-PCI capable centre"
+          }
+        },
+        {
+          "node_id": "NODE-PRIMARY-PCI",
+          "node_type": "ACTION",
+          "label": "Primary PCI Procedure",
+          "description": "Perform Primary PCI within <= 90 minutes (<= 60 min in early presenters). Radial route preferred. Use UFH, DES preferred, tackle culprit artery only unless shock. Dual antiplatelets continued for at least 1 year.",
+          "branches": [],
+          "source": {
+            "document_id": "ICMR-CARD-006",
+            "document_name": "STEMI",
+            "page_number": 1,
+            "section": "PCI CAPABLE HOSPITAL / DURING PROCEDURE / POST PROCEDURE",
+            "source_text_reference": "Proceed for PCI, Radial route preferred, Preferably within 90 minutes (<60 mins in early presenters). Tackle culprit artery only unless shock. DES to be preferred."
+          }
+        },
+        {
+          "node_id": "NODE-PCI-TIMING-CHECK",
+          "node_type": "DECISION",
+          "label": "PCI Possible < 120 Minutes from FMC?",
+          "description": "Determine whether door-to-balloon time with inter-facility transfer can be achieved within 120 minutes.",
+          "branches": [
+            {
+              "branch_id": "BR-TRANSFER-FEASIBLE",
+              "condition": "PCI possible < 120 mins (YES)",
+              "target_node_id": "NODE-TRANSFER-PCI",
+              "rationale": "Transfer for primary PCI"
+            },
+            {
+              "branch_id": "BR-TRANSFER-NOT-FEASIBLE",
+              "condition": "PCI NOT possible < 120 mins (NO)",
+              "target_node_id": "NODE-FIBRINOLYSIS",
+              "rationale": "Immediate fibrinolysis indicated"
+            }
+          ],
+          "source": {
+            "document_id": "ICMR-CARD-006",
+            "document_name": "STEMI",
+            "page_number": 1,
+            "section": "MISSION: LIFELINE",
+            "source_text_reference": "PCI possible <120 mins? Yes -> Immediate transfer to PCI centre -> Primary PCI. No -> Immediate fibrinolysis."
+          }
+        },
+        {
+          "node_id": "NODE-TRANSFER-PCI",
+          "node_type": "REFERRAL",
+          "label": "Immediate Transfer to PCI Centre",
+          "description": "Rapid ambulance transfer to Primary-PCI facility for door-to-balloon reperfusion within 120 minutes.",
+          "branches": [
+            {
+              "branch_id": "BR-ARRIVE-PCI",
+              "condition": "Arrival at PCI center",
+              "target_node_id": "NODE-PRIMARY-PCI",
+              "rationale": "Perform primary PCI"
+            }
+          ],
+          "source": {
+            "document_id": "ICMR-CARD-006",
+            "document_name": "STEMI",
+            "page_number": 1,
+            "section": "PCI INCAPABLE CENTRE",
+            "source_text_reference": "A. Transfer to PCI capable hospital if PCI can be performed within 120 min. Immediate transfer to PCI centre"
+          }
+        },
+        {
+          "node_id": "NODE-FIBRINOLYSIS",
+          "node_type": "ACTION",
+          "label": "Immediate Fibrinolysis (Door-to-needle <= 30 min)",
+          "description": "Verify absence of contraindications. Initiate fibrinolytic therapy (preferably fibrin-specific: Tenecteplase, Reteplase, Alteplase; or Streptokinase) within 10 minutes, ideally within 30 minutes of FMC. Administer loading Aspirin + Clopidogrel + Enoxaparin.",
+          "branches": [
+            {
+              "branch_id": "BR-EVALUATE-REPERFUSION",
+              "condition": "60 to 90 minutes post-fibrinolysis",
+              "target_node_id": "NODE-POST-THROMBOLYSIS-EVAL",
+              "rationale": "Assess ST resolution on ECG"
+            }
+          ],
+          "source": {
+            "document_id": "ICMR-CARD-006",
+            "document_name": "STEMI",
+            "page_number": 1,
+            "section": "THROMBOLYSE / MISSION: LIFELINE",
+            "source_text_reference": "THROMBOLYSE: 1. Within 12 hours of symptom onset, if no contra-indication 2. Preferably with fibrin specific agent Tenecteplase/ TPA/ Reteplase or Streptokinase ... Therapy to be started within 10 min preferably ... Preferably within 30 mins"
+          }
+        },
+        {
+          "node_id": "NODE-POST-THROMBOLYSIS-EVAL",
+          "node_type": "DECISION",
+          "label": "Assess Fibrinolysis Success at 60-90 Minutes",
+          "description": "Perform 12-lead ECG at 60-90 min. Success defined as > 50% ST settlement with clinical pain relief.",
+          "branches": [
+            {
+              "branch_id": "BR-FIBRINOLYSIS-SUCCESS",
+              "condition": "Successful fibrinolysis (> 50% ST settlement with pain relief)",
+              "target_node_id": "NODE-ROUTINE-ANGIO",
+              "rationale": "Pharmaco-invasive strategy"
+            },
+            {
+              "branch_id": "BR-FIBRINOLYSIS-FAILED",
+              "condition": "Failed fibrinolysis (< 50% ST settlement or ongoing pain)",
+              "target_node_id": "NODE-RESCUE-PCI",
+              "rationale": "Emergent rescue angioplasty needed"
+            }
+          ],
+          "source": {
+            "document_id": "ICMR-CARD-006",
+            "document_name": "STEMI",
+            "page_number": 1,
+            "section": "POST THROMBOLYSIS",
+            "source_text_reference": "POST THROMBOLYSIS: 1. ECG to be done at 60-90 min after starting thrombolysis to assess whether thrombolysis is successful (>50% ST settlement with pain relief) or not."
+          }
+        },
+        {
+          "node_id": "NODE-ROUTINE-ANGIO",
+          "node_type": "REFERRAL",
+          "label": "Transfer for Coronary Angiography (3 to 24 Hours)",
+          "description": "Stable patient post-successful thrombolysis transferred for routine angiography and revascularization within 3-24 hours. Continue enoxaparin.",
+          "branches": [],
+          "source": {
+            "document_id": "ICMR-CARD-006",
+            "document_name": "STEMI",
+            "page_number": 1,
+            "section": "POST THROMBOLYSIS / MISSION: LIFELINE",
+            "source_text_reference": "2. If successful, transfer patient for PCI within 3-24 hours. Preferably 3-24 hours"
+          }
+        },
+        {
+          "node_id": "NODE-RESCUE-PCI",
+          "node_type": "REFERRAL",
+          "label": "Immediate Transfer for Rescue PCI",
+          "description": "Failed thrombolysis: immediate emergency transfer to PCI capable hospital for Rescue PCI (< 60 minutes).",
+          "branches": [],
+          "source": {
+            "document_id": "ICMR-CARD-006",
+            "document_name": "STEMI",
+            "page_number": 1,
+            "section": "POST THROMBOLYSIS / MISSION: LIFELINE",
+            "source_text_reference": "3. If thrombolysis failed, transfer patient immediately for PCI capable hospital. Rescue PCI Preferably <60 mins"
+          }
+        },
+        {
+          "node_id": "NODE-STEMI-12-24H",
+          "node_type": "ACTION",
+          "label": "STEMI Presentation at 12 to 24 Hours",
+          "description": "Transfer to PCI capable hospital immediately. If ongoing pain, administer thrombolysis and transfer immediately.",
+          "branches": [],
+          "source": {
+            "document_id": "ICMR-CARD-006",
+            "document_name": "STEMI",
+            "page_number": 1,
+            "section": "PATIENT WITH STEMI IN 12-24 HOURS",
+            "source_text_reference": "PATIENT WITH STEMI IN 12-24 HOURS: Transfer to PCI capable hospital immediately. If ongoing pain, thrombolysis and transfer immediately"
+          }
+        },
+        {
+          "node_id": "NODE-STEMI-GT24H",
+          "node_type": "DECISION",
+          "label": "STEMI Presentation After 24 Hours",
+          "description": "Coronary angiography with a view to PCI indicated ONLY if any of: Recurrent anginal pain not controlled by medical therapy, Cardiogenic shock, Acute LVF, Mechanical complication, Dynamic ST-T changes, or Life threatening ventricular arrhythmias.",
+          "branches": [],
+          "source": {
+            "document_id": "ICMR-CARD-006",
+            "document_name": "STEMI",
+            "page_number": 1,
+            "section": "PATIENT WITH STEMI AFTER 24 HOURS",
+            "source_text_reference": "PATIENT WITH STEMI AFTER 24 HOURS: Angiography with a view to PCI only if any of following: Recurrent anginal pain not controlled by medical therapy, Cardiogenic shock, Acute LVF, Mechanical complication, Dynamic ST-T changes, Life threatening ventricular arrhythmias"
+          }
+        }
+      ],
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "MISSION: LIFELINE / PCI CAPABLE / INCAPABLE / TIME WINDOWS",
+        "source_text_reference": "MISSION: LIFELINE workflow diagram encompassing primary PCI, transfer thresholds, fibrinolysis timing, and rescue intervention"
+      }
+    }
+  ],
+  "tables": [
+    {
+      "table_id": "TAB-THROMBOLYSIS",
+      "title": "Thrombolytic Therapy Regimens & Weight Tiers",
+      "headers": ["Agent", "Dosing Protocol", "Route", "Key Considerations"],
+      "rows": [
+        {
+          "row_id": "ROW-TNK",
+          "cells": {
+            "Agent": "Tenecteplase",
+            "Dosing Protocol": "35 mg IV bolus if 60-70 Kg; 40 mg IV bolus if 70-80 Kg; 45 mg IV bolus if > 80 Kg",
+            "Route": "IV Bolus",
+            "Key Considerations": "Fibrin-specific, single weight-adjusted bolus"
+          },
+          "source": {
+            "document_id": "ICMR-CARD-006",
+            "document_name": "STEMI",
+            "page_number": 1,
+            "section": "DRUGS & DOSAGE",
+            "source_text_reference": "Tenecteplase 35 mg IV bolus if 60-70 Kg, 40 mg IV bolus if 70-80 Kg, 45 mg IV bolus if more than 80 Kg"
+          }
+        },
+        {
+          "row_id": "ROW-RETEPLASE",
+          "cells": {
+            "Agent": "Reteplase",
+            "Dosing Protocol": "10 mg IV bolus, repeat after 30 min",
+            "Route": "IV Bolus",
+            "Key Considerations": "Fibrin-specific, two bolus injections"
+          },
+          "source": {
+            "document_id": "ICMR-CARD-006",
+            "document_name": "STEMI",
+            "page_number": 1,
+            "section": "DRUGS & DOSAGE",
+            "source_text_reference": "Reteplase 10 mg IV bolus, repeat after 30 min"
+          }
+        },
+        {
+          "row_id": "ROW-ALTEPLASE",
+          "cells": {
+            "Agent": "Alteplase",
+            "Dosing Protocol": "15 mg IV bolus followed by 0.75 mg/Kg over 30 min upto 50 Kg weight, then 0.5 mg/Kg over 60 min up to 35 mg",
+            "Route": "IV Infusion",
+            "Key Considerations": "Accelerated 90-minute infusion"
+          },
+          "source": {
+            "document_id": "ICMR-CARD-006",
+            "document_name": "STEMI",
+            "page_number": 1,
+            "section": "DRUGS & DOSAGE",
+            "source_text_reference": "Alteplase 15 mg IV bolus followed by 0.75 mg/Kg over 30 min upto 50 Kg weight, then 0.5 mg/Kg over 60 min up to 35 mg"
+          }
+        },
+        {
+          "row_id": "ROW-SK",
+          "cells": {
+            "Agent": "Streptokinase",
+            "Dosing Protocol": "1.5 million units IV over 60 min",
+            "Route": "IV Infusion",
+            "Key Considerations": "Non-fibrin specific, used if fibrin-specific agents are unavailable"
+          },
+          "source": {
+            "document_id": "ICMR-CARD-006",
+            "document_name": "STEMI",
+            "page_number": 1,
+            "section": "DRUGS & DOSAGE",
+            "source_text_reference": "Streptokinase 1.5 million units IV over 60 min"
+          }
+        }
+      ],
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "DRUGS & DOSAGE",
+        "source_text_reference": "Thrombolytic Therapy dosing panel"
+      }
+    }
+  ],
+  "references": [
+    {
+      "reference_id": "REF-01",
+      "citation_text": "Byrne RA et al. 2023 ESC guidelines for the management of acute coronary syndrome. European Heart J (2024) 44, 3720-3826",
+      "doi_or_url": "https://doi.org/10.1093/eurheartj/ehad191",
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "REFERENCES",
+        "source_text_reference": "1. Byrne RA et al. 2023ESC guidelines for the management of acute coronary syndrome. European Heart J (2024) 44, 3720-3826"
+      }
+    },
+    {
+      "reference_id": "REF-02",
+      "citation_text": "Rao SV et al. 2025 ACC/AHA/ACEP/NAEMSP/SCAI guidelines for the management of acute coronary syndrome. J Am Coll Cardiol (2025) 85, 2135-2237",
+      "doi_or_url": "https://doi.org/10.1016/j.jacc.2024.11.011",
+      "source": {
+        "document_id": "ICMR-CARD-006",
+        "document_name": "STEMI",
+        "page_number": 1,
+        "section": "REFERENCES",
+        "source_text_reference": "2. Rao SV et al. 2025 ACC/AHA/ACEP/NAEMSP/SCAI guidelines for the management of acute coronary syndrome. J Am Coll Cardiol(2025) 85, 2135-2237"
+      }
+    }
+  ],
+  "abbreviations": {
+    "STEMI": "ST Elevation Myocardial Infarction",
+    "PCI": "Percutaneous Coronary Intervention",
+    "FMC": "First Medical Contact",
+    "EMS": "Emergency Medical Services",
+    "ECG": "Electrocardiogram",
+    "LVF": "Left Ventricular Failure",
+    "DES": "Drug Eluting Stent",
+    "DAPT": "Dual Antiplatelet Therapy",
+    "UFH": "Unfractionated Heparin",
+    "LMWH": "Low Molecular Weight Heparin",
+    "APTT": "Activated Partial Thromboplastin Time",
+    "OD": "Once Daily (Omni Die)",
+    "BD": "Twice Daily (Bis in Die)",
+    "SC": "Subcutaneous",
+    "IV": "Intravenous"
+  }
+}

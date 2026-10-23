@@ -1,0 +1,224 @@
+{
+  "metadata": {
+    "document_id": "ICMR-NEUR-002",
+    "title": "Dementia",
+    "specialty": "Neurology",
+    "condition": "Dementia",
+    "icd_11_code": null,
+    "volume": "Volume 1",
+    "edition": "1.0",
+    "source_organization": "Indian Council of Medical Research (ICMR)",
+    "source_url": "https://www.icmr.gov.in/icmrobject/uploads/STWs/1725952345_neurology_dementia.pdf",
+    "local_path": "data\\raw\\neurology\\1725952345_neurology_dementia.pdf",
+    "total_pages": 1,
+    "document_hash": "b1e1c604670dc08624344e182517d1d229e1570011464e12ac258f7dac455fee"
+  },
+  "clinical_presentation": null,
+  "diagnostic_criteria": [],
+  "investigations": [
+    {
+      "investigation_id": "INV_P1_01",
+      "name": "Lab investigations- CBC, biochemistry, liver function tests,",
+      "tier": "BASIC",
+      "modality": "Laboratory / Diagnostic Imaging",
+      "indication": "Workup for Dementia",
+      "target_findings": null,
+      "source": {
+        "document_id": "ICMR-NEUR-002",
+        "document_name": "Dementia",
+        "page_number": 1,
+        "section": "FOR AGITATION",
+        "source_text_reference": "• Lab investigations- CBC, biochemistry, liver function tests,",
+        "bounding_box": [
+          7.76776123046875,
+          1184.0732421875,
+          329.988525390625,
+          1197.4932861328125
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "investigation_id": "INV_P1_02",
+      "name": "hemogram, lipd proﬁle, TFT, VDRL, vit B12 level, vit D level",
+      "tier": "BASIC",
+      "modality": "Laboratory / Diagnostic Imaging",
+      "indication": "Workup for Dementia",
+      "target_findings": null,
+      "source": {
+        "document_id": "ICMR-NEUR-002",
+        "document_name": "Dementia",
+        "page_number": 1,
+        "section": "FOR AGITATION",
+        "source_text_reference": "hemogram, lipd proﬁle, TFT, VDRL, vit B12 level, vit D level",
+        "bounding_box": [
+          14.763761520385742,
+          1197.2733154296875,
+          325.04071044921875,
+          1210.693359375
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "investigation_id": "INV_P1_03",
+      "name": "Lab investigations- CBC, liver function tests, biochemistry,",
+      "tier": "BASIC",
+      "modality": "Laboratory / Diagnostic Imaging",
+      "indication": "Workup for Dementia",
+      "target_findings": null,
+      "source": {
+        "document_id": "ICMR-NEUR-002",
+        "document_name": "Dementia",
+        "page_number": 1,
+        "section": "FOR AGITATION",
+        "source_text_reference": "• Lab investigations- CBC, liver function tests, biochemistry,",
+        "bounding_box": [
+          360.74676513671875,
+          1197.2735595703125,
+          682.9688110351562,
+          1210.693603515625
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "investigation_id": "INV_P1_04",
+      "name": "hemogram, lipd proﬁle, vit D levels, TFT, VDRL, retrovirus",
+      "tier": "BASIC",
+      "modality": "Laboratory / Diagnostic Imaging",
+      "indication": "Workup for Dementia",
+      "target_findings": null,
+      "source": {
+        "document_id": "ICMR-NEUR-002",
+        "document_name": "Dementia",
+        "page_number": 1,
+        "section": "FOR AGITATION",
+        "source_text_reference": "hemogram, lipd proﬁle, vit D levels, TFT, VDRL, retrovirus",
+        "bounding_box": [
+          367.7427673339844,
+          1210.4735107421875,
+          675.5792846679688,
+          1223.8935546875
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    }
+  ],
+  "tier_management": [],
+  "medications": [],
+  "contraindications": [],
+  "referral_criteria": [],
+  "flowcharts": [],
+  "tables": [
+    {
+      "table_id": "TAB_P1_04",
+      "title": "Table 4 (Page 1)",
+      "headers": [
+        "t s PRIMARY HEALTH CENTRE (MEDICAL OFFICER) • Diagnose dementia after detailed history • Screeing for: - Treatable causes of dementia - thyroid disorders, B-12 deficiency, subdural hemorrhage. - Depression. - Vascular risk factors • Lab investigations- CBC, biochemistry, liver function tests, hemogram, lipd profile, TFT, VDRL, vit B12 level, vit D level • Referrals for MRI/CT • Initiation of treatment/drugs; treatment for co-morbid conditions (including depression, vision, hearing deficits and gait problems), thyroid, arthritis. • Initiate therapy for vascular risk factors • Encourage healthy lifestyle • Assess for palliative care • Learn and share facts about dementia to provide immediate need to the person with severe dementia • Follow up and monitor for side effects of drugs/ red flags in patient/ signs of danger • Follow-up of difficult patients under the guidance of higher centre.",
+        "DISTRICT HOSPITAL (SPECIALIST- PHYSICIAN/ GERIATRIC SPECIALIST/ NEUROLOGIST/ PSYCHIATRIST) • Careful evaluation of all the referral patients of dementia • Screening for treatable causes for dementia including normal pressure hydrocephalus, B12 deficiency, hypothyroidism, chronic meningitis • Neuroimaging CT/MRI- to rule out subdural hematoma/ tumors/ NPH(surgically remediable causes of rapid cognitive decline) • Lab investigations- CBC, liver function tests, biochemistry, hemogram, lipd profile, vit D levels, TFT, VDRL, retrovirus after counselling (whenever feasible and high index of suspicion) • All the points mentioned in PHC to be followed if patient presents to a DH • Upward referral linkages with tertiary care and downward referral with PHC. • Encouraging patient and caregiver participation in an ongoing support program for them. • Avoid antipsychotics until necessary • Interaction with, training of MOs at PHC/UPHC and ongoing clinical support and supervision",
+        "Column_3"
+      ],
+      "rows": [
+        {
+          "row_id": "T4_R1",
+          "cells": {
+            "t s PRIMARY HEALTH CENTRE (MEDICAL OFFICER) • Diagnose dementia after detailed history • Screeing for: - Treatable causes of dementia - thyroid disorders, B-12 deficiency, subdural hemorrhage. - Depression. - Vascular risk factors • Lab investigations- CBC, biochemistry, liver function tests, hemogram, lipd profile, TFT, VDRL, vit B12 level, vit D level • Referrals for MRI/CT • Initiation of treatment/drugs; treatment for co-morbid conditions (including depression, vision, hearing deficits and gait problems), thyroid, arthritis. • Initiate therapy for vascular risk factors • Encourage healthy lifestyle • Assess for palliative care • Learn and share facts about dementia to provide immediate need to the person with severe dementia • Follow up and monitor for side effects of drugs/ red flags in patient/ signs of danger • Follow-up of difficult patients under the guidance of higher centre.": "MEDICATIONS RECOMMENDED FOR USE FOR ALZHIEMERS DEMENTIA",
+            "DISTRICT HOSPITAL (SPECIALIST- PHYSICIAN/ GERIATRIC SPECIALIST/ NEUROLOGIST/ PSYCHIATRIST) • Careful evaluation of all the referral patients of dementia • Screening for treatable causes for dementia including normal pressure hydrocephalus, B12 deficiency, hypothyroidism, chronic meningitis • Neuroimaging CT/MRI- to rule out subdural hematoma/ tumors/ NPH(surgically remediable causes of rapid cognitive decline) • Lab investigations- CBC, liver function tests, biochemistry, hemogram, lipd profile, vit D levels, TFT, VDRL, retrovirus after counselling (whenever feasible and high index of suspicion) • All the points mentioned in PHC to be followed if patient presents to a DH • Upward referral linkages with tertiary care and downward referral with PHC. • Encouraging patient and caregiver participation in an ongoing support program for them. • Avoid antipsychotics until necessary • Interaction with, training of MOs at PHC/UPHC and ongoing clinical support and supervision": "",
+            "Column_3": ""
+          },
+          "source": {
+            "document_id": "ICMR-NEUR-002",
+            "document_name": "Dementia",
+            "page_number": 1,
+            "section": "TABLE_4",
+            "source_text_reference": "t s PRIMARY HEALTH CENTRE (MEDICAL OFFICER) • Diagnose dementia after detailed history • Screeing for: - Treatable causes of dementia - thyroid disorders, B-12 deficiency, subdural hemorrhage. - Depression. - Vascular risk factors • Lab investigations- CBC, biochemistry, liver function tests, hemogram, lipd profile, TFT, VDRL, vit B12 level, vit D level • Referrals for MRI/CT • Initiation of treatment/drugs; treatment for co-morbid conditions (including depression, vision, hearing deficits and gait problems), thyroid, arthritis. • Initiate therapy for vascular risk factors • Encourage healthy lifestyle • Assess for palliative care • Learn and share facts about dementia to provide immediate need to the person with severe dementia • Follow up and monitor for side effects of drugs/ red flags in patient/ signs of danger • Follow-up of difficult patients under the guidance of higher centre.: MEDICATIONS RECOMMENDED FOR USE FOR ALZHIEMERS DEMENTIA",
+            "bounding_box": [
+              0.1669921875,
+              1037.2300415039062,
+              841.8900146484375,
+              1526.0990905761719
+            ],
+            "extraction_type": "table",
+            "review_status": "needs_review",
+            "requires_manual_review": true,
+            "review_notes": "Sparse row with potential merged columns",
+            "normalized_term": null
+          }
+        },
+        {
+          "row_id": "T4_R2",
+          "cells": {
+            "t s PRIMARY HEALTH CENTRE (MEDICAL OFFICER) • Diagnose dementia after detailed history • Screeing for: - Treatable causes of dementia - thyroid disorders, B-12 deficiency, subdural hemorrhage. - Depression. - Vascular risk factors • Lab investigations- CBC, biochemistry, liver function tests, hemogram, lipd profile, TFT, VDRL, vit B12 level, vit D level • Referrals for MRI/CT • Initiation of treatment/drugs; treatment for co-morbid conditions (including depression, vision, hearing deficits and gait problems), thyroid, arthritis. • Initiate therapy for vascular risk factors • Encourage healthy lifestyle • Assess for palliative care • Learn and share facts about dementia to provide immediate need to the person with severe dementia • Follow up and monitor for side effects of drugs/ red flags in patient/ signs of danger • Follow-up of difficult patients under the guidance of higher centre.": "FOR COGNITION • Donepezil: 5 mg once after breakfast x 1 month, then 10 mg after breakfast to continue • If any side effect/ not tolerating: Rivastigmine to be used start dose 1.5 mg BD / 1 month then 3 mg BD x 1 month, then 4.5 mg BD x 1 month, then 6 mg twice after meals only x 1 month. • Memantine: in moderate to severe dementia 5 mg BD x 1 month, then 10 mg BD to continue. • Galantamine: 8 mg BD if not tolerating 1",
+            "DISTRICT HOSPITAL (SPECIALIST- PHYSICIAN/ GERIATRIC SPECIALIST/ NEUROLOGIST/ PSYCHIATRIST) • Careful evaluation of all the referral patients of dementia • Screening for treatable causes for dementia including normal pressure hydrocephalus, B12 deficiency, hypothyroidism, chronic meningitis • Neuroimaging CT/MRI- to rule out subdural hematoma/ tumors/ NPH(surgically remediable causes of rapid cognitive decline) • Lab investigations- CBC, liver function tests, biochemistry, hemogram, lipd profile, vit D levels, TFT, VDRL, retrovirus after counselling (whenever feasible and high index of suspicion) • All the points mentioned in PHC to be followed if patient presents to a DH • Upward referral linkages with tertiary care and downward referral with PHC. • Encouraging patient and caregiver participation in an ongoing support program for them. • Avoid antipsychotics until necessary • Interaction with, training of MOs at PHC/UPHC and ongoing clinical support and supervision": "",
+            "Column_3": "FOR DEPRESSION Escitalopram 10 mg"
+          },
+          "source": {
+            "document_id": "ICMR-NEUR-002",
+            "document_name": "Dementia",
+            "page_number": 1,
+            "section": "TABLE_4",
+            "source_text_reference": "t s PRIMARY HEALTH CENTRE (MEDICAL OFFICER) • Diagnose dementia after detailed history • Screeing for: - Treatable causes of dementia - thyroid disorders, B-12 deficiency, subdural hemorrhage. - Depression. - Vascular risk factors • Lab investigations- CBC, biochemistry, liver function tests, hemogram, lipd profile, TFT, VDRL, vit B12 level, vit D level • Referrals for MRI/CT • Initiation of treatment/drugs; treatment for co-morbid conditions (including depression, vision, hearing deficits and gait problems), thyroid, arthritis. • Initiate therapy for vascular risk factors • Encourage healthy lifestyle • Assess for palliative care • Learn and share facts about dementia to provide immediate need to the person with severe dementia • Follow up and monitor for side effects of drugs/ red flags in patient/ signs of danger • Follow-up of difficult patients under the guidance of higher centre.: FOR COGNITION • Donepezil: 5 mg once after breakfast x 1 month, then 10 mg after breakfast to continue • If any side effect/ not tolerating: Rivastigmine to be used start dose 1.5 mg BD / 1 month then 3 mg BD x 1 month, then 4.5 mg BD x 1 month, then 6 mg twice after meals only x 1 month. • Memantine: in moderate to severe dementia 5 mg BD x 1 month, then 10 mg BD to continue. • Galantamine: 8 mg BD if not tolerating 1; Column_3: FOR DEPRESSION Escitalopram 10 mg",
+            "bounding_box": [
+              0.1669921875,
+              1037.2300415039062,
+              841.8900146484375,
+              1526.0990905761719
+            ],
+            "extraction_type": "table",
+            "review_status": "extracted",
+            "requires_manual_review": false,
+            "review_notes": null,
+            "normalized_term": null
+          }
+        }
+      ],
+      "source": {
+        "document_id": "ICMR-NEUR-002",
+        "document_name": "Dementia",
+        "page_number": 1,
+        "section": "TABLE_4",
+        "source_text_reference": "t s PRIMARY HEALTH CENTRE (MEDICAL OFFICER) • Diagnose dementia after detailed history • Screeing for: - Treatable causes of dementia - thyroid disorders, B-12 deficiency, subdural hemorrhage. - Depression. - Vascular risk factors • Lab investigations- CBC, biochemistry, liver function tests, hemogram, lipd profile, TFT, VDRL, vit B12 level, vit D level • Referrals for MRI/CT • Initiation of treatment/drugs; treatment for co-morbid conditions (including depression, vision, hearing deficits and g",
+        "bounding_box": [
+          0.1669921875,
+          1037.2300415039062,
+          841.8900146484375,
+          1526.0990905761719
+        ],
+        "extraction_type": "table",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    }
+  ],
+  "references": [],
+  "abbreviations": {
+    "STW": "Standard Treatment Workflow",
+    "ICMR": "Indian Council of Medical Research",
+    "DHR": "Department of Health Research",
+    "MoHFW": "Ministry of Health and Family Welfare",
+    "ECG": "Electrocardiogram",
+    "PCI": "Percutaneous Coronary Intervention",
+    "PHC": "Primary Health Centre",
+    "CHC": "Community Health Centre",
+    "ICU": "Intensive Care Unit"
+  }
+}

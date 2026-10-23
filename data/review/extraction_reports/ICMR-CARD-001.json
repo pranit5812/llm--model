@@ -1,0 +1,114 @@
+{
+  "document_id": "ICMR-CARD-001",
+  "condition": "Atrial Fibrillation",
+  "total_pages": 1,
+  "text_blocks_count": 105,
+  "sections_count": 31,
+  "tables_detected": 2,
+  "tables_extracted": 2,
+  "flowcharts_count": 0,
+  "medications_count": 15,
+  "investigations_count": 17,
+  "contraindications_count": 0,
+  "referral_rules_count": 7,
+  "provenance_coverage_percent": 100.0,
+  "manual_review_items_count": 16,
+  "manual_review_details": [
+    {
+      "entity": "clinical_presentation",
+      "reason": "Typographical variant 'lasing' for lasting",
+      "page": 1
+    },
+    {
+      "entity": "medication",
+      "raw_text": "Direct oral anticoagulants (DOAC)",
+      "reason": "Medication 'Doac' mentioned in workflow without explicit dosage or units in source text",
+      "page": 1
+    },
+    {
+      "entity": "medication",
+      "raw_text": "Avoid concomitant aspirin, anti platelets, NSAIDs",
+      "reason": "Medication 'Aspirin' mentioned in workflow without explicit dosage or units in source text",
+      "page": 1
+    },
+    {
+      "entity": "medication",
+      "raw_text": "Start OAC",
+      "reason": "Medication 'Oac' mentioned in workflow without explicit dosage or units in source text",
+      "page": 1
+    },
+    {
+      "entity": "medication",
+      "raw_text": "Start Metoprolol/Diltiazem/Verapamil if HR >110/min &",
+      "reason": "Medication 'Metoprolol' mentioned in workflow without explicit dosage or units in source text",
+      "page": 1
+    },
+    {
+      "entity": "medication",
+      "raw_text": "Drugs (e.g. concomitant aspirin or",
+      "reason": "Medication 'Aspirin' mentioned in workflow without explicit dosage or units in source text",
+      "page": 1
+    },
+    {
+      "entity": "medication",
+      "raw_text": "OAC if score >1",
+      "reason": "Medication 'Oac' mentioned in workflow without explicit dosage or units in source text",
+      "page": 1
+    },
+    {
+      "entity": "medication",
+      "raw_text": "BB + digoxin in HF",
+      "reason": "Medication 'Digoxin' mentioned in workflow without explicit dosage or units in source text",
+      "page": 1
+    },
+    {
+      "entity": "medication",
+      "raw_text": "Start OAC (Oral Anticoagulant)",
+      "reason": "Medication 'Oac' mentioned in workflow without explicit dosage or units in source text",
+      "page": 1
+    },
+    {
+      "entity": "medication",
+      "raw_text": "Amiodarone",
+      "reason": "Medication 'Amiodarone' mentioned in workflow without explicit dosage or units in source text",
+      "page": 1
+    },
+    {
+      "entity": "medication",
+      "raw_text": "Flecainide",
+      "reason": "Medication 'Flecainide' mentioned in workflow without explicit dosage or units in source text",
+      "page": 1
+    },
+    {
+      "entity": "medication",
+      "raw_text": "Propafenone",
+      "reason": "Medication 'Propafenone' mentioned in workflow without explicit dosage or units in source text",
+      "page": 1
+    },
+    {
+      "entity": "medication",
+      "raw_text": "Sotalol",
+      "reason": "Medication 'Sotalol' mentioned in workflow without explicit dosage or units in source text",
+      "page": 1
+    },
+    {
+      "entity": "medication",
+      "raw_text": "(Flecainide",
+      "reason": "Medication 'Flecainide' mentioned in workflow without explicit dosage or units in source text",
+      "page": 1
+    },
+    {
+      "entity": "medication",
+      "raw_text": "Propafenone)",
+      "reason": "Medication 'Propafenone' mentioned in workflow without explicit dosage or units in source text",
+      "page": 1
+    },
+    {
+      "entity": "medication",
+      "raw_text": "Re-assess clinical status, need and adequacy of OAC",
+      "reason": "Medication 'Oac' mentioned in workflow without explicit dosage or units in source text",
+      "page": 1
+    }
+  ],
+  "extraction_errors": []
+}

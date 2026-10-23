@@ -1,0 +1,115 @@
+{
+  "document_id": "ICMR-CARD-004",
+  "condition": "NSTEMI",
+  "total_pages": 1,
+  "text_blocks_count": 109,
+  "sections_count": 32,
+  "tables_detected": 5,
+  "tables_extracted": 5,
+  "flowcharts_count": 0,
+  "medications_count": 24,
+  "investigations_count": 18,
+  "contraindications_count": 0,
+  "referral_rules_count": 0,
+  "provenance_coverage_percent": 100.0,
+  "manual_review_items_count": 16,
+  "manual_review_details": [
+    {
+      "entity": "medication",
+      "raw_text": "Aspirin, Clopidogrel in",
+      "reason": "Medication 'Aspirin' mentioned in workflow without explicit dosage or units in source text",
+      "page": 1
+    },
+    {
+      "entity": "medication",
+      "raw_text": "Heparin/ LMWH",
+      "reason": "Medication 'Heparin' mentioned in workflow without explicit dosage or units in source text",
+      "page": 1
+    },
+    {
+      "entity": "medication",
+      "raw_text": "Metoprolol",
+      "reason": "Medication 'Metoprolol' mentioned in workflow without explicit dosage or units in source text",
+      "page": 1
+    },
+    {
+      "entity": "medication",
+      "raw_text": ".Continue Aspirin,",
+      "reason": "Medication 'Aspirin' mentioned in workflow without explicit dosage or units in source text",
+      "page": 1
+    },
+    {
+      "entity": "medication",
+      "raw_text": "Clopidogrel, Heparin &",
+      "reason": "Medication 'Clopidogrel' mentioned in workflow without explicit dosage or units in source text",
+      "page": 1
+    },
+    {
+      "entity": "medication",
+      "raw_text": ".Add nitrates if needed",
+      "reason": "Medication 'Nitrates' mentioned in workflow without explicit dosage or units in source text",
+      "page": 1
+    },
+    {
+      "entity": "medication",
+      "raw_text": ". Continue aspirin and heparin",
+      "reason": "Medication 'Aspirin' mentioned in workflow without explicit dosage or units in source text",
+      "page": 1
+    },
+    {
+      "entity": "medication",
+      "raw_text": ". Load with clopidogrel or prasugrel or ticagralor if not already done",
+      "reason": "Medication 'Clopidogrel' mentioned in workflow without explicit dosage or units in source text",
+      "page": 1
+    },
+    {
+      "entity": "medication",
+      "raw_text": "intra-venous nitrates if ongoing pain, severe MR or LVF)",
+      "reason": "Medication 'Nitrates' mentioned in workflow without explicit dosage or units in source text",
+      "page": 1
+    },
+    {
+      "entity": "medication",
+      "raw_text": "with Ticagrelor or prasugrel if PCI is planned",
+      "reason": "Medication 'Ticagrelor' mentioned in workflow without explicit dosage or units in source text",
+      "page": 1
+    },
+    {
+      "entity": "medication",
+      "raw_text": ". Aspirin use within 7 days",
+      "reason": "Medication 'Aspirin' mentioned in workflow without explicit dosage or units in source text",
+      "page": 1
+    },
+    {
+      "entity": "medication",
+      "raw_text": ". Ticagralor: Loading dose 180 mg followed by 90 mg",
+      "reason": "Typographical variant 'Ticagralor' in ICMR source PDF",
+      "page": 1
+    },
+    {
+      "entity": "medication",
+      "raw_text": ". Metoprolol:",
+      "reason": "Medication 'Metoprolol' mentioned in workflow without explicit dosage or units in source text",
+      "page": 1
+    },
+    {
+      "entity": "medication",
+      "raw_text": ". Nitrates:",
+      "reason": "Medication 'Nitrates' mentioned in workflow without explicit dosage or units in source text",
+      "page": 1
+    },
+    {
+      "entity": "medication",
+      "raw_text": "Isosorbide mono-nitare 20 to 60 mg in 2 devided",
+      "reason": "Typographical variant 'mono-nitare' in source text",
+      "page": 1
+    },
+    {
+      "entity": "medication",
+      "raw_text": ".Conservative management: Aspirin, clopidogrel, BB",
+      "reason": "Medication 'Aspirin' mentioned in workflow without explicit dosage or units in source text",
+      "page": 1
+    }
+  ],
+  "extraction_errors": []
+}

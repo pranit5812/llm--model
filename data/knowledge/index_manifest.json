@@ -1,0 +1,79 @@
+{
+  "built_at": "2026-09-12T10:37:01Z",
+  "elapsed_seconds": 0.06,
+  "structured_dir": "data\\processed\\structured",
+  "total_documents": 7,
+  "total_units": 593,
+  "production_units": 426,
+  "excluded_needs_review": 167,
+  "per_document": {
+    "ICMR-CARD-001": {
+      "document_id": "ICMR-CARD-001",
+      "condition": "Atrial Fibrillation",
+      "specialty": "Cardiology",
+      "total_units": 51,
+      "needs_review_units": 22,
+      "production_units": 29
+    },
+    "ICMR-CARD-002": {
+      "document_id": "ICMR-CARD-002",
+      "condition": "Bradyarrhythmias",
+      "specialty": "Cardiology",
+      "total_units": 18,
+      "needs_review_units": 3,
+      "production_units": 15
+    },
+    "ICMR-CARD-003": {
+      "document_id": "ICMR-CARD-003",
+      "condition": "Heart Failure",
+      "specialty": "Cardiology",
+      "total_units": 30,
+      "needs_review_units": 14,
+      "production_units": 16
+    },
+    "ICMR-CARD-004": {
+      "document_id": "ICMR-CARD-004",
+      "condition": "NSTEMI",
+      "specialty": "Cardiology",
+      "total_units": 56,
+      "needs_review_units": 22,
+      "production_units": 34
+    },
+    "ICMR-CARD-005": {
+      "document_id": "ICMR-CARD-005",
+      "condition": "Stable Angina",
+      "specialty": "Cardiology",
+      "total_units": 41,
+      "needs_review_units": 10,
+      "production_units": 31
+    },
+    "ICMR-CARD-006": {
+      "document_id": "ICMR-CARD-006",
+      "condition": "STEMI",
+      "specialty": "Cardiology",
+      "total_units": 101,
+      "needs_review_units": 13,
+      "production_units": 88
+    },
+    "ICMR-CARD-007": {
+      "document_id": "ICMR-CARD-007",
+      "condition": "Cardiology (All)",
+      "specialty": "Cardiology",
+      "total_units": 296,
+      "needs_review_units": 83,
+      "production_units": 213
+    }
+  },
+  "entity_type_counts": {
+    "clinical_presentation": 3,
+    "contraindication": 64,
+    "diagnostic_criterion": 20,
+    "flowchart_node": 20,
+    "investigation": 127,
+    "medication": 73,
+    "reference": 21,
+    "referral_criterion": 44,
+    "table_row": 36,
+    "tier_action": 18
+  }
+}

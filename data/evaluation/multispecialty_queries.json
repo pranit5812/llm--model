@@ -1,0 +1,97 @@
+[
+  {
+    "id": "MS-CARD-001",
+    "query": "What is the recommended loading dose of aspirin in STEMI?",
+    "expected_specialty": "Cardiology",
+    "expected_condition": "STEMI",
+    "expected_status": "GROUNDED",
+    "must_contain_citations": ["ICMR-CARD-001", "ICMR-CARD-002", "ICMR-CARD-007"],
+    "description": "Standard cardiology emergency medication query."
+  },
+  {
+    "id": "MS-CARD-002",
+    "query": "What are the absolute contraindications to thrombolytic therapy in myocardial infarction?",
+    "expected_specialty": "Cardiology",
+    "expected_condition": "STEMI",
+    "expected_status": "GROUNDED",
+    "must_contain_citations": ["ICMR-CARD-001", "ICMR-CARD-002", "ICMR-CARD-007"],
+    "description": "Cardiology contraindications query."
+  },
+  {
+    "id": "MS-CARD-003",
+    "query": "What are the clinical signs and symptoms of acute heart failure?",
+    "expected_specialty": "Cardiology",
+    "expected_condition": "Heart Failure",
+    "expected_status": "GROUNDED",
+    "must_contain_citations": ["ICMR-CARD-003", "ICMR-CARD-007"],
+    "description": "Heart failure clinical presentation query."
+  },
+  {
+    "id": "MS-CARD-004",
+    "query": "What are the statin treatment targets for dyslipidemia management?",
+    "expected_specialty": "Cardiology",
+    "expected_condition": "Dyslipidemia",
+    "expected_status": "GROUNDED",
+    "must_contain_citations": ["ICMR-CARD-006", "ICMR-CARD-007"],
+    "description": "Dyslipidemia targets query."
+  },
+  {
+    "id": "MS-NEUR-001",
+    "query": "What is the emergency management protocol for acute ischemic stroke within 3 hours of onset?",
+    "expected_specialty": "Neurology",
+    "expected_condition": "Stroke",
+    "expected_status": "INSUFFICIENT_APPROVED_EVIDENCE",
+    "description": "Neurology guideline query where evidence is in quarantine/review queue."
+  },
+  {
+    "id": "MS-NEUR-002",
+    "query": "What is the first-line antiepileptic drug for generalized tonic-clonic seizures in adults?",
+    "expected_specialty": "Neurology",
+    "expected_condition": "Epilepsy",
+    "expected_status": "INSUFFICIENT_APPROVED_EVIDENCE",
+    "description": "Neurology epilepsy medication query."
+  },
+  {
+    "id": "MS-NEUR-003",
+    "query": "What is the recommended levodopa starting dosage for Parkinson disease?",
+    "expected_specialty": "Neurology",
+    "expected_condition": "Parkinson's Disease",
+    "expected_status": "INSUFFICIENT_APPROVED_EVIDENCE",
+    "description": "Neurology Parkinson guideline query."
+  },
+  {
+    "id": "MS-AMBIG-001",
+    "query": "What is the emergency thrombolysis protocol for tissue infarction?",
+    "expected_specialty": "AMBIGUOUS",
+    "expected_status": "AMBIGUOUS_SOURCE",
+    "description": "Cross-specialty term collision (infarction in cardiology vs neurology)."
+  },
+  {
+    "id": "MS-OOS-001",
+    "query": "What is the fluid resuscitation protocol for severe dengue fever with thrombocytopenia?",
+    "expected_specialty": "General Medicine",
+    "expected_status": "OUT_OF_SCOPE",
+    "description": "Completely out of scope tropical infectious disease query."
+  },
+  {
+    "id": "MS-OOS-002",
+    "query": "What is the treatment regimen for uncomplicated falciparum malaria?",
+    "expected_specialty": "Infectious Diseases",
+    "expected_status": "OUT_OF_SCOPE",
+    "description": "Out of scope malaria query."
+  },
+  {
+    "id": "MS-OOS-003",
+    "query": "How should a compound fracture of the tibia and fibula be immobilized?",
+    "expected_specialty": "Orthopaedics",
+    "expected_status": "OUT_OF_SCOPE",
+    "description": "Orthopaedic trauma out of scope query."
+  },
+  {
+    "id": "MS-VER-001",
+    "query": "What are the differences between 2019 and 2022 guidelines for hypertension targets?",
+    "expected_specialty": "Cardiology",
+    "expected_status": "VERSION_CONFLICT",
+    "description": "Multi-version comparison query triggering version alert/abstention."
+  }
+]

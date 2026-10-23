@@ -1,0 +1,602 @@
+{
+  "metadata": {
+    "document_id": "ICMR-CARD-002",
+    "title": "Bradyarrhythmias",
+    "specialty": "Cardiology",
+    "condition": "Bradyarrhythmias",
+    "icd_11_code": null,
+    "volume": "Volume 1",
+    "edition": "1.0",
+    "source_organization": "Indian Council of Medical Research (ICMR)",
+    "source_url": "https://www.icmr.gov.in/icmrobject/uploads/STWs/1771492063_bradyarrthymia13_2_2.pdf",
+    "local_path": "data/raw/cardiology/1771492063_bradyarrthymia13_2_2.pdf",
+    "total_pages": 1,
+    "document_hash": "02aa8512bb92c158e055152b6218b88dc9b935c61fad1eae6b93d0ab3ed1c6b2"
+  },
+  "clinical_presentation": null,
+  "diagnostic_criteria": [],
+  "investigations": [
+    {
+      "investigation_id": "INV_P1_01",
+      "name": "12-lead ECG",
+      "tier": "BASIC",
+      "modality": "Laboratory / Diagnostic Imaging",
+      "indication": "Workup for Bradyarrhythmias",
+      "target_findings": null,
+      "source": {
+        "document_id": "ICMR-CARD-002",
+        "document_name": "Bradyarrhythmias",
+        "page_number": 1,
+        "section": "BASIC EVALUATION",
+        "source_text_reference": "• 12-lead ECG",
+        "bounding_box": [
+          640.5166625976562,
+          442.8755187988281,
+          710.8275756835938,
+          457.2304992675781
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "investigation_id": "INV_P1_02",
+      "name": "Blood urea, serum creatinine",
+      "tier": "BASIC",
+      "modality": "Laboratory / Diagnostic Imaging",
+      "indication": "Workup for Bradyarrhythmias",
+      "target_findings": null,
+      "source": {
+        "document_id": "ICMR-CARD-002",
+        "document_name": "Bradyarrhythmias",
+        "page_number": 1,
+        "section": "BASIC EVALUATION",
+        "source_text_reference": "• Blood urea, serum creatinine",
+        "bounding_box": [
+          640.5166625976562,
+          456.0754699707031,
+          805.6475830078125,
+          470.4304504394531
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "investigation_id": "INV_P1_03",
+      "name": "Blood sugar",
+      "tier": "BASIC",
+      "modality": "Laboratory / Diagnostic Imaging",
+      "indication": "Workup for Bradyarrhythmias",
+      "target_findings": null,
+      "source": {
+        "document_id": "ICMR-CARD-002",
+        "document_name": "Bradyarrhythmias",
+        "page_number": 1,
+        "section": "BASIC EVALUATION",
+        "source_text_reference": "• Blood sugar",
+        "bounding_box": [
+          640.5166625976562,
+          482.4753723144531,
+          713.2597045898438,
+          496.8303527832031
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "investigation_id": "INV_P1_04",
+      "name": "If ECG available, evidence of any of the following",
+      "tier": "BASIC",
+      "modality": "Laboratory / Diagnostic Imaging",
+      "indication": "Workup for Bradyarrhythmias",
+      "target_findings": null,
+      "source": {
+        "document_id": "ICMR-CARD-002",
+        "document_name": "Bradyarrhythmias",
+        "page_number": 1,
+        "section": "HISTORY",
+        "source_text_reference": "• If ECG available, evidence of any of the following",
+        "bounding_box": [
+          8.056598663330078,
+          820.2073974609375,
+          278.511474609375,
+          834.5624389648438
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "investigation_id": "INV_P1_05",
+      "name": "Hyperkalemia(serum K+>6meq/l orwith ECG chages of hyperkalemia)",
+      "tier": "BASIC",
+      "modality": "Laboratory / Diagnostic Imaging",
+      "indication": "Workup for Bradyarrhythmias",
+      "target_findings": null,
+      "source": {
+        "document_id": "ICMR-CARD-002",
+        "document_name": "Bradyarrhythmias",
+        "page_number": 1,
+        "section": "1. TREATMENT OF ASSOCIATED CONDITIONS",
+        "source_text_reference": "- Hyperkalemia(serum K+>6meq/l orwith ECG chages of hyperkalemia)",
+        "bounding_box": [
+          1.8635978698730469,
+          582.9483032226562,
+          423.2153625488281,
+          597.7103271484375
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "investigation_id": "INV_P1_06",
+      "name": "Findings on 12-lead ECG",
+      "tier": "BASIC",
+      "modality": "Laboratory / Diagnostic Imaging",
+      "indication": "Workup for Bradyarrhythmias",
+      "target_findings": null,
+      "source": {
+        "document_id": "ICMR-CARD-002",
+        "document_name": "Bradyarrhythmias",
+        "page_number": 1,
+        "section": "2. TEMPORARY PACEMAKER INSERTION",
+        "source_text_reference": "Findings on 12-lead ECG",
+        "bounding_box": [
+          564.68359375,
+          547.9124145507812,
+          708.3753051757812,
+          562.6744384765625
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "investigation_id": "INV_P1_07",
+      "name": ". Transthoracic echocardiography",
+      "tier": "BASIC",
+      "modality": "Laboratory / Diagnostic Imaging",
+      "indication": "Workup for Bradyarrhythmias",
+      "target_findings": null,
+      "source": {
+        "document_id": "ICMR-CARD-002",
+        "document_name": "Bradyarrhythmias",
+        "page_number": 1,
+        "section": "INDICATIONS FOR PERMANENT PACING",
+        "source_text_reference": "2. Transthoracic echocardiography",
+        "bounding_box": [
+          458.3114929199219,
+          802.1895141601562,
+          648.0382080078125,
+          816.5445556640625
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "investigation_id": "INV_P1_08",
+      "name": ". Ambulatory ECG may be needed",
+      "tier": "BASIC",
+      "modality": "Laboratory / Diagnostic Imaging",
+      "indication": "Workup for Bradyarrhythmias",
+      "target_findings": null,
+      "source": {
+        "document_id": "ICMR-CARD-002",
+        "document_name": "Bradyarrhythmias",
+        "page_number": 1,
+        "section": "CONDUCTION",
+        "source_text_reference": "2. Ambulatory ECG may be needed",
+        "bounding_box": [
+          425.6448059082031,
+          1094.5587158203125,
+          621.642822265625,
+          1109.32080078125
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "investigation_id": "INV_P1_09",
+      "name": "ECG: Electrocardiogram",
+      "tier": "BASIC",
+      "modality": "Laboratory / Diagnostic Imaging",
+      "indication": "Workup for Bradyarrhythmias",
+      "target_findings": null,
+      "source": {
+        "document_id": "ICMR-CARD-002",
+        "document_name": "Bradyarrhythmias",
+        "page_number": 1,
+        "section": "ABBREVIATIONS",
+        "source_text_reference": "ECG: Electrocardiogram",
+        "bounding_box": [
+          389.3467102050781,
+          1406.1767578125,
+          524.7284545898438,
+          1422.44873046875
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    }
+  ],
+  "tier_management": [],
+  "medications": [
+    {
+      "medication_id": "MED_P1_01",
+      "generic_name": "Digoxin",
+      "drug_class": null,
+      "dosage": "Blockers or digoxin) (Dose not specified in text)",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-002",
+        "document_name": "Bradyarrhythmias",
+        "page_number": 1,
+        "section": "BASIC EVALUATION",
+        "source_text_reference": "Blockers or digoxin)",
+        "bounding_box": [
+          27.112699508666992,
+          459.1886291503906,
+          135.7597198486328,
+          473.5436096191406
+        ],
+        "extraction_type": "text",
+        "review_status": "needs_review",
+        "requires_manual_review": true,
+        "review_notes": "Medication 'Digoxin' mentioned in workflow without explicit dosage or units in source text",
+        "normalized_term": null
+      }
+    },
+    {
+      "medication_id": "MED_P1_02",
+      "generic_name": "Dopamine",
+      "drug_class": null,
+      "dosage": "(iv dopamine or isopranaline may be given till the  time TPI can be placed)",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-002",
+        "document_name": "Bradyarrhythmias",
+        "page_number": 1,
+        "section": "2. TEMPORARY PACEMAKER INSERTION",
+        "source_text_reference": "(iv dopamine or isopranaline may be given till the  time TPI can be placed)",
+        "bounding_box": [
+          0.8593999743461609,
+          674.1644287109375,
+          437.91033935546875,
+          688.6404418945312
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    }
+  ],
+  "contraindications": [],
+  "referral_criteria": [],
+  "flowcharts": [
+    {
+      "flowchart_id": "FC_P1_01",
+      "title": "EVALUATION AND MANAGEMENT OF STABLE PATIENTS Flowchart",
+      "description": null,
+      "start_node_id": "NODE_1_1_START",
+      "nodes": [
+        {
+          "node_id": "NODE_1_1_START",
+          "node_type": "START",
+          "label": "Start: EVALUATION AND MANAGEMENT OF STABLE PATIENTS",
+          "description": "Patient evaluation under EVALUATION AND MANAGEMENT OF STABLE PATIENTS",
+          "branches": [
+            {
+              "branch_id": "BR_1_1_01",
+              "condition": "Clinical presentation evaluated",
+              "target_node_id": "NODE_1_1_ACTION",
+              "rationale": "Default transition to action node for Bradyarrhythmias"
+            }
+          ],
+          "source": {
+            "document_id": "ICMR-CARD-002",
+            "document_name": "Bradyarrhythmias",
+            "page_number": 1,
+            "section": "EVALUATION AND MANAGEMENT OF STABLE PATIENTS",
+            "source_text_reference": "Initial entry node for Bradyarrhythmias clinical pathway",
+            "bounding_box": null,
+            "extraction_type": "flowchart",
+            "review_status": "extracted",
+            "requires_manual_review": false,
+            "review_notes": null,
+            "normalized_term": null
+          }
+        },
+        {
+          "node_id": "NODE_1_1_ACTION",
+          "node_type": "ACTION",
+          "label": "Action: Bradyarrhythmias Management",
+          "description": "Proceed according to EVALUATION AND MANAGEMENT OF STABLE PATIENTS guidelines",
+          "branches": [],
+          "source": {
+            "document_id": "ICMR-CARD-002",
+            "document_name": "Bradyarrhythmias",
+            "page_number": 1,
+            "section": "EVALUATION AND MANAGEMENT OF STABLE PATIENTS",
+            "source_text_reference": "Management action for Bradyarrhythmias",
+            "bounding_box": null,
+            "extraction_type": "flowchart",
+            "review_status": "extracted",
+            "requires_manual_review": false,
+            "review_notes": null,
+            "normalized_term": null
+          }
+        }
+      ],
+      "source": {
+        "document_id": "ICMR-CARD-002",
+        "document_name": "Bradyarrhythmias",
+        "page_number": 1,
+        "section": "EVALUATION AND MANAGEMENT OF STABLE PATIENTS",
+        "source_text_reference": "Flowchart algorithm for EVALUATION AND MANAGEMENT OF STABLE PATIENTS",
+        "bounding_box": null,
+        "extraction_type": "flowchart",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    }
+  ],
+  "tables": [
+    {
+      "table_id": "TAB_P1_01",
+      "title": "Table 1 (Page 1)",
+      "headers": [
+        "BASIC EVALUATION",
+        "Column_2",
+        "Column_3"
+      ],
+      "rows": [
+        {
+          "row_id": "T1_R1",
+          "cells": {
+            "BASIC EVALUATION": "HISTORY • Syncope/presyncope: frequency, associated fall/ injury/incontinence • Exertional angina or known coronary artery diseas • Look for reversible cause like drugs ( Beta-blockers, Calcium Channel Blockers or digoxin) • Known hypothyroidism or kidney disease .. Sleep aponea • Patient with an implanted pacemaker or other device",
+            "Column_2": "EXAMINATION • Drowsiness/ impaired consciousness • Pulse, BP",
+            "Column_3": "TESTS TO BE DONE Patient presenting to PHC/CHC: • 12-lead ECG • Blood urea, serum creatinine • Electrolytes • Blood sugar • TSH"
+          },
+          "source": {
+            "document_id": "ICMR-CARD-002",
+            "document_name": "Bradyarrhythmias",
+            "page_number": 1,
+            "section": "TABLE_1",
+            "source_text_reference": "BASIC EVALUATION: HISTORY • Syncope/presyncope: frequency, associated fall/ injury/incontinence • Exertional angina or known coronary artery diseas • Look for reversible cause like drugs ( Beta-blockers, Calcium Channel Blockers or digoxin) • Known hypothyroidism or kidney disease .. Sleep aponea • Patient with an implanted pacemaker or other device; Column_2: EXAMINATION • Drowsiness/ impaired consciousness • Pulse, BP; Column_3: TESTS TO BE DONE Patient presenting to PHC/CHC: • 12-lead ECG • Blood urea, serum creatinine • Electrolytes • Blood sugar • TSH",
+            "bounding_box": [
+              0.0,
+              379.3580322265625,
+              841.8900146484375,
+              520.3088073730469
+            ],
+            "extraction_type": "table",
+            "review_status": "extracted",
+            "requires_manual_review": false,
+            "review_notes": null,
+            "normalized_term": null
+          }
+        }
+      ],
+      "source": {
+        "document_id": "ICMR-CARD-002",
+        "document_name": "Bradyarrhythmias",
+        "page_number": 1,
+        "section": "TABLE_1",
+        "source_text_reference": "BASIC EVALUATION: HISTORY • Syncope/presyncope: frequency, associated fall/ injury/incontinence • Exertional angina or known coronary artery diseas • Look for reversible cause like drugs ( Beta-blockers, Calcium Channel Blockers or digoxin) • Known hypothyroidism or kidney disease .. Sleep aponea • Patient with an implanted pacemaker or other device; Column_2: EXAMINATION • Drowsiness/ impaired consciousness • Pulse, BP; Column_3: TESTS TO BE DONE Patient presenting to PHC/CHC: • 12-lead ECG • B",
+        "bounding_box": [
+          0.0,
+          379.3580322265625,
+          841.8900146484375,
+          520.3088073730469
+        ],
+        "extraction_type": "table",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "table_id": "TAB_P1_02",
+      "title": "Table 2 (Page 1)",
+      "headers": [
+        "1. TREATMENT OF ASSOCIATED CONDITIONS - Suspected drug (BB or CCB) overdose: • Withhold the drug - Hyperkalemia(serum K+>6meq/l orwith ECG chages of hyperkalemia) 1. Stop exogenous potassium, K sparing diuretics, NSAID, RAAS inhibitors 2. 10 ml of 10% calcium gluconate over 10 mins 3. IV insulin with glucose 4. IV sodabicarb 5. Salbutamol inhalation/ loop diuretics/ potassium binders 2. TEMPORARY PACEMAKER INSERTION (iv dopamine or isopranaline may be given till the time TPI can be placed)",
+        "Column_2",
+        "Column_3",
+        "Column_4"
+      ],
+      "rows": [
+        {
+          "row_id": "T2_R1",
+          "cells": {
+            "1. TREATMENT OF ASSOCIATED CONDITIONS - Suspected drug (BB or CCB) overdose: • Withhold the drug - Hyperkalemia(serum K+>6meq/l orwith ECG chages of hyperkalemia) 1. Stop exogenous potassium, K sparing diuretics, NSAID, RAAS inhibitors 2. 10 ml of 10% calcium gluconate over 10 mins 3. IV insulin with glucose 4. IV sodabicarb 5. Salbutamol inhalation/ loop diuretics/ potassium binders 2. TEMPORARY PACEMAKER INSERTION (iv dopamine or isopranaline may be given till the time TPI can be placed)": "INDICATIONS FOR URGENT TREATMENT/REFERRAL GENERAL APPROACH TO PATIENTS WITH SYMPTOMATIC BRADYCARDIA",
+            "Column_2": "",
+            "Column_3": "",
+            "Column_4": ""
+          },
+          "source": {
+            "document_id": "ICMR-CARD-002",
+            "document_name": "Bradyarrhythmias",
+            "page_number": 1,
+            "section": "TABLE_2",
+            "source_text_reference": "1. TREATMENT OF ASSOCIATED CONDITIONS - Suspected drug (BB or CCB) overdose: • Withhold the drug - Hyperkalemia(serum K+>6meq/l orwith ECG chages of hyperkalemia) 1. Stop exogenous potassium, K sparing diuretics, NSAID, RAAS inhibitors 2. 10 ml of 10% calcium gluconate over 10 mins 3. IV insulin with glucose 4. IV sodabicarb 5. Salbutamol inhalation/ loop diuretics/ potassium binders 2. TEMPORARY PACEMAKER INSERTION (iv dopamine or isopranaline may be given till the time TPI can be placed): INDICATIONS FOR URGENT TREATMENT/REFERRAL GENERAL APPROACH TO PATIENTS WITH SYMPTOMATIC BRADYCARDIA",
+            "bounding_box": [
+              0.0,
+              541.9147542317709,
+              841.8900146484375,
+              1032.4560546875
+            ],
+            "extraction_type": "table",
+            "review_status": "needs_review",
+            "requires_manual_review": true,
+            "review_notes": "Sparse row with potential merged columns",
+            "normalized_term": null
+          }
+        },
+        {
+          "row_id": "T2_R2",
+          "cells": {
+            "1. TREATMENT OF ASSOCIATED CONDITIONS - Suspected drug (BB or CCB) overdose: • Withhold the drug - Hyperkalemia(serum K+>6meq/l orwith ECG chages of hyperkalemia) 1. Stop exogenous potassium, K sparing diuretics, NSAID, RAAS inhibitors 2. 10 ml of 10% calcium gluconate over 10 mins 3. IV insulin with glucose 4. IV sodabicarb 5. Salbutamol inhalation/ loop diuretics/ potassium binders 2. TEMPORARY PACEMAKER INSERTION (iv dopamine or isopranaline may be given till the time TPI can be placed)": "• Hypotension (SBP <90 mmHg), impaired consciousness or ongoing chest pain • Recurrent or ongoing syncope/presyncope • Associated headache with or without neurologic deficit (suspect intracranial event) • Patient with a pre-existing device • If ECG available, evidence of any of the following - Complete heart block - Sinus node disease with pauses >3 s long - Bradycardia (HR < 50 bpm)",
+            "Column_2": "",
+            "Column_3": "1. Rule out associated conditions Drug toxicity (BB, CCB, clonidine, Lithium) Renal dysfunction, hyperkalemia Sleep apnea 2. Transthoracic echocardiography",
+            "Column_4": ""
+          },
+          "source": {
+            "document_id": "ICMR-CARD-002",
+            "document_name": "Bradyarrhythmias",
+            "page_number": 1,
+            "section": "TABLE_2",
+            "source_text_reference": "1. TREATMENT OF ASSOCIATED CONDITIONS - Suspected drug (BB or CCB) overdose: • Withhold the drug - Hyperkalemia(serum K+>6meq/l orwith ECG chages of hyperkalemia) 1. Stop exogenous potassium, K sparing diuretics, NSAID, RAAS inhibitors 2. 10 ml of 10% calcium gluconate over 10 mins 3. IV insulin with glucose 4. IV sodabicarb 5. Salbutamol inhalation/ loop diuretics/ potassium binders 2. TEMPORARY PACEMAKER INSERTION (iv dopamine or isopranaline may be given till the time TPI can be placed): • Hypotension (SBP <90 mmHg), impaired consciousness or ongoing chest pain • Recurrent or ongoing syncope/presyncope • Associated headache with or without neurologic deficit (suspect intracranial event) • Patient with a pre-existing device • If ECG available, evidence of any of the following - Complete heart block - Sinus node disease with pauses >3 s long - Bradycardia (HR < 50 bpm); Column_3: 1. Rule out associated conditions Drug toxicity (BB, CCB, clonidine, Lithium) Renal dysfunction, hyperkalemia Sleep apnea 2. Transthoracic echocardiography",
+            "bounding_box": [
+              0.0,
+              541.9147542317709,
+              841.8900146484375,
+              1032.4560546875
+            ],
+            "extraction_type": "table",
+            "review_status": "extracted",
+            "requires_manual_review": false,
+            "review_notes": null,
+            "normalized_term": null
+          }
+        },
+        {
+          "row_id": "T2_R3",
+          "cells": {
+            "1. TREATMENT OF ASSOCIATED CONDITIONS - Suspected drug (BB or CCB) overdose: • Withhold the drug - Hyperkalemia(serum K+>6meq/l orwith ECG chages of hyperkalemia) 1. Stop exogenous potassium, K sparing diuretics, NSAID, RAAS inhibitors 2. 10 ml of 10% calcium gluconate over 10 mins 3. IV insulin with glucose 4. IV sodabicarb 5. Salbutamol inhalation/ loop diuretics/ potassium binders 2. TEMPORARY PACEMAKER INSERTION (iv dopamine or isopranaline may be given till the time TPI can be placed)": "INDICATIONS FOR PERMANENT PACING",
+            "Column_2": "",
+            "Column_3": "",
+            "Column_4": ""
+          },
+          "source": {
+            "document_id": "ICMR-CARD-002",
+            "document_name": "Bradyarrhythmias",
+            "page_number": 1,
+            "section": "TABLE_2",
+            "source_text_reference": "1. TREATMENT OF ASSOCIATED CONDITIONS - Suspected drug (BB or CCB) overdose: • Withhold the drug - Hyperkalemia(serum K+>6meq/l orwith ECG chages of hyperkalemia) 1. Stop exogenous potassium, K sparing diuretics, NSAID, RAAS inhibitors 2. 10 ml of 10% calcium gluconate over 10 mins 3. IV insulin with glucose 4. IV sodabicarb 5. Salbutamol inhalation/ loop diuretics/ potassium binders 2. TEMPORARY PACEMAKER INSERTION (iv dopamine or isopranaline may be given till the time TPI can be placed): INDICATIONS FOR PERMANENT PACING",
+            "bounding_box": [
+              0.0,
+              541.9147542317709,
+              841.8900146484375,
+              1032.4560546875
+            ],
+            "extraction_type": "table",
+            "review_status": "needs_review",
+            "requires_manual_review": true,
+            "review_notes": "Sparse row with potential merged columns",
+            "normalized_term": null
+          }
+        },
+        {
+          "row_id": "T2_R4",
+          "cells": {
+            "1. TREATMENT OF ASSOCIATED CONDITIONS - Suspected drug (BB or CCB) overdose: • Withhold the drug - Hyperkalemia(serum K+>6meq/l orwith ECG chages of hyperkalemia) 1. Stop exogenous potassium, K sparing diuretics, NSAID, RAAS inhibitors 2. 10 ml of 10% calcium gluconate over 10 mins 3. IV insulin with glucose 4. IV sodabicarb 5. Salbutamol inhalation/ loop diuretics/ potassium binders 2. TEMPORARY PACEMAKER INSERTION (iv dopamine or isopranaline may be given till the time TPI can be placed)": "AV CONDUCTION DISEASE • Complete heart block, advanced AV block, or Mobitz Type II block • Associated neuromuscular disease",
+            "Column_2": "SINUS NODE DYSFUNCTION • Symptomatic patients with sinus pauses > 3s long with symptom correlation or heart rate <40/min during awake hours",
+            "Column_3": "",
+            "Column_4": ""
+          },
+          "source": {
+            "document_id": "ICMR-CARD-002",
+            "document_name": "Bradyarrhythmias",
+            "page_number": 1,
+            "section": "TABLE_2",
+            "source_text_reference": "1. TREATMENT OF ASSOCIATED CONDITIONS - Suspected drug (BB or CCB) overdose: • Withhold the drug - Hyperkalemia(serum K+>6meq/l orwith ECG chages of hyperkalemia) 1. Stop exogenous potassium, K sparing diuretics, NSAID, RAAS inhibitors 2. 10 ml of 10% calcium gluconate over 10 mins 3. IV insulin with glucose 4. IV sodabicarb 5. Salbutamol inhalation/ loop diuretics/ potassium binders 2. TEMPORARY PACEMAKER INSERTION (iv dopamine or isopranaline may be given till the time TPI can be placed): AV CONDUCTION DISEASE • Complete heart block, advanced AV block, or Mobitz Type II block • Associated neuromuscular disease; Column_2: SINUS NODE DYSFUNCTION • Symptomatic patients with sinus pauses > 3s long with symptom correlation or heart rate <40/min during awake hours",
+            "bounding_box": [
+              0.0,
+              541.9147542317709,
+              841.8900146484375,
+              1032.4560546875
+            ],
+            "extraction_type": "table",
+            "review_status": "extracted",
+            "requires_manual_review": false,
+            "review_notes": null,
+            "normalized_term": null
+          }
+        }
+      ],
+      "source": {
+        "document_id": "ICMR-CARD-002",
+        "document_name": "Bradyarrhythmias",
+        "page_number": 1,
+        "section": "TABLE_2",
+        "source_text_reference": "1. TREATMENT OF ASSOCIATED CONDITIONS - Suspected drug (BB or CCB) overdose: • Withhold the drug - Hyperkalemia(serum K+>6meq/l orwith ECG chages of hyperkalemia) 1. Stop exogenous potassium, K sparing diuretics, NSAID, RAAS inhibitors 2. 10 ml of 10% calcium gluconate over 10 mins 3. IV insulin with glucose 4. IV sodabicarb 5. Salbutamol inhalation/ loop diuretics/ potassium binders 2. TEMPORARY PACEMAKER INSERTION (iv dopamine or isopranaline may be given till the time TPI can be placed): INDI",
+        "bounding_box": [
+          0.0,
+          541.9147542317709,
+          841.8900146484375,
+          1032.4560546875
+        ],
+        "extraction_type": "table",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    }
+  ],
+  "references": [],
+  "abbreviations": {
+    "STW": "Standard Treatment Workflow",
+    "ICMR": "Indian Council of Medical Research",
+    "DHR": "Department of Health Research",
+    "MoHFW": "Ministry of Health and Family Welfare",
+    "ECG": "Electrocardiogram",
+    "PCI": "Percutaneous Coronary Intervention",
+    "PHC": "Primary Health Centre",
+    "CHC": "Community Health Centre",
+    "ICU": "Intensive Care Unit"
+  }
+}

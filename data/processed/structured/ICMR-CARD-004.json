@@ -1,0 +1,1847 @@
+{
+  "metadata": {
+    "document_id": "ICMR-CARD-004",
+    "title": "NSTEMI",
+    "specialty": "Cardiology",
+    "condition": "NSTEMI",
+    "icd_11_code": null,
+    "volume": "Volume 1",
+    "edition": "1.0",
+    "source_organization": "Indian Council of Medical Research (ICMR)",
+    "source_url": "https://www.icmr.gov.in/icmrobject/uploads/STWs/1768823342_cardiology_1-4.pdf",
+    "local_path": "data/raw/cardiology/1768823342_cardiology_1-4.pdf",
+    "total_pages": 1,
+    "document_hash": "4f8dcd7b654d01c71f89ce196bd4889a071413782570744536b00a3cba82d7e0"
+  },
+  "clinical_presentation": {
+    "definition": "Clinical presentation and diagnostic characteristics of NSTEMI per ICMR STW.",
+    "typical_symptoms": [
+      "Diffuse retrosternal pain, heaviness or",
+      "constriction. Radiation to arms or neck or back",
+      "Associated with sweating",
+      "Easily reproduced with post-meal exertion",
+      "fatigue or breathlessness or profuse sweating",
+      "or epigastric discomfort",
+      "More likelihood if known patient of CAD/ multiple",
+      "risk factors"
+    ],
+    "atypical_presentations": [
+      "Consider atypical presentation: Exertional"
+    ],
+    "signs_and_physical_exam": [],
+    "unlikely_features": [],
+    "red_flags": [
+      ".Angina at rest or lasting more than 20 minutes",
+      ".Recent worsening of stable angina (crescendo)",
+      "to CCS class III",
+      ".New onset effort angina of less than 1 month in",
+      "CCS class II/ III",
+      ".Post infarction angina"
+    ],
+    "source": {
+      "document_id": "ICMR-CARD-004",
+      "document_name": "NSTEMI",
+      "page_number": 1,
+      "section": "CLINICAL PRESENTATION",
+      "source_text_reference": "ACUTE CORONARY SYNDROME:\n1.Angina at rest or lasting more than 20 minutes\n2.Recent worsening of stable angina (crescendo)\nto CCS class III\n3.New onset effort angina of less than 1 month in\nCCS class II/ III\n4.Post infarction angina\nCONSIDER ANGINA IF\n• Diffuse retrosternal pain, heaviness or\nconstriction. Radiation to arms or neck or back\n• Associated with sweating\n• Easily reproduced with post-meal exertion\n• Consider atypical presentation: Exertional\nfatigue or breathlessness or profuse sweating\nor epigastric discomfort\nMore likelihood if known patient of CAD/ multiple\nrisk factors\nANGINA UNLIKELY IF:",
+      "bounding_box": null,
+      "extraction_type": "text",
+      "review_status": "extracted",
+      "requires_manual_review": false,
+      "review_notes": null,
+      "normalized_term": null
+    }
+  },
+  "diagnostic_criteria": [],
+  "investigations": [
+    {
+      "investigation_id": "INV_P1_01",
+      "name": ". Hemogram",
+      "tier": "BASIC",
+      "modality": "Laboratory / Diagnostic Imaging",
+      "indication": "Workup for NSTEMI",
+      "target_findings": null,
+      "source": {
+        "document_id": "ICMR-CARD-004",
+        "document_name": "NSTEMI",
+        "page_number": 1,
+        "section": "ESSENTIAL INVESTIGATIONS",
+        "source_text_reference": "1. Hemogram",
+        "bounding_box": [
+          11.438899993896484,
+          1159.9776611328125,
+          83.71989440917969,
+          1174.3326416015625
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "investigation_id": "INV_P1_02",
+      "name": ". Creatinine",
+      "tier": "BASIC",
+      "modality": "Laboratory / Diagnostic Imaging",
+      "indication": "Workup for NSTEMI",
+      "target_findings": null,
+      "source": {
+        "document_id": "ICMR-CARD-004",
+        "document_name": "NSTEMI",
+        "page_number": 1,
+        "section": "ESSENTIAL INVESTIGATIONS",
+        "source_text_reference": "2. Creatinine",
+        "bounding_box": [
+          11.438899993896484,
+          1174.981689453125,
+          78.78089904785156,
+          1189.336669921875
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "investigation_id": "INV_P1_03",
+      "name": ". Sugar, HbA1C",
+      "tier": "BASIC",
+      "modality": "Laboratory / Diagnostic Imaging",
+      "indication": "Workup for NSTEMI",
+      "target_findings": null,
+      "source": {
+        "document_id": "ICMR-CARD-004",
+        "document_name": "NSTEMI",
+        "page_number": 1,
+        "section": "ESSENTIAL INVESTIGATIONS",
+        "source_text_reference": "3. Sugar, HbA1C",
+        "bounding_box": [
+          11.438899993896484,
+          1189.9857177734375,
+          94.6759033203125,
+          1204.3406982421875
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "investigation_id": "INV_P1_04",
+      "name": ". Fasting lipids",
+      "tier": "BASIC",
+      "modality": "Laboratory / Diagnostic Imaging",
+      "indication": "Workup for NSTEMI",
+      "target_findings": null,
+      "source": {
+        "document_id": "ICMR-CARD-004",
+        "document_name": "NSTEMI",
+        "page_number": 1,
+        "section": "ESSENTIAL INVESTIGATIONS",
+        "source_text_reference": "4. Fasting lipids",
+        "bounding_box": [
+          11.438899993896484,
+          1204.98974609375,
+          95.47779846191406,
+          1219.3447265625
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "investigation_id": "INV_P1_05",
+      "name": ". Troponin T/ Troponin I",
+      "tier": "BASIC",
+      "modality": "Laboratory / Diagnostic Imaging",
+      "indication": "Workup for NSTEMI",
+      "target_findings": null,
+      "source": {
+        "document_id": "ICMR-CARD-004",
+        "document_name": "NSTEMI",
+        "page_number": 1,
+        "section": "ESSENTIAL INVESTIGATIONS",
+        "source_text_reference": "7. Troponin T/ Troponin I",
+        "bounding_box": [
+          11.438899993896484,
+          1234.9976806640625,
+          140.7197265625,
+          1249.3526611328125
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "investigation_id": "INV_P1_06",
+      "name": ". Plain X-ray chest",
+      "tier": "BASIC",
+      "modality": "Laboratory / Diagnostic Imaging",
+      "indication": "Workup for NSTEMI",
+      "target_findings": null,
+      "source": {
+        "document_id": "ICMR-CARD-004",
+        "document_name": "NSTEMI",
+        "page_number": 1,
+        "section": "ESSENTIAL INVESTIGATIONS",
+        "source_text_reference": "8. Plain X-ray chest",
+        "bounding_box": [
+          11.438899993896484,
+          1250.001708984375,
+          113.15370178222656,
+          1264.356689453125
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "investigation_id": "INV_P1_07",
+      "name": ". Echocardiography",
+      "tier": "BASIC",
+      "modality": "Laboratory / Diagnostic Imaging",
+      "indication": "Workup for NSTEMI",
+      "target_findings": null,
+      "source": {
+        "document_id": "ICMR-CARD-004",
+        "document_name": "NSTEMI",
+        "page_number": 1,
+        "section": "ESSENTIAL INVESTIGATIONS",
+        "source_text_reference": "9. Echocardiography",
+        "bounding_box": [
+          11.438899993896484,
+          1265.0057373046875,
+          122.3617935180664,
+          1279.3607177734375
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "investigation_id": "INV_P1_08",
+      "name": ". Coronary Angiography",
+      "tier": "OPTIONAL",
+      "modality": "Laboratory / Diagnostic Imaging",
+      "indication": "Workup for NSTEMI",
+      "target_findings": null,
+      "source": {
+        "document_id": "ICMR-CARD-004",
+        "document_name": "NSTEMI",
+        "page_number": 1,
+        "section": "OPTIONAL INVESTIGATIONS",
+        "source_text_reference": "1. Coronary Angiography",
+        "bounding_box": [
+          5.500400066375732,
+          1360.625732421875,
+          137.2034149169922,
+          1374.980712890625
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "investigation_id": "INV_P1_09",
+      "name": ". CT scan including coronary",
+      "tier": "OPTIONAL",
+      "modality": "Laboratory / Diagnostic Imaging",
+      "indication": "Workup for NSTEMI",
+      "target_findings": null,
+      "source": {
+        "document_id": "ICMR-CARD-004",
+        "document_name": "NSTEMI",
+        "page_number": 1,
+        "section": "OPTIONAL INVESTIGATIONS",
+        "source_text_reference": "2. CT scan including coronary",
+        "bounding_box": [
+          5.500400066375732,
+          1375.6297607421875,
+          163.22610473632812,
+          1389.9847412109375
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "investigation_id": "INV_P1_10",
+      "name": "angiography",
+      "tier": "OPTIONAL",
+      "modality": "Laboratory / Diagnostic Imaging",
+      "indication": "Workup for NSTEMI",
+      "target_findings": null,
+      "source": {
+        "document_id": "ICMR-CARD-004",
+        "document_name": "NSTEMI",
+        "page_number": 1,
+        "section": "OPTIONAL INVESTIGATIONS",
+        "source_text_reference": "angiography",
+        "bounding_box": [
+          16.50040054321289,
+          1390.6336669921875,
+          85.86529541015625,
+          1404.9886474609375
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "investigation_id": "INV_P1_11",
+      "name": ". Stress Radionuclide/",
+      "tier": "OPTIONAL",
+      "modality": "Laboratory / Diagnostic Imaging",
+      "indication": "Workup for NSTEMI",
+      "target_findings": null,
+      "source": {
+        "document_id": "ICMR-CARD-004",
+        "document_name": "NSTEMI",
+        "page_number": 1,
+        "section": "OPTIONAL INVESTIGATIONS",
+        "source_text_reference": "3. Stress Radionuclide/",
+        "bounding_box": [
+          5.500400543212891,
+          1405.6376953125,
+          126.664306640625,
+          1419.99267578125
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "investigation_id": "INV_P1_12",
+      "name": "echocardiographic  imaging",
+      "tier": "OPTIONAL",
+      "modality": "Laboratory / Diagnostic Imaging",
+      "indication": "Workup for NSTEMI",
+      "target_findings": null,
+      "source": {
+        "document_id": "ICMR-CARD-004",
+        "document_name": "NSTEMI",
+        "page_number": 1,
+        "section": "OPTIONAL INVESTIGATIONS",
+        "source_text_reference": "echocardiographic  imaging",
+        "bounding_box": [
+          16.50040054321289,
+          1420.6417236328125,
+          169.96142578125,
+          1434.9967041015625
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "investigation_id": "INV_P1_13",
+      "name": ". Coronary Fractional Flow",
+      "tier": "OPTIONAL",
+      "modality": "Laboratory / Diagnostic Imaging",
+      "indication": "Workup for NSTEMI",
+      "target_findings": null,
+      "source": {
+        "document_id": "ICMR-CARD-004",
+        "document_name": "NSTEMI",
+        "page_number": 1,
+        "section": "OPTIONAL INVESTIGATIONS",
+        "source_text_reference": "5. Coronary Fractional Flow",
+        "bounding_box": [
+          5.500400543212891,
+          1450.6497802734375,
+          151.51222229003906,
+          1465.0047607421875
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "investigation_id": "INV_P1_14",
+      "name": "Reserve",
+      "tier": "OPTIONAL",
+      "modality": "Laboratory / Diagnostic Imaging",
+      "indication": "Workup for NSTEMI",
+      "target_findings": null,
+      "source": {
+        "document_id": "ICMR-CARD-004",
+        "document_name": "NSTEMI",
+        "page_number": 1,
+        "section": "OPTIONAL INVESTIGATIONS",
+        "source_text_reference": "Reserve",
+        "bounding_box": [
+          16.50040054321289,
+          1465.6536865234375,
+          59.47630310058594,
+          1480.0086669921875
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "investigation_id": "INV_P1_15",
+      "name": ". Intra-vascular Ultrasound",
+      "tier": "OPTIONAL",
+      "modality": "Laboratory / Diagnostic Imaging",
+      "indication": "Workup for NSTEMI",
+      "target_findings": null,
+      "source": {
+        "document_id": "ICMR-CARD-004",
+        "document_name": "NSTEMI",
+        "page_number": 1,
+        "section": "OPTIONAL INVESTIGATIONS",
+        "source_text_reference": "5. Intra-vascular Ultrasound",
+        "bounding_box": [
+          5.500400543212891,
+          1480.65771484375,
+          153.63632202148438,
+          1495.0126953125
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "investigation_id": "INV_P1_16",
+      "name": "Pricking or piercing",
+      "tier": "OPTIONAL",
+      "modality": "Laboratory / Diagnostic Imaging",
+      "indication": "Workup for NSTEMI",
+      "target_findings": null,
+      "source": {
+        "document_id": "ICMR-CARD-004",
+        "document_name": "NSTEMI",
+        "page_number": 1,
+        "section": "OPTIONAL INVESTIGATIONS",
+        "source_text_reference": "Pricking or piercing",
+        "bounding_box": [
+          600.7930297851562,
+          450.71844482421875,
+          707.2401123046875,
+          463.7684326171875
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "investigation_id": "INV_P1_17",
+      "name": "or stabbing type of",
+      "tier": "OPTIONAL",
+      "modality": "Laboratory / Diagnostic Imaging",
+      "indication": "Workup for NSTEMI",
+      "target_findings": null,
+      "source": {
+        "document_id": "ICMR-CARD-004",
+        "document_name": "NSTEMI",
+        "page_number": 1,
+        "section": "OPTIONAL INVESTIGATIONS",
+        "source_text_reference": "or stabbing type of",
+        "bounding_box": [
+          609.7830200195312,
+          461.71844482421875,
+          705.2530517578125,
+          474.7684326171875
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "investigation_id": "INV_P1_18",
+      "name": "pain",
+      "tier": "OPTIONAL",
+      "modality": "Laboratory / Diagnostic Imaging",
+      "indication": "Workup for NSTEMI",
+      "target_findings": null,
+      "source": {
+        "document_id": "ICMR-CARD-004",
+        "document_name": "NSTEMI",
+        "page_number": 1,
+        "section": "OPTIONAL INVESTIGATIONS",
+        "source_text_reference": "pain",
+        "bounding_box": [
+          645.35302734375,
+          472.71844482421875,
+          669.6829833984375,
+          485.7684326171875
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    }
+  ],
+  "tier_management": [
+    {
+      "tier_id": "TIER_P1_01",
+      "tier": "PHC_CHC",
+      "general_measures": [
+        "1, ECG, Troponin.",
+        "2. Start",
+        "-Aspirin, Clopidogrel in",
+        "loading dose",
+        "-Heparin/ LMWH",
+        "-High dose statin"
+      ],
+      "investigations_performed": [],
+      "medications_initiated": [],
+      "referral_actions": [],
+      "source": {
+        "document_id": "ICMR-CARD-004",
+        "document_name": "NSTEMI",
+        "page_number": 1,
+        "section": "PHC/CHC LEVEL",
+        "source_text_reference": "1, ECG, Troponin.\n2. Start\n-Aspirin, Clopidogrel in\nloading dose\n-Heparin/ LMWH\n-High dose statin\n-Metoprolol\n3. Risk stratify GRACE score or\nTIMI score\n- Refer High/ Intermediate\nrisk to\nPCI capable centre\n- Refer Low risk for further\nevaluation to DH\n4. Refer to PCI capable centre if:\n- Acute LVF\n- Hypotension\n- Systolic murmur\n- Arrythmia",
+        "bounding_box": null,
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    }
+  ],
+  "medications": [
+    {
+      "medication_id": "MED_P1_01",
+      "generic_name": "Aspirin",
+      "drug_class": null,
+      "dosage": "Aspirin, Clopidogrel in (Dose not specified in text)",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-004",
+        "document_name": "NSTEMI",
+        "page_number": 1,
+        "section": "PHC/CHC LEVEL",
+        "source_text_reference": "-Aspirin, Clopidogrel in",
+        "bounding_box": [
+          25.65250015258789,
+          556.3624267578125,
+          147.97142028808594,
+          570.7174682617188
+        ],
+        "extraction_type": "text",
+        "review_status": "needs_review",
+        "requires_manual_review": true,
+        "review_notes": "Medication 'Aspirin' mentioned in workflow without explicit dosage or units in source text",
+        "normalized_term": null
+      }
+    },
+    {
+      "medication_id": "MED_P1_02",
+      "generic_name": "Heparin",
+      "drug_class": null,
+      "dosage": "Heparin/ LMWH (Dose not specified in text)",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-004",
+        "document_name": "NSTEMI",
+        "page_number": 1,
+        "section": "PHC/CHC LEVEL",
+        "source_text_reference": "-Heparin/ LMWH",
+        "bounding_box": [
+          25.65250015258789,
+          582.3663330078125,
+          117.11750030517578,
+          596.7213745117188
+        ],
+        "extraction_type": "text",
+        "review_status": "needs_review",
+        "requires_manual_review": true,
+        "review_notes": "Medication 'Heparin' mentioned in workflow without explicit dosage or units in source text",
+        "normalized_term": null
+      }
+    },
+    {
+      "medication_id": "MED_P1_03",
+      "generic_name": "Metoprolol",
+      "drug_class": null,
+      "dosage": "Metoprolol (Dose not specified in text)",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-004",
+        "document_name": "NSTEMI",
+        "page_number": 1,
+        "section": "PHC/CHC LEVEL",
+        "source_text_reference": "-Metoprolol",
+        "bounding_box": [
+          25.65250015258789,
+          608.3703002929688,
+          88.49551391601562,
+          622.725341796875
+        ],
+        "extraction_type": "text",
+        "review_status": "needs_review",
+        "requires_manual_review": true,
+        "review_notes": "Medication 'Metoprolol' mentioned in workflow without explicit dosage or units in source text",
+        "normalized_term": null
+      }
+    },
+    {
+      "medication_id": "MED_P1_04",
+      "generic_name": "Aspirin",
+      "drug_class": null,
+      "dosage": ".Continue Aspirin, (Dose not specified in text)",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-004",
+        "document_name": "NSTEMI",
+        "page_number": 1,
+        "section": "DISTRICT HOSPITAL",
+        "source_text_reference": "4.Continue Aspirin,",
+        "bounding_box": [
+          201.02000427246094,
+          606.3585205078125,
+          305.9039001464844,
+          620.7135620117188
+        ],
+        "extraction_type": "text",
+        "review_status": "needs_review",
+        "requires_manual_review": true,
+        "review_notes": "Medication 'Aspirin' mentioned in workflow without explicit dosage or units in source text",
+        "normalized_term": null
+      }
+    },
+    {
+      "medication_id": "MED_P1_05",
+      "generic_name": "Clopidogrel",
+      "drug_class": null,
+      "dosage": "Clopidogrel, Heparin & (Dose not specified in text)",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-004",
+        "document_name": "NSTEMI",
+        "page_number": 1,
+        "section": "DISTRICT HOSPITAL",
+        "source_text_reference": "Clopidogrel, Heparin &",
+        "bounding_box": [
+          212.02000427246094,
+          617.3585205078125,
+          336.11981201171875,
+          631.7135620117188
+        ],
+        "extraction_type": "text",
+        "review_status": "needs_review",
+        "requires_manual_review": true,
+        "review_notes": "Medication 'Clopidogrel' mentioned in workflow without explicit dosage or units in source text",
+        "normalized_term": null
+      }
+    },
+    {
+      "medication_id": "MED_P1_06",
+      "generic_name": "Nitrates",
+      "drug_class": null,
+      "dosage": ".Add nitrates if needed (Dose not specified in text)",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-004",
+        "document_name": "NSTEMI",
+        "page_number": 1,
+        "section": "DISTRICT HOSPITAL",
+        "source_text_reference": "5.Add nitrates if needed",
+        "bounding_box": [
+          201.02000427246094,
+          639.3585205078125,
+          329.7727966308594,
+          653.7135620117188
+        ],
+        "extraction_type": "text",
+        "review_status": "needs_review",
+        "requires_manual_review": true,
+        "review_notes": "Medication 'Nitrates' mentioned in workflow without explicit dosage or units in source text",
+        "normalized_term": null
+      }
+    },
+    {
+      "medication_id": "MED_P1_07",
+      "generic_name": "Aspirin",
+      "drug_class": null,
+      "dosage": ". Continue aspirin and heparin (Dose not specified in text)",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-004",
+        "document_name": "NSTEMI",
+        "page_number": 1,
+        "section": "TERTIARY CENTRE",
+        "source_text_reference": "2. Continue aspirin and heparin",
+        "bounding_box": [
+          376.99951171875,
+          540.3585205078125,
+          546.0266723632812,
+          554.7135620117188
+        ],
+        "extraction_type": "text",
+        "review_status": "needs_review",
+        "requires_manual_review": true,
+        "review_notes": "Medication 'Aspirin' mentioned in workflow without explicit dosage or units in source text",
+        "normalized_term": null
+      }
+    },
+    {
+      "medication_id": "MED_P1_08",
+      "generic_name": "Clopidogrel",
+      "drug_class": null,
+      "dosage": ". Load with clopidogrel or prasugrel or ticagralor if not already done (Dose not specified in text)",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-004",
+        "document_name": "NSTEMI",
+        "page_number": 1,
+        "section": "TERTIARY CENTRE",
+        "source_text_reference": "3. Load with clopidogrel or prasugrel or ticagralor if not already done",
+        "bounding_box": [
+          376.99951171875,
+          551.3585205078125,
+          745.38818359375,
+          565.7135620117188
+        ],
+        "extraction_type": "text",
+        "review_status": "needs_review",
+        "requires_manual_review": true,
+        "review_notes": "Medication 'Clopidogrel' mentioned in workflow without explicit dosage or units in source text",
+        "normalized_term": "Ticagrelor"
+      }
+    },
+    {
+      "medication_id": "MED_P1_09",
+      "generic_name": "Nitrates",
+      "drug_class": null,
+      "dosage": "intra-venous nitrates if ongoing pain, severe MR or LVF) (Dose not specified in text)",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-004",
+        "document_name": "NSTEMI",
+        "page_number": 1,
+        "section": "TERTIARY CENTRE",
+        "source_text_reference": "intra-venous nitrates if ongoing pain, severe MR or LVF)",
+        "bounding_box": [
+          387.99951171875,
+          573.3585205078125,
+          685.3512573242188,
+          587.7135620117188
+        ],
+        "extraction_type": "text",
+        "review_status": "needs_review",
+        "requires_manual_review": true,
+        "review_notes": "Medication 'Nitrates' mentioned in workflow without explicit dosage or units in source text",
+        "normalized_term": null
+      }
+    },
+    {
+      "medication_id": "MED_P1_10",
+      "generic_name": "Ticagrelor",
+      "drug_class": null,
+      "dosage": "with Ticagrelor or prasugrel if PCI is planned (Dose not specified in text)",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-004",
+        "document_name": "NSTEMI",
+        "page_number": 1,
+        "section": "TERTIARY CENTRE",
+        "source_text_reference": "with Ticagrelor or prasugrel if PCI is planned",
+        "bounding_box": [
+          387.99951171875,
+          727.3585205078125,
+          626.1614379882812,
+          741.7135620117188
+        ],
+        "extraction_type": "text",
+        "review_status": "needs_review",
+        "requires_manual_review": true,
+        "review_notes": "Medication 'Ticagrelor' mentioned in workflow without explicit dosage or units in source text",
+        "normalized_term": null
+      }
+    },
+    {
+      "medication_id": "MED_P1_11",
+      "generic_name": "Aspirin",
+      "drug_class": null,
+      "dosage": ". Aspirin use within 7 days (Dose not specified in text)",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-004",
+        "document_name": "NSTEMI",
+        "page_number": 1,
+        "section": "2. TIMI SCORE:",
+        "source_text_reference": "5. Aspirin use within 7 days",
+        "bounding_box": [
+          17.17770004272461,
+          1045.490234375,
+          161.4977264404297,
+          1059.84521484375
+        ],
+        "extraction_type": "text",
+        "review_status": "needs_review",
+        "requires_manual_review": true,
+        "review_notes": "Medication 'Aspirin' mentioned in workflow without explicit dosage or units in source text",
+        "normalized_term": null
+      }
+    },
+    {
+      "medication_id": "MED_P1_12",
+      "generic_name": "Aspirin",
+      "drug_class": null,
+      "dosage": ". Aspirin: Loading dose 325 mg followed by 75 mg OD",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": true,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-004",
+        "document_name": "NSTEMI",
+        "page_number": 1,
+        "section": "Anti-platelets",
+        "source_text_reference": "1. Aspirin: Loading dose 325 mg followed by 75 mg OD",
+        "bounding_box": [
+          235.54490661621094,
+          1370.9957275390625,
+          498.9349365234375,
+          1384.0457763671875
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "medication_id": "MED_P1_13",
+      "generic_name": "Clopidogrel",
+      "drug_class": null,
+      "dosage": ". Clopidogrel: Loading dose 300 mg followed 75 mg OD",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": true,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-004",
+        "document_name": "NSTEMI",
+        "page_number": 1,
+        "section": "Anti-platelets",
+        "source_text_reference": "2. Clopidogrel: Loading dose 300 mg followed 75 mg OD",
+        "bounding_box": [
+          235.54490661621094,
+          1380.9957275390625,
+          511.5539245605469,
+          1394.0457763671875
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "medication_id": "MED_P1_14",
+      "generic_name": "Prasugrel",
+      "drug_class": null,
+      "dosage": ". Prasugrel: Loading dose 60 mg followed by 10 mg OD",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": true,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-004",
+        "document_name": "NSTEMI",
+        "page_number": 1,
+        "section": "Anti-platelets",
+        "source_text_reference": "3. Prasugrel: Loading dose 60 mg followed by 10 mg OD",
+        "bounding_box": [
+          235.54490661621094,
+          1390.9957275390625,
+          508.5009765625,
+          1404.0457763671875
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "medication_id": "MED_P1_15",
+      "generic_name": "Ticagralor",
+      "drug_class": null,
+      "dosage": ". Ticagralor: Loading dose 180 mg followed by 90 mg",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": true,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-004",
+        "document_name": "NSTEMI",
+        "page_number": 1,
+        "section": "Anti-platelets",
+        "source_text_reference": "4. Ticagralor: Loading dose 180 mg followed by 90 mg",
+        "bounding_box": [
+          235.54490661621094,
+          1400.9957275390625,
+          498.53289794921875,
+          1414.0457763671875
+        ],
+        "extraction_type": "text",
+        "review_status": "needs_review",
+        "requires_manual_review": true,
+        "review_notes": "Typographical variant 'Ticagralor' in ICMR source PDF",
+        "normalized_term": "Ticagrelor"
+      }
+    },
+    {
+      "medication_id": "MED_P1_16",
+      "generic_name": "Enoxaparin",
+      "drug_class": null,
+      "dosage": ". Enoxaparin: 1 mg/Kg SC 12 hrly",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": true,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-004",
+        "document_name": "NSTEMI",
+        "page_number": 1,
+        "section": "Anti-platelets",
+        "source_text_reference": "1. Enoxaparin: 1 mg/Kg SC 12 hrly",
+        "bounding_box": [
+          235.54490661621094,
+          1430.9957275390625,
+          392.2718811035156,
+          1444.0457763671875
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "medication_id": "MED_P1_17",
+      "generic_name": "Heparin",
+      "drug_class": null,
+      "dosage": ". Unfractionated heparin: Bolus of 60 U/Kg (maximum",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": true,
+      "maintenance_dose": null,
+      "weight_based": true,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-004",
+        "document_name": "NSTEMI",
+        "page_number": 1,
+        "section": "Anti-platelets",
+        "source_text_reference": "2. Unfractionated heparin: Bolus of 60 U/Kg (maximum",
+        "bounding_box": [
+          235.54490661621094,
+          1440.9957275390625,
+          505.6348876953125,
+          1454.0457763671875
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "medication_id": "MED_P1_18",
+      "generic_name": "Ramipril",
+      "drug_class": null,
+      "dosage": "Ramipril 2.5 -10 mg OD",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-004",
+        "document_name": "NSTEMI",
+        "page_number": 1,
+        "section": "Anti-platelets",
+        "source_text_reference": "Ramipril 2.5 -10 mg OD",
+        "bounding_box": [
+          235.54490661621094,
+          1480.9957275390625,
+          347.974853515625,
+          1494.0457763671875
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "medication_id": "MED_P1_19",
+      "generic_name": "Enalapril",
+      "drug_class": null,
+      "dosage": "Enalapril 2.5-10 mg BD",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-004",
+        "document_name": "NSTEMI",
+        "page_number": 1,
+        "section": "Anti-platelets",
+        "source_text_reference": "Enalapril 2.5-10 mg BD",
+        "bounding_box": [
+          235.54490661621094,
+          1490.9957275390625,
+          346.0728759765625,
+          1504.0457763671875
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "medication_id": "MED_P1_20",
+      "generic_name": "Metoprolol",
+      "drug_class": null,
+      "dosage": ". Metoprolol: (Dose not specified in text)",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-004",
+        "document_name": "NSTEMI",
+        "page_number": 1,
+        "section": "Anti-ischemic:",
+        "source_text_reference": "1. Metoprolol:",
+        "bounding_box": [
+          565.0048828125,
+          1371.9957275390625,
+          628.4839477539062,
+          1385.0457763671875
+        ],
+        "extraction_type": "text",
+        "review_status": "needs_review",
+        "requires_manual_review": true,
+        "review_notes": "Medication 'Metoprolol' mentioned in workflow without explicit dosage or units in source text",
+        "normalized_term": null
+      }
+    },
+    {
+      "medication_id": "MED_P1_21",
+      "generic_name": "Nitrates",
+      "drug_class": null,
+      "dosage": ". Nitrates: (Dose not specified in text)",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-004",
+        "document_name": "NSTEMI",
+        "page_number": 1,
+        "section": "Anti-ischemic:",
+        "source_text_reference": "2. Nitrates:",
+        "bounding_box": [
+          565.0048828125,
+          1404.9957275390625,
+          616.044921875,
+          1418.0457763671875
+        ],
+        "extraction_type": "text",
+        "review_status": "needs_review",
+        "requires_manual_review": true,
+        "review_notes": "Medication 'Nitrates' mentioned in workflow without explicit dosage or units in source text",
+        "normalized_term": null
+      }
+    },
+    {
+      "medication_id": "MED_P1_22",
+      "generic_name": "Isosorbide",
+      "drug_class": null,
+      "dosage": "Isosorbide mono-nitare 20 to 60 mg in 2 devided",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-004",
+        "document_name": "NSTEMI",
+        "page_number": 1,
+        "section": "Anti-ischemic:",
+        "source_text_reference": "Isosorbide mono-nitare 20 to 60 mg in 2 devided",
+        "bounding_box": [
+          594.0048828125,
+          1415.9957275390625,
+          835.8359985351562,
+          1429.0457763671875
+        ],
+        "extraction_type": "text",
+        "review_status": "needs_review",
+        "requires_manual_review": true,
+        "review_notes": "Typographical variant 'mono-nitare' in source text",
+        "normalized_term": "Isosorbide mononitrate"
+      }
+    },
+    {
+      "medication_id": "MED_P1_23",
+      "generic_name": "Atorvastatin",
+      "drug_class": null,
+      "dosage": "High dose Atorvastatin 80 mg OD or Rosuvastatin",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-004",
+        "document_name": "NSTEMI",
+        "page_number": 1,
+        "section": "Anti-ischemic:",
+        "source_text_reference": "High dose Atorvastatin 80 mg OD or Rosuvastatin",
+        "bounding_box": [
+          565.0048828125,
+          1470.9957275390625,
+          812.7140502929688,
+          1484.0457763671875
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "medication_id": "MED_P1_24",
+      "generic_name": "Aspirin",
+      "drug_class": null,
+      "dosage": ".Conservative management: Aspirin, clopidogrel, BB (Dose not specified in text)",
+      "route": "Oral / Intravenous / Subcutaneous",
+      "frequency": null,
+      "duration": null,
+      "is_loading_dose": false,
+      "maintenance_dose": null,
+      "weight_based": false,
+      "weight_rules": null,
+      "monitoring_parameters": null,
+      "cautions_and_contraindications": null,
+      "source": {
+        "document_id": "ICMR-CARD-004",
+        "document_name": "NSTEMI",
+        "page_number": 1,
+        "section": "UA/NSTEMI: RISK CATEGORY MANAGEMENT:",
+        "source_text_reference": "1.Conservative management: Aspirin, clopidogrel, BB",
+        "bounding_box": [
+          553.99560546875,
+          1214.068359375,
+          811.723876953125,
+          1227.118408203125
+        ],
+        "extraction_type": "text",
+        "review_status": "needs_review",
+        "requires_manual_review": true,
+        "review_notes": "Medication 'Aspirin' mentioned in workflow without explicit dosage or units in source text",
+        "normalized_term": null
+      }
+    }
+  ],
+  "contraindications": [],
+  "referral_criteria": [],
+  "flowcharts": [],
+  "tables": [
+    {
+      "table_id": "TAB_P1_01",
+      "title": "Table 1 (Page 1)",
+      "headers": [
+        "Column_1",
+        "ANGINA UNLIKELY IF:",
+        "Column_3",
+        "Column_4",
+        "Column_5",
+        "Column_6",
+        "Column_7",
+        "Column_8",
+        "Column_9",
+        "Column_10"
+      ],
+      "rows": [
+        {
+          "row_id": "T1_R1",
+          "cells": {
+            "Column_1": "",
+            "ANGINA UNLIKELY IF:": "Variable location or characteristic",
+            "Column_3": "",
+            "Column_4": "Long lasting (hours to days) or short lasting (less than a minute)",
+            "Column_5": "",
+            "Column_6": "Restricted to areas above jaw or below epigatrium",
+            "Column_7": "Localized to a point",
+            "Column_8": "Pricking or piercing or stabbing type of pain",
+            "Column_9": "",
+            "Column_10": "Precipitated by movement of neck or arms or respiration"
+          },
+          "source": {
+            "document_id": "ICMR-CARD-004",
+            "document_name": "NSTEMI",
+            "page_number": 1,
+            "section": "TABLE_1",
+            "source_text_reference": "ANGINA UNLIKELY IF:: Variable location or characteristic; Column_4: Long lasting (hours to days) or short lasting (less than a minute); Column_6: Restricted to areas above jaw or below epigatrium; Column_7: Localized to a point; Column_8: Pricking or piercing or stabbing type of pain; Column_10: Precipitated by movement of neck or arms or respiration",
+            "bounding_box": [
+              0.06534645774147728,
+              434.6790771484375,
+              829.0471801757812,
+              493.2816859654018
+            ],
+            "extraction_type": "table",
+            "review_status": "extracted",
+            "requires_manual_review": false,
+            "review_notes": null,
+            "normalized_term": null
+          }
+        }
+      ],
+      "source": {
+        "document_id": "ICMR-CARD-004",
+        "document_name": "NSTEMI",
+        "page_number": 1,
+        "section": "TABLE_1",
+        "source_text_reference": "ANGINA UNLIKELY IF:: Variable location or characteristic; Column_4: Long lasting (hours to days) or short lasting (less than a minute); Column_6: Restricted to areas above jaw or below epigatrium; Column_7: Localized to a point; Column_8: Pricking or piercing or stabbing type of pain; Column_10: Precipitated by movement of neck or arms or respiration",
+        "bounding_box": [
+          0.06534645774147728,
+          434.6790771484375,
+          829.0471801757812,
+          493.2816859654018
+        ],
+        "extraction_type": "table",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "table_id": "TAB_P1_03",
+      "title": "Table 3 (Page 1)",
+      "headers": [
+        "Killip Points Class",
+        "SBP1 Points mm Hg",
+        "Heart rate Points Beats/ min",
+        "Age. y Points",
+        "Creatinine Points Level, mg/ dL",
+        "Other risk factors Points"
+      ],
+      "rows": [
+        {
+          "row_id": "T3_R1",
+          "cells": {
+            "Killip Points Class": "I 0 II 20 III 39 IV 59",
+            "SBP1 Points mm Hg": "<80 58 80-99 53 100-119 43 120-139 34 140-159 24 160-199 10 >200 0",
+            "Heart rate Points Beats/ min": "<50 0 50-69 3 70-89 9 90-109 15 110-149 24 150-199 38 >200 46",
+            "Age. y Points": "<30 0 30-39 8 40-49 25 50-59 41 60-69 58 70-79 75 80-89 91 >90 100",
+            "Creatinine Points Level, mg/ dL": "0-0.39 1 0.40-0.79 4 0.80-1.19 7 1.20-1.59 10 1.60-1.99 13 2.00-3.99 21 >4.0 28",
+            "Other risk factors Points": "• Cardiac arrest at 39 admission • ST-Segment 28 Deviation • Elevated Cardiac 14 Enzyme Levels Sum Total= GRACE score of patient"
+          },
+          "source": {
+            "document_id": "ICMR-CARD-004",
+            "document_name": "NSTEMI",
+            "page_number": 1,
+            "section": "TABLE_3",
+            "source_text_reference": "Killip Points Class: I 0 II 20 III 39 IV 59; SBP1 Points mm Hg: <80 58 80-99 53 100-119 43 120-139 34 140-159 24 160-199 10 >200 0; Heart rate Points Beats/ min: <50 0 50-69 3 70-89 9 90-109 15 110-149 24 150-199 38 >200 46; Age. y Points: <30 0 30-39 8 40-49 25 50-59 41 60-69 58 70-79 75 80-89 91 >90 100; Creatinine Points Level, mg/ dL: 0-0.39 1 0.40-0.79 4 0.80-1.19 7 1.20-1.59 10 1.60-1.99 13 2.00-3.99 21 >4.0 28; Other risk factors Points: • Cardiac arrest at 39 admission • ST-Segment 28 Deviation • Elevated Cardiac 14 Enzyme Levels Sum Total= GRACE score of patient",
+            "bounding_box": [
+              13.890000343322754,
+              810.5907854352679,
+              829.0471801757812,
+              964.60107421875
+            ],
+            "extraction_type": "table",
+            "review_status": "extracted",
+            "requires_manual_review": false,
+            "review_notes": null,
+            "normalized_term": null
+          }
+        }
+      ],
+      "source": {
+        "document_id": "ICMR-CARD-004",
+        "document_name": "NSTEMI",
+        "page_number": 1,
+        "section": "TABLE_3",
+        "source_text_reference": "Killip Points Class: I 0 II 20 III 39 IV 59; SBP1 Points mm Hg: <80 58 80-99 53 100-119 43 120-139 34 140-159 24 160-199 10 >200 0; Heart rate Points Beats/ min: <50 0 50-69 3 70-89 9 90-109 15 110-149 24 150-199 38 >200 46; Age. y Points: <30 0 30-39 8 40-49 25 50-59 41 60-69 58 70-79 75 80-89 91 >90 100; Creatinine Points Level, mg/ dL: 0-0.39 1 0.40-0.79 4 0.80-1.19 7 1.20-1.59 10 1.60-1.99 13 2.00-3.99 21 >4.0 28; Other risk factors Points: • Cardiac arrest at 39 admission • ST-Segment 28 De",
+        "bounding_box": [
+          13.890000343322754,
+          810.5907854352679,
+          829.0471801757812,
+          964.60107421875
+        ],
+        "extraction_type": "table",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "table_id": "TAB_P1_04",
+      "title": "Table 4 (Page 1)",
+      "headers": [
+        "UNSTABLE ANGINA OR NSTEMI DIAGNOSIS",
+        "UNSTABLE ANGINA OR NSTEMI DIAGNOSIS_2",
+        "Column_3"
+      ],
+      "rows": [
+        {
+          "row_id": "T4_R3",
+          "cells": {
+            "UNSTABLE ANGINA OR NSTEMI DIAGNOSIS": "High risk GRACE > 140, TIMI >4",
+            "UNSTABLE ANGINA OR NSTEMI DIAGNOSIS_2": "",
+            "Column_3": ""
+          },
+          "source": {
+            "document_id": "ICMR-CARD-004",
+            "document_name": "NSTEMI",
+            "page_number": 1,
+            "section": "TABLE_4",
+            "source_text_reference": "UNSTABLE ANGINA OR NSTEMI DIAGNOSIS: High risk GRACE > 140, TIMI >4",
+            "bounding_box": [
+              397.0,
+              971.60107421875,
+              685.9371744791666,
+              1087.55810546875
+            ],
+            "extraction_type": "table",
+            "review_status": "needs_review",
+            "requires_manual_review": true,
+            "review_notes": "Sparse row with potential merged columns",
+            "normalized_term": null
+          }
+        },
+        {
+          "row_id": "T4_R5",
+          "cells": {
+            "UNSTABLE ANGINA OR NSTEMI DIAGNOSIS": "Early invasive 2-24 h",
+            "UNSTABLE ANGINA OR NSTEMI DIAGNOSIS_2": "",
+            "Column_3": ""
+          },
+          "source": {
+            "document_id": "ICMR-CARD-004",
+            "document_name": "NSTEMI",
+            "page_number": 1,
+            "section": "TABLE_4",
+            "source_text_reference": "UNSTABLE ANGINA OR NSTEMI DIAGNOSIS: Early invasive 2-24 h",
+            "bounding_box": [
+              397.0,
+              971.60107421875,
+              685.9371744791666,
+              1087.55810546875
+            ],
+            "extraction_type": "table",
+            "review_status": "needs_review",
+            "requires_manual_review": true,
+            "review_notes": "Sparse row with potential merged columns",
+            "normalized_term": null
+          }
+        }
+      ],
+      "source": {
+        "document_id": "ICMR-CARD-004",
+        "document_name": "NSTEMI",
+        "page_number": 1,
+        "section": "TABLE_4",
+        "source_text_reference": "UNSTABLE ANGINA OR NSTEMI DIAGNOSIS: High risk GRACE > 140, TIMI >4\nUNSTABLE ANGINA OR NSTEMI DIAGNOSIS: Early invasive 2-24 h",
+        "bounding_box": [
+          397.0,
+          971.60107421875,
+          685.9371744791666,
+          1087.55810546875
+        ],
+        "extraction_type": "table",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "table_id": "TAB_P1_05",
+      "title": "Table 5 (Page 1)",
+      "headers": [
+        "Column_1",
+        "Column_2",
+        "Medical/ non-invasive strategy",
+        "Column_4"
+      ],
+      "rows": [
+        {
+          "row_id": "T5_R2",
+          "cells": {
+            "Column_1": "PCI-capable hospital High risk: same-day transfer ntermediate risk: transfer for PCI withing 72 h + Non-invasive Low risk: transfer if pursuing invasive Invasive evaluation ischaemic testing reatment",
+            "Column_2": "",
+            "Medical/ non-invasive strategy": "",
+            "Column_4": ""
+          },
+          "source": {
+            "document_id": "ICMR-CARD-004",
+            "document_name": "NSTEMI",
+            "page_number": 1,
+            "section": "TABLE_5",
+            "source_text_reference": "Column_1: PCI-capable hospital High risk: same-day transfer ntermediate risk: transfer for PCI withing 72 h + Non-invasive Low risk: transfer if pursuing invasive Invasive evaluation ischaemic testing reatment",
+            "bounding_box": [
+              268.0,
+              1058.60107421875,
+              829.0471801757812,
+              1183.7610677083333
+            ],
+            "extraction_type": "table",
+            "review_status": "needs_review",
+            "requires_manual_review": true,
+            "review_notes": "Sparse row with potential merged columns",
+            "normalized_term": null
+          }
+        },
+        {
+          "row_id": "T5_R3",
+          "cells": {
+            "Column_1": "",
+            "Column_2": "",
+            "Medical/ non-invasive strategy": "Non-invasive ischaemic testing",
+            "Column_4": ""
+          },
+          "source": {
+            "document_id": "ICMR-CARD-004",
+            "document_name": "NSTEMI",
+            "page_number": 1,
+            "section": "TABLE_5",
+            "source_text_reference": "Medical/ non-invasive strategy: Non-invasive ischaemic testing",
+            "bounding_box": [
+              268.0,
+              1058.60107421875,
+              829.0471801757812,
+              1183.7610677083333
+            ],
+            "extraction_type": "table",
+            "review_status": "needs_review",
+            "requires_manual_review": true,
+            "review_notes": "Sparse row with potential merged columns",
+            "normalized_term": null
+          }
+        }
+      ],
+      "source": {
+        "document_id": "ICMR-CARD-004",
+        "document_name": "NSTEMI",
+        "page_number": 1,
+        "section": "TABLE_5",
+        "source_text_reference": "Column_1: PCI-capable hospital High risk: same-day transfer ntermediate risk: transfer for PCI withing 72 h + Non-invasive Low risk: transfer if pursuing invasive Invasive evaluation ischaemic testing reatment\nMedical/ non-invasive strategy: Non-invasive ischaemic testing",
+        "bounding_box": [
+          268.0,
+          1058.60107421875,
+          829.0471801757812,
+          1183.7610677083333
+        ],
+        "extraction_type": "table",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "table_id": "TAB_P1_06",
+      "title": "Table 6 (Page 1)",
+      "headers": [
+        "INVESTIGATIONS",
+        "Column_2",
+        "PCI-capable hospital High risk: same-day transfer Intermediate risk: transfer for PCI withing 72 h + Non-invasive Low risk: transfer if pursuing invasive Invasive evaluation ischaemic testing treatment UA/NSTEMI: RISK CATEGORIZATION: UA/NSTEMI: RISK CATEGORY MANAGEMENT: Based on clinical features, GRACE score & TIMI score A)Low risk: A).Very high risk: 1.Conservative management: Aspirin, clopidogrel, BB -Acute LVF and statin -Hypotension 2. CT coronary angiography/TMT within a week to risk -Uncontrolled Ventricular arrhythmia stratify -Severe MR 3.Refer low risk for re-vascularization if B. High Risk: -Recurrent pain -GRACE score > 140 or TIMI score >4 -Hemodynamic deterioration C. Intermediate Risk: -New ECG change -GRACE score 109-140 or TIMI score 2-3 D. Low Risk: B. Intermediate/ Very High/ High risk: -Grace score <108 or TIMI score 0-1 Re-vascularization",
+        "Column_4"
+      ],
+      "rows": [
+        {
+          "row_id": "T6_R1",
+          "cells": {
+            "INVESTIGATIONS": "ESSENTIAL INVESTIGATIONS 1. Hemogram 2. Creatinine 3. Sugar, HbA1C 4. Fasting lipids 6. ECG 7. Troponin T/ Troponin I 8. Plain X-ray chest 9. Echocardiography",
+            "Column_2": "",
+            "PCI-capable hospital High risk: same-day transfer Intermediate risk: transfer for PCI withing 72 h + Non-invasive Low risk: transfer if pursuing invasive Invasive evaluation ischaemic testing treatment UA/NSTEMI: RISK CATEGORIZATION: UA/NSTEMI: RISK CATEGORY MANAGEMENT: Based on clinical features, GRACE score & TIMI score A)Low risk: A).Very high risk: 1.Conservative management: Aspirin, clopidogrel, BB -Acute LVF and statin -Hypotension 2. CT coronary angiography/TMT within a week to risk -Uncontrolled Ventricular arrhythmia stratify -Severe MR 3.Refer low risk for re-vascularization if B. High Risk: -Recurrent pain -GRACE score > 140 or TIMI score >4 -Hemodynamic deterioration C. Intermediate Risk: -New ECG change -GRACE score 109-140 or TIMI score 2-3 D. Low Risk: B. Intermediate/ Very High/ High risk: -Grace score <108 or TIMI score 0-1 Re-vascularization": "",
+            "Column_4": ""
+          },
+          "source": {
+            "document_id": "ICMR-CARD-004",
+            "document_name": "NSTEMI",
+            "page_number": 1,
+            "section": "TABLE_6",
+            "source_text_reference": "INVESTIGATIONS: ESSENTIAL INVESTIGATIONS 1. Hemogram 2. Creatinine 3. Sugar, HbA1C 4. Fasting lipids 6. ECG 7. Troponin T/ Troponin I 8. Plain X-ray chest 9. Echocardiography",
+            "bounding_box": [
+              0.06534645774147728,
+              1115.55810546875,
+              841.7422637939453,
+              1523.718017578125
+            ],
+            "extraction_type": "table",
+            "review_status": "needs_review",
+            "requires_manual_review": true,
+            "review_notes": "Sparse row with potential merged columns",
+            "normalized_term": null
+          }
+        },
+        {
+          "row_id": "T6_R2",
+          "cells": {
+            "INVESTIGATIONS": "OPTIONAL INVESTIGATIONS 1. Coronary Angiography 2. CT scan including coronary angiography 3. Stress Radionuclide/ echocardiographic imaging 4. MRI 5. Coronary Fractional Flow Reserve 5. Intra-vascular Ultrasound",
+            "Column_2": "",
+            "PCI-capable hospital High risk: same-day transfer Intermediate risk: transfer for PCI withing 72 h + Non-invasive Low risk: transfer if pursuing invasive Invasive evaluation ischaemic testing treatment UA/NSTEMI: RISK CATEGORIZATION: UA/NSTEMI: RISK CATEGORY MANAGEMENT: Based on clinical features, GRACE score & TIMI score A)Low risk: A).Very high risk: 1.Conservative management: Aspirin, clopidogrel, BB -Acute LVF and statin -Hypotension 2. CT coronary angiography/TMT within a week to risk -Uncontrolled Ventricular arrhythmia stratify -Severe MR 3.Refer low risk for re-vascularization if B. High Risk: -Recurrent pain -GRACE score > 140 or TIMI score >4 -Hemodynamic deterioration C. Intermediate Risk: -New ECG change -GRACE score 109-140 or TIMI score 2-3 D. Low Risk: B. Intermediate/ Very High/ High risk: -Grace score <108 or TIMI score 0-1 Re-vascularization": "DRUGS & DOSAGE",
+            "Column_4": ""
+          },
+          "source": {
+            "document_id": "ICMR-CARD-004",
+            "document_name": "NSTEMI",
+            "page_number": 1,
+            "section": "TABLE_6",
+            "source_text_reference": "INVESTIGATIONS: OPTIONAL INVESTIGATIONS 1. Coronary Angiography 2. CT scan including coronary angiography 3. Stress Radionuclide/ echocardiographic imaging 4. MRI 5. Coronary Fractional Flow Reserve 5. Intra-vascular Ultrasound; PCI-capable hospital High risk: same-day transfer Intermediate risk: transfer for PCI withing 72 h + Non-invasive Low risk: transfer if pursuing invasive Invasive evaluation ischaemic testing treatment UA/NSTEMI: RISK CATEGORIZATION: UA/NSTEMI: RISK CATEGORY MANAGEMENT: Based on clinical features, GRACE score & TIMI score A)Low risk: A).Very high risk: 1.Conservative management: Aspirin, clopidogrel, BB -Acute LVF and statin -Hypotension 2. CT coronary angiography/TMT within a week to risk -Uncontrolled Ventricular arrhythmia stratify -Severe MR 3.Refer low risk for re-vascularization if B. High Risk: -Recurrent pain -GRACE score > 140 or TIMI score >4 -Hemodynamic deterioration C. Intermediate Risk: -New ECG change -GRACE score 109-140 or TIMI score 2-3 D. Low Risk: B. Intermediate/ Very High/ High risk: -Grace score <108 or TIMI score 0-1 Re-vascularization: DRUGS & DOSAGE",
+            "bounding_box": [
+              0.06534645774147728,
+              1115.55810546875,
+              841.7422637939453,
+              1523.718017578125
+            ],
+            "extraction_type": "table",
+            "review_status": "extracted",
+            "requires_manual_review": false,
+            "review_notes": null,
+            "normalized_term": null
+          }
+        },
+        {
+          "row_id": "T6_R3",
+          "cells": {
+            "INVESTIGATIONS": "",
+            "Column_2": "",
+            "PCI-capable hospital High risk: same-day transfer Intermediate risk: transfer for PCI withing 72 h + Non-invasive Low risk: transfer if pursuing invasive Invasive evaluation ischaemic testing treatment UA/NSTEMI: RISK CATEGORIZATION: UA/NSTEMI: RISK CATEGORY MANAGEMENT: Based on clinical features, GRACE score & TIMI score A)Low risk: A).Very high risk: 1.Conservative management: Aspirin, clopidogrel, BB -Acute LVF and statin -Hypotension 2. CT coronary angiography/TMT within a week to risk -Uncontrolled Ventricular arrhythmia stratify -Severe MR 3.Refer low risk for re-vascularization if B. High Risk: -Recurrent pain -GRACE score > 140 or TIMI score >4 -Hemodynamic deterioration C. Intermediate Risk: -New ECG change -GRACE score 109-140 or TIMI score 2-3 D. Low Risk: B. Intermediate/ Very High/ High risk: -Grace score <108 or TIMI score 0-1 Re-vascularization": "Anti-platelets 1. Aspirin: Loading dose 325 mg followed by 75 mg OD 2. Clopidogrel: Loading dose 300 mg followed 75 mg OD 3. Prasugrel: Loading dose 60 mg followed by 10 mg OD 4. Ticagralor: Loading dose 180 mg followed by 90 mg BD Anti thrombotics: 1. Enoxaparin: 1 mg/Kg SC 12 hrly 2. Unfractionated heparin: Bolus of 60 U/Kg (maximum 5000 U) followed by 12 U/Kg hourly infusion to maintain APTT at 50-70 sec Ace-inhibitor Ramipril 2.5 -10 mg OD Enalapril 2.5-10 mg BD",
+            "Column_4": "Anti-ischemic: 1. Metoprolol: Short acting 25-100 mg BD Long acting 25 -100 mg OD 2. Nitrates: Isosorbide mono-nitare 20 to 60 mg in 2 devided dose Nitroglycerine sustained release 2.6 to 6.5 mg BD Nitroglycerine IV 5-25 mcg/min infusion Statins: High dose Atorvastatin 80 mg OD or Rosuvastatin 20-40 mg OD"
+          },
+          "source": {
+            "document_id": "ICMR-CARD-004",
+            "document_name": "NSTEMI",
+            "page_number": 1,
+            "section": "TABLE_6",
+            "source_text_reference": "PCI-capable hospital High risk: same-day transfer Intermediate risk: transfer for PCI withing 72 h + Non-invasive Low risk: transfer if pursuing invasive Invasive evaluation ischaemic testing treatment UA/NSTEMI: RISK CATEGORIZATION: UA/NSTEMI: RISK CATEGORY MANAGEMENT: Based on clinical features, GRACE score & TIMI score A)Low risk: A).Very high risk: 1.Conservative management: Aspirin, clopidogrel, BB -Acute LVF and statin -Hypotension 2. CT coronary angiography/TMT within a week to risk -Uncontrolled Ventricular arrhythmia stratify -Severe MR 3.Refer low risk for re-vascularization if B. High Risk: -Recurrent pain -GRACE score > 140 or TIMI score >4 -Hemodynamic deterioration C. Intermediate Risk: -New ECG change -GRACE score 109-140 or TIMI score 2-3 D. Low Risk: B. Intermediate/ Very High/ High risk: -Grace score <108 or TIMI score 0-1 Re-vascularization: Anti-platelets 1. Aspirin: Loading dose 325 mg followed by 75 mg OD 2. Clopidogrel: Loading dose 300 mg followed 75 mg OD 3. Prasugrel: Loading dose 60 mg followed by 10 mg OD 4. Ticagralor: Loading dose 180 mg followed by 90 mg BD Anti thrombotics: 1. Enoxaparin: 1 mg/Kg SC 12 hrly 2. Unfractionated heparin: Bolus of 60 U/Kg (maximum 5000 U) followed by 12 U/Kg hourly infusion to maintain APTT at 50-70 sec Ace-inhibitor Ramipril 2.5 -10 mg OD Enalapril 2.5-10 mg BD; Column_4: Anti-ischemic: 1. Metoprolol: Short acting 25-100 mg BD Long acting 25 -100 mg OD 2. Nitrates: Isosorbide mono-nitare 20 to 60 mg in 2 devided dose Nitroglycerine sustained release 2.6 to 6.5 mg BD Nitroglycerine IV 5-25 mcg/min infusion Statins: High dose Atorvastatin 80 mg OD or Rosuvastatin 20-40 mg OD",
+            "bounding_box": [
+              0.06534645774147728,
+              1115.55810546875,
+              841.7422637939453,
+              1523.718017578125
+            ],
+            "extraction_type": "table",
+            "review_status": "extracted",
+            "requires_manual_review": false,
+            "review_notes": null,
+            "normalized_term": null
+          }
+        },
+        {
+          "row_id": "T6_R4",
+          "cells": {
+            "INVESTIGATIONS": "",
+            "Column_2": "REFERENCES",
+            "PCI-capable hospital High risk: same-day transfer Intermediate risk: transfer for PCI withing 72 h + Non-invasive Low risk: transfer if pursuing invasive Invasive evaluation ischaemic testing treatment UA/NSTEMI: RISK CATEGORIZATION: UA/NSTEMI: RISK CATEGORY MANAGEMENT: Based on clinical features, GRACE score & TIMI score A)Low risk: A).Very high risk: 1.Conservative management: Aspirin, clopidogrel, BB -Acute LVF and statin -Hypotension 2. CT coronary angiography/TMT within a week to risk -Uncontrolled Ventricular arrhythmia stratify -Severe MR 3.Refer low risk for re-vascularization if B. High Risk: -Recurrent pain -GRACE score > 140 or TIMI score >4 -Hemodynamic deterioration C. Intermediate Risk: -New ECG change -GRACE score 109-140 or TIMI score 2-3 D. Low Risk: B. Intermediate/ Very High/ High risk: -Grace score <108 or TIMI score 0-1 Re-vascularization": "",
+            "Column_4": ""
+          },
+          "source": {
+            "document_id": "ICMR-CARD-004",
+            "document_name": "NSTEMI",
+            "page_number": 1,
+            "section": "TABLE_6",
+            "source_text_reference": "Column_2: REFERENCES",
+            "bounding_box": [
+              0.06534645774147728,
+              1115.55810546875,
+              841.7422637939453,
+              1523.718017578125
+            ],
+            "extraction_type": "table",
+            "review_status": "needs_review",
+            "requires_manual_review": true,
+            "review_notes": "Sparse row with potential merged columns",
+            "normalized_term": null
+          }
+        }
+      ],
+      "source": {
+        "document_id": "ICMR-CARD-004",
+        "document_name": "NSTEMI",
+        "page_number": 1,
+        "section": "TABLE_6",
+        "source_text_reference": "INVESTIGATIONS: ESSENTIAL INVESTIGATIONS 1. Hemogram 2. Creatinine 3. Sugar, HbA1C 4. Fasting lipids 6. ECG 7. Troponin T/ Troponin I 8. Plain X-ray chest 9. Echocardiography\nINVESTIGATIONS: OPTIONAL INVESTIGATIONS 1. Coronary Angiography 2. CT scan including coronary angiography 3. Stress Radionuclide/ echocardiographic imaging 4. MRI 5. Coronary Fractional Flow Reserve 5. Intra-vascular Ultrasound; PCI-capable hospital High risk: same-day transfer Intermediate risk: transfer for PCI withing 72",
+        "bounding_box": [
+          0.06534645774147728,
+          1115.55810546875,
+          841.7422637939453,
+          1523.718017578125
+        ],
+        "extraction_type": "table",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    }
+  ],
+  "references": [
+    {
+      "reference_id": "REF_P1_01",
+      "citation_text": "Byrne RA et al. 2023ESC guidelines for the management of acute coronary syndrome. European Heart J (2024) 44, 3720-3826",
+      "doi_or_url": null,
+      "source": {
+        "document_id": "ICMR-CARD-004",
+        "document_name": "NSTEMI",
+        "page_number": 1,
+        "section": "REFERENCES",
+        "source_text_reference": "Byrne RA et al. 2023ESC guidelines for the management of acute coronary syndrome. European Heart J (2024) 44, 3720-3826",
+        "bounding_box": [
+          37.36029815673828,
+          1525.7618408203125,
+          708.8409423828125,
+          1540.1168212890625
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "reference_id": "REF_P1_02",
+      "citation_text": "Rao SV et al. 2025 ACC/AHA/ACEP/NAEMSP/SCAI guidelines for the management of acute coronary syndrome. J Am Coll Cardiol(2025) 85, 2135-2237",
+      "doi_or_url": null,
+      "source": {
+        "document_id": "ICMR-CARD-004",
+        "document_name": "NSTEMI",
+        "page_number": 1,
+        "section": "REFERENCES",
+        "source_text_reference": "Rao SV et al. 2025 ACC/AHA/ACEP/NAEMSP/SCAI guidelines for the management of acute coronary syndrome. J Am Coll Cardiol(2025) 85, 2135-2237",
+        "bounding_box": [
+          37.36029815673828,
+          1541.766845703125,
+          829.1036987304688,
+          1556.121826171875
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    }
+  ],
+  "abbreviations": {
+    "STW": "Standard Treatment Workflow",
+    "ICMR": "Indian Council of Medical Research",
+    "DHR": "Department of Health Research",
+    "MoHFW": "Ministry of Health and Family Welfare",
+    "ECG": "Electrocardiogram",
+    "PCI": "Percutaneous Coronary Intervention",
+    "PHC": "Primary Health Centre",
+    "CHC": "Community Health Centre",
+    "ICU": "Intensive Care Unit"
+  }
+}

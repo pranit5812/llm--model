@@ -1,0 +1,54 @@
+project:
+  name: "ICMR Standard Treatment Workflow AI"
+  phase: "Phase 1 - Provenance, Discovery, and Integrity"
+  source_organization: "Indian Council of Medical Research (ICMR)"
+
+source:
+  base_url: "https://www.icmr.gov.in"
+  workflows_url: "https://www.icmr.gov.in/standard-treatment-workflows-stws"
+  allowed_domains:
+    - "icmr.gov.in"
+    - "www.icmr.gov.in"
+    - "main.icmr.nic.in"
+
+paths:
+  raw_dir: "data/raw"
+  cardiology_raw_dir: "data/raw/cardiology"
+  processed_dir: "data/processed"
+  metadata_dir: "data/metadata"
+  catalog_file: "data/metadata/stw_catalog.csv"
+  discovered_file: "data/metadata/discovered_stws.json"
+
+network:
+  user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) ICMR-STW-AI-Ingestion/1.0"
+  timeout_seconds: 30
+  max_retries: 3
+  backoff_factor: 1.5
+
+pilot:
+  specialty: "Cardiology"
+  volume: "Volume 1"
+  accordion_id: "eleven"
+  id_prefix: "ICMR-CARD"
+  approved_conditions:
+    - condition: "Atrial Fibrillation"
+      stw_id: "ICMR-CARD-001"
+      document_type: "individual_stw"
+    - condition: "Bradyarrhythmias"
+      stw_id: "ICMR-CARD-002"
+      document_type: "individual_stw"
+    - condition: "Heart Failure"
+      stw_id: "ICMR-CARD-003"
+      document_type: "individual_stw"
+    - condition: "NSTEMI"
+      stw_id: "ICMR-CARD-004"
+      document_type: "individual_stw"
+    - condition: "Stable Angina"
+      stw_id: "ICMR-CARD-005"
+      document_type: "individual_stw"
+    - condition: "STEMI"
+      stw_id: "ICMR-CARD-006"
+      document_type: "individual_stw"
+    - condition: "Cardiology (All)"
+      stw_id: "ICMR-CARD-007"
+      document_type: "consolidated_stw"

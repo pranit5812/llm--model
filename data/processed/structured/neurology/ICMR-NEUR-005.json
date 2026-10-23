@@ -1,0 +1,1286 @@
+{
+  "metadata": {
+    "document_id": "ICMR-NEUR-005",
+    "title": "Neuro-infections",
+    "specialty": "Neurology",
+    "condition": "Neuro-infections",
+    "icd_11_code": null,
+    "volume": "Volume 1",
+    "edition": "1.0",
+    "source_organization": "Indian Council of Medical Research (ICMR)",
+    "source_url": "https://www.icmr.gov.in/icmrobject/uploads/STWs/1725952343_neurology_neuroinfections.pdf",
+    "local_path": "data\\raw\\neurology\\1725952343_neurology_neuroinfections.pdf",
+    "total_pages": 1,
+    "document_hash": "e68e49918d96aa3e6397fdf6d7ade65feee86a67f87b6172a86090d45bb0e3c0"
+  },
+  "clinical_presentation": null,
+  "diagnostic_criteria": [],
+  "investigations": [
+    {
+      "investigation_id": "INV_P1_01",
+      "name": "Correct hypoglycemia (blood sugar 50 mg/dl) with IV 100ml of 25% dextrose solution",
+      "tier": "BASIC",
+      "modality": "Laboratory / Diagnostic Imaging",
+      "indication": "Workup for Neuro-infections",
+      "target_findings": null,
+      "source": {
+        "document_id": "ICMR-NEUR-005",
+        "document_name": "Neuro-infections",
+        "page_number": 1,
+        "section": "ESSENTIAL",
+        "source_text_reference": "Correct hypoglycemia (blood sugar 50 mg/dl) with IV 100ml of 25% dextrose solution",
+        "bounding_box": [
+          20.00979995727539,
+          713.0469360351562,
+          504.8899230957031,
+          726.4669189453125
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "investigation_id": "INV_P1_02",
+      "name": "Establish IV access-urgent blood for hemogram/sugar/electrolytes/malaria testing-peripheral smear/rapid",
+      "tier": "BASIC",
+      "modality": "Laboratory / Diagnostic Imaging",
+      "indication": "Workup for Neuro-infections",
+      "target_findings": null,
+      "source": {
+        "document_id": "ICMR-NEUR-005",
+        "document_name": "Neuro-infections",
+        "page_number": 1,
+        "section": "ESSENTIAL",
+        "source_text_reference": "Establish IV access-urgent blood for hemogram/sugar/electrolytes/malaria testing-peripheral smear/rapid",
+        "bounding_box": [
+          21.12350082397461,
+          663.5576782226562,
+          627.4215698242188,
+          676.9776611328125
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    }
+  ],
+  "tier_management": [],
+  "medications": [],
+  "contraindications": [
+    {
+      "contraindication_id": "CI_P1_01",
+      "type": "RELATIVE",
+      "condition_description": "Rule out circulatory shock, ongoing convulsions and hyperthermia/hyperpyrexia(core temperature > 40.5°C",
+      "intervention_affected": "Thrombolytic Therapy / Pharmacotherapy",
+      "timeframe": null,
+      "source": {
+        "document_id": "ICMR-NEUR-005",
+        "document_name": "Neuro-infections",
+        "page_number": 1,
+        "section": "Rule out circulatory shock, ongoing convulsions and hyperthermia/hyperpyrexia(core temperature > 40.5°C",
+        "source_text_reference": "Rule out circulatory shock, ongoing convulsions and hyperthermia/hyperpyrexia(core temperature > 40.5°C",
+        "bounding_box": [
+          21.11520004272461,
+          618.0523681640625,
+          633.209228515625,
+          631.4723510742188
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "contraindication_id": "CI_P1_02",
+      "type": "RELATIVE",
+      "condition_description": "or hypothermia(< 36.5°C)",
+      "intervention_affected": "Thrombolytic Therapy / Pharmacotherapy",
+      "timeframe": null,
+      "source": {
+        "document_id": "ICMR-NEUR-005",
+        "document_name": "Neuro-infections",
+        "page_number": 1,
+        "section": "Rule out circulatory shock, ongoing convulsions and hyperthermia/hyperpyrexia(core temperature > 40.5°C",
+        "source_text_reference": "or hypothermia(< 36.5°C)",
+        "bounding_box": [
+          21.11520004272461,
+          633.056396484375,
+          161.0791778564453,
+          646.4763793945312
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "contraindication_id": "CI_P1_03",
+      "type": "RELATIVE",
+      "condition_description": "Check Airway/Breathing/Circulation",
+      "intervention_affected": "Thrombolytic Therapy / Pharmacotherapy",
+      "timeframe": null,
+      "source": {
+        "document_id": "ICMR-NEUR-005",
+        "document_name": "Neuro-infections",
+        "page_number": 1,
+        "section": "Rule out circulatory shock, ongoing convulsions and hyperthermia/hyperpyrexia(core temperature > 40.5°C",
+        "source_text_reference": "Check Airway/Breathing/Circulation",
+        "bounding_box": [
+          15.940400123596191,
+          585.4585571289062,
+          224.1912841796875,
+          598.8785400390625
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "contraindication_id": "CI_P1_04",
+      "type": "RELATIVE",
+      "condition_description": "Empirical antibiotic (within 30 minutes of arrival)",
+      "intervention_affected": "Thrombolytic Therapy / Pharmacotherapy",
+      "timeframe": null,
+      "source": {
+        "document_id": "ICMR-NEUR-005",
+        "document_name": "Neuro-infections",
+        "page_number": 1,
+        "section": "Rule out circulatory shock, ongoing convulsions and hyperthermia/hyperpyrexia(core temperature > 40.5°C",
+        "source_text_reference": "Empirical antibiotic (within 30 minutes of arrival)",
+        "bounding_box": [
+          24.10300064086914,
+          1277.890869140625,
+          322.8421630859375,
+          1292.6529541015625
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "contraindication_id": "CI_P1_05",
+      "type": "RELATIVE",
+      "condition_description": "If suspecting pyogenic meningitis-Inj Ceftriaxone 2 g+ Inj",
+      "intervention_affected": "Thrombolytic Therapy / Pharmacotherapy",
+      "timeframe": null,
+      "source": {
+        "document_id": "ICMR-NEUR-005",
+        "document_name": "Neuro-infections",
+        "page_number": 1,
+        "section": "Rule out circulatory shock, ongoing convulsions and hyperthermia/hyperpyrexia(core temperature > 40.5°C",
+        "source_text_reference": "• If suspecting pyogenic meningitis-Inj Ceftriaxone 2 g+ Inj",
+        "bounding_box": [
+          17.10700035095215,
+          1294.0718994140625,
+          350.6160888671875,
+          1307.491943359375
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "contraindication_id": "CI_P1_06",
+      "type": "RELATIVE",
+      "condition_description": "Vancomycin 500 mg+ Inj Ampicillin 2 g if older than 50 years or",
+      "intervention_affected": "Thrombolytic Therapy / Pharmacotherapy",
+      "timeframe": null,
+      "source": {
+        "document_id": "ICMR-NEUR-005",
+        "document_name": "Neuro-infections",
+        "page_number": 1,
+        "section": "Rule out circulatory shock, ongoing convulsions and hyperthermia/hyperpyrexia(core temperature > 40.5°C",
+        "source_text_reference": "Vancomycin 500 mg+ Inj Ampicillin 2 g if older than 50 years or",
+        "bounding_box": [
+          24.10300064086914,
+          1309.075927734375,
+          388.8631896972656,
+          1322.4959716796875
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "contraindication_id": "CI_P1_07",
+      "type": "RELATIVE",
+      "condition_description": "immunocompromised+ Inj Dexamethasone 8 mg IV",
+      "intervention_affected": "Thrombolytic Therapy / Pharmacotherapy",
+      "timeframe": null,
+      "source": {
+        "document_id": "ICMR-NEUR-005",
+        "document_name": "Neuro-infections",
+        "page_number": 1,
+        "section": "Rule out circulatory shock, ongoing convulsions and hyperthermia/hyperpyrexia(core temperature > 40.5°C",
+        "source_text_reference": "immunocompromised+ Inj Dexamethasone 8 mg IV",
+        "bounding_box": [
+          24.10300064086914,
+          1324.0799560546875,
+          318.7930603027344,
+          1337.5
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "contraindication_id": "CI_P1_08",
+      "type": "RELATIVE",
+      "condition_description": "Continue empirical treatment till culture yields causative",
+      "intervention_affected": "Thrombolytic Therapy / Pharmacotherapy",
+      "timeframe": null,
+      "source": {
+        "document_id": "ICMR-NEUR-005",
+        "document_name": "Neuro-infections",
+        "page_number": 1,
+        "section": "Rule out circulatory shock, ongoing convulsions and hyperthermia/hyperpyrexia(core temperature > 40.5°C",
+        "source_text_reference": "• Continue empirical treatment till culture yields causative",
+        "bounding_box": [
+          17.10700035095215,
+          1339.0838623046875,
+          352.55316162109375,
+          1352.50390625
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "contraindication_id": "CI_P1_09",
+      "type": "RELATIVE",
+      "condition_description": "organism,then tailor treatment as per sensitivity reports for 10-14",
+      "intervention_affected": "Thrombolytic Therapy / Pharmacotherapy",
+      "timeframe": null,
+      "source": {
+        "document_id": "ICMR-NEUR-005",
+        "document_name": "Neuro-infections",
+        "page_number": 1,
+        "section": "Rule out circulatory shock, ongoing convulsions and hyperthermia/hyperpyrexia(core temperature > 40.5°C",
+        "source_text_reference": "organism,then tailor treatment as per sensitivity reports for 10-14",
+        "bounding_box": [
+          24.10300064086914,
+          1354.087890625,
+          396.8930969238281,
+          1367.5079345703125
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "contraindication_id": "CI_P1_10",
+      "type": "RELATIVE",
+      "condition_description": "days.",
+      "intervention_affected": "Thrombolytic Therapy / Pharmacotherapy",
+      "timeframe": null,
+      "source": {
+        "document_id": "ICMR-NEUR-005",
+        "document_name": "Neuro-infections",
+        "page_number": 1,
+        "section": "Rule out circulatory shock, ongoing convulsions and hyperthermia/hyperpyrexia(core temperature > 40.5°C",
+        "source_text_reference": "days.",
+        "bounding_box": [
+          24.10300064086914,
+          1369.0919189453125,
+          52.329002380371094,
+          1382.511962890625
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "contraindication_id": "CI_P1_11",
+      "type": "RELATIVE",
+      "condition_description": "Steroids to be stopped after 48 hours,unless any other compelling",
+      "intervention_affected": "Thrombolytic Therapy / Pharmacotherapy",
+      "timeframe": null,
+      "source": {
+        "document_id": "ICMR-NEUR-005",
+        "document_name": "Neuro-infections",
+        "page_number": 1,
+        "section": "Rule out circulatory shock, ongoing convulsions and hyperthermia/hyperpyrexia(core temperature > 40.5°C",
+        "source_text_reference": "• Steroids to be stopped after 48 hours,unless any other compelling",
+        "bounding_box": [
+          17.10700035095215,
+          1384.0958251953125,
+          403.1300354003906,
+          1397.515869140625
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "contraindication_id": "CI_P1_12",
+      "type": "RELATIVE",
+      "condition_description": "indications-adrenal insufﬁciency/TBM",
+      "intervention_affected": "Thrombolytic Therapy / Pharmacotherapy",
+      "timeframe": null,
+      "source": {
+        "document_id": "ICMR-NEUR-005",
+        "document_name": "Neuro-infections",
+        "page_number": 1,
+        "section": "Rule out circulatory shock, ongoing convulsions and hyperthermia/hyperpyrexia(core temperature > 40.5°C",
+        "source_text_reference": "indications-adrenal insufﬁciency/TBM",
+        "bounding_box": [
+          24.10300064086914,
+          1399.099853515625,
+          242.44308471679688,
+          1412.5198974609375
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "contraindication_id": "CI_P1_13",
+      "type": "RELATIVE",
+      "condition_description": "Viral-Herpes",
+      "intervention_affected": "Thrombolytic Therapy / Pharmacotherapy",
+      "timeframe": null,
+      "source": {
+        "document_id": "ICMR-NEUR-005",
+        "document_name": "Neuro-infections",
+        "page_number": 1,
+        "section": "Rule out circulatory shock, ongoing convulsions and hyperthermia/hyperpyrexia(core temperature > 40.5°C",
+        "source_text_reference": "Viral-Herpes",
+        "bounding_box": [
+          424.5898132324219,
+          1277.927001953125,
+          502.0979919433594,
+          1292.6890869140625
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "contraindication_id": "CI_P1_14",
+      "type": "RELATIVE",
+      "condition_description": "simplex/Zoster",
+      "intervention_affected": "Thrombolytic Therapy / Pharmacotherapy",
+      "timeframe": null,
+      "source": {
+        "document_id": "ICMR-NEUR-005",
+        "document_name": "Neuro-infections",
+        "page_number": 1,
+        "section": "Rule out circulatory shock, ongoing convulsions and hyperthermia/hyperpyrexia(core temperature > 40.5°C",
+        "source_text_reference": "simplex/Zoster",
+        "bounding_box": [
+          424.5898132324219,
+          1292.9310302734375,
+          514.1298217773438,
+          1307.693115234375
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "contraindication_id": "CI_P1_15",
+      "type": "RELATIVE",
+      "condition_description": "Inj Acyclovir",
+      "intervention_affected": "Thrombolytic Therapy / Pharmacotherapy",
+      "timeframe": null,
+      "source": {
+        "document_id": "ICMR-NEUR-005",
+        "document_name": "Neuro-infections",
+        "page_number": 1,
+        "section": "Rule out circulatory shock, ongoing convulsions and hyperthermia/hyperpyrexia(core temperature > 40.5°C",
+        "source_text_reference": "• Inj Acyclovir",
+        "bounding_box": [
+          417.59381103515625,
+          1324.10498046875,
+          496.08978271484375,
+          1337.5250244140625
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "contraindication_id": "CI_P1_16",
+      "type": "RELATIVE",
+      "condition_description": "00 mg IV",
+      "intervention_affected": "Thrombolytic Therapy / Pharmacotherapy",
+      "timeframe": null,
+      "source": {
+        "document_id": "ICMR-NEUR-005",
+        "document_name": "Neuro-infections",
+        "page_number": 1,
+        "section": "Rule out circulatory shock, ongoing convulsions and hyperthermia/hyperpyrexia(core temperature > 40.5°C",
+        "source_text_reference": "500 mg IV",
+        "bounding_box": [
+          424.5898132324219,
+          1339.1090087890625,
+          483.4398498535156,
+          1352.529052734375
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "contraindication_id": "CI_P1_17",
+      "type": "RELATIVE",
+      "condition_description": "hourly for",
+      "intervention_affected": "Thrombolytic Therapy / Pharmacotherapy",
+      "timeframe": null,
+      "source": {
+        "document_id": "ICMR-NEUR-005",
+        "document_name": "Neuro-infections",
+        "page_number": 1,
+        "section": "Rule out circulatory shock, ongoing convulsions and hyperthermia/hyperpyrexia(core temperature > 40.5°C",
+        "source_text_reference": "8 hourly for",
+        "bounding_box": [
+          417.59381103515625,
+          1354.113037109375,
+          492.2288818359375,
+          1367.5330810546875
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "contraindication_id": "CI_P1_18",
+      "type": "RELATIVE",
+      "condition_description": "0 days",
+      "intervention_affected": "Thrombolytic Therapy / Pharmacotherapy",
+      "timeframe": null,
+      "source": {
+        "document_id": "ICMR-NEUR-005",
+        "document_name": "Neuro-infections",
+        "page_number": 1,
+        "section": "Rule out circulatory shock, ongoing convulsions and hyperthermia/hyperpyrexia(core temperature > 40.5°C",
+        "source_text_reference": "10 days",
+        "bounding_box": [
+          417.59381103515625,
+          1369.1170654296875,
+          464.8938903808594,
+          1382.537109375
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "contraindication_id": "CI_P1_19",
+      "type": "RELATIVE",
+      "condition_description": "Cerebral malaria",
+      "intervention_affected": "Thrombolytic Therapy / Pharmacotherapy",
+      "timeframe": null,
+      "source": {
+        "document_id": "ICMR-NEUR-005",
+        "document_name": "Neuro-infections",
+        "page_number": 1,
+        "section": "Rule out circulatory shock, ongoing convulsions and hyperthermia/hyperpyrexia(core temperature > 40.5°C",
+        "source_text_reference": "Cerebral malaria",
+        "bounding_box": [
+          518.5,
+          1276.8919677734375,
+          624.464111328125,
+          1291.654052734375
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "contraindication_id": "CI_P1_20",
+      "type": "RELATIVE",
+      "condition_description": "Inj Artesunate 2.4 mg/kg IM or IV 3 doses",
+      "intervention_affected": "Thrombolytic Therapy / Pharmacotherapy",
+      "timeframe": null,
+      "source": {
+        "document_id": "ICMR-NEUR-005",
+        "document_name": "Neuro-infections",
+        "page_number": 1,
+        "section": "Rule out circulatory shock, ongoing convulsions and hyperthermia/hyperpyrexia(core temperature > 40.5°C",
+        "source_text_reference": "Inj Artesunate 2.4 mg/kg IM or IV 3 doses",
+        "bounding_box": [
+          518.5,
+          1293.0728759765625,
+          759.2677612304688,
+          1306.492919921875
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "contraindication_id": "CI_P1_21",
+      "type": "RELATIVE",
+      "condition_description": "2 hours apart and then OD /",
+      "intervention_affected": "Thrombolytic Therapy / Pharmacotherapy",
+      "timeframe": null,
+      "source": {
+        "document_id": "ICMR-NEUR-005",
+        "document_name": "Neuro-infections",
+        "page_number": 1,
+        "section": "Rule out circulatory shock, ongoing convulsions and hyperthermia/hyperpyrexia(core temperature > 40.5°C",
+        "source_text_reference": "12 hours apart and then OD /",
+        "bounding_box": [
+          518.5,
+          1308.076904296875,
+          687.9217529296875,
+          1321.4969482421875
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "contraindication_id": "CI_P1_22",
+      "type": "RELATIVE",
+      "condition_description": "Inj Quinine 20 mg/kg IV stat followed by 10mg/kg",
+      "intervention_affected": "Thrombolytic Therapy / Pharmacotherapy",
+      "timeframe": null,
+      "source": {
+        "document_id": "ICMR-NEUR-005",
+        "document_name": "Neuro-infections",
+        "page_number": 1,
+        "section": "Rule out circulatory shock, ongoing convulsions and hyperthermia/hyperpyrexia(core temperature > 40.5°C",
+        "source_text_reference": "Inj Quinine 20 mg/kg IV stat followed by 10mg/kg",
+        "bounding_box": [
+          518.5,
+          1323.0809326171875,
+          809.49267578125,
+          1336.5009765625
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "contraindication_id": "CI_P1_23",
+      "type": "RELATIVE",
+      "condition_description": "TDS till patient can take orally,then",
+      "intervention_affected": "Thrombolytic Therapy / Pharmacotherapy",
+      "timeframe": null,
+      "source": {
+        "document_id": "ICMR-NEUR-005",
+        "document_name": "Neuro-infections",
+        "page_number": 1,
+        "section": "Rule out circulatory shock, ongoing convulsions and hyperthermia/hyperpyrexia(core temperature > 40.5°C",
+        "source_text_reference": "TDS till patient can take orally,then",
+        "bounding_box": [
+          525.4959716796875,
+          1338.0848388671875,
+          729.3600463867188,
+          1351.5048828125
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "contraindication_id": "CI_P1_24",
+      "type": "RELATIVE",
+      "condition_description": "oral Artesunate+Pyrimethamine /Sulphadoxine for",
+      "intervention_affected": "Thrombolytic Therapy / Pharmacotherapy",
+      "timeframe": null,
+      "source": {
+        "document_id": "ICMR-NEUR-005",
+        "document_name": "Neuro-infections",
+        "page_number": 1,
+        "section": "Rule out circulatory shock, ongoing convulsions and hyperthermia/hyperpyrexia(core temperature > 40.5°C",
+        "source_text_reference": "oral Artesunate+Pyrimethamine /Sulphadoxine for",
+        "bounding_box": [
+          518.5,
+          1353.0888671875,
+          814.8948974609375,
+          1366.5089111328125
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "contraindication_id": "CI_P1_25",
+      "type": "RELATIVE",
+      "condition_description": "days OR oral Quinine 10 mg/kg TDS  for total 7",
+      "intervention_affected": "Thrombolytic Therapy / Pharmacotherapy",
+      "timeframe": null,
+      "source": {
+        "document_id": "ICMR-NEUR-005",
+        "document_name": "Neuro-infections",
+        "page_number": 1,
+        "section": "Rule out circulatory shock, ongoing convulsions and hyperthermia/hyperpyrexia(core temperature > 40.5°C",
+        "source_text_reference": "3 days OR oral Quinine 10 mg/kg TDS  for total 7",
+        "bounding_box": [
+          525.4959716796875,
+          1368.0928955078125,
+          800.1547241210938,
+          1381.512939453125
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "contraindication_id": "CI_P1_26",
+      "type": "RELATIVE",
+      "condition_description": "days + Doxycycline 3 mg/kg OD for 7 days.",
+      "intervention_affected": "Thrombolytic Therapy / Pharmacotherapy",
+      "timeframe": null,
+      "source": {
+        "document_id": "ICMR-NEUR-005",
+        "document_name": "Neuro-infections",
+        "page_number": 1,
+        "section": "Rule out circulatory shock, ongoing convulsions and hyperthermia/hyperpyrexia(core temperature > 40.5°C",
+        "source_text_reference": "days + Doxycycline 3 mg/kg OD for 7 days.",
+        "bounding_box": [
+          525.4959716796875,
+          1383.096923828125,
+          761.3798828125,
+          1396.5169677734375
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "contraindication_id": "CI_P1_27",
+      "type": "RELATIVE",
+      "condition_description": "If uncomplicated-back referral to Secondary care centre for completing treatment regimen/monitoring.",
+      "intervention_affected": "Thrombolytic Therapy / Pharmacotherapy",
+      "timeframe": null,
+      "source": {
+        "document_id": "ICMR-NEUR-005",
+        "document_name": "Neuro-infections",
+        "page_number": 1,
+        "section": "Rule out circulatory shock, ongoing convulsions and hyperthermia/hyperpyrexia(core temperature > 40.5°C",
+        "source_text_reference": "*If uncomplicated-back referral to Secondary care centre for completing treatment regimen/monitoring.",
+        "bounding_box": [
+          16.448974609375,
+          1474.9249267578125,
+          618.3252563476562,
+          1488.344970703125
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "contraindication_id": "CI_P1_28",
+      "type": "RELATIVE",
+      "condition_description": "Seizures/postictal state",
+      "intervention_affected": "Thrombolytic Therapy / Pharmacotherapy",
+      "timeframe": null,
+      "source": {
+        "document_id": "ICMR-NEUR-005",
+        "document_name": "Neuro-infections",
+        "page_number": 1,
+        "section": "Rule out circulatory shock, ongoing convulsions and hyperthermia/hyperpyrexia(core temperature > 40.5°C",
+        "source_text_reference": "Seizures/postictal state",
+        "bounding_box": [
+          610.90869140625,
+          445.77984619140625,
+          743.679931640625,
+          459.1998291015625
+        ],
+        "extraction_type": "text",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    }
+  ],
+  "referral_criteria": [],
+  "flowcharts": [],
+  "tables": [
+    {
+      "table_id": "TAB_P1_01",
+      "title": "Table 1 (Page 1)",
+      "headers": [
+        "DIFFERENTIAL DIAGNOSIS DIFFERENTIAL",
+        "Column_2"
+      ],
+      "rows": [
+        {
+          "row_id": "T1_R1",
+          "cells": {
+            "DIFFERENTIAL DIAGNOSIS DIFFERENTIAL": "DIAG Vascular-ischem stro",
+            "Column_2": "NOSIS ic/hemorrhagic ke"
+          },
+          "source": {
+            "document_id": "ICMR-NEUR-005",
+            "document_name": "Neuro-infections",
+            "page_number": 1,
+            "section": "TABLE_1",
+            "source_text_reference": "DIFFERENTIAL DIAGNOSIS DIFFERENTIAL: DIAG Vascular-ischem stro; Column_2: NOSIS ic/hemorrhagic ke",
+            "bounding_box": [
+              576.9439231140973,
+              215.1680908203125,
+              791.6793518066406,
+              514.885009765625
+            ],
+            "extraction_type": "table",
+            "review_status": "extracted",
+            "requires_manual_review": false,
+            "review_notes": null,
+            "normalized_term": null
+          }
+        },
+        {
+          "row_id": "T1_R3",
+          "cells": {
+            "DIFFERENTIAL DIAGNOSIS DIFFERENTIAL": "Infec viral/bacterial/f meningoencepha",
+            "Column_2": "tions ungal/protozoal lits/brain abscess"
+          },
+          "source": {
+            "document_id": "ICMR-NEUR-005",
+            "document_name": "Neuro-infections",
+            "page_number": 1,
+            "section": "TABLE_1",
+            "source_text_reference": "DIFFERENTIAL DIAGNOSIS DIFFERENTIAL: Infec viral/bacterial/f meningoencepha; Column_2: tions ungal/protozoal lits/brain abscess",
+            "bounding_box": [
+              576.9439231140973,
+              215.1680908203125,
+              791.6793518066406,
+              514.885009765625
+            ],
+            "extraction_type": "table",
+            "review_status": "extracted",
+            "requires_manual_review": false,
+            "review_notes": null,
+            "normalized_term": null
+          }
+        },
+        {
+          "row_id": "T1_R5",
+          "cells": {
+            "DIFFERENTIAL DIAGNOSIS DIFFERENTIAL": "Metabolic ence",
+            "Column_2": "phalopathies"
+          },
+          "source": {
+            "document_id": "ICMR-NEUR-005",
+            "document_name": "Neuro-infections",
+            "page_number": 1,
+            "section": "TABLE_1",
+            "source_text_reference": "DIFFERENTIAL DIAGNOSIS DIFFERENTIAL: Metabolic ence; Column_2: phalopathies",
+            "bounding_box": [
+              576.9439231140973,
+              215.1680908203125,
+              791.6793518066406,
+              514.885009765625
+            ],
+            "extraction_type": "table",
+            "review_status": "extracted",
+            "requires_manual_review": false,
+            "review_notes": null,
+            "normalized_term": null
+          }
+        },
+        {
+          "row_id": "T1_R7",
+          "cells": {
+            "DIFFERENTIAL DIAGNOSIS DIFFERENTIAL": "Seizures/pos",
+            "Column_2": "tictal state"
+          },
+          "source": {
+            "document_id": "ICMR-NEUR-005",
+            "document_name": "Neuro-infections",
+            "page_number": 1,
+            "section": "TABLE_1",
+            "source_text_reference": "DIFFERENTIAL DIAGNOSIS DIFFERENTIAL: Seizures/pos; Column_2: tictal state",
+            "bounding_box": [
+              576.9439231140973,
+              215.1680908203125,
+              791.6793518066406,
+              514.885009765625
+            ],
+            "extraction_type": "table",
+            "review_status": "extracted",
+            "requires_manual_review": false,
+            "review_notes": null,
+            "normalized_term": null
+          }
+        },
+        {
+          "row_id": "T1_R9",
+          "cells": {
+            "DIFFERENTIAL DIAGNOSIS DIFFERENTIAL": "Intoxications-drugs/toxins",
+            "Column_2": ""
+          },
+          "source": {
+            "document_id": "ICMR-NEUR-005",
+            "document_name": "Neuro-infections",
+            "page_number": 1,
+            "section": "TABLE_1",
+            "source_text_reference": "DIFFERENTIAL DIAGNOSIS DIFFERENTIAL: Intoxications-drugs/toxins",
+            "bounding_box": [
+              576.9439231140973,
+              215.1680908203125,
+              791.6793518066406,
+              514.885009765625
+            ],
+            "extraction_type": "table",
+            "review_status": "extracted",
+            "requires_manual_review": false,
+            "review_notes": null,
+            "normalized_term": null
+          }
+        }
+      ],
+      "source": {
+        "document_id": "ICMR-NEUR-005",
+        "document_name": "Neuro-infections",
+        "page_number": 1,
+        "section": "TABLE_1",
+        "source_text_reference": "DIFFERENTIAL DIAGNOSIS DIFFERENTIAL: DIAG Vascular-ischem stro; Column_2: NOSIS ic/hemorrhagic ke\nDIFFERENTIAL DIAGNOSIS DIFFERENTIAL: Infec viral/bacterial/f meningoencepha; Column_2: tions ungal/protozoal lits/brain abscess\nDIFFERENTIAL DIAGNOSIS DIFFERENTIAL: Metabolic ence; Column_2: phalopathies\nDIFFERENTIAL DIAGNOSIS DIFFERENTIAL: Seizures/pos; Column_2: tictal state\nDIFFERENTIAL DIAGNOSIS DIFFERENTIAL: Intoxications-drugs/toxins",
+        "bounding_box": [
+          576.9439231140973,
+          215.1680908203125,
+          791.6793518066406,
+          514.885009765625
+        ],
+        "extraction_type": "table",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    },
+    {
+      "table_id": "TAB_P1_02",
+      "title": "Table 2 (Page 1)",
+      "headers": [
+        "n AT PRIMARY CARE LEVEL",
+        "Column_2",
+        "Column_3"
+      ],
+      "rows": [
+        {
+          "row_id": "T2_R1",
+          "cells": {
+            "n AT PRIMARY CARE LEVEL": "i . g ESSENTIAL Check Airway/Breathing/Circulation r Rule out circulatory shock, ongoing convulsions and hyperthermia/hyperpyrexia(core temperature > 40.5°C or hypothermia(< 36.5°C) o Establish IV access-urgent blood for hemogram/sugar/electrolytes/malaria testing-peripheral smear/rapid antigen detection . Correct hypoglycemia (blood sugar 50 mg/dl) with IV 100ml of 25% dextrose solution r If seizing- IV/IM Lorazepam 0.1 mg/kg followed by loading with Phenytoin 20 mg/kg weight at a rate of 50 mg/minute When IV access not available-intra nasal or buccal Midazolam 0.2 mg/kg /intra rectal Diazepam 0.3-0.4 mg/kg Urgent referral to higher centres with intensive care facilities",
+            "Column_2": "",
+            "Column_3": "NOT RECOMMENDED • Stomach wash • Inj Mannitol • Inj Steroids CRITERIA FOR REFERRAL Altered sensorium/seizures /focal deficits/hemodyna mic instability –where imaging and ICU management are required."
+          },
+          "source": {
+            "document_id": "ICMR-NEUR-005",
+            "document_name": "Neuro-infections",
+            "page_number": 1,
+            "section": "TABLE_2",
+            "source_text_reference": "n AT PRIMARY CARE LEVEL: i . g ESSENTIAL Check Airway/Breathing/Circulation r Rule out circulatory shock, ongoing convulsions and hyperthermia/hyperpyrexia(core temperature > 40.5°C or hypothermia(< 36.5°C) o Establish IV access-urgent blood for hemogram/sugar/electrolytes/malaria testing-peripheral smear/rapid antigen detection . Correct hypoglycemia (blood sugar 50 mg/dl) with IV 100ml of 25% dextrose solution r If seizing- IV/IM Lorazepam 0.1 mg/kg followed by loading with Phenytoin 20 mg/kg weight at a rate of 50 mg/minute When IV access not available-intra nasal or buccal Midazolam 0.2 mg/kg /intra rectal Diazepam 0.3-0.4 mg/kg Urgent referral to higher centres with intensive care facilities; Column_3: NOT RECOMMENDED • Stomach wash • Inj Mannitol • Inj Steroids CRITERIA FOR REFERRAL Altered sensorium/seizures /focal deficits/hemodyna mic instability –where imaging and ICU management are required.",
+            "bounding_box": [
+              0.4601767621934414,
+              521.926025390625,
+              841.889762878418,
+              1582.4130859375
+            ],
+            "extraction_type": "table",
+            "review_status": "extracted",
+            "requires_manual_review": false,
+            "review_notes": null,
+            "normalized_term": null
+          }
+        },
+        {
+          "row_id": "T2_R2",
+          "cells": {
+            "n AT PRIMARY CARE LEVEL": "m",
+            "Column_2": "",
+            "Column_3": ""
+          },
+          "source": {
+            "document_id": "ICMR-NEUR-005",
+            "document_name": "Neuro-infections",
+            "page_number": 1,
+            "section": "TABLE_2",
+            "source_text_reference": "n AT PRIMARY CARE LEVEL: m",
+            "bounding_box": [
+              0.4601767621934414,
+              521.926025390625,
+              841.889762878418,
+              1582.4130859375
+            ],
+            "extraction_type": "table",
+            "review_status": "needs_review",
+            "requires_manual_review": true,
+            "review_notes": "Sparse row with potential merged columns",
+            "normalized_term": null
+          }
+        },
+        {
+          "row_id": "T2_R3",
+          "cells": {
+            "n AT PRIMARY CARE LEVEL": "AT SECONDARY CARE LEVEL( TALUK, DISTRICT) HEADQUARTERS HOSPITAL",
+            "Column_2": "",
+            "Column_3": ""
+          },
+          "source": {
+            "document_id": "ICMR-NEUR-005",
+            "document_name": "Neuro-infections",
+            "page_number": 1,
+            "section": "TABLE_2",
+            "source_text_reference": "n AT PRIMARY CARE LEVEL: AT SECONDARY CARE LEVEL( TALUK, DISTRICT) HEADQUARTERS HOSPITAL",
+            "bounding_box": [
+              0.4601767621934414,
+              521.926025390625,
+              841.889762878418,
+              1582.4130859375
+            ],
+            "extraction_type": "table",
+            "review_status": "needs_review",
+            "requires_manual_review": true,
+            "review_notes": "Sparse row with potential merged columns",
+            "normalized_term": null
+          }
+        },
+        {
+          "row_id": "T2_R4",
+          "cells": {
+            "n AT PRIMARY CARE LEVEL": "c ESSENTIAL In addition to all the steps given above : i • Neu Establish and maintain airway: Intubate if GCS<8, impaired airway reflexes, abnormal hem . respiratory pattern, signs of raised ICP, oxygen saturation <92% despite high flow oxygen, • Blo and fluid refractory shock • Firs w me Inj Thiamine 100 mg IV 500 Add Stomach wash/activated charcoal administration-if history or suspicion of drug overdose/ im non corrosive poison intake t Dex • Fun Start treatment for cerebral malaria-first dose of IV Artesunate 2.4 mg/kg OR me Quinine 20 mg/kg bolus ma • Urg Emergency CT/referral to centre with 24 hour CT facilities car",
+            "Column_2": "DESIRABLE roimaging-CT with contrast -to rule out orrhage/infarcts/focal edema or lesions od cultures aerobic/anaerobic t dose of empirical treatment of pyogenic ningitis-Inj Ceftriaxone 2 g + Inj Vancomycin mg. Inj Ampicillin 2 g if older than 50 years / munocompromised along with Inj amethasone 8 mg dus examination,CSF study to rule out ningoencephalitis-if imaging rules out any ss lesions/herniations. ent referral to higher centres with Intensive e facilities",
+            "Column_3": ""
+          },
+          "source": {
+            "document_id": "ICMR-NEUR-005",
+            "document_name": "Neuro-infections",
+            "page_number": 1,
+            "section": "TABLE_2",
+            "source_text_reference": "n AT PRIMARY CARE LEVEL: c ESSENTIAL In addition to all the steps given above : i • Neu Establish and maintain airway: Intubate if GCS<8, impaired airway reflexes, abnormal hem . respiratory pattern, signs of raised ICP, oxygen saturation <92% despite high flow oxygen, • Blo and fluid refractory shock • Firs w me Inj Thiamine 100 mg IV 500 Add Stomach wash/activated charcoal administration-if history or suspicion of drug overdose/ im non corrosive poison intake t Dex • Fun Start treatment for cerebral malaria-first dose of IV Artesunate 2.4 mg/kg OR me Quinine 20 mg/kg bolus ma • Urg Emergency CT/referral to centre with 24 hour CT facilities car; Column_2: DESIRABLE roimaging-CT with contrast -to rule out orrhage/infarcts/focal edema or lesions od cultures aerobic/anaerobic t dose of empirical treatment of pyogenic ningitis-Inj Ceftriaxone 2 g + Inj Vancomycin mg. Inj Ampicillin 2 g if older than 50 years / munocompromised along with Inj amethasone 8 mg dus examination,CSF study to rule out ningoencephalitis-if imaging rules out any ss lesions/herniations. ent referral to higher centres with Intensive e facilities",
+            "bounding_box": [
+              0.4601767621934414,
+              521.926025390625,
+              841.889762878418,
+              1582.4130859375
+            ],
+            "extraction_type": "table",
+            "review_status": "extracted",
+            "requires_manual_review": false,
+            "review_notes": null,
+            "normalized_term": null
+          }
+        },
+        {
+          "row_id": "T2_R5",
+          "cells": {
+            "n AT PRIMARY CARE LEVEL": "s CRITERIA FOR REFERRAL • Altered sensorium/seizures/focal deficits/hemodynamic instability –where imaging and ICU management are required. • If no definite diagnosis achieved after preliminary investigations",
+            "Column_2": "",
+            "Column_3": ""
+          },
+          "source": {
+            "document_id": "ICMR-NEUR-005",
+            "document_name": "Neuro-infections",
+            "page_number": 1,
+            "section": "TABLE_2",
+            "source_text_reference": "n AT PRIMARY CARE LEVEL: s CRITERIA FOR REFERRAL • Altered sensorium/seizures/focal deficits/hemodynamic instability –where imaging and ICU management are required. • If no definite diagnosis achieved after preliminary investigations",
+            "bounding_box": [
+              0.4601767621934414,
+              521.926025390625,
+              841.889762878418,
+              1582.4130859375
+            ],
+            "extraction_type": "table",
+            "review_status": "needs_review",
+            "requires_manual_review": true,
+            "review_notes": "Sparse row with potential merged columns",
+            "normalized_term": null
+          }
+        },
+        {
+          "row_id": "T2_R6",
+          "cells": {
+            "n AT PRIMARY CARE LEVEL": "AT TERTIARY CARE HOSPITALS-SELECTED DISTRICT HOSPITALS/MEDICAL COLLEGES",
+            "Column_2": "",
+            "Column_3": ""
+          },
+          "source": {
+            "document_id": "ICMR-NEUR-005",
+            "document_name": "Neuro-infections",
+            "page_number": 1,
+            "section": "TABLE_2",
+            "source_text_reference": "n AT PRIMARY CARE LEVEL: AT TERTIARY CARE HOSPITALS-SELECTED DISTRICT HOSPITALS/MEDICAL COLLEGES",
+            "bounding_box": [
+              0.4601767621934414,
+              521.926025390625,
+              841.889762878418,
+              1582.4130859375
+            ],
+            "extraction_type": "table",
+            "review_status": "needs_review",
+            "requires_manual_review": true,
+            "review_notes": "Sparse row with potential merged columns",
+            "normalized_term": null
+          }
+        },
+        {
+          "row_id": "T2_R7",
+          "cells": {
+            "n AT PRIMARY CARE LEVEL": "• Neuroimaging-MRI/CT with contrast to rule out abscess/herniations. If abscess-emergency neurosurgical consultation for favour of aspiration –open/stereotactic • Blood cultures-aerobic/anaerobic • CSF analysis-biocehmistry/cytology/gram staining/culture-bacterial , AFB and fungal/viral PCR/TB-PCR/fungal antigen Empirical antibiotic (within 30 minutes of arrival) Viral-Herpes Cerebral malaria • If suspecting pyogenic meningitis-Inj Ceftriaxone 2 g+ Inj simplex/Zoster Inj Artesunate 2.4 mg/kg IM or IV 3 doses Vancomycin 500 mg+ Inj Ampicillin 2 g if older than 50 years or 12 hours apart and then OD / immunocompromised+ Inj Dexamethasone 8 mg IV • Inj Acyclovir Inj Quinine 20 mg/kg IV stat followed by 10mg/kg • Continue empirical treatment till culture yields causative 500 mg IV TDS till patient can take orally,then organism,then tailor treatment as per sensitivity reports for 10-14 8 hourly for oral Artesunate+Pyrimethamine /Sulphadoxine for days. 10 days 3 days OR oral Quinine 10 mg/kg TDS for total 7 • Steroids to be stopped after 48 hours,unless any other compelling days + Doxycycline 3 mg/kg OD for 7 days. indications-adrenal insufficiency/TBM",
+            "Column_2": "",
+            "Column_3": ""
+          },
+          "source": {
+            "document_id": "ICMR-NEUR-005",
+            "document_name": "Neuro-infections",
+            "page_number": 1,
+            "section": "TABLE_2",
+            "source_text_reference": "n AT PRIMARY CARE LEVEL: • Neuroimaging-MRI/CT with contrast to rule out abscess/herniations. If abscess-emergency neurosurgical consultation for favour of aspiration –open/stereotactic • Blood cultures-aerobic/anaerobic • CSF analysis-biocehmistry/cytology/gram staining/culture-bacterial , AFB and fungal/viral PCR/TB-PCR/fungal antigen Empirical antibiotic (within 30 minutes of arrival) Viral-Herpes Cerebral malaria • If suspecting pyogenic meningitis-Inj Ceftriaxone 2 g+ Inj simplex/Zoster Inj Artesunate 2.4 mg/kg IM or IV 3 doses Vancomycin 500 mg+ Inj Ampicillin 2 g if older than 50 years or 12 hours apart and then OD / immunocompromised+ Inj Dexamethasone 8 mg IV • Inj Acyclovir Inj Quinine 20 mg/kg IV stat followed by 10mg/kg • Continue empirical treatment till culture yields causative 500 mg IV TDS till patient can take orally,then organism,then tailor treatment as per sensitivity reports for 10-14 8 hourly for oral Artesunate+Pyrimethamine /Sulphadoxine for days. 10 days 3 days OR oral Quinine 10 mg/kg TDS for total 7 • Steroids to be stopped after 48 hours,unless any other compelling days + Doxycycline 3 mg/kg OD for 7 days. indications-adrenal insufficiency/TBM",
+            "bounding_box": [
+              0.4601767621934414,
+              521.926025390625,
+              841.889762878418,
+              1582.4130859375
+            ],
+            "extraction_type": "table",
+            "review_status": "needs_review",
+            "requires_manual_review": true,
+            "review_notes": "Sparse row with potential merged columns",
+            "normalized_term": null
+          }
+        },
+        {
+          "row_id": "T2_R8",
+          "cells": {
+            "n AT PRIMARY CARE LEVEL": "COMPLICATIONS",
+            "Column_2": "",
+            "Column_3": ""
+          },
+          "source": {
+            "document_id": "ICMR-NEUR-005",
+            "document_name": "Neuro-infections",
+            "page_number": 1,
+            "section": "TABLE_2",
+            "source_text_reference": "n AT PRIMARY CARE LEVEL: COMPLICATIONS",
+            "bounding_box": [
+              0.4601767621934414,
+              521.926025390625,
+              841.889762878418,
+              1582.4130859375
+            ],
+            "extraction_type": "table",
+            "review_status": "needs_review",
+            "requires_manual_review": true,
+            "review_notes": "Sparse row with potential merged columns",
+            "normalized_term": null
+          }
+        },
+        {
+          "row_id": "T2_R9",
+          "cells": {
+            "n AT PRIMARY CARE LEVEL": "Raised ICP SIADH Vasculitis Hydrocephalus *If uncomplicated-back referral to Secondary care centre for completing treatment regimen/monitoring.",
+            "Column_2": "",
+            "Column_3": ""
+          },
+          "source": {
+            "document_id": "ICMR-NEUR-005",
+            "document_name": "Neuro-infections",
+            "page_number": 1,
+            "section": "TABLE_2",
+            "source_text_reference": "n AT PRIMARY CARE LEVEL: Raised ICP SIADH Vasculitis Hydrocephalus *If uncomplicated-back referral to Secondary care centre for completing treatment regimen/monitoring.",
+            "bounding_box": [
+              0.4601767621934414,
+              521.926025390625,
+              841.889762878418,
+              1582.4130859375
+            ],
+            "extraction_type": "table",
+            "review_status": "needs_review",
+            "requires_manual_review": true,
+            "review_notes": "Sparse row with potential merged columns",
+            "normalized_term": null
+          }
+        },
+        {
+          "row_id": "T2_R10",
+          "cells": {
+            "n AT PRIMARY CARE LEVEL": "CRITERIA FOR DISCHARGE",
+            "Column_2": "",
+            "Column_3": ""
+          },
+          "source": {
+            "document_id": "ICMR-NEUR-005",
+            "document_name": "Neuro-infections",
+            "page_number": 1,
+            "section": "TABLE_2",
+            "source_text_reference": "n AT PRIMARY CARE LEVEL: CRITERIA FOR DISCHARGE",
+            "bounding_box": [
+              0.4601767621934414,
+              521.926025390625,
+              841.889762878418,
+              1582.4130859375
+            ],
+            "extraction_type": "table",
+            "review_status": "needs_review",
+            "requires_manual_review": true,
+            "review_notes": "Sparse row with potential merged columns",
+            "normalized_term": null
+          }
+        },
+        {
+          "row_id": "T2_R11",
+          "cells": {
+            "n AT PRIMARY CARE LEVEL": "Afebrile,hemodynamically stable,seizure Diagnosis and treatment plan made and Continuation of treatment with monitoring can free >48 hours initiated. be ensured for the prescribed duration.",
+            "Column_2": "",
+            "Column_3": ""
+          },
+          "source": {
+            "document_id": "ICMR-NEUR-005",
+            "document_name": "Neuro-infections",
+            "page_number": 1,
+            "section": "TABLE_2",
+            "source_text_reference": "n AT PRIMARY CARE LEVEL: Afebrile,hemodynamically stable,seizure Diagnosis and treatment plan made and Continuation of treatment with monitoring can free >48 hours initiated. be ensured for the prescribed duration.",
+            "bounding_box": [
+              0.4601767621934414,
+              521.926025390625,
+              841.889762878418,
+              1582.4130859375
+            ],
+            "extraction_type": "table",
+            "review_status": "needs_review",
+            "requires_manual_review": true,
+            "review_notes": "Sparse row with potential merged columns",
+            "normalized_term": null
+          }
+        },
+        {
+          "row_id": "T2_R13",
+          "cells": {
+            "n AT PRIMARY CARE LEVEL": "KEEP A HIGH THRESHOLD FOR INVASIVE PROCEDURES",
+            "Column_2": "",
+            "Column_3": ""
+          },
+          "source": {
+            "document_id": "ICMR-NEUR-005",
+            "document_name": "Neuro-infections",
+            "page_number": 1,
+            "section": "TABLE_2",
+            "source_text_reference": "n AT PRIMARY CARE LEVEL: KEEP A HIGH THRESHOLD FOR INVASIVE PROCEDURES",
+            "bounding_box": [
+              0.4601767621934414,
+              521.926025390625,
+              841.889762878418,
+              1582.4130859375
+            ],
+            "extraction_type": "table",
+            "review_status": "needs_review",
+            "requires_manual_review": true,
+            "review_notes": "Sparse row with potential merged columns",
+            "normalized_term": null
+          }
+        }
+      ],
+      "source": {
+        "document_id": "ICMR-NEUR-005",
+        "document_name": "Neuro-infections",
+        "page_number": 1,
+        "section": "TABLE_2",
+        "source_text_reference": "n AT PRIMARY CARE LEVEL: i . g ESSENTIAL Check Airway/Breathing/Circulation r Rule out circulatory shock, ongoing convulsions and hyperthermia/hyperpyrexia(core temperature > 40.5°C or hypothermia(< 36.5°C) o Establish IV access-urgent blood for hemogram/sugar/electrolytes/malaria testing-peripheral smear/rapid antigen detection . Correct hypoglycemia (blood sugar 50 mg/dl) with IV 100ml of 25% dextrose solution r If seizing- IV/IM Lorazepam 0.1 mg/kg followed by loading with Phenytoin 20 mg/kg",
+        "bounding_box": [
+          0.4601767621934414,
+          521.926025390625,
+          841.889762878418,
+          1582.4130859375
+        ],
+        "extraction_type": "table",
+        "review_status": "extracted",
+        "requires_manual_review": false,
+        "review_notes": null,
+        "normalized_term": null
+      }
+    }
+  ],
+  "references": [],
+  "abbreviations": {
+    "STW": "Standard Treatment Workflow",
+    "ICMR": "Indian Council of Medical Research",
+    "DHR": "Department of Health Research",
+    "MoHFW": "Ministry of Health and Family Welfare",
+    "ECG": "Electrocardiogram",
+    "PCI": "Percutaneous Coronary Intervention",
+    "PHC": "Primary Health Centre",
+    "CHC": "Community Health Centre",
+    "ICU": "Intensive Care Unit"
+  }
+}
